@@ -3720,7 +3720,7 @@
         },
         {
           "identifier": "3",
-          "text": "Az elkövető – választása szerint – állami vagy önkormányzati fenntartású intézménynél, közhasznú jogállású civil szervezetnél, egyháznál vagy azok részére végezheti a jóvátételi munkát.",
+          "text": "Az elkövető – választása szerint – állami vagy önkormányzati fenntartású intézménynél, közhasznú jogállású civil szervezetnél, egyházi jogi személynél vagy azok részére végezheti a jóvátételi munkát.",
           "act_id_abbreviations": [],
           "outgoing_references": [],
           "semantic_data": []
@@ -23034,7 +23034,7 @@
                 },
                 {
                   "identifier": "bb",
-                  "text": "vallási tisztelet tárgyát vagy vallási szertartás végzésére szolgáló épületet,",
+                  "text": "vallási tisztelet tárgyát vagy templomot, vallásgyakorlásra rendelt más helyet,",
                   "act_id_abbreviations": [],
                   "outgoing_references": [],
                   "semantic_data": [],
@@ -29852,7 +29852,7 @@
                 },
                 {
                   "identifier": "d",
-                  "text": "a nyilvántartásba vett egyház lelkésze, valamint az alapcélként vallási tevékenységet végző egyesület vallásos szertartást hivatásszerűen végző tagja,",
+                  "text": "az egyházi személy és a vallási tevékenységet végző szervezet vallásos szertartást hivatásszerűen végző tagja,",
                   "act_id_abbreviations": [],
                   "outgoing_references": [],
                   "semantic_data": [],
