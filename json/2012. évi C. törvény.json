@@ -13855,6 +13855,68 @@
     },
     {
       "identifier": "",
+      "title": "Becsület csorbítására alkalmas hamis hang- vagy képfelvétel készítése",
+      "__type__": "Subtitle"
+    },
+    {
+      "identifier": "226/A",
+      "children": [
+        {
+          "identifier": "1",
+          "text": "Aki abból a célból, hogy más vagy mások becsületét csorbítsa, hamis, hamisított vagy valótlan tartalmú hang- vagy képfelvételt készít, ha más bűncselekmény nem valósul meg, vétség miatt egy évig terjedő szabadságvesztéssel büntetendő.",
+          "act_id_abbreviations": [],
+          "outgoing_references": [],
+          "semantic_data": []
+        }
+      ],
+      "__type__": "Article"
+    },
+    {
+      "identifier": "",
+      "title": "Becsület csorbítására alkalmas hamis hang- vagy képfelvétel nyilvánosságra hozatala",
+      "__type__": "Subtitle"
+    },
+    {
+      "identifier": "226/B",
+      "children": [
+        {
+          "identifier": "1",
+          "text": "Aki abból a célból, hogy más vagy mások becsületét csorbítsa, hamis, hamisított vagy valótlan tartalmú hang- vagy képfelvételt hozzáférhetővé tesz, vétség miatt két évig terjedő szabadságvesztéssel büntetendő.",
+          "act_id_abbreviations": [],
+          "outgoing_references": [],
+          "semantic_data": []
+        },
+        {
+          "identifier": "2",
+          "intro": "A büntetés három évig terjedő szabadságvesztés, ha a bűncselekményt",
+          "children": [
+            {
+              "identifier": "a",
+              "text": "nagy nyilvánosság előtt, vagy",
+              "act_id_abbreviations": [],
+              "outgoing_references": [],
+              "semantic_data": [],
+              "__type__": "AlphabeticPoint"
+            },
+            {
+              "identifier": "b",
+              "text": "jelentős érdeksérelmet okozva",
+              "act_id_abbreviations": [],
+              "outgoing_references": [],
+              "semantic_data": [],
+              "__type__": "AlphabeticPoint"
+            }
+          ],
+          "wrap_up": "követik el.",
+          "act_id_abbreviations": [],
+          "outgoing_references": [],
+          "semantic_data": []
+        }
+      ],
+      "__type__": "Article"
+    },
+    {
+      "identifier": "",
       "title": "Becsületsértés",
       "__type__": "Subtitle"
     },
