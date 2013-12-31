@@ -1072,7 +1072,7 @@
         },
         {
           "identifier": "2",
-          "text": "Az erős felindulásban elkövetett emberölés, a háromévi szabadságvesztésnél súlyosabban büntetendő szándékos súlyos testi sértés, az emberrablás, az emberkereskedelem, a személyi szabadság megsértése, illetve a nemi élet szabadsága és a nemi erkölcs elleni bűncselekmények esetében – ha a bűncselekmény elkövetésekor a sértett a tizennyolcadik életévét még nem töltötte be, és a bűncselekmény büntethetősége huszonharmadik életévének betöltése előtt elévülne – az elévülési idő meghosszabbodik e személy huszonharmadik életévének betöltéséig, vagy addig az időpontig, amikor a huszonharmadik életévét betöltötte volna.",
+          "text": " ",
           "act_id_abbreviations": [],
           "outgoing_references": [],
           "semantic_data": []
@@ -1139,6 +1139,13 @@
         {
           "identifier": "1",
           "text": "Az elévülést félbeszakítja a bíróságnak, az ügyésznek, a nyomozó hatóságnak, illetve nemzetközi vonatkozású ügyekben az igazságügyért felelős miniszternek vagy a külföldi hatóságnak az elkövető ellen a bűncselekmény miatt foganatosított büntetőeljárási cselekménye. A félbeszakítás napján az elévülés határideje ismét elkezdődik.",
+          "act_id_abbreviations": [],
+          "outgoing_references": [],
+          "semantic_data": []
+        },
+        {
+          "identifier": "1a",
+          "text": "Ha az erős felindulásban elkövetett emberölés, a háromévi szabadságvesztésnél súlyosabban büntetendő szándékos súlyos testi sértés, az emberrablás, az emberkereskedelem, a személyi szabadság megsértése, illetve a nemi élet szabadsága és a nemi erkölcs elleni bűncselekmény sértettje a bűncselekmény elkövetésekor a tizennyolcadik életévét még nem töltötte be, az elévülés határidejébe nem számít be az a tartam, amíg a tizennyolcadik életévét be nem tölti, vagy be nem töltötte volna.",
           "act_id_abbreviations": [],
           "outgoing_references": [],
           "semantic_data": []
@@ -15357,15 +15364,14 @@
         },
         {
           "identifier": "4",
-          "text": "Aki az (1) bekezdés a) pontjában meghatározott bűncselekményt gondatlanságból követi el, vétség miatt két évig terjedő szabadságvesztéssel büntetendő.",
+          "text": "Aki az (1) bekezdésben meghatározott bűncselekményt gondatlanságból követi el, vétség miatt két évig terjedő szabadságvesztéssel büntetendő.",
           "act_id_abbreviations": [],
           "outgoing_references": [
             {
               "start_pos": 7,
-              "end_pos": 32,
+              "end_pos": 22,
               "reference": {
-                "paragraph": "1",
-                "point": "a"
+                "paragraph": "1"
               }
             }
           ],
@@ -25875,7 +25881,7 @@
                 },
                 {
                   "identifier": "af",
-                  "text": "vágott dohány esetén a 450 kilogrammot,",
+                  "text": "szárított dohány, fermentált dohány vagy vágott dohány esetén az 5 kilogrammot,",
                   "act_id_abbreviations": [],
                   "outgoing_references": [],
                   "semantic_data": [],

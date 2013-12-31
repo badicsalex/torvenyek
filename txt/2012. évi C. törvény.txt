@@ -279,15 +279,6 @@ A büntethetőség elévülése
                illetve az egyes bűncselekmények elévülésének kizárásáról szóló törvény
                eltérő rendelkezése hiányában – elévül a büntetési tétel felső határának
                megfelelő idő, de legalább öt év elteltével.
-          (2)  Az erős felindulásban elkövetett emberölés, a háromévi szabadságvesztésnél
-               súlyosabban büntetendő szándékos súlyos testi sértés, az emberrablás, az
-               emberkereskedelem, a személyi szabadság megsértése, illetve a nemi élet
-               szabadsága és a nemi erkölcs elleni bűncselekmények esetében – ha a
-               bűncselekmény elkövetésekor a sértett a tizennyolcadik életévét még nem
-               töltötte be, és a bűncselekmény büntethetősége huszonharmadik életévének
-               betöltése előtt elévülne – az elévülési idő meghosszabbodik e személy
-               huszonharmadik életévének betöltéséig, vagy addig az időpontig, amikor a
-               huszonharmadik életévét betöltötte volna.
           (3)  Nem évül el a XIII. és XIV. Fejezetben meghatározott, és az életfogytig
                tartó szabadságvesztéssel is büntethető bűncselekmények büntethetősége.
 
@@ -308,6 +299,13 @@ A büntethetőség elévülése
                felelős miniszternek vagy a külföldi hatóságnak az elkövető ellen a
                bűncselekmény miatt foganatosított büntetőeljárási cselekménye. A
                félbeszakítás napján az elévülés határideje ismét elkezdődik.
+          (1a) Ha az erős felindulásban elkövetett emberölés, a háromévi
+               szabadságvesztésnél súlyosabban büntetendő szándékos súlyos testi sértés,
+               az emberrablás, az emberkereskedelem, a személyi szabadság megsértése,
+               illetve a nemi élet szabadsága és a nemi erkölcs elleni bűncselekmény
+               sértettje a bűncselekmény elkövetésekor a tizennyolcadik életévét még nem
+               töltötte be, az elévülés határidejébe nem számít be az a tartam, amíg a
+               tizennyolcadik életévét be nem tölti, vagy be nem töltötte volna.
           (2)  Ha a büntetőeljárást felfüggesztik, a felfüggesztés tartama az elévülés
                határidejébe nem számít be. Ez a rendelkezés nem alkalmazható, ha a
                büntetőeljárást azért függesztik fel, mert az elkövető kiléte a nyomozásban
@@ -3812,9 +3810,8 @@ Radioaktív anyaggal visszaélés
                terjedő szabadságvesztéssel büntetendő.
           (3)  Aki radioaktív anyaggal való visszaélésre irányuló előkészületet követ el,
                bűntett miatt három évig terjedő szabadságvesztéssel büntetendő.
-          (4)  Aki az (1) bekezdés a) pontjában meghatározott bűncselekményt
-               gondatlanságból követi el, vétség miatt két évig terjedő
-               szabadságvesztéssel büntetendő.
+          (4)  Aki az (1) bekezdésben meghatározott bűncselekményt gondatlanságból követi
+               el, vétség miatt két évig terjedő szabadságvesztéssel büntetendő.
           (5)  E § alkalmazásában veszélyes radioaktív anyag: a természetben előforduló
                vagy mesterségesen előállított anyag, amelynek egy vagy több összetevője
                ionizáló sugárzást bocsát ki, és amely az emberi életre és egészségre, vagy
@@ -6347,7 +6344,8 @@ Jövedékkel visszaélés elősegítése
                     ad)  cukorcefre esetén a 10 000 litert,
                     ae)  cukor- vagy keményítőtartalmú mezőgazdasági eredetű termékből
                          készült cefre esetén a 25 000 litert,
-                    af)  vágott dohány esetén a 450 kilogrammot,
+                    af)  szárított dohány, fermentált dohány vagy vágott dohány esetén az
+                         5 kilogrammot,
                b)   a zárjegy jelentős mennyiségű, ha az 5000 darabot
                meghaladja.
 
