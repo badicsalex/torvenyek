@@ -160,7 +160,7 @@
                 },
                 {
                   "identifier": "ab",
-                  "text": "állam elleni bűncselekmény, – a szövetséges fegyveres erő ellen elkövetett kémkedést kivéve – tekintet nélkül arra, hogy az az elkövetés helyének törvénye szerint büntetendő-e,",
+                  "text": "állam elleni bűncselekmény, – kivéve a szövetséges fegyveres erő ellen elkövetett kémkedést és a kémkedést az Európai Unió intézményei ellen – tekintet nélkül arra, hogy az az elkövetés helyének törvénye szerint büntetendő-e,",
                   "act_id_abbreviations": [],
                   "outgoing_references": [],
                   "semantic_data": [],
@@ -4215,7 +4215,7 @@
             },
             {
               "identifier": "c",
-              "text": "kábítószer-kereskedelem, kábítószer birtoklása, kábítószer készítésének elősegítése, kábítószer előállításához szükséges anyaggal visszaélés, új pszichoaktív anyaggal visszaélés, teljesítményfokozó szerrel visszaélés, gyógyszerhamisítás, méreggel visszaélés, ártalmas közfogyasztási cikkel visszaélés, természetkárosítás, állatkínzás, orvhalászat, orvvadászat, tiltott állatviadal szervezése, ózonréteget lebontó anyaggal visszaélés, radioaktív anyaggal visszaélés, nukleáris létesítmény üzemeltetésével visszaélés, robbanóanyaggal vagy robbantószerrel visszaélés, lőfegyverrel vagy lőszerrel visszaélés, nemzetközi szerződés által tiltott fegyverrel visszaélés, haditechnikai termékkel vagy szolgáltatással visszaélés, kettős felhasználású termékkel visszaélés vagy veszélyes eb tartásával kapcsolatos kötelezettség megszegése esetén.",
+              "text": "kábítószer-kereskedelem, kábítószer birtoklása, kábítószer készítésének elősegítése, kábítószer előállításához szükséges anyaggal visszaélés, új pszichoaktív anyaggal visszaélés, teljesítményfokozó szerrel visszaélés, egészségügyi termék hamisítása, méreggel visszaélés, ártalmas közfogyasztási cikkel visszaélés, természetkárosítás, állatkínzás, orvhalászat, orvvadászat, tiltott állatviadal szervezése, ózonréteget lebontó anyaggal visszaélés, radioaktív anyaggal visszaélés, nukleáris létesítmény üzemeltetésével visszaélés, robbanóanyaggal vagy robbantószerrel visszaélés, lőfegyverrel vagy lőszerrel visszaélés, nemzetközi szerződés által tiltott fegyverrel visszaélés, haditechnikai termékkel vagy szolgáltatással visszaélés, kettős felhasználású termékkel visszaélés vagy veszélyes eb tartásával kapcsolatos kötelezettség megszegése esetén.",
               "act_id_abbreviations": [],
               "outgoing_references": [],
               "semantic_data": [],
@@ -10595,11 +10595,18 @@
       "children": [
         {
           "identifier": "1",
-          "intro": "Aki új pszichoaktív anyagot",
+          "text": "Aki új pszichoaktív anyagot kínál, átad, forgalomba hoz vagy azzal kereskedik, bűntett miatt egy évtől öt évig terjedő szabadságvesztéssel büntetendő.",
+          "act_id_abbreviations": [],
+          "outgoing_references": [],
+          "semantic_data": []
+        },
+        {
+          "identifier": "2",
+          "intro": "A büntetés két évtől nyolc évig terjedő szabadságvesztés, ha a bűncselekményt",
           "children": [
             {
               "identifier": "a",
-              "text": "az ország területére behoz, onnan kivisz, vagy azon átszállít,",
+              "text": "bűnszövetségben,",
               "act_id_abbreviations": [],
               "outgoing_references": [],
               "semantic_data": [],
@@ -10607,7 +10614,273 @@
             },
             {
               "identifier": "b",
-              "text": "előállít, kínál, átad, forgalomba hoz, vagy azzal kereskedik,",
+              "text": "hivatalos vagy közfeladatot ellátó személyként, e minőséget felhasználva vagy",
+              "act_id_abbreviations": [],
+              "outgoing_references": [],
+              "semantic_data": [],
+              "__type__": "AlphabeticPoint"
+            },
+            {
+              "identifier": "c",
+              "text": "a Magyar Honvédség, a rendvédelmi szervek vagy a Nemzeti Adó- és Vámhivatal létesítményében",
+              "act_id_abbreviations": [],
+              "outgoing_references": [],
+              "semantic_data": [],
+              "__type__": "AlphabeticPoint"
+            }
+          ],
+          "wrap_up": "követik el.",
+          "act_id_abbreviations": [],
+          "outgoing_references": [],
+          "semantic_data": []
+        },
+        {
+          "identifier": "3",
+          "text": "Az (1)–(2) bekezdés szerint büntetendő, aki az ott meghatározott bűncselekmény elkövetéséhez anyagi eszközöket szolgáltat.",
+          "act_id_abbreviations": [],
+          "outgoing_references": [
+            {
+              "start_pos": 3,
+              "end_pos": 19,
+              "reference": {
+                "paragraph": [
+                  "1",
+                  "2"
+                ]
+              }
+            }
+          ],
+          "semantic_data": []
+        },
+        {
+          "identifier": "4",
+          "intro": "Aki csekély mennyiségű új pszichoaktív anyagot kínál vagy átad,",
+          "children": [
+            {
+              "identifier": "a",
+              "text": "az (1) bekezdésben meghatározott esetben vétség miatt egy évig,",
+              "act_id_abbreviations": [],
+              "outgoing_references": [
+                {
+                  "start_pos": 3,
+                  "end_pos": 18,
+                  "reference": {
+                    "paragraph": "1"
+                  }
+                }
+              ],
+              "semantic_data": [],
+              "__type__": "AlphabeticPoint"
+            },
+            {
+              "identifier": "b",
+              "text": "a (2) bekezdés b)–c) pontjában meghatározott esetben bűntett miatt három évig",
+              "act_id_abbreviations": [],
+              "outgoing_references": [
+                {
+                  "start_pos": 2,
+                  "end_pos": 30,
+                  "reference": {
+                    "paragraph": "2",
+                    "point": [
+                      "b",
+                      "c"
+                    ]
+                  }
+                }
+              ],
+              "semantic_data": [],
+              "__type__": "AlphabeticPoint"
+            }
+          ],
+          "wrap_up": "terjedő szabadságvesztéssel büntetendő.",
+          "act_id_abbreviations": [],
+          "outgoing_references": [],
+          "semantic_data": []
+        },
+        {
+          "identifier": "5",
+          "text": "Aki az (1) vagy a (2) bekezdésben meghatározott bűncselekményre irányuló előkészületet követ el, vétség miatt két évig terjedő szabadságvesztéssel büntetendő.",
+          "act_id_abbreviations": [],
+          "outgoing_references": [
+            {
+              "start_pos": 7,
+              "end_pos": 33,
+              "reference": {
+                "paragraph": [
+                  "1",
+                  "2"
+                ]
+              }
+            }
+          ],
+          "semantic_data": []
+        }
+      ],
+      "__type__": "Article"
+    },
+    {
+      "identifier": "184/A",
+      "children": [
+        {
+          "identifier": "1",
+          "intro": "Az a tizennyolcadik életévét betöltött személy, aki",
+          "children": [
+            {
+              "identifier": "a",
+              "text": "tizennyolcadik életévét be nem töltött személynek új pszichoaktív anyagot kínál, átad,",
+              "act_id_abbreviations": [],
+              "outgoing_references": [],
+              "semantic_data": [],
+              "__type__": "AlphabeticPoint"
+            },
+            {
+              "identifier": "b",
+              "text": "tizennyolcadik életévét be nem töltött személy felhasználásával új pszichoaktív anyagot forgalomba hoz vagy azzal kereskedik,",
+              "act_id_abbreviations": [],
+              "outgoing_references": [],
+              "semantic_data": [],
+              "__type__": "AlphabeticPoint"
+            },
+            {
+              "identifier": "c",
+              "intro": "oktatási, köznevelési, gyermekjóléti vagy gyermekvédelmi feladatok ellátására rendelt épület területén, illetve annak közvetlen környezetében új pszichoaktív anyagot",
+              "children": [
+                {
+                  "identifier": "ca",
+                  "text": "kínál, átad,",
+                  "act_id_abbreviations": [],
+                  "outgoing_references": [],
+                  "semantic_data": [],
+                  "__type__": "AlphabeticSubpoint"
+                },
+                {
+                  "identifier": "cb",
+                  "text": "forgalomba hoz vagy azzal kereskedik,",
+                  "act_id_abbreviations": [],
+                  "outgoing_references": [],
+                  "semantic_data": [],
+                  "__type__": "AlphabeticSubpoint"
+                }
+              ],
+              "act_id_abbreviations": [],
+              "outgoing_references": [],
+              "semantic_data": [],
+              "__type__": "AlphabeticPoint"
+            }
+          ],
+          "wrap_up": "bűntett miatt két évtől nyolc évig terjedő szabadságvesztéssel büntetendő.",
+          "act_id_abbreviations": [],
+          "outgoing_references": [],
+          "semantic_data": []
+        },
+        {
+          "identifier": "2",
+          "intro": "A büntetés öt évtől tíz évig terjedő szabadságvesztés, ha a bűncselekményt",
+          "children": [
+            {
+              "identifier": "a",
+              "text": "bűnszövetségben,",
+              "act_id_abbreviations": [],
+              "outgoing_references": [],
+              "semantic_data": [],
+              "__type__": "AlphabeticPoint"
+            },
+            {
+              "identifier": "b",
+              "text": "hivatalos vagy közfeladatot ellátó személyként, e minőséget felhasználva",
+              "act_id_abbreviations": [],
+              "outgoing_references": [],
+              "semantic_data": [],
+              "__type__": "AlphabeticPoint"
+            }
+          ],
+          "wrap_up": "követik el.",
+          "act_id_abbreviations": [],
+          "outgoing_references": [],
+          "semantic_data": []
+        },
+        {
+          "identifier": "3",
+          "text": "Az (1)–(2) bekezdés szerint büntetendő, aki az ott meghatározott bűncselekmény elkövetéséhez anyagi eszközöket szolgáltat.",
+          "act_id_abbreviations": [],
+          "outgoing_references": [
+            {
+              "start_pos": 3,
+              "end_pos": 19,
+              "reference": {
+                "paragraph": [
+                  "1",
+                  "2"
+                ]
+              }
+            }
+          ],
+          "semantic_data": []
+        },
+        {
+          "identifier": "4",
+          "text": "Aki az (1) bekezdés a) pontjában vagy c) pont ca) alpontjában meghatározott bűncselekményt csekély mennyiségű új pszichoaktív anyagra követi el, három évig, hivatalos vagy közfeladatot ellátó személyként, e minőséget felhasználva történő elkövetés esetén egy évtől öt évig terjedő szabadságvesztéssel büntetendő.",
+          "act_id_abbreviations": [],
+          "outgoing_references": [
+            {
+              "start_pos": 7,
+              "end_pos": 32,
+              "reference": {
+                "paragraph": "1",
+                "point": "a"
+              }
+            },
+            {
+              "start_pos": 38,
+              "end_pos": 61,
+              "reference": {
+                "point": "c",
+                "subpoint": "ca"
+              }
+            }
+          ],
+          "semantic_data": []
+        },
+        {
+          "identifier": "5",
+          "text": "Aki az (1) vagy a (2) bekezdésben meghatározott bűncselekmény elkövetésére irányuló előkészületet követ el, vétség miatt két évig terjedő szabadságvesztéssel büntetendő.",
+          "act_id_abbreviations": [],
+          "outgoing_references": [
+            {
+              "start_pos": 7,
+              "end_pos": 33,
+              "reference": {
+                "paragraph": [
+                  "1",
+                  "2"
+                ]
+              }
+            }
+          ],
+          "semantic_data": []
+        }
+      ],
+      "__type__": "Article"
+    },
+    {
+      "identifier": "184/B",
+      "children": [
+        {
+          "identifier": "1",
+          "intro": "Aki",
+          "children": [
+            {
+              "identifier": "a",
+              "text": "új pszichoaktív anyagot előállít, az ország területére behoz, onnan kivisz vagy azon átszállít,",
+              "act_id_abbreviations": [],
+              "outgoing_references": [],
+              "semantic_data": [],
+              "__type__": "AlphabeticPoint"
+            },
+            {
+              "identifier": "b",
+              "text": "csekély mennyiséget meghaladó új pszichoaktív anyagot megszerez vagy tart,",
               "act_id_abbreviations": [],
               "outgoing_references": [],
               "semantic_data": [],
@@ -10621,9 +10894,360 @@
         },
         {
           "identifier": "2",
-          "text": "E § alkalmazásában új pszichoaktív anyagon az emberi alkalmazásra kerülő gyógyszerekről és egyéb, a gyógyszerpiacot szabályozó törvények módosításáról szóló törvényben meghatározott fogalmat kell érteni.",
+          "intro": "A büntetés egy évtől öt évig terjedő szabadságvesztés, ha a bűncselekményt",
+          "children": [
+            {
+              "identifier": "a",
+              "text": "üzletszerűen,",
+              "act_id_abbreviations": [],
+              "outgoing_references": [],
+              "semantic_data": [],
+              "__type__": "AlphabeticPoint"
+            },
+            {
+              "identifier": "b",
+              "text": "bűnszövetségben,",
+              "act_id_abbreviations": [],
+              "outgoing_references": [],
+              "semantic_data": [],
+              "__type__": "AlphabeticPoint"
+            },
+            {
+              "identifier": "c",
+              "text": "hivatalos vagy közfeladatot ellátó személyként, e minőséget felhasználva",
+              "act_id_abbreviations": [],
+              "outgoing_references": [],
+              "semantic_data": [],
+              "__type__": "AlphabeticPoint"
+            }
+          ],
+          "wrap_up": "követik el.",
           "act_id_abbreviations": [],
           "outgoing_references": [],
+          "semantic_data": []
+        },
+        {
+          "identifier": "3",
+          "text": "Az (1)–(2) bekezdés szerint büntetendő, aki az ott meghatározott bűncselekmény elkövetéséhez anyagi eszközöket szolgáltat.",
+          "act_id_abbreviations": [],
+          "outgoing_references": [
+            {
+              "start_pos": 3,
+              "end_pos": 19,
+              "reference": {
+                "paragraph": [
+                  "1",
+                  "2"
+                ]
+              }
+            }
+          ],
+          "semantic_data": []
+        },
+        {
+          "identifier": "4",
+          "text": "Aki az (1)–(2) bekezdésben meghatározott bűncselekmény elkövetésére irányuló előkészületet követ el, vétség miatt két évig terjedő szabadságvesztéssel büntetendő.",
+          "act_id_abbreviations": [],
+          "outgoing_references": [
+            {
+              "start_pos": 7,
+              "end_pos": 26,
+              "reference": {
+                "paragraph": [
+                  "1",
+                  "2"
+                ]
+              }
+            }
+          ],
+          "semantic_data": []
+        },
+        {
+          "identifier": "5",
+          "intro": "Ha a bűncselekményt csekély mennyiségű új pszichoaktív anyagra követik el, a büntetés",
+          "children": [
+            {
+              "identifier": "a",
+              "text": "az (1) bekezdés a) pontjában meghatározott esetben vétség miatt egy évig,",
+              "act_id_abbreviations": [],
+              "outgoing_references": [
+                {
+                  "start_pos": 3,
+                  "end_pos": 28,
+                  "reference": {
+                    "paragraph": "1",
+                    "point": "a"
+                  }
+                }
+              ],
+              "semantic_data": [],
+              "__type__": "AlphabeticPoint"
+            },
+            {
+              "identifier": "b",
+              "text": "a (2) bekezdés a) és c) pontjában meghatározott esetben vétség miatt két évig",
+              "act_id_abbreviations": [],
+              "outgoing_references": [
+                {
+                  "start_pos": 2,
+                  "end_pos": 17,
+                  "reference": {
+                    "paragraph": "2",
+                    "point": "a"
+                  }
+                },
+                {
+                  "start_pos": 21,
+                  "end_pos": 33,
+                  "reference": {
+                    "paragraph": "2",
+                    "point": "c"
+                  }
+                }
+              ],
+              "semantic_data": [],
+              "__type__": "AlphabeticPoint"
+            }
+          ],
+          "wrap_up": "terjedő szabadságvesztés.",
+          "act_id_abbreviations": [],
+          "outgoing_references": [],
+          "semantic_data": []
+        }
+      ],
+      "__type__": "Article"
+    },
+    {
+      "identifier": "184/C",
+      "children": [
+        {
+          "identifier": "1",
+          "intro": "Az a tizennyolcadik életévét betöltött személy, aki",
+          "children": [
+            {
+              "identifier": "a",
+              "intro": "tizennyolcadik életévét be nem töltött személy felhasználásával",
+              "children": [
+                {
+                  "identifier": "aa",
+                  "text": "új pszichoaktív anyagot előállít, az ország területére behoz, onnan kivisz vagy azon átszállít,",
+                  "act_id_abbreviations": [],
+                  "outgoing_references": [],
+                  "semantic_data": [],
+                  "__type__": "AlphabeticSubpoint"
+                },
+                {
+                  "identifier": "ab",
+                  "text": "csekély mennyiséget meghaladó új pszichoaktív anyagot megszerez vagy tart,",
+                  "act_id_abbreviations": [],
+                  "outgoing_references": [],
+                  "semantic_data": [],
+                  "__type__": "AlphabeticSubpoint"
+                }
+              ],
+              "act_id_abbreviations": [],
+              "outgoing_references": [],
+              "semantic_data": [],
+              "__type__": "AlphabeticPoint"
+            },
+            {
+              "identifier": "b",
+              "intro": "oktatási, köznevelési, gyermekjóléti vagy gyermekvédelmi feladatok ellátására rendelt épület területén, illetve annak közvetlen környezetében",
+              "children": [
+                {
+                  "identifier": "ba",
+                  "text": "új pszichoaktív anyagot előállít,",
+                  "act_id_abbreviations": [],
+                  "outgoing_references": [],
+                  "semantic_data": [],
+                  "__type__": "AlphabeticSubpoint"
+                },
+                {
+                  "identifier": "bb",
+                  "text": "csekély mennyiséget meghaladó új pszichoaktív anyagot megszerez vagy tart,",
+                  "act_id_abbreviations": [],
+                  "outgoing_references": [],
+                  "semantic_data": [],
+                  "__type__": "AlphabeticSubpoint"
+                }
+              ],
+              "act_id_abbreviations": [],
+              "outgoing_references": [],
+              "semantic_data": [],
+              "__type__": "AlphabeticPoint"
+            }
+          ],
+          "wrap_up": "bűntett miatt egy évtől öt évig terjedő szabadságvesztéssel büntetendő.",
+          "act_id_abbreviations": [],
+          "outgoing_references": [],
+          "semantic_data": []
+        },
+        {
+          "identifier": "2",
+          "intro": "A büntetés két évtől nyolc évig terjedő szabadságvesztés, ha a bűncselekményt",
+          "children": [
+            {
+              "identifier": "a",
+              "text": "bűnszövetségben,",
+              "act_id_abbreviations": [],
+              "outgoing_references": [],
+              "semantic_data": [],
+              "__type__": "AlphabeticPoint"
+            },
+            {
+              "identifier": "b",
+              "text": "üzletszerűen,",
+              "act_id_abbreviations": [],
+              "outgoing_references": [],
+              "semantic_data": [],
+              "__type__": "AlphabeticPoint"
+            },
+            {
+              "identifier": "c",
+              "text": "hivatalos vagy közfeladatot ellátó személyként, e minőséget felhasználva",
+              "act_id_abbreviations": [],
+              "outgoing_references": [],
+              "semantic_data": [],
+              "__type__": "AlphabeticPoint"
+            }
+          ],
+          "wrap_up": "követik el.",
+          "act_id_abbreviations": [],
+          "outgoing_references": [],
+          "semantic_data": []
+        },
+        {
+          "identifier": "3",
+          "text": "Az (1)–(2) bekezdés szerint büntetendő, aki az ott meghatározott bűncselekmény elkövetéséhez anyagi eszközöket szolgáltat.",
+          "act_id_abbreviations": [],
+          "outgoing_references": [
+            {
+              "start_pos": 3,
+              "end_pos": 19,
+              "reference": {
+                "paragraph": [
+                  "1",
+                  "2"
+                ]
+              }
+            }
+          ],
+          "semantic_data": []
+        },
+        {
+          "identifier": "4",
+          "text": "Aki az (1)–(2) bekezdésben meghatározott bűncselekmény elkövetésére irányuló előkészületet követ el, vétség miatt két évig terjedő szabadságvesztéssel büntetendő.",
+          "act_id_abbreviations": [],
+          "outgoing_references": [
+            {
+              "start_pos": 7,
+              "end_pos": 26,
+              "reference": {
+                "paragraph": [
+                  "1",
+                  "2"
+                ]
+              }
+            }
+          ],
+          "semantic_data": []
+        },
+        {
+          "identifier": "5",
+          "intro": "Ha a bűncselekményt csekély mennyiségű új pszichoaktív anyagra követik el, a büntetés",
+          "children": [
+            {
+              "identifier": "a",
+              "text": "az (1) bekezdés a) pont aa) alpontjában és b) pont ba) alpontjában meghatározott esetben vétség miatt két évig,",
+              "act_id_abbreviations": [],
+              "outgoing_references": [
+                {
+                  "start_pos": 3,
+                  "end_pos": 39,
+                  "reference": {
+                    "paragraph": "1",
+                    "point": "a",
+                    "subpoint": "aa"
+                  }
+                },
+                {
+                  "start_pos": 43,
+                  "end_pos": 66,
+                  "reference": {
+                    "point": "b",
+                    "subpoint": "ba"
+                  }
+                }
+              ],
+              "semantic_data": [],
+              "__type__": "AlphabeticPoint"
+            },
+            {
+              "identifier": "b",
+              "text": "a (2) bekezdés b) és c) pontjában meghatározott esetben bűntett miatt három évig",
+              "act_id_abbreviations": [],
+              "outgoing_references": [
+                {
+                  "start_pos": 2,
+                  "end_pos": 33,
+                  "reference": {
+                    "paragraph": "2",
+                    "point": [
+                      "b",
+                      "c"
+                    ]
+                  }
+                }
+              ],
+              "semantic_data": [],
+              "__type__": "AlphabeticPoint"
+            }
+          ],
+          "wrap_up": "terjedő szabadságvesztés.",
+          "act_id_abbreviations": [],
+          "outgoing_references": [],
+          "semantic_data": []
+        }
+      ],
+      "__type__": "Article"
+    },
+    {
+      "identifier": "184/D",
+      "children": [
+        {
+          "identifier": "1",
+          "text": "A 184–184/C. § alkalmazásában új pszichoaktív anyagon az emberi alkalmazásra kerülő gyógyszerekről és egyéb, a gyógyszerpiacot szabályozó törvények módosításáról szóló törvényben meghatározott fogalmat kell érteni.",
+          "act_id_abbreviations": [],
+          "outgoing_references": [
+            {
+              "start_pos": 2,
+              "end_pos": 14,
+              "reference": {
+                "article": [
+                  "184",
+                  "184/C"
+                ]
+              }
+            }
+          ],
+          "semantic_data": []
+        },
+        {
+          "identifier": "2",
+          "text": "A 184–184/C. § alkalmazásában az új pszichoaktív anyag csekély mennyiségű, ha a készítmény legfeljebb 10 gramm tömegű új pszichoaktív anyagot tartalmaz.",
+          "act_id_abbreviations": [],
+          "outgoing_references": [
+            {
+              "start_pos": 2,
+              "end_pos": 14,
+              "reference": {
+                "article": [
+                  "184",
+                  "184/C"
+                ]
+              }
+            }
+          ],
           "semantic_data": []
         }
       ],
@@ -14701,7 +15325,7 @@
         },
         {
           "identifier": "3",
-          "text": "A 236. és a 238. § alkalmazásában ittas állapotban lévő személy az, akinek a szervezetében 0,50 gramm/liter ezrelék véralkohol-, illetve 0,25 milligramm/liter ezrelék levegőalkohol-koncentrációnál nagyobb értéket eredményező szeszes ital fogyasztásából származó alkohol van.",
+          "text": "A 236. és a 238. § alkalmazásában ittas állapotban lévő személy az, akinek a szervezetében 0,50 gramm/liter véralkohol-, illetve 0,25 milligramm/liter levegőalkohol-koncentrációnál nagyobb érték előidézésére alkalmas szeszes ital fogyasztásából származó alkohol van.",
           "act_id_abbreviations": [],
           "outgoing_references": [
             {
@@ -15818,6 +16442,31 @@
     },
     {
       "identifier": "",
+      "title": "Kémkedés az Európai Unió intézményei ellen",
+      "__type__": "Subtitle"
+    },
+    {
+      "identifier": "261/A",
+      "children": [
+        {
+          "text": "A 261. § szerint büntetendő, aki az Európai Unión kívüli harmadik állam részére az Európai Parlament, az Európai Bizottság vagy az Európai Unió Tanácsa ellen hírszerző tevékenységet folytat.",
+          "act_id_abbreviations": [],
+          "outgoing_references": [
+            {
+              "start_pos": 2,
+              "end_pos": 8,
+              "reference": {
+                "article": "261"
+              }
+            }
+          ],
+          "semantic_data": []
+        }
+      ],
+      "__type__": "Article"
+    },
+    {
+      "identifier": "",
       "title": "A szövetséges fegyveres erő ellen elkövetett kémkedés",
       "__type__": "Subtitle"
     },
@@ -15851,7 +16500,7 @@
       "children": [
         {
           "identifier": "1",
-          "text": "Aki hitelt érdemlő tudomást szerez arról, hogy alkotmányos rend erőszakos megváltoztatása, alkotmányos rend elleni szervezkedés, lázadás, rombolás, hazaárulás, hűtlenség, az ellenség támogatása, kémkedés, szövetséges fegyveres erő ellen elkövetett kémkedés készül, vagy még le nem leplezett ilyen bűncselekményt követtek el, és erről a hatóságnak vagy az állam illetékes szervének, mihelyt teheti, nem tesz feljelentést, vétség miatt két évig terjedő szabadságvesztéssel büntetendő.",
+          "text": "Aki hitelt érdemlő tudomást szerez arról, hogy alkotmányos rend erőszakos megváltoztatása, alkotmányos rend elleni szervezkedés, lázadás, rombolás, hazaárulás, hűtlenség, az ellenség támogatása, kémkedés, szövetséges fegyveres erő ellen elkövetett kémkedés, kémkedés az Európai Unió intézményei ellen készül, vagy még le nem leplezett ilyen bűncselekményt követtek el, és erről a hatóságnak vagy az állam illetékes szervének, mihelyt teheti, nem tesz feljelentést, vétség miatt két évig terjedő szabadságvesztéssel büntetendő.",
           "act_id_abbreviations": [],
           "outgoing_references": [],
           "semantic_data": []
@@ -16956,7 +17605,7 @@
         },
         {
           "identifier": "2",
-          "text": "Aki abból a célból, hogy az ellene folytatott büntetőeljárás alól oly módon vonja ki magát, hogy a lakhelyelhagyási tilalom tartama alatt a számára kijelölt területet, körzetet, vagy a házi őrizet tartama alatt a kijelölt lakást és az ahhoz tartozó bekerített helyet végleg elhagyja, vétség miatt két évig terjedő szabadságvesztéssel büntetendő.",
+          "text": "Aki abból a célból, hogy az ellene folytatott büntetőeljárás alól oly módon vonja ki magát, hogy a lakhelyelhagyási tilalom tartama alatt a számára kijelölt területet, körzetet vagy a házi őrizet tartama alatt a kijelölt lakást és az ahhoz tartozó bekerített helyet a házi őrizet szabályainak megszegésével elhagyja, vétség miatt két évig terjedő szabadságvesztéssel büntetendő.",
           "act_id_abbreviations": [],
           "outgoing_references": [],
           "semantic_data": []
@@ -17144,7 +17793,7 @@
             },
             {
               "identifier": "c",
-              "text": "az információs rendszer útján rögzített adatok megőrzésére kötelezéssel érintett adatot jogosulatlan személy számára hozzáférhetővé teszi, illetve azt az eljárás alól elvonja vagy módosítja,",
+              "text": "az információs rendszerben tárolt adatok megőrzésére kötelezéssel érintett adatot jogosulatlan személy számára hozzáférhetővé teszi, illetve azt az eljárás alól elvonja vagy módosítja,",
               "act_id_abbreviations": [],
               "outgoing_references": [],
               "semantic_data": [],
@@ -21413,6 +22062,31 @@
       "__type__": "Article"
     },
     {
+      "identifier": "",
+      "title": "Sporteredmény tiltott befolyásolása",
+      "__type__": "Subtitle"
+    },
+    {
+      "identifier": "349/A",
+      "children": [
+        {
+          "identifier": "1",
+          "text": "Aki olyan megállapodást köt, aminek következtében valamely sportszövetség versenyrendszerében szervezett vagy a sportszövetség versenynaptárában egyébként szereplő verseny, mérkőzés eredménye nem a versenyszabályzatnak vagy a tisztességes játék elveinek megfelelő módon alakul ki, ha más bűncselekmény nem valósul meg, bűntett miatt három évig terjedő szabadságvesztéssel büntetendő.",
+          "act_id_abbreviations": [],
+          "outgoing_references": [],
+          "semantic_data": []
+        },
+        {
+          "identifier": "2",
+          "text": "A büntetés egy évtől öt évig terjedő szabadságvesztés, ha a bűncselekményt bűnszövetségben vagy üzletszerűen követik el.",
+          "act_id_abbreviations": [],
+          "outgoing_references": [],
+          "semantic_data": []
+        }
+      ],
+      "__type__": "Article"
+    },
+    {
       "identifier": "34",
       "title": "A KÖZIGAZGATÁS RENDJE ELLENI BŰNCSELEKMÉNYEK",
       "__type__": "Chapter"
@@ -24991,11 +25665,50 @@
     },
     {
       "identifier": "",
-      "title": "Értelmező rendelkezés",
+      "title": "Magánindítvány",
       "__type__": "Subtitle"
     },
     {
       "identifier": "388/A",
+      "children": [
+        {
+          "text": "A szellemi tulajdonjogok vámhatósági érvényesítéséről és az 1383/2003/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2013. június 12-i 608/2013/EU európai parlamenti és tanácsi rendelet 1. cikk (1) bekezdése szerinti esetekben a 385. §-ban és a 388. §-ban meghatározott bűncselekmény csak magánindítványra büntethető, kivéve, ha azzal összefüggően nem magánindítványra büntetendő bűncselekményt is elkövetnek.",
+          "act_id_abbreviations": [],
+          "outgoing_references": [
+            {
+              "start_pos": 202,
+              "end_pos": 215,
+              "reference": {
+                "paragraph": "1"
+              }
+            },
+            {
+              "start_pos": 237,
+              "end_pos": 247,
+              "reference": {
+                "article": "385"
+              }
+            },
+            {
+              "start_pos": 253,
+              "end_pos": 263,
+              "reference": {
+                "article": "388"
+              }
+            }
+          ],
+          "semantic_data": []
+        }
+      ],
+      "__type__": "Article"
+    },
+    {
+      "identifier": "",
+      "title": "Értelmező rendelkezés",
+      "__type__": "Subtitle"
+    },
+    {
+      "identifier": "388/B",
       "children": [
         {
           "text": "E fejezet alkalmazásában a különös visszaesés szempontjából hasonló jellegű bűncselekmény a vagyon elleni bűncselekmény.",
