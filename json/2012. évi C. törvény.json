@@ -22093,7 +22093,7 @@
     },
     {
       "identifier": "",
-      "title": "A választás, a népszavazás, a népi kezdeményezés és az európai polgári kezdeményezés rendje elleni bűncselekmény",
+      "title": "A választás, népszavazás és európai polgári kezdeményezés rendje elleni bűncselekmény",
       "__type__": "Subtitle"
     },
     {
@@ -22101,7 +22101,7 @@
       "children": [
         {
           "identifier": "1",
-          "intro": "Aki a választási eljárásról szóló törvény hatálya alá tartozó választás, népszavazás, népi kezdeményezés vagy európai polgári kezdeményezés során",
+          "intro": "Aki a választási eljárásról szóló törvény vagy a népszavazás kezdeményezéséről, az európai polgári kezdeményezésről, valamint a népszavazási eljárásról szóló törvény hatálya alá tartozó választás, népszavazás és európai polgári kezdeményezés során",
           "children": [
             {
               "identifier": "a",
@@ -22113,7 +22113,7 @@
             },
             {
               "identifier": "b",
-              "text": "népszavazás kezdeményezése, népi kezdeményezés vagy európai polgári kezdeményezés indítványozása érdekében erőszakkal, fenyegetéssel, megtévesztéssel vagy anyagi juttatással szerez aláírást,",
+              "text": "népszavazás vagy európai polgári kezdeményezés indítványozása érdekében erőszakkal, fenyegetéssel, megtévesztéssel vagy anyagi juttatással szerez aláírást,",
               "act_id_abbreviations": [],
               "outgoing_references": [],
               "semantic_data": [],
@@ -22137,7 +22137,7 @@
             },
             {
               "identifier": "e",
-              "text": "arra jogosultat a választásban, a népszavazásban, a népi kezdeményezésben vagy az európai polgári kezdeményezésben akadályoz, vagy erőszakkal, fenyegetéssel, megtévesztéssel, illetve anyagi juttatással befolyásolni törekszik,",
+              "text": "arra jogosultat a választásban, a népszavazásban, a népszavazási vagy az európai polgári kezdeményezésben akadályoz, vagy erőszakkal, fenyegetéssel, megtévesztéssel, vagy anyagi juttatással befolyásolni törekszik,",
               "act_id_abbreviations": [],
               "outgoing_references": [],
               "semantic_data": [],
@@ -22153,7 +22153,7 @@
             },
             {
               "identifier": "g",
-              "text": "meghamisítja a választás, a népszavazás, a népi kezdeményezés vagy az európai polgári kezdeményezés eredményét,",
+              "text": "meghamisítja a választás, a népszavazás, a népszavazási vagy az európai polgári kezdeményezés eredményét,",
               "act_id_abbreviations": [],
               "outgoing_references": [],
               "semantic_data": [],
@@ -22161,7 +22161,7 @@
             },
             {
               "identifier": "h",
-              "text": "a jelölési eljárás során az ajánlásáért, illetve a népszavazás kezdeményezése, népi kezdeményezés vagy európai polgári kezdeményezés indítványozása során az aláírásáért anyagi juttatást fogad el,",
+              "text": "a jelölési eljárás során az ajánlásáért, illetve a népszavazás kezdeményezése vagy európai polgári kezdeményezés indítványozása során az aláírásáért anyagi juttatást fogad el,",
               "act_id_abbreviations": [],
               "outgoing_references": [],
               "semantic_data": [],
@@ -22176,7 +22176,7 @@
               "__type__": "AlphabeticPoint"
             }
           ],
-          "wrap_up": "bűntett miatt három évig terjedő szabadságvesztéssel büntetendő.",
+          "wrap_up": "bűntettet követ el és három évig terjedő szabadságvesztéssel büntetendő.",
           "act_id_abbreviations": [],
           "outgoing_references": [],
           "semantic_data": []
