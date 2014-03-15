@@ -1338,7 +1338,7 @@
         },
         {
           "identifier": "3",
-          "text": "Ha a sértett korlátozottan cselekvőképes, a magánindítványt törvényes képviselője is, ha cselekvőképtelen, kizárólag a törvényes képviselője terjesztheti elő. Ezekben az esetekben a magánindítvány előterjesztésére a gyámhatóság is jogosult.",
+          "text": "Ha a sértett cselekvőképtelen, a magánindítványt törvényes képviselője terjesztheti elő. Ha a sértett korlátozottan cselekvőképes, a magánindítványt önállóan terjesztheti elő, kivéve ha a cselekvőképességében részlegesen korlátozott nagykorút a személyes ügyei vitelében vagy a bírósághoz, hatósághoz fordulás jogában a bíróság korlátozta, ebben az esetben a magánindítvány előterjesztéséhez a törvényes képviselő hozzájárulása szükséges. A magánindítványt a korlátozottan cselekvőképes kiskorú sértett törvényes képviselője is előterjesztheti. Ezekben az esetekben a magánindítvány előterjesztésére a gyámhatóság is jogosult. Érdekellentét esetén a Polgári Törvénykönyv szabályai az irányadók.",
           "act_id_abbreviations": [],
           "outgoing_references": [],
           "semantic_data": []
@@ -30425,7 +30425,7 @@
             },
             {
               "identifier": "8",
-              "text": "gazdálkodó szervezet: a Polgári Törvénykönyv szerinti gazdálkodó szervezeten kívül az a szervezet is, amelynek gazdálkodó tevékenységével összefüggő polgári jogi kapcsolataira a Polgári Törvénykönyv szerint a gazdálkodó szervezetre vonatkozó rendelkezéseket kell alkalmazni;",
+              "text": "gazdálkodó szervezet: a polgári perrendtartás szerinti gazdálkodó szervezeten kívül az a szervezet is, amelynek gazdálkodó tevékenységével összefüggő polgári jogi kapcsolataira a polgári perrendtartás szerint a gazdálkodó szervezetre vonatkozó rendelkezéseket kell alkalmazni;",
               "act_id_abbreviations": [],
               "outgoing_references": [],
               "semantic_data": [],
