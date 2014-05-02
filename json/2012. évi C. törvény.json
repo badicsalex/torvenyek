@@ -21989,7 +21989,7 @@
     },
     {
       "identifier": "",
-      "title": "Termőföld jogellenes megszerzése",
+      "title": "Mező- és erdőgazdasági hasznosítású föld jogellenes megszerzése",
       "__type__": "Subtitle"
     },
     {
@@ -22001,7 +22001,7 @@
           "children": [
             {
               "identifier": "a",
-              "text": "termőföld tulajdonjogának megszerzése,",
+              "text": "mező- és erdőgazdasági hasznosítású föld tulajdonjogának megszerzése,",
               "act_id_abbreviations": [],
               "outgoing_references": [],
               "semantic_data": [],
@@ -22009,7 +22009,7 @@
             },
             {
               "identifier": "b",
-              "text": "termőföldre vonatkozó haszonélvezeti jog vagy használat jogának alapítása",
+              "text": "mező- és erdőgazdasági hasznosítású földre vonatkozó haszonélvezeti jog vagy használat jogának alapítása",
               "act_id_abbreviations": [],
               "outgoing_references": [],
               "semantic_data": [],
@@ -22023,6 +22023,32 @@
         },
         {
           "identifier": "2",
+          "intro": "Aki",
+          "children": [
+            {
+              "identifier": "a",
+              "text": "mező- és erdőgazdasági hasznosítású föld tulajdonjogának megszerzésére,",
+              "act_id_abbreviations": [],
+              "outgoing_references": [],
+              "semantic_data": [],
+              "__type__": "AlphabeticPoint"
+            },
+            {
+              "identifier": "b",
+              "text": "mező- és erdőgazdasági hasznosítású földre vonatkozó haszonélvezeti jog vagy használat jogának alapítására",
+              "act_id_abbreviations": [],
+              "outgoing_references": [],
+              "semantic_data": [],
+              "__type__": "AlphabeticPoint"
+            }
+          ],
+          "wrap_up": "vonatkozó jogszabályi tilalom vagy korlátozás kijátszásával általa kötött semmis szerződés leplezésére létrehozott megállapodás alapján mező- és erdőgazdasági hasznosítású földet használ, illetve szedi annak hasznait, ha súlyosabb bűncselekmény nem valósul meg, bűntett miatt három évig terjedő szabadságvesztéssel büntetendő.",
+          "act_id_abbreviations": [],
+          "outgoing_references": [],
+          "semantic_data": []
+        },
+        {
+          "identifier": "3",
           "text": "Az (1) bekezdés szerint büntetendő az az ügyvéd, jogtanácsos vagy közjegyző, aki az (1) bekezdés szerinti szerződés megkötésében közreműködik.",
           "act_id_abbreviations": [],
           "outgoing_references": [
@@ -22044,15 +22070,18 @@
           "semantic_data": []
         },
         {
-          "identifier": "3",
-          "text": "Korlátlanul enyhíthető az (1) bekezdés szerinti bűncselekmény elkövetőjének a büntetése, ha a bűncselekményt, mielőtt az a hatóság tudomására jutott volna, a hatóságnak bejelenti, és az elkövetés körülményeit feltárja.",
+          "identifier": "4",
+          "text": "Korlátlanul enyhíthető az (1) és (2) bekezdés szerinti bűncselekmény elkövetőjének a büntetése, ha a bűncselekményt, mielőtt az a hatóság tudomására jutott volna, a hatóságnak bejelenti és az elkövetés körülményeit feltárja.",
           "act_id_abbreviations": [],
           "outgoing_references": [
             {
               "start_pos": 26,
-              "end_pos": 38,
+              "end_pos": 45,
               "reference": {
-                "paragraph": "1"
+                "paragraph": [
+                  "1",
+                  "2"
+                ]
               }
             }
           ],
