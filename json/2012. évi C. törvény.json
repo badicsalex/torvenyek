@@ -1079,7 +1079,33 @@
         },
         {
           "identifier": "3",
-          "text": "Nem évül el a XIII. és XIV. Fejezetben meghatározott, és az életfogytig tartó szabadságvesztéssel is büntethető bűncselekmények büntethetősége.",
+          "intro": "Nem évül el a büntethetősége",
+          "children": [
+            {
+              "identifier": "a",
+              "text": "a XIII. és XIV. Fejezetben meghatározott bűncselekményeknek,",
+              "act_id_abbreviations": [],
+              "outgoing_references": [],
+              "semantic_data": [],
+              "__type__": "AlphabeticPoint"
+            },
+            {
+              "identifier": "b",
+              "text": "az életfogytig tartó szabadságvesztéssel is büntethető bűncselekményeknek, és",
+              "act_id_abbreviations": [],
+              "outgoing_references": [],
+              "semantic_data": [],
+              "__type__": "AlphabeticPoint"
+            },
+            {
+              "identifier": "c",
+              "text": "a XIX. Fejezetben meghatározott, ötévi szabadságvesztésnél súlyosabban büntetendő bűncselekményeknek, ha a bűncselekmény sértettje a bűncselekmény elkövetésekor a tizennyolcadik életévét nem töltötte be.",
+              "act_id_abbreviations": [],
+              "outgoing_references": [],
+              "semantic_data": [],
+              "__type__": "AlphabeticPoint"
+            }
+          ],
           "act_id_abbreviations": [],
           "outgoing_references": [],
           "semantic_data": []
@@ -1145,9 +1171,19 @@
         },
         {
           "identifier": "1a",
-          "text": "Ha az erős felindulásban elkövetett emberölés, a háromévi szabadságvesztésnél súlyosabban büntetendő szándékos súlyos testi sértés, az emberrablás, az emberkereskedelem, a személyi szabadság megsértése, illetve a nemi élet szabadsága és a nemi erkölcs elleni bűncselekmény sértettje a bűncselekmény elkövetésekor a tizennyolcadik életévét még nem töltötte be, az elévülés határidejébe nem számít be az a tartam, amíg a tizennyolcadik életévét be nem tölti, vagy be nem töltötte volna.",
+          "text": "Ha az erős felindulásban elkövetett emberölés, a háromévi szabadságvesztésnél súlyosabban büntetendő szándékos súlyos testi sértés, az emberrablás, az emberkereskedelem, a személyi szabadság megsértése, illetve – a 26. § (3) bekezdés c) pontjában foglalt kivétellel – a nemi élet szabadsága és a nemi erkölcs elleni bűncselekmény sértettje a bűncselekmény elkövetésekor a tizennyolcadik életévét még nem töltötte be, az elévülés határidejébe nem számít be az a tartam, amíg a tizennyolcadik életévét be nem tölti vagy be nem töltötte volna.",
           "act_id_abbreviations": [],
-          "outgoing_references": [],
+          "outgoing_references": [
+            {
+              "start_pos": 215,
+              "end_pos": 246,
+              "reference": {
+                "article": "26",
+                "paragraph": "3",
+                "point": "c"
+              }
+            }
+          ],
           "semantic_data": []
         },
         {

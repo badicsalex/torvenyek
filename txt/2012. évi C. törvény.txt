@@ -280,8 +280,13 @@ A büntethetőség elévülése
                illetve az egyes bűncselekmények elévülésének kizárásáról szóló törvény
                eltérő rendelkezése hiányában – elévül a büntetési tétel felső határának
                megfelelő idő, de legalább öt év elteltével.
-          (3)  Nem évül el a XIII. és XIV. Fejezetben meghatározott, és az életfogytig
-               tartó szabadságvesztéssel is büntethető bűncselekmények büntethetősége.
+          (3)  Nem évül el a büntethetősége
+               a)   a XIII. és XIV. Fejezetben meghatározott bűncselekményeknek,
+               b)   az életfogytig tartó szabadságvesztéssel is büntethető
+                    bűncselekményeknek, és
+               c)   a XIX. Fejezetben meghatározott, ötévi szabadságvesztésnél súlyosabban
+                    büntetendő bűncselekményeknek, ha a bűncselekmény sértettje a
+                    bűncselekmény elkövetésekor a tizennyolcadik életévét nem töltötte be.
 
 27. §          Az elévülés kezdő napja
                a)   befejezett bűncselekmény esetén az a nap, amikor a törvényi tényállás
@@ -303,10 +308,11 @@ A büntethetőség elévülése
           (1a) Ha az erős felindulásban elkövetett emberölés, a háromévi
                szabadságvesztésnél súlyosabban büntetendő szándékos súlyos testi sértés,
                az emberrablás, az emberkereskedelem, a személyi szabadság megsértése,
-               illetve a nemi élet szabadsága és a nemi erkölcs elleni bűncselekmény
-               sértettje a bűncselekmény elkövetésekor a tizennyolcadik életévét még nem
-               töltötte be, az elévülés határidejébe nem számít be az a tartam, amíg a
-               tizennyolcadik életévét be nem tölti, vagy be nem töltötte volna.
+               illetve – a 26. § (3) bekezdés c) pontjában foglalt kivétellel – a nemi
+               élet szabadsága és a nemi erkölcs elleni bűncselekmény sértettje a
+               bűncselekmény elkövetésekor a tizennyolcadik életévét még nem töltötte be,
+               az elévülés határidejébe nem számít be az a tartam, amíg a tizennyolcadik
+               életévét be nem tölti vagy be nem töltötte volna.
           (2)  Ha a büntetőeljárást felfüggesztik, a felfüggesztés tartama az elévülés
                határidejébe nem számít be. Ez a rendelkezés nem alkalmazható, ha a
                büntetőeljárást azért függesztik fel, mert az elkövető kiléte a nyomozásban
