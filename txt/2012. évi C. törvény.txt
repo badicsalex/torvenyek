@@ -1317,7 +1317,10 @@ A különös, a többszörös és az erőszakos többszörös visszaesőkre vona
                esetén a kétszeresére emelkedik. Ha a büntetési tétel így felemelt felső
                határa a húsz évet meghaladná, vagy a törvény szerint a bűncselekmény
                életfogytig tartó szabadságvesztéssel is büntethető, az elkövetővel szemben
-               életfogytig tartó szabadságvesztést kell kiszabni.
+               életfogytig tartó szabadságvesztést kell kiszabni. Halmazati büntetés
+               esetén a 81. § (3) bekezdése szerinti büntetési tételt, tárgyalásról
+               lemondás esetén a 83. § (2) bekezdése szerinti büntetési tételt kell a
+               kétszeresére emelni.
           (3)  Az erőszakos többszörös visszaesővel szemben a büntetés
                a)   a 82. § (1) bekezdése alapján nem enyhíthető,
                b)   – ha e törvény Általános Része lehetővé teszi – korlátlanul
@@ -1386,6 +1389,11 @@ Az előzetes fogvatartás és a házi őrizet beszámítása
           (2)  Ha az (1) bekezdés alkalmazásával megállapítandó végrehajtási fokozat az
                elítélt számára méltánytalan hátrányt jelentene, eggyel enyhébb fokozat
                állapítható meg.
+          (3)  Ha a feltételes szabadságra bocsátás lehetősége nem kizárt, annak
+               legkorábbi időpontját a legszigorúbb rendelkezés alapján kell meghatározni.
+               Nem bocsátható feltételes szabadságra az elítélt az összbüntetésből, ha
+               bármelyik szabadságvesztés esetén a feltételes szabadságra bocsátás
+               lehetősége kizárt.
 
 96. §     (1)  Ha a foglalkozástól eltiltást, a járművezetéstől eltiltást, a kitiltást, a
                sportrendezvények látogatásától való eltiltást vagy a kiutasítást
@@ -1410,7 +1418,12 @@ Az elítéléshez fűződő hátrányos jogkövetkezmények
                alkalmazott intézkedésre vonatkozó adatokat közhiteles hatósági
                nyilvántartás tartalmazza a törvényben meghatározott időpontig, ezt
                követően hátrányos jogkövetkezmény az elítélés miatt már nem állapítható
-               meg az elítélttel szemben.
+               meg az elítélttel szemben. A visszaesés és az ahhoz fűződő, e törvényben
+               meghatározott hátrányos jogkövetkezmények a büntetőeljárásról szóló 1998.
+               évi XIX. törvény 178/A. § (2) bekezdése szerint, az újabb bűncselekmény
+               elkövetéséhez legközelebbi időpontban a bűnügyi nyilvántartásból beszerzett
+               adatok alapján akkor is megállapítandók, ha utóbb ezek az adatok törlésre
+               kerültek.
 
 A mentesítés hatálya
 
@@ -6989,22 +7002,22 @@ Tiltott adatszerzés
 
 Információs rendszer vagy adat megsértése
 
-423. §    (1)  Aki
-               a)   információs rendszerbe az információs rendszer védelmét biztosító
-                    technikai intézkedés megsértésével vagy kijátszásával jogosulatlanul
-                    belép, vagy a belépési jogosultsága kereteit túllépve vagy azt
-                    megsértve bent marad,
-               b)   az információs rendszer működését jogosulatlanul vagy jogosultsága
+423. §    (1)  Aki információs rendszerbe az információs rendszer védelmét biztosító
+               technikai intézkedés megsértésével vagy kijátszásával jogosulatlanul belép,
+               vagy a belépési jogosultsága kereteit túllépve vagy azt megsértve bent
+               marad, vétség miatt két évig terjedő szabadságvesztéssel büntetendő.
+          (2)  Aki
+               a)   az információs rendszer működését jogosulatlanul vagy jogosultsága
                     kereteit megsértve akadályozza, vagy
-               c)   információs rendszerben lévő adatot jogosulatlanul vagy jogosultsága
+               b)   információs rendszerben lévő adatot jogosulatlanul vagy jogosultsága
                     kereteit megsértve megváltoztat, töröl vagy hozzáférhetetlenné tesz,
-               vétség miatt két évig terjedő szabadságvesztéssel büntetendő.
-          (2)  A büntetés bűntett miatt egy évtől öt évig terjedő szabadságvesztés, ha az
-               (1) bekezdés b)–c) pontjában meghatározott bűncselekmény jelentős számú
-               információs rendszert érint.
-          (3)  A büntetés két évtől nyolc évig terjedő szabadságvesztés, ha a
+               bűntett miatt három évig terjedő szabadságvesztéssel büntetendő.
+          (3)  A büntetés bűntett miatt egy évtől öt évig terjedő szabadságvesztés, ha a
+               (2) bekezdésben meghatározott bűncselekmény jelentős számú információs
+               rendszert érint.
+          (4)  A büntetés két évtől nyolc évig terjedő szabadságvesztés, ha a
                bűncselekményt közérdekű üzem ellen követik el.
-          (4)  E § alkalmazásában adat: információs rendszerben tárolt, kezelt,
+          (5)  E § alkalmazásában adat: információs rendszerben tárolt, kezelt,
                feldolgozott vagy továbbított tények, információk vagy fogalmak minden
                olyan formában való megjelenése, amely információs rendszer általi
                feldolgozásra alkalmas, ideértve azon programot is, amely valamely
@@ -7012,8 +7025,9 @@ Információs rendszer vagy adat megsértése
 
 Információs rendszer védelmét biztosító technikai intézkedés kijátszása
 
-424. §    (1)  Aki a 375. vagy a 423. §-ban meghatározott bűncselekmény elkövetése
-               céljából az ehhez szükséges vagy ezt könnyítő
+424. §    (1)  Aki a 375. §-ban, a 422. § (1) bekezdés d) pontjában vagy a 423. §-ban
+               meghatározott bűncselekmény elkövetése céljából az ehhez szükséges vagy ezt
+               könnyítő
                a)   jelszót vagy számítástechnikai programot készít, átad, hozzáférhetővé
                     tesz, megszerez, vagy forgalomba hoz, illetve
                b)   jelszó vagy számítástechnikai program készítésére vonatkozó gazdasági,
@@ -7915,8 +7929,9 @@ Az Európai Unió jogának való megfelelés
                     küzdelemről szóló, 2003. július 22-i 2003/568/EK tanácsi
                     kerethatározatnak,
                f)   375. §-a és XLIII. Fejezete az információs rendszerek elleni
-                    támadásokról szóló, 2005. február 24-i 2005/222/IB tanácsi
-                    kerethatározatnak,
+                    támadásokról és a 2005/222/IB tanácsi kerethatározat felváltásáról
+                    szóló, 2013. augusztus 12-i 2013/40/EU európai parlamenti és tanácsi
+                    irányelvnek,
                g)   389. §-a az euró bevezetésével kapcsolatos pénzhamisítás elleni,
                     büntetőjogi és egyéb szankciókkal megvalósuló védelem megerősítésről
                     szóló, 2000. május 29-i 2000/383/IB tanácsi kerethatározat 3–6.

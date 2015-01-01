@@ -5289,9 +5289,26 @@
         },
         {
           "identifier": "2",
-          "text": "Az erőszakos többszörös visszaesővel szemben az erőszakos többszörös visszaesőkénti minősítést megalapozó, súlyosabban büntetendő személy elleni erőszakos bűncselekmény büntetési tételének felső határa szabadságvesztés esetén a kétszeresére emelkedik. Ha a büntetési tétel így felemelt felső határa a húsz évet meghaladná, vagy a törvény szerint a bűncselekmény életfogytig tartó szabadságvesztéssel is büntethető, az elkövetővel szemben életfogytig tartó szabadságvesztést kell kiszabni.",
+          "text": "Az erőszakos többszörös visszaesővel szemben az erőszakos többszörös visszaesőkénti minősítést megalapozó, súlyosabban büntetendő személy elleni erőszakos bűncselekmény büntetési tételének felső határa szabadságvesztés esetén a kétszeresére emelkedik. Ha a büntetési tétel így felemelt felső határa a húsz évet meghaladná, vagy a törvény szerint a bűncselekmény életfogytig tartó szabadságvesztéssel is büntethető, az elkövetővel szemben életfogytig tartó szabadságvesztést kell kiszabni. Halmazati büntetés esetén a 81. § (3) bekezdése szerinti büntetési tételt, tárgyalásról lemondás esetén a 83. § (2) bekezdése szerinti büntetési tételt kell a kétszeresére emelni.",
           "act_id_abbreviations": [],
-          "outgoing_references": [],
+          "outgoing_references": [
+            {
+              "start_pos": 517,
+              "end_pos": 536,
+              "reference": {
+                "article": "81",
+                "paragraph": "3"
+              }
+            },
+            {
+              "start_pos": 595,
+              "end_pos": 614,
+              "reference": {
+                "article": "83",
+                "paragraph": "2"
+              }
+            }
+          ],
           "semantic_data": []
         },
         {
@@ -5561,6 +5578,13 @@
             }
           ],
           "semantic_data": []
+        },
+        {
+          "identifier": "3",
+          "text": "Ha a feltételes szabadságra bocsátás lehetősége nem kizárt, annak legkorábbi időpontját a legszigorúbb rendelkezés alapján kell meghatározni. Nem bocsátható feltételes szabadságra az elítélt az összbüntetésből, ha bármelyik szabadságvesztés esetén a feltételes szabadságra bocsátás lehetősége kizárt.",
+          "act_id_abbreviations": [],
+          "outgoing_references": [],
+          "semantic_data": []
         }
       ],
       "__type__": "Article"
@@ -5607,9 +5631,26 @@
         },
         {
           "identifier": "2",
-          "text": "A büntetőjogi felelősség megállapítására, a kiszabott büntetésre és az alkalmazott intézkedésre vonatkozó adatokat közhiteles hatósági nyilvántartás tartalmazza a törvényben meghatározott időpontig, ezt követően hátrányos jogkövetkezmény az elítélés miatt már nem állapítható meg az elítélttel szemben.",
+          "text": "A büntetőjogi felelősség megállapítására, a kiszabott büntetésre és az alkalmazott intézkedésre vonatkozó adatokat közhiteles hatósági nyilvántartás tartalmazza a törvényben meghatározott időpontig, ezt követően hátrányos jogkövetkezmény az elítélés miatt már nem állapítható meg az elítélttel szemben. A visszaesés és az ahhoz fűződő, e törvényben meghatározott hátrányos jogkövetkezmények a büntetőeljárásról szóló 1998. évi XIX. törvény 178/A. § (2) bekezdése szerint, az újabb bűncselekmény elkövetéséhez legközelebbi időpontban a bűnügyi nyilvántartásból beszerzett adatok alapján akkor is megállapítandók, ha utóbb ezek az adatok törlésre kerültek.",
           "act_id_abbreviations": [],
-          "outgoing_references": [],
+          "outgoing_references": [
+            {
+              "start_pos": 417,
+              "end_pos": 439,
+              "reference": {
+                "act": "1998. évi XIX. törvény"
+              }
+            },
+            {
+              "start_pos": 440,
+              "end_pos": 462,
+              "reference": {
+                "act": "1998. évi XIX. törvény",
+                "article": "178/A",
+                "paragraph": "2"
+              }
+            }
+          ],
           "semantic_data": []
         }
       ],
@@ -28374,18 +28415,17 @@
       "children": [
         {
           "identifier": "1",
+          "text": "Aki információs rendszerbe az információs rendszer védelmét biztosító technikai intézkedés megsértésével vagy kijátszásával jogosulatlanul belép, vagy a belépési jogosultsága kereteit túllépve vagy azt megsértve bent marad, vétség miatt két évig terjedő szabadságvesztéssel büntetendő.",
+          "act_id_abbreviations": [],
+          "outgoing_references": [],
+          "semantic_data": []
+        },
+        {
+          "identifier": "2",
           "intro": "Aki",
           "children": [
             {
               "identifier": "a",
-              "text": "információs rendszerbe az információs rendszer védelmét biztosító technikai intézkedés megsértésével vagy kijátszásával jogosulatlanul belép, vagy a belépési jogosultsága kereteit túllépve vagy azt megsértve bent marad,",
-              "act_id_abbreviations": [],
-              "outgoing_references": [],
-              "semantic_data": [],
-              "__type__": "AlphabeticPoint"
-            },
-            {
-              "identifier": "b",
               "text": "az információs rendszer működését jogosulatlanul vagy jogosultsága kereteit megsértve akadályozza, vagy",
               "act_id_abbreviations": [],
               "outgoing_references": [],
@@ -28393,7 +28433,7 @@
               "__type__": "AlphabeticPoint"
             },
             {
-              "identifier": "c",
+              "identifier": "b",
               "text": "információs rendszerben lévő adatot jogosulatlanul vagy jogosultsága kereteit megsértve megváltoztat, töröl vagy hozzáférhetetlenné tesz,",
               "act_id_abbreviations": [],
               "outgoing_references": [],
@@ -28401,39 +28441,35 @@
               "__type__": "AlphabeticPoint"
             }
           ],
-          "wrap_up": "vétség miatt két évig terjedő szabadságvesztéssel büntetendő.",
+          "wrap_up": "bűntett miatt három évig terjedő szabadságvesztéssel büntetendő.",
           "act_id_abbreviations": [],
           "outgoing_references": [],
           "semantic_data": []
         },
         {
-          "identifier": "2",
-          "text": "A büntetés bűntett miatt egy évtől öt évig terjedő szabadságvesztés, ha az (1) bekezdés b)–c) pontjában meghatározott bűncselekmény jelentős számú információs rendszert érint.",
+          "identifier": "3",
+          "text": "A büntetés bűntett miatt egy évtől öt évig terjedő szabadságvesztés, ha a (2) bekezdésben meghatározott bűncselekmény jelentős számú információs rendszert érint.",
           "act_id_abbreviations": [],
           "outgoing_references": [
             {
-              "start_pos": 75,
-              "end_pos": 103,
+              "start_pos": 74,
+              "end_pos": 89,
               "reference": {
-                "paragraph": "1",
-                "point": [
-                  "b",
-                  "c"
-                ]
+                "paragraph": "2"
               }
             }
           ],
           "semantic_data": []
         },
         {
-          "identifier": "3",
+          "identifier": "4",
           "text": "A büntetés két évtől nyolc évig terjedő szabadságvesztés, ha a bűncselekményt közérdekű üzem ellen követik el.",
           "act_id_abbreviations": [],
           "outgoing_references": [],
           "semantic_data": []
         },
         {
-          "identifier": "4",
+          "identifier": "5",
           "text": "E § alkalmazásában adat: információs rendszerben tárolt, kezelt, feldolgozott vagy továbbított tények, információk vagy fogalmak minden olyan formában való megjelenése, amely információs rendszer általi feldolgozásra alkalmas, ideértve azon programot is, amely valamely funkciónak az információs rendszer által való végrehajtását biztosítja.",
           "act_id_abbreviations": [],
           "outgoing_references": [],
@@ -28452,7 +28488,7 @@
       "children": [
         {
           "identifier": "1",
-          "intro": "Aki a 375. vagy a 423. §-ban meghatározott bűncselekmény elkövetése céljából az ehhez szükséges vagy ezt könnyítő",
+          "intro": "Aki a 375. §-ban, a 422. § (1) bekezdés d) pontjában vagy a 423. §-ban meghatározott bűncselekmény elkövetése céljából az ehhez szükséges vagy ezt könnyítő",
           "children": [
             {
               "identifier": "a",
@@ -28476,14 +28512,23 @@
           "outgoing_references": [
             {
               "start_pos": 6,
-              "end_pos": 10,
+              "end_pos": 16,
               "reference": {
                 "article": "375"
               }
             },
             {
-              "start_pos": 18,
-              "end_pos": 28,
+              "start_pos": 20,
+              "end_pos": 52,
+              "reference": {
+                "article": "422",
+                "paragraph": "1",
+                "point": "d"
+              }
+            },
+            {
+              "start_pos": 60,
+              "end_pos": 70,
               "reference": {
                 "article": "423"
               }
@@ -32494,7 +32539,7 @@
             },
             {
               "identifier": "f",
-              "text": "375. §-a és XLIII. Fejezete az információs rendszerek elleni támadásokról szóló, 2005. február 24-i 2005/222/IB tanácsi kerethatározatnak,",
+              "text": "375. §-a és XLIII. Fejezete az információs rendszerek elleni támadásokról és a 2005/222/IB tanácsi kerethatározat felváltásáról szóló, 2013. augusztus 12-i 2013/40/EU európai parlamenti és tanácsi irányelvnek,",
               "act_id_abbreviations": [],
               "outgoing_references": [
                 {
