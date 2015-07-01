@@ -481,7 +481,7 @@ A határozott ideig tartó szabadságvesztés
                          197. § (2)–(4) bekezdés, 322. § (2)–(3) bekezdés, 327. § (3)
                          bekezdés, 365. § (3)–(4) bekezdés]
                     miatt szabták ki, vagy
-               b)   a kétévi vagy ennél hosszabb tartamú, és
+               b)   a szabadságvesztés kétévi vagy ennél hosszabb tartamú, és
                     ba)  az elítélt többszörös visszaeső, vagy
                     bb)  a bűncselekményt bűnszervezetben követte el.
 
@@ -544,9 +544,9 @@ Feltételes szabadságra bocsátás a határozott ideig tartó szabadságveszté
 Az életfogytig tartó szabadságvesztés
 
 41. §     (1)  Életfogytig tartó szabadságvesztés azzal szemben szabható ki, aki a
-               bűncselekmény elkövetésekor a huszadik életévét betöltötte. E rendelkezés a
-               81. § (4) bekezdése és a 90. § (2) bekezdése alapján kiszabható életfogytig
-               tartó szabadságvesztésre is vonatkozik.
+               bűncselekmény elkövetésekor a huszadik életévét betöltötte. E rendelkezés
+               a 90. § (2) bekezdése alapján kiszabható életfogytig tartó
+               szabadságvesztésre is vonatkozik.
           (2)  Az életfogytig tartó szabadságvesztés végrehajtási fokozata fegyház.
 
 Feltételes szabadságra bocsátás az életfogytig tartó szabadságvesztésből
@@ -864,7 +864,8 @@ A közügyektől eltiltás
                     megjelölt vezető tisztségviselője.
           (3)  A közügyektől eltiltott az ítélet jogerőre emelkedésével elveszti mindazon
                tagságát, állását, tisztségét, katonai rendfokozatát, megbízatását és
-               kitüntetését, amelynek elnyerését a (2) bekezdés kizárja.
+               kitüntetését, amelynek elnyerését a (2) bekezdés kizárja, valamint címzetes
+               rendfokozatát.
 
 62. §     (1)  A közügyektől eltiltás határozott ideig tart, annak legrövidebb tartama egy
                év, leghosszabb tartama tíz év.
@@ -1047,7 +1048,7 @@ Az elkobzás
           (4)  Az elkobzást akkor is el kell rendelni, ha
                a)   az elkövető gyermekkor, kóros elmeállapot vagy törvényben
                     meghatározott büntethetőséget megszüntető ok miatt nem büntethető,
-               b)   ha az elkövetőt megrovásban részesítették,
+               b)     az elkövetőt megrovásban részesítették,
                c)   az a kölcsönzött kulturális javak különleges védelméről szóló
                     törvényben meghatározott különleges védelem időtartama alatt nem
                     hajtható végre.
@@ -1125,7 +1126,7 @@ A vagyonelkobzás
           (2)  A vagyonelkobzást akkor is el kell rendelni, ha
                a)   az elkövető gyermekkor, kóros elmeállapot vagy törvényben
                     meghatározott büntethetőséget megszüntető ok miatt nem büntethető,
-               b)   ha az elkövetőt megrovásban részesítették,
+               b)     az elkövetőt megrovásban részesítették,
                c)   az a kölcsönzött kulturális javak különleges védelméről szóló
                     törvényben meghatározott különleges védelem időtartama alatt nem
                     hajtható végre.
@@ -1193,14 +1194,11 @@ A halmazati büntetés
                a legmagasabb büntetési tétel felével emelkedik, de nem érheti el az egyes
                bűncselekményekre megállapított büntetési tételek felső határának együttes
                tartamát.
-          (4)  Ha a bűnhalmazatban levő bűncselekmények közül legalább három különböző
-               időpontokban elkövetett befejezett személy elleni erőszakos bűncselekmény,
-               a (2) bekezdés szerinti büntetési tétel felső határa a kétszeresére
-               emelkedik. Ha a büntetési tétel így felemelt felső határa a húsz évet
-               meghaladná, vagy a bűnhalmazatban lévő bűncselekmények bármelyike
-               életfogytig tartó szabadságvesztéssel is büntethető, az elkövetővel szemben
-               életfogytig tartó szabadságvesztést kell kiszabni. Ha azonban e törvény
-               Általános Része lehetővé teszi, a büntetés korlátlanul enyhíthető.
+          (4)  Ha ennek feltételei az adott bűncselekmény vonatkozásában fennállnak, a
+               bűnhalmazatban lévő bűncselekmény büntetési tételét a különös, a többszörös
+               és az erőszakos többszörös visszaesőkre, továbbá a bűnszervezetben történő
+               elkövetésre vonatkozó rendelkezések alapján, a (2) és (3) bekezdés
+               alkalmazását megelőzően kell megállapítani.
           (5)  A mellékbüntetés halmazati büntetés esetében sem haladhatja meg a
                törvényben meghatározott legmagasabb mértéket, illetve tartamot.
 
@@ -1297,12 +1295,11 @@ A szabadságvesztés végrehajtásának felfüggesztése
 
 A különös, a többszörös és az erőszakos többszörös visszaesőkre vonatkozó rendelkezések
 
-89. §     (1)  A különös és a többszörös visszaesővel szemben – ha e törvény másként nem
-               rendelkezik – az újabb bűncselekmény büntetési tételének felső határa
-               szabadságvesztés esetén a felével emelkedik, de nem haladhatja meg a
-               huszonöt évet. Halmazati büntetés esetén a 81. § (3) bekezdése szerinti
-               büntetési tételt, tárgyalásról lemondás esetén a 83. § (1)–(2) bekezdése
-               szerinti büntetési tételt kell a felével emelni.
+89. §     (1)  A különös és a többszörös visszaesővel szemben az újabb bűncselekmény
+               büntetési tételének felső határa szabadságvesztés esetén a felével
+               emelkedik, de nem haladhatja meg a huszonöt évet. Tárgyalásról lemondás
+               esetén a 83. § (2) bekezdése szerinti büntetési tételt kell a felével
+               emelni.
           (2)  A különös és a többszörös visszaesővel szemben a büntetés a 82. § (1)
                bekezdése alapján csak különös méltánylást érdemlő esetben enyhíthető.
           (3)  Az (1) bekezdésben meghatározott súlyosabb jogkövetkezmények nem
@@ -1312,15 +1309,13 @@ A különös, a többszörös és az erőszakos többszörös visszaesőkre vona
 90. §     (1)  Erőszakos többszörös visszaesővel szemben a 33. § (4) bekezdése nem
                alkalmazható.
           (2)  Az erőszakos többszörös visszaesővel szemben az erőszakos többszörös
-               visszaesőkénti minősítést megalapozó, súlyosabban büntetendő személy elleni
-               erőszakos bűncselekmény büntetési tételének felső határa szabadságvesztés
-               esetén a kétszeresére emelkedik. Ha a büntetési tétel így felemelt felső
-               határa a húsz évet meghaladná, vagy a törvény szerint a bűncselekmény
-               életfogytig tartó szabadságvesztéssel is büntethető, az elkövetővel szemben
-               életfogytig tartó szabadságvesztést kell kiszabni. Halmazati büntetés
-               esetén a 81. § (3) bekezdése szerinti büntetési tételt, tárgyalásról
-               lemondás esetén a 83. § (2) bekezdése szerinti büntetési tételt kell a
-               kétszeresére emelni.
+               visszaesőkénti minősítést megalapozó bűncselekmény büntetési tételének
+               felső határa szabadságvesztés esetén a kétszeresére emelkedik. Ha a
+               büntetési tétel így felemelt felső határa a húsz évet meghaladná, vagy a
+               törvény szerint a bűncselekmény életfogytig tartó szabadságvesztéssel is
+               büntethető, az elkövetővel szemben életfogytig tartó szabadságvesztést kell
+               kiszabni. Tárgyalásról lemondás esetén a 83. § (2) bekezdése szerinti
+               büntetési tételt kell a kétszeresére emelni.
           (3)  Az erőszakos többszörös visszaesővel szemben a büntetés
                a)   a 82. § (1) bekezdése alapján nem enyhíthető,
                b)   – ha e törvény Általános Része lehetővé teszi – korlátlanul
@@ -1330,9 +1325,8 @@ A bűnszervezetben történő elkövetésre vonatkozó rendelkezések
 
 91. §     (1)  Azzal szemben, aki a szándékos bűncselekményt bűnszervezetben követte el, a
                bűncselekmény büntetési tételének felső határa a kétszeresére emelkedik, de
-               a huszonöt évet nem haladhatja meg. Halmazati büntetés esetén a 81. § (3)
-               bekezdése szerinti büntetési tételt, tárgyalásról lemondás esetén a 83. §
-               (1)–(2) bekezdése szerinti büntetési tételt kell alapul venni.
+               a huszonöt évet nem haladhatja meg. Tárgyalásról lemondás esetén a 83. §
+               (2) bekezdése szerinti büntetési tételt kell alapul venni.
           (2)  Azzal szemben, aki a bűncselekményt bűnszervezetben követte el, kitiltásnak
                is helye van.
           (3)  A bűncselekmény bűnszervezetben történő elkövetésének megállapítása esetén
@@ -1478,23 +1472,30 @@ A törvényi mentesítés
                d)   sportrendezvények látogatásától való eltiltás esetén az elítélt
                     sportrendezvények látogatásához való
                jogára.
-          (3)  Az (1) bekezdés d) pontja esetében a mentesítés nem áll be, illetve
-               hatályát veszti, ha a szabadságvesztés végrehajtását elrendelik. Ilyenkor a
-               mentesítésre a végrehajtandó szabadságvesztésre vonatkozó mentesítési
-               szabályok az irányadók.
+          (3)  Az (1) bekezdés d) pontja esetében a mentesítés nem áll be,   ha a
+               szabadságvesztés végrehajtását elrendelik. Ilyenkor a mentesítésre a
+               végrehajtandó szabadságvesztésre vonatkozó mentesítési szabályok az
+               irányadók.
 
 A bírósági mentesítés
 
-101. §    (1)  A bíróság az elítéltet kérelemre mentesítésben részesítheti, ha erre
-               érdemes, és a szabadságvesztés kitöltésétől vagy végrehajthatósága
-               megszűnésétől a 100. § (1) bekezdés f)–i) pontjaiban meghatározott idő fele
-               már eltelt.
-          (2)  Az érdemesség elbírálásánál figyelembe kell venni az elítéltnek a büntetés
-               kitöltése óta folytatott életmódját, továbbá azt, hogy – ha erre módja volt
-               – jóvátette-e a bűncselekménnyel okozott sérelmet.
+101. §    (1)  Végrehajtandó szabadságvesztés esetén a bíróság az elítéltet kérelemre
+               utólag mentesítésben részesítheti, ha erre érdemes, és a szabadságvesztés
+               kitöltésétől vagy végrehajthatósága megszűnésétől a 100. § (1) bekezdés
+               f)–i) pontjában meghatározott idő fele már eltelt.
+          (2)  Felfüggesztett szabadságvesztés esetén a bíróság az elítéltet kérelemre
+               utólag mentesítésben részesítheti, ha erre érdemes, és a próbaidő fele
+               része, de legalább egy év már eltelt.
+          (3)  Az érdemesség elbírálásánál figyelembe kell venni az elítéltnek a büntetés
+               kitöltése, felfüggesztett szabadságvesztés esetén az ítélet jogerőre
+               emelkedése óta folytatott életmódját, továbbá azt, hogy – ha erre módja
+               volt – jóvátette-e a bűncselekménnyel okozott sérelmet.
+          (4)  Felfüggesztett szabadságvesztés esetén az utólagos mentesítés hatályát
+               veszti, ha a felfüggesztett szabadságvesztés végrehajtását elrendelik.
 
-102. §    (1)  A szabadságvesztés végrehajtásának felfüggesztése esetén a bíróság előzetes
-               mentesítésben részesítheti az elítéltet, ha arra érdemes.
+102. §    (1)  A szabadságvesztés végrehajtásának felfüggesztése esetén a bíróság
+               ítéletében előzetes mentesítésben részesítheti az elítéltet, ha arra
+               érdemes.
           (2)  Az előzetes mentesítés hatályát veszti, ha a felfüggesztett
                szabadságvesztés végrehajtását elrendelik.
 
@@ -1696,9 +1697,9 @@ A halmazati és az összbüntetés
                c)   a 109. § (2) bekezdés b) pontja és a (3) bekezdés c) pontja esetén a
                     hét év hat hónapi
                szabadságvesztést.
-          (2)  A fiatalkorúval szemben kiszabható szabadságvesztés a 81. § (4) bekezdése
-               vagy a 90. § (2) bekezdése alkalmazása esetén sem haladhatja meg az (1)
-               bekezdés a) és b) pontjában meghatározott mértéket.
+          (2)  A fiatalkorúval szemben kiszabható szabadságvesztés   a 90. § (2) bekezdése
+               alkalmazása esetén sem haladhatja meg az (1) bekezdés a) és b) pontjában
+               meghatározott mértéket.
           (3)  Javítóintézeti nevelés és szabadságvesztés találkozása esetén
                összbüntetésként a szabadságvesztést kell végrehajtani. Ennek tartamát a
                bíróság legfeljebb egy évvel meghosszabbíthatja, ha erre a 106. §-ban
@@ -1830,7 +1831,7 @@ A katonai mellékbüntetések
 
 A lefokozás
 
-137. §    (1)  A lefokozással a katona elveszti a rendfokozatát.
+137. §    (1)  A lefokozással a katona elveszti a rendfokozatát és címzetes rendfokozatát.
           (2)  Lefokozást akkor kell alkalmazni, ha az elkövető a rendfokozatra
                méltatlanná vált.
 
@@ -1850,12 +1851,21 @@ A rendfokozatban visszavetés
 
 A várakozási idő meghosszabbítása
 
-140. §    (1)  A várakozási idő meghosszabbítása esetén a katonának a soron következő
-               rendfokozatba előlépésre előírt várakozási ideje meghosszabbodik. A
-               meghosszabbítást években kell meghatározni, annak tartama nem haladhatja
-               meg a rendfokozatra előírt várakozási idő felét.
+140. §    (1)  A várakozási idő meghosszabbítása esetén a Magyar Honvédség tényleges
+               állományú tagjának a soron következő rendfokozatba előlépésre előírt
+               várakozási ideje meghosszabbodik. A meghosszabbítást években kell
+               meghatározni, annak tartama nem haladhatja meg a rendfokozatra előírt
+               várakozási idő felét.
+          (1a) A várakozási idő meghosszabbítása esetén a rendőrség, az Országgyűlési
+               Őrség, a büntetés-végrehajtási szervezet, a hivatásos katasztrófavédelmi
+               szerv és a polgári nemzetbiztonsági szolgálatok hivatásos állományú tagja
+               esetében a soron következő fizetési fokozatba előresorolásra előírt
+               várakozási idő meghosszabbodik. A meghosszabbítást években kell
+               meghatározni, annak tartama nem haladhatja meg a fizetési fokozathoz
+               rendelt várakozási idő felét.
           (2)  A várakozási időt akkor kell meghosszabbítani, ha a katonának az
-               előléptetést hosszabb várakozási idő eltöltésével kell kiérdemelnie.
+               előléptetést vagy az előresorolást hosszabb várakozási idő eltöltésével
+               kell kiérdemelnie.
           (3)  A Magyar Honvédség tényleges állományú tagja esetében az (1) és (2)
                bekezdésben meghatározott várakozási időn kötelező várakozási időt kell
                érteni.
@@ -1864,8 +1874,8 @@ Mentesítés a büntetett előélethez fűződő hátrányok alól
 
 141. §    (1)  A törvény erejénél fogva áll be a mentesítés a lefokozás és a szolgálati
                viszony megszüntetése esetén az ítélet jogerőre emelkedésének napján.
-          (2)  A bíróság az elítéltet a büntetett előélethez fűződő hátrányok alól
-               előzetes mentesítésben részesítheti, ha a szabadságvesztést katonai
+          (2)  A bíróság ítéletében az elítéltet a büntetett előélethez fűződő hátrányok
+               alól előzetes mentesítésben részesítheti, ha a szabadságvesztést katonai
                fogdában rendeli végrehajtani. Ez a mentesítés a büntetés kiállásának,
                illetve végrehajthatósága megszűnésének napján áll be.
           (3)  Katonai mellékbüntetés alkalmazása az elítélt mentesítését nem akadályozza.
@@ -2545,7 +2555,7 @@ Kábítószer birtoklása
           (5)  Aki az (1)–(3) bekezdésben meghatározott bűncselekmény elkövetésére
                irányuló előkészületet követ el, bűntett miatt három évig terjedő
                szabadságvesztéssel büntetendő.
-          (6)  Ha bűncselekményt csekély mennyiségű kábítószerre követik el, a büntetés
+          (6)  Ha a bűncselekményt csekély mennyiségű kábítószerre követik el, a büntetés
                bűntett miatt
                a)   az (1) és (2) bekezdésben meghatározott esetben három évig,
                b)   a (3) bekezdés ab) és ac) pontjában meghatározott esetben egy évtől öt
@@ -3547,7 +3557,8 @@ Becsület csorbítására alkalmas hamis hang- vagy képfelvétel nyilvánosság
 226/B. §  (1)  Aki abból a célból, hogy más vagy mások becsületét csorbítsa, hamis,
                hamisított vagy valótlan tartalmú hang- vagy képfelvételt hozzáférhetővé
                tesz, vétség miatt két évig terjedő szabadságvesztéssel büntetendő.
-          (2)  A büntetés három évig terjedő szabadságvesztés, ha a bűncselekményt
+          (2)  A büntetés bűntett miatt három évig terjedő szabadságvesztés, ha a
+               bűncselekményt
                a)   nagy nyilvánosság előtt, vagy
                b)   jelentős érdeksérelmet okozva
                követik el.
@@ -4142,8 +4153,8 @@ Minősített adattal visszaélés
           (5)  Az a minősített adat felhasználására törvény alapján jogosult személy, aki
                a (2) bekezdés c)–d) pontjaiban meghatározott minősített adattal
                visszaélésre irányuló előkészületet követ el, az ott tett megkülönböztetés
-               szerint három évig, illetve egy évtől öt évig terjedő szabadságvesztéssel
-               büntetendő.
+               szerint bűntett miatt három évig, illetve egy évtől öt évig terjedő
+               szabadságvesztéssel büntetendő.
           (6)  Az a minősített adat felhasználására törvény alapján jogosult személy, aki
                a bűncselekményt gondatlanságból követi el, a (2) bekezdésben meghatározott
                megkülönböztetés szerint vétség miatt elzárással, egy évig, két évig,
@@ -4381,10 +4392,10 @@ Fogolyszökés
 283. §    (1)  Aki a büntetőeljárás alatt, illetve a szabadságvesztés vagy az elzárás
                végrehajtása során a hatóság őrizetéből megszökik, bűntett miatt három évig
                terjedő szabadságvesztéssel büntetendő.
-          (2)  Aki abból a célból, hogy az ellene folytatott büntetőeljárás alól oly módon
-               vonja ki magát, hogy a lakhelyelhagyási tilalom tartama alatt a számára
-               kijelölt területet, körzetet vagy a házi őrizet tartama alatt a kijelölt
-               lakást és az ahhoz tartozó bekerített helyet a házi őrizet szabályainak
+          (2)  Aki abból a célból, hogy az ellene folytatott büntetőeljárás alól kivonja
+               magát, a lakhelyelhagyási tilalom tartama alatt a számára kijelölt
+               területet, körzetet vagy a házi őrizet tartama alatt a kijelölt lakást és
+               az ahhoz tartozó bekerített helyet a kényszerintézkedés szabályainak
                megszegésével elhagyja, vétség miatt két évig terjedő szabadságvesztéssel
                büntetendő.
           (3)  A büntetés egy évig terjedő szabadságvesztés, ha az elítélt a
@@ -4392,6 +4403,12 @@ Fogolyszökés
                félbeszakítás, eltávozás, rövid tartamú eltávozás vagy kimaradás tartamának
                elteltével abból a célból nem tér vissza, hogy a büntetés végrehajtása alól
                kivonja magát.
+          (3a) A büntetés egy évig terjedő szabadságvesztés, ha az elítélt a reintegrációs
+               őrizet tartama alatt a számára kijelölt lakást és az ahhoz tartozó
+               bekerített helyet vagy a számára meghatározott napirend szerinti
+               tartózkodási helyet a reintegrációs őrizet szabályainak megszegésével abból
+               a célból hagyja el, hogy a szabadságvesztés végrehajtása alól kivonja
+               magát.
           (4)  Korlátlanul enyhíthető a fogolyszökés elkövetőjének büntetése, ha – mielőtt
                tartózkodási helye a hatóság tudomására jutna – önként feladja magát.
 
@@ -4528,22 +4545,17 @@ Vesztegetés elfogadása
                a hatóságnak bejelenti, a kapott jogtalan vagyoni előnyt vagy annak
                ellenértékét a hatóságnak átadja, és az elkövetés körülményeit feltárja.
 
-Értelmező rendelkezés
-
-292. §         A 290–291. § alkalmazásában külföldi gazdálkodó szervezet az a szervezet,
-               amely a személyes joga szerint jogi személyiséggel rendelkezik, és az adott
-               szervezeti formában gazdasági tevékenység végzésére jogosult.
 
 Hivatali vesztegetés
 
 293. §    (1)  Aki hivatalos személyt a működésével kapcsolatban neki vagy rá tekintettel
-               másnak adott vagy ígért előnnyel befolyásolni törekszik, bűntett miatt
-               három évig terjedő szabadságvesztéssel büntetendő.
-          (2)  Egy évtől öt évig terjedő szabadságvesztéssel büntetendő a vesztegető, ha
-               az előnyt azért adja vagy ígéri, hogy a hivatalos személy a hivatali
+               másnak adott vagy ígért jogtalan előnnyel befolyásolni törekszik, bűntett
+               miatt három évig terjedő szabadságvesztéssel büntetendő.
+          (2)  Egy évtől öt évig terjedő szabadságvesztéssel büntetendő a vesztegető, ha a
+               jogtalan előnyt azért adja vagy ígéri, hogy a hivatalos személy a hivatali
                kötelességét megszegje, a hatáskörét túllépje, vagy a hivatali helyzetével
                egyébként visszaéljen.
-          (3)  Az (1)–(2) bekezdés szerint büntetendő, aki az ott meghatározott
+          (3)  Az (1) és (2) bekezdés szerint büntetendő, aki az ott meghatározott
                bűncselekményt külföldi hivatalos személy működésével kapcsolatban követi
                el.
           (4)  Az (1) bekezdés szerint büntetendő a gazdálkodó szervezet vezetője, illetve
@@ -4565,16 +4577,17 @@ Hivatali vesztegetés
 
 Hivatali vesztegetés elfogadása
 
-294. §    (1)  Az a hivatalos személy, aki a működésével kapcsolatban előnyt kér, az
-               előnyt vagy ennek ígéretét elfogadja, illetve a rá tekintettel harmadik
-               személynek adott vagy ígért előny kérőjével vagy elfogadójával egyetért,
-               bűntett miatt egy évtől öt évig terjedő szabadságvesztéssel büntetendő.
+294. §    (1)  Az a hivatalos személy, aki a működésével kapcsolatban jogtalan előnyt kér,
+               a jogtalan előnyt vagy ennek ígéretét elfogadja, illetve a rá tekintettel
+               harmadik személynek adott vagy ígért jogtalan előny kérőjével vagy
+               elfogadójával egyetért, bűntett miatt egy évtől öt évig terjedő
+               szabadságvesztéssel büntetendő.
           (2)  A büntetés két évtől nyolc évig terjedő szabadságvesztés, ha a
                bűncselekményt vezető beosztású hivatalos személy követi el.
           (3)  Az (1) bekezdésben meghatározott esetben két évtől nyolc évig, a (2)
                bekezdésben meghatározott esetben öt évtől tíz évig terjedő
                szabadságvesztéssel büntetendő, aki
-               a)   az előnyért
+               a)   a jogtalan előnyért
                     aa)  hivatali kötelességét megszegi,
                     ab)  hatáskörét túllépi, vagy
                     ac)  hivatali helyzetével egyébként visszaél, illetve
@@ -4592,15 +4605,15 @@ Vesztegetés bírósági vagy hatósági eljárásban
 
 295. §    (1)  Aki azért, hogy más a bírósági, választottbírósági vagy hatósági eljárásban
                törvényes jogait ne gyakorolja, vagy kötelezettségeit ne teljesítse, neki
-               vagy rá tekintettel másnak előnyt ad vagy ígér, bűntett miatt három évig
-               terjedő szabadságvesztéssel büntetendő.
+               vagy rá tekintettel másnak jogtalan előnyt ad vagy ígér, bűntett miatt
+               három évig terjedő szabadságvesztéssel büntetendő.
           (2)  Az (1) bekezdés szerint büntetendő, aki az ott meghatározott bűncselekményt
                törvénnyel kihirdetett nemzetközi szerződéssel vagy az Egyesült Nemzetek
                Biztonsági Tanácsa kötelező határozatával létrehozott nemzetközi büntető
                bíróság, illetve az Európai Unió Bírósága előtt folyamatban lévő eljárás
                során vagy azzal kapcsolatban követi el.
           (3)  A büntetés korlátlanul enyhíthető – különös méltánylást érdemlő esetben
-               mellőzhető – az (1)–(2) bekezdésben meghatározott bűncselekmény
+               mellőzhető – az (1) és (2) bekezdésben meghatározott bűncselekmény
                elkövetőjével szemben, ha a bűncselekményt, mielőtt az a hatóság tudomására
                jutott volna, a hatóságnak bejelenti, és az elkövetés körülményeit
                feltárja.
@@ -4608,31 +4621,23 @@ Vesztegetés bírósági vagy hatósági eljárásban
 Vesztegetés elfogadása bírósági vagy hatósági eljárásban
 
 296. §    (1)  Aki azért, hogy a bírósági, választottbírósági vagy hatósági eljárásban
-               törvényes jogait ne gyakorolja, vagy kötelezettségeit ne teljesítse, előnyt
-               kér, az előnyt vagy ennek ígéretét elfogadja, illetve a rá tekintettel
-               harmadik személynek adott vagy ígért előny kérőjével vagy elfogadójával
-               egyetért, bűntett miatt egy évtől öt évig terjedő szabadságvesztéssel
-               büntetendő.
+               törvényes jogait ne gyakorolja, vagy kötelezettségeit ne teljesítse,
+               jogtalan előnyt kér, a jogtalan előnyt vagy ennek ígéretét elfogadja,
+               illetve a rá tekintettel harmadik személynek adott vagy ígért jogtalan
+               előny kérőjével vagy elfogadójával egyetért, bűntett miatt egy évtől öt
+               évig terjedő szabadságvesztéssel büntetendő.
           (2)  Az (1) bekezdés szerint büntetendő, aki az ott meghatározott bűncselekményt
                törvénnyel kihirdetett nemzetközi szerződéssel vagy az Egyesült Nemzetek
                Biztonsági Tanácsa kötelező határozatával létrehozott nemzetközi büntető
                bíróság, illetve az Európai Unió Bírósága előtt folyamatban lévő eljárás
                során vagy azzal kapcsolatban követi el.
           (3)  A büntetés korlátlanul enyhíthető – különös méltánylást érdemlő esetben
-               mellőzhető – az (1)–(2) bekezdésben meghatározott bűncselekmény
+               mellőzhető – az (1) és (2) bekezdésben meghatározott bűncselekmény
                elkövetőjével szemben, ha a bűncselekményt, mielőtt az a hatóság tudomására
                jutott volna, a hatóságnak bejelenti, a kapott jogtalan vagyoni előnyt vagy
                annak ellenértékét a hatóságnak átadja, és az elkövetés körülményeit
                feltárja.
 
-Vesztegetés feljelentésének elmulasztása
-
-297. §    (1)  Az a hivatalos személy, aki e minőségében hitelt érdemlő tudomást szerez
-               arról, hogy még le nem leplezett vesztegetést vagy vesztegetés elfogadását
-               követtek el, és erről a hatóságnak, mihelyt teheti, nem tesz feljelentést,
-               bűntett miatt három évig terjedő szabadságvesztéssel büntetendő.
-          (2)  Vesztegetés feljelentésének elmulasztása miatt az elkövető hozzátartozója
-               nem büntethető.
 
 Befolyás vásárlása
 
@@ -4643,36 +4648,67 @@ Befolyás vásárlása
                     személyt befolyásol, másnak
                előnyt ad vagy ígér, bűntett miatt három évig terjedő szabadságvesztéssel
                büntetendő.
-          (2)  Aki az (1) bekezdésben meghatározott bűncselekményt gazdálkodó szervezet,
-               illetve egyesület részére vagy érdekében tevékenységet végző személlyel
-               kapcsolatban követi el, vétség miatt két évig terjedő szabadságvesztéssel
-               büntetendő.
-          (3)  Az (1) bekezdés szerint büntetendő, aki az ott meghatározott bűncselekményt
-               külföldi hivatalos személlyel kapcsolatban követi el.
+          (1a) Az (1) bekezdés szerint büntetendő, aki magát hivatalos személynek kiadó
+               személy részére vagy rá tekintettel másnak jogtalan előnyt ad vagy ígér.
+          (2)  Aki az (1) bekezdésben meghatározott bűncselekményt gazdálkodó szervezet
+               részére vagy érdekében tevékenységet végző személlyel kapcsolatban követi
+               el, vétség miatt két évig terjedő szabadságvesztéssel büntetendő.
+          (3)  Az (1) bekezdés szerint büntetendő, aki az (1) és (1a) bekezdésben
+               meghatározott bűncselekményt külföldi hivatalos személlyel kapcsolatban
+               követi el.
+          (4)  A büntetés korlátlanul enyhíthető – különös méltánylást érdemlő esetben
+               mellőzhető – az (1)–(2) bekezdésben meghatározott bűncselekmény
+               elkövetőjével szemben, ha a bűncselekményt, mielőtt az a hatóság tudomására
+               jutott volna, a hatóságnak bejelenti, és az elkövetés körülményeit
+               feltárja.
 
 Befolyással üzérkedés
 
 299. §    (1)  Aki arra hivatkozással, hogy hivatalos személyt befolyásol, a maga vagy más
-               számára előnyt kér, az előnyt vagy ennek ígéretét elfogadja, illetve a rá
-               tekintettel harmadik személynek adott vagy ígért előny kérőjével vagy
-               elfogadójával egyetért, bűntett miatt egy évtől öt évig terjedő
-               szabadságvesztéssel büntetendő.
+               számára jogtalan előnyt kér, a jogtalan előnyt vagy ennek ígéretét
+               elfogadja, illetve a rá tekintettel harmadik személynek adott vagy ígért
+               jogtalan előny kérőjével vagy elfogadójával egyetért, bűntett miatt egy
+               évtől öt évig terjedő szabadságvesztéssel büntetendő.
           (2)  A büntetés két évtől nyolc évig terjedő szabadságvesztés, ha az elkövető
-               a)   azt állítja, vagy azt a látszatot kelti, hogy hivatalos személyt
+               a)   azt állítja vagy azt a látszatot kelti, hogy hivatalos személyt
                     veszteget,
                b)   hivatalos személynek adja ki magát, vagy
                c)   a bűncselekményt üzletszerűen követi el.
-          (3)  Az (1)–(2) bekezdés szerint büntetendő, aki az ott meghatározott
-               bűncselekményt külföldi hivatalos személlyel kapcsolatban követi el.
-
-300. §    (1)  Aki a 299. § (1) bekezdésében meghatározott bűncselekményt gazdálkodó
-               szervezet részére vagy érdekében tevékenységet végző személlyel
-               kapcsolatban követi el, vétség miatt két évig terjedő szabadságvesztéssel
-               büntetendő.
-          (2)  A büntetés bűntett miatt három évig terjedő szabadságvesztés, ha az (1)
+          (3)  Aki az (1) bekezdésében meghatározott bűncselekményt gazdálkodó szervezet
+               részére vagy érdekében tevékenységet végző személlyel kapcsolatban követi
+               el, vétség miatt két évig terjedő szabadságvesztéssel büntetendő.
+          (4)  A büntetés bűntett miatt három évig terjedő szabadságvesztés, ha a (3)
                bekezdésben meghatározott bűncselekményt gazdálkodó szervezet részére vagy
                érdekében tevékenységet végző, önálló intézkedésre jogosult személlyel
                kapcsolatban követik el.
+          (5)  Az (1) és (2) bekezdés szerint büntetendő, aki az ott meghatározott
+               bűncselekményt külföldi hivatalos személlyel kapcsolatban követi el.
+          (6)  A büntetés korlátlanul enyhíthető – különös méltánylást érdemlő esetben
+               mellőzhető – az (1) és (3) bekezdésben meghatározott bűncselekmény
+               elkövetőjével szemben, ha a bűncselekményt, mielőtt az a hatóság tudomására
+               jutott volna, a hatóságnak bejelenti, a kapott jogtalan vagyoni előnyt vagy
+               annak ellenértékét a hatóságnak átadja, és az elkövetés körülményeit
+               feltárja.
+
+Korrupciós bűncselekmény feljelentésének elmulasztása
+
+300. §    (1)  Az a hivatalos személy, aki e minőségében hitelt érdemlő tudomást szerez
+               arról, hogy még le nem leplezett vesztegetést, vesztegetés elfogadását,
+               hivatali vesztegetést, hivatali vesztegetés elfogadását, vesztegetést
+               bírósági vagy hatósági eljárásban, vesztegetés elfogadását bírósági vagy
+               hatósági eljárásban, befolyás vásárlását vagy befolyással üzérkedést
+               követtek el, és erről a hatóságnak, mihelyt teheti, nem tesz feljelentést,
+               bűntett miatt három évig terjedő szabadságvesztéssel büntetendő.
+          (2)  Korrupciós bűncselekmény feljelentésének elmulasztása miatt az elkövető
+               hozzátartozója nem büntethető.
+
+Értelmező rendelkezés
+
+300/A. §  (1)  E fejezet alkalmazásában kötelességszegés a kötelességnek előny adásához
+               kötött teljesítése is.
+          (2)  A 290. § és a 291. § alkalmazásában külföldi gazdálkodó szervezet az a
+               szervezet, amely a személyes joga szerint jogi személyiséggel rendelkezik
+               és az adott szervezeti formában gazdasági tevékenység végzésére jogosult.
 
 XXVIII. FEJEZET
 A HIVATALI BŰNCSELEKMÉNYEK
@@ -4888,7 +4924,7 @@ Terrorcselekmény
                     visszaélés [330. § (1)–(2) bekezdés],
                h)   a rablás [365. § (1)–(4) bekezdés] és a rongálás [371. § (1)–(6)
                     bekezdés],
-               i)   az információs rendszer vagy adat megsértése [423. § (1)–(3)
+               i)   az információs rendszer vagy adat megsértése [423. § (1)–(4)
                     bekezdés].
 
 315. §    (1)  Aki a 314. § (1) vagy (2) bekezdésében meghatározott bűntett elkövetésére
@@ -5045,7 +5081,8 @@ Lőfegyverrel vagy lőszerrel visszaélés
                ország területére behozza, onnan kiviszi, vagy azon átszállítja, vétség
                miatt két évig terjedő szabadságvesztéssel büntetendő.
           (5)  Aki az (1)–(3) bekezdésben meghatározott bűncselekményre irányuló
-               előkészületet követ el, három évig terjedő szabadságvesztéssel büntetendő.
+               előkészületet követ el, bűntett miatt három évig terjedő
+               szabadságvesztéssel büntetendő.
           (6)  E § alkalmazásában csekély mennyiség a legfeljebb tíz darab lőszer.
 
 XXXI. FEJEZET
@@ -5632,9 +5669,11 @@ Veszélyes állat, illetve veszélyes eb tartásával kapcsolatos kötelezettsé
 Tiltott szerencsejáték szervezése
 
 360. §         Aki
-               a)   tiltott szerencsejátékot rendszeresen szervez, vagy
-               b)   tiltott szerencsejáték rendszeres szervezéséhez helyiséget bocsát
-                    rendelkezésre,
+               a)   tiltott szerencsejátékot rendszeresen szervez,
+               b)   tiltott szerencsejáték rendszeres szervezéséhez helyiséget vagy
+                    eszközt bocsát rendelkezésre, vagy
+               c)   tiltott szerencsejátékban való részvételre nagy nyilvánosság előtt
+                    felhív,
                bűntett miatt három évig terjedő szabadságvesztéssel büntetendő.
 
 Járványügyi szabályszegés
@@ -7782,6 +7821,13 @@ ZÁRÓ RÉSZ
                végzett humanitárius tevékenységet, békefenntartást vagy humanitárius
                műveletet említ, azon a honvédelemről és a Magyar Honvédségről szóló
                törvényben meghatározott fogalmakat kell érteni.
+          (3a) Ahol e törvény rendfokozatot említ, azon a Magyar Honvédség tényleges
+               állományú tagja esetében a viselt rendfokozatot, a rendőrség, az
+               Országgyűlési Őrség, a büntetés-végrehajtási szervezet, a hivatásos
+               katasztrófavédelmi szerv és a polgári nemzetbiztonsági szolgálatok
+               hivatásos állományú tagja esetében a betöltött szolgálati beosztás
+               besorolása és fizetési fokozata alapján meghatározott rendfokozatot kell
+               érteni.
           (4)  Ahol e törvény szigorúan titkos, titkos, bizalmas, illetve korlátozott
                terjesztésű minősítésű adatot említ, azon a minősített adat védelméről
                szóló törvényben meghatározott nemzeti vagy külföldi minősített adatot kell
@@ -7888,6 +7934,28 @@ Egyes bűncselekmények értékhatára és szabálysértési alakzata
           (3)  Nem valósul meg bűncselekmény, illetve vámszabálysértés valósul meg, ha a
                költségvetési csalással okozott vagyoni hátrány a százezer forintot nem
                haladja meg.
+          (4)  Bűncselekmény valósul meg, ha az ugyanazon elkövető által, egy éven belül
+               elkövetett és együttesen elbírált
+               a)   ugyanolyan tulajdon elleni szabálysértés esetén a dolog értéke, az
+                    okozott kár, illetve az okozott vagyoni hátrány a (2) bekezdés a)–c)
+                    pontjában meghatározott összeget,
+               b)   szerzői vagy szerzői joghoz kapcsolódó jogok megsértése esetén az
+                    üreshordozó díj, illetve a reprográfiai díj a (2) bekezdés d)
+                    pontjában meghatározott összeget,
+               c)   iparjogvédelmi jogok megsértése esetén a vagyoni hátrány a (2)
+                    bekezdés e) pontjában meghatározott összeget,
+               d)   rossz minőségű termék forgalomba hozatala vagy a versenytárs utánzása
+                    esetén a termék, illetve áru értéke a (2) bekezdés f) pontjában
+                    meghatározott összeget,
+               e)   vámszabálysértés esetén a vagyoni hátrány a (3) bekezdésben
+                    meghatározott összeget
+               érték-egybefoglalás folytán meghaladja.
+          (5)  Bűncselekmény valósul meg ugyanazon elkövető által elkövetett és együttesen
+               elbírált szerzői vagy szerzői joghoz kapcsolódó jogok megsértése
+               szabálysértés esetén, ha az egyes cselekményekkel más vagy mások, a szerzői
+               jogról szóló törvény alapján fennálló szerzői vagy ahhoz kapcsolódó jogát
+               vagy jogait a (2) bekezdés d) pontjában meghatározott összeget meghaladó
+               vagyoni hátrányt okozva sértik meg.
 
 Hatálybalépés
 
@@ -8085,4 +8153,8 @@ Az Európai Unió jogának való megfelelés
                          ellenőrzési rendszer kialakításáról szóló, 2009. május 5-i
                          428/2009/EK tanácsi rendelet 24. cikkének
                végrehajtásához szükséges rendelkezéseket állapít meg.
+          (3)  E törvény 216. § (1) és (4) bekezdése, valamint 332. és 333. §-a a
+               rasszizmus és az idegengyűlölet egyes formái és megnyilvánulásai elleni,
+               büntetőjogi eszközökkel történő küzdelemről szóló, 2008. november 28-i
+               2008/913/IB tanácsi kerethatározat 1. cikkének való megfelelést szolgálja.
 

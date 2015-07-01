@@ -1947,7 +1947,7 @@
             },
             {
               "identifier": "b",
-              "intro": "a kétévi vagy ennél hosszabb tartamú, és",
+              "intro": "a szabadságvesztés kétévi vagy ennél hosszabb tartamú, és",
               "children": [
                 {
                   "identifier": "ba",
@@ -2198,20 +2198,12 @@
       "children": [
         {
           "identifier": "1",
-          "text": "Életfogytig tartó szabadságvesztés azzal szemben szabható ki, aki a bűncselekmény elkövetésekor a huszadik életévét betöltötte. E rendelkezés a 81. § (4) bekezdése és a 90. § (2) bekezdése alapján kiszabható életfogytig tartó szabadságvesztésre is vonatkozik.",
+          "text": "Életfogytig tartó szabadságvesztés azzal szemben szabható ki, aki a bűncselekmény elkövetésekor a huszadik életévét betöltötte. E rendelkezés   a 90. § (2) bekezdése alapján kiszabható életfogytig tartó szabadságvesztésre is vonatkozik.",
           "act_id_abbreviations": [],
           "outgoing_references": [
             {
-              "start_pos": 144,
-              "end_pos": 163,
-              "reference": {
-                "article": "81",
-                "paragraph": "4"
-              }
-            },
-            {
-              "start_pos": 169,
-              "end_pos": 188,
+              "start_pos": 146,
+              "end_pos": 165,
               "reference": {
                 "article": "90",
                 "paragraph": "2"
@@ -3404,7 +3396,7 @@
         },
         {
           "identifier": "3",
-          "text": "A közügyektől eltiltott az ítélet jogerőre emelkedésével elveszti mindazon tagságát, állását, tisztségét, katonai rendfokozatát, megbízatását és kitüntetését, amelynek elnyerését a (2) bekezdés kizárja.",
+          "text": "A közügyektől eltiltott az ítélet jogerőre emelkedésével elveszti mindazon tagságát, állását, tisztségét, katonai rendfokozatát, megbízatását és kitüntetését, amelynek elnyerését a (2) bekezdés kizárja, valamint címzetes rendfokozatát.",
           "act_id_abbreviations": [],
           "outgoing_references": [
             {
@@ -4184,7 +4176,7 @@
             },
             {
               "identifier": "b",
-              "text": "ha az elkövetőt megrovásban részesítették,",
+              "text": "  az elkövetőt megrovásban részesítették,",
               "act_id_abbreviations": [],
               "outgoing_references": [],
               "semantic_data": [],
@@ -4539,7 +4531,7 @@
             },
             {
               "identifier": "b",
-              "text": "ha az elkövetőt megrovásban részesítették,",
+              "text": "  az elkövetőt megrovásban részesítették,",
               "act_id_abbreviations": [],
               "outgoing_references": [],
               "semantic_data": [],
@@ -4756,14 +4748,17 @@
         },
         {
           "identifier": "4",
-          "text": "Ha a bűnhalmazatban levő bűncselekmények közül legalább három különböző időpontokban elkövetett befejezett személy elleni erőszakos bűncselekmény, a (2) bekezdés szerinti büntetési tétel felső határa a kétszeresére emelkedik. Ha a büntetési tétel így felemelt felső határa a húsz évet meghaladná, vagy a bűnhalmazatban lévő bűncselekmények bármelyike életfogytig tartó szabadságvesztéssel is büntethető, az elkövetővel szemben életfogytig tartó szabadságvesztést kell kiszabni. Ha azonban e törvény Általános Része lehetővé teszi, a büntetés korlátlanul enyhíthető.",
+          "text": "Ha ennek feltételei az adott bűncselekmény vonatkozásában fennállnak, a bűnhalmazatban lévő bűncselekmény büntetési tételét a különös, a többszörös és az erőszakos többszörös visszaesőkre, továbbá a bűnszervezetben történő elkövetésre vonatkozó rendelkezések alapján, a (2) és (3) bekezdés alkalmazását megelőzően kell megállapítani.",
           "act_id_abbreviations": [],
           "outgoing_references": [
             {
-              "start_pos": 149,
-              "end_pos": 161,
+              "start_pos": 270,
+              "end_pos": 289,
               "reference": {
-                "paragraph": "2"
+                "paragraph": [
+                  "2",
+                  "3"
+                ]
               }
             }
           ],
@@ -5209,26 +5204,15 @@
       "children": [
         {
           "identifier": "1",
-          "text": "A különös és a többszörös visszaesővel szemben – ha e törvény másként nem rendelkezik – az újabb bűncselekmény büntetési tételének felső határa szabadságvesztés esetén a felével emelkedik, de nem haladhatja meg a huszonöt évet. Halmazati büntetés esetén a 81. § (3) bekezdése szerinti büntetési tételt, tárgyalásról lemondás esetén a 83. § (1)–(2) bekezdése szerinti büntetési tételt kell a felével emelni.",
+          "text": "A különös és a többszörös visszaesővel szemben az újabb bűncselekmény büntetési tételének felső határa szabadságvesztés esetén a felével emelkedik, de nem haladhatja meg a huszonöt évet. Tárgyalásról lemondás esetén a 83. § (2) bekezdése szerinti büntetési tételt kell a felével emelni.",
           "act_id_abbreviations": [],
           "outgoing_references": [
             {
-              "start_pos": 256,
-              "end_pos": 275,
-              "reference": {
-                "article": "81",
-                "paragraph": "3"
-              }
-            },
-            {
-              "start_pos": 334,
-              "end_pos": 357,
+              "start_pos": 218,
+              "end_pos": 237,
               "reference": {
                 "article": "83",
-                "paragraph": [
-                  "1",
-                  "2"
-                ]
+                "paragraph": "2"
               }
             }
           ],
@@ -5289,20 +5273,12 @@
         },
         {
           "identifier": "2",
-          "text": "Az erőszakos többszörös visszaesővel szemben az erőszakos többszörös visszaesőkénti minősítést megalapozó, súlyosabban büntetendő személy elleni erőszakos bűncselekmény büntetési tételének felső határa szabadságvesztés esetén a kétszeresére emelkedik. Ha a büntetési tétel így felemelt felső határa a húsz évet meghaladná, vagy a törvény szerint a bűncselekmény életfogytig tartó szabadságvesztéssel is büntethető, az elkövetővel szemben életfogytig tartó szabadságvesztést kell kiszabni. Halmazati büntetés esetén a 81. § (3) bekezdése szerinti büntetési tételt, tárgyalásról lemondás esetén a 83. § (2) bekezdése szerinti büntetési tételt kell a kétszeresére emelni.",
+          "text": "Az erőszakos többszörös visszaesővel szemben az erőszakos többszörös visszaesőkénti minősítést megalapozó bűncselekmény büntetési tételének felső határa szabadságvesztés esetén a kétszeresére emelkedik. Ha a büntetési tétel így felemelt felső határa a húsz évet meghaladná, vagy a törvény szerint a bűncselekmény életfogytig tartó szabadságvesztéssel is büntethető, az elkövetővel szemben életfogytig tartó szabadságvesztést kell kiszabni. Tárgyalásról lemondás esetén a 83. § (2) bekezdése szerinti büntetési tételt kell a kétszeresére emelni.",
           "act_id_abbreviations": [],
           "outgoing_references": [
             {
-              "start_pos": 517,
-              "end_pos": 536,
-              "reference": {
-                "article": "81",
-                "paragraph": "3"
-              }
-            },
-            {
-              "start_pos": 595,
-              "end_pos": 614,
+              "start_pos": 471,
+              "end_pos": 490,
               "reference": {
                 "article": "83",
                 "paragraph": "2"
@@ -5358,26 +5334,15 @@
       "children": [
         {
           "identifier": "1",
-          "text": "Azzal szemben, aki a szándékos bűncselekményt bűnszervezetben követte el, a bűncselekmény büntetési tételének felső határa a kétszeresére emelkedik, de a huszonöt évet nem haladhatja meg. Halmazati büntetés esetén a 81. § (3) bekezdése szerinti büntetési tételt, tárgyalásról lemondás esetén a 83. § (1)–(2) bekezdése szerinti büntetési tételt kell alapul venni.",
+          "text": "Azzal szemben, aki a szándékos bűncselekményt bűnszervezetben követte el, a bűncselekmény büntetési tételének felső határa a kétszeresére emelkedik, de a huszonöt évet nem haladhatja meg. Tárgyalásról lemondás esetén a 83. § (2) bekezdése szerinti büntetési tételt kell alapul venni.",
           "act_id_abbreviations": [],
           "outgoing_references": [
             {
-              "start_pos": 216,
-              "end_pos": 235,
-              "reference": {
-                "article": "81",
-                "paragraph": "3"
-              }
-            },
-            {
-              "start_pos": 294,
-              "end_pos": 317,
+              "start_pos": 219,
+              "end_pos": 238,
               "reference": {
                 "article": "83",
-                "paragraph": [
-                  "1",
-                  "2"
-                ]
+                "paragraph": "2"
               }
             }
           ],
@@ -5873,7 +5838,7 @@
         },
         {
           "identifier": "3",
-          "text": "Az (1) bekezdés d) pontja esetében a mentesítés nem áll be, illetve hatályát veszti, ha a szabadságvesztés végrehajtását elrendelik. Ilyenkor a mentesítésre a végrehajtandó szabadságvesztésre vonatkozó mentesítési szabályok az irányadók.",
+          "text": "Az (1) bekezdés d) pontja esetében a mentesítés nem áll be,   ha a szabadságvesztés végrehajtását elrendelik. Ilyenkor a mentesítésre a végrehajtandó szabadságvesztésre vonatkozó mentesítési szabályok az irányadók.",
           "act_id_abbreviations": [],
           "outgoing_references": [
             {
@@ -5900,12 +5865,12 @@
       "children": [
         {
           "identifier": "1",
-          "text": "A bíróság az elítéltet kérelemre mentesítésben részesítheti, ha erre érdemes, és a szabadságvesztés kitöltésétől vagy végrehajthatósága megszűnésétől a 100. § (1) bekezdés f)–i) pontjaiban meghatározott idő fele már eltelt.",
+          "text": "Végrehajtandó szabadságvesztés esetén a bíróság az elítéltet kérelemre utólag mentesítésben részesítheti, ha erre érdemes, és a szabadságvesztés kitöltésétől vagy végrehajthatósága megszűnésétől a 100. § (1) bekezdés f)–i) pontjában meghatározott idő fele már eltelt.",
           "act_id_abbreviations": [],
           "outgoing_references": [
             {
-              "start_pos": 152,
-              "end_pos": 188,
+              "start_pos": 197,
+              "end_pos": 232,
               "reference": {
                 "article": "100",
                 "paragraph": "1",
@@ -5920,7 +5885,21 @@
         },
         {
           "identifier": "2",
-          "text": "Az érdemesség elbírálásánál figyelembe kell venni az elítéltnek a büntetés kitöltése óta folytatott életmódját, továbbá azt, hogy – ha erre módja volt – jóvátette-e a bűncselekménnyel okozott sérelmet.",
+          "text": "Felfüggesztett szabadságvesztés esetén a bíróság az elítéltet kérelemre utólag mentesítésben részesítheti, ha erre érdemes, és a próbaidő fele része, de legalább egy év már eltelt.",
+          "act_id_abbreviations": [],
+          "outgoing_references": [],
+          "semantic_data": []
+        },
+        {
+          "identifier": "3",
+          "text": "Az érdemesség elbírálásánál figyelembe kell venni az elítéltnek a büntetés kitöltése, felfüggesztett szabadságvesztés esetén az ítélet jogerőre emelkedése óta folytatott életmódját, továbbá azt, hogy – ha erre módja volt – jóvátette-e a bűncselekménnyel okozott sérelmet.",
+          "act_id_abbreviations": [],
+          "outgoing_references": [],
+          "semantic_data": []
+        },
+        {
+          "identifier": "4",
+          "text": "Felfüggesztett szabadságvesztés esetén az utólagos mentesítés hatályát veszti, ha a felfüggesztett szabadságvesztés végrehajtását elrendelik.",
           "act_id_abbreviations": [],
           "outgoing_references": [],
           "semantic_data": []
@@ -5933,7 +5912,7 @@
       "children": [
         {
           "identifier": "1",
-          "text": "A szabadságvesztés végrehajtásának felfüggesztése esetén a bíróság előzetes mentesítésben részesítheti az elítéltet, ha arra érdemes.",
+          "text": "A szabadságvesztés végrehajtásának felfüggesztése esetén a bíróság ítéletében előzetes mentesítésben részesítheti az elítéltet, ha arra érdemes.",
           "act_id_abbreviations": [],
           "outgoing_references": [],
           "semantic_data": []
@@ -6767,28 +6746,20 @@
         },
         {
           "identifier": "2",
-          "text": "A fiatalkorúval szemben kiszabható szabadságvesztés a 81. § (4) bekezdése vagy a 90. § (2) bekezdése alkalmazása esetén sem haladhatja meg az (1) bekezdés a) és b) pontjában meghatározott mértéket.",
+          "text": "A fiatalkorúval szemben kiszabható szabadságvesztés   a 90. § (2) bekezdése alkalmazása esetén sem haladhatja meg az (1) bekezdés a) és b) pontjában meghatározott mértéket.",
           "act_id_abbreviations": [],
           "outgoing_references": [
             {
-              "start_pos": 54,
-              "end_pos": 73,
-              "reference": {
-                "article": "81",
-                "paragraph": "4"
-              }
-            },
-            {
-              "start_pos": 81,
-              "end_pos": 100,
+              "start_pos": 56,
+              "end_pos": 75,
               "reference": {
                 "article": "90",
                 "paragraph": "2"
               }
             },
             {
-              "start_pos": 142,
-              "end_pos": 173,
+              "start_pos": 117,
+              "end_pos": 148,
               "reference": {
                 "paragraph": "1",
                 "point": [
@@ -7264,7 +7235,7 @@
       "children": [
         {
           "identifier": "1",
-          "text": "A lefokozással a katona elveszti a rendfokozatát.",
+          "text": "A lefokozással a katona elveszti a rendfokozatát és címzetes rendfokozatát.",
           "act_id_abbreviations": [],
           "outgoing_references": [],
           "semantic_data": []
@@ -7338,14 +7309,21 @@
       "children": [
         {
           "identifier": "1",
-          "text": "A várakozási idő meghosszabbítása esetén a katonának a soron következő rendfokozatba előlépésre előírt várakozási ideje meghosszabbodik. A meghosszabbítást években kell meghatározni, annak tartama nem haladhatja meg a rendfokozatra előírt várakozási idő felét.",
+          "text": "A várakozási idő meghosszabbítása esetén a Magyar Honvédség tényleges állományú tagjának a soron következő rendfokozatba előlépésre előírt várakozási ideje meghosszabbodik. A meghosszabbítást években kell meghatározni, annak tartama nem haladhatja meg a rendfokozatra előírt várakozási idő felét.",
+          "act_id_abbreviations": [],
+          "outgoing_references": [],
+          "semantic_data": []
+        },
+        {
+          "identifier": "1a",
+          "text": "A várakozási idő meghosszabbítása esetén a rendőrség, az Országgyűlési Őrség, a büntetés-végrehajtási szervezet, a hivatásos katasztrófavédelmi szerv és a polgári nemzetbiztonsági szolgálatok hivatásos állományú tagja esetében a soron következő fizetési fokozatba előresorolásra előírt várakozási idő meghosszabbodik. A meghosszabbítást években kell meghatározni, annak tartama nem haladhatja meg a fizetési fokozathoz rendelt várakozási idő felét.",
           "act_id_abbreviations": [],
           "outgoing_references": [],
           "semantic_data": []
         },
         {
           "identifier": "2",
-          "text": "A várakozási időt akkor kell meghosszabbítani, ha a katonának az előléptetést hosszabb várakozási idő eltöltésével kell kiérdemelnie.",
+          "text": "A várakozási időt akkor kell meghosszabbítani, ha a katonának az előléptetést vagy az előresorolást hosszabb várakozási idő eltöltésével kell kiérdemelnie.",
           "act_id_abbreviations": [],
           "outgoing_references": [],
           "semantic_data": []
@@ -7388,7 +7366,7 @@
         },
         {
           "identifier": "2",
-          "text": "A bíróság az elítéltet a büntetett előélethez fűződő hátrányok alól előzetes mentesítésben részesítheti, ha a szabadságvesztést katonai fogdában rendeli végrehajtani. Ez a mentesítés a büntetés kiállásának, illetve végrehajthatósága megszűnésének napján áll be.",
+          "text": "A bíróság ítéletében az elítéltet a büntetett előélethez fűződő hátrányok alól előzetes mentesítésben részesítheti, ha a szabadságvesztést katonai fogdában rendeli végrehajtani. Ez a mentesítés a büntetés kiállásának, illetve végrehajthatósága megszűnésének napján áll be.",
           "act_id_abbreviations": [],
           "outgoing_references": [],
           "semantic_data": []
@@ -10205,7 +10183,7 @@
         },
         {
           "identifier": "6",
-          "intro": "Ha bűncselekményt csekély mennyiségű kábítószerre követik el, a büntetés bűntett miatt",
+          "intro": "Ha a bűncselekményt csekély mennyiségű kábítószerre követik el, a büntetés bűntett miatt",
           "children": [
             {
               "identifier": "a",
@@ -14596,7 +14574,7 @@
         },
         {
           "identifier": "2",
-          "intro": "A büntetés három évig terjedő szabadságvesztés, ha a bűncselekményt",
+          "intro": "A büntetés bűntett miatt három évig terjedő szabadságvesztés, ha a bűncselekményt",
           "children": [
             {
               "identifier": "a",
@@ -16726,7 +16704,7 @@
         },
         {
           "identifier": "5",
-          "text": "Az a minősített adat felhasználására törvény alapján jogosult személy, aki a (2) bekezdés c)–d) pontjaiban meghatározott minősített adattal visszaélésre irányuló előkészületet követ el, az ott tett megkülönböztetés szerint három évig, illetve egy évtől öt évig terjedő szabadságvesztéssel büntetendő.",
+          "text": "Az a minősített adat felhasználására törvény alapján jogosult személy, aki a (2) bekezdés c)–d) pontjaiban meghatározott minősített adattal visszaélésre irányuló előkészületet követ el, az ott tett megkülönböztetés szerint bűntett miatt három évig, illetve egy évtől öt évig terjedő szabadságvesztéssel büntetendő.",
           "act_id_abbreviations": [],
           "outgoing_references": [
             {
@@ -17682,7 +17660,7 @@
         },
         {
           "identifier": "2",
-          "text": "Aki abból a célból, hogy az ellene folytatott büntetőeljárás alól oly módon vonja ki magát, hogy a lakhelyelhagyási tilalom tartama alatt a számára kijelölt területet, körzetet vagy a házi őrizet tartama alatt a kijelölt lakást és az ahhoz tartozó bekerített helyet a házi őrizet szabályainak megszegésével elhagyja, vétség miatt két évig terjedő szabadságvesztéssel büntetendő.",
+          "text": "Aki abból a célból, hogy az ellene folytatott büntetőeljárás alól kivonja magát, a lakhelyelhagyási tilalom tartama alatt a számára kijelölt területet, körzetet vagy a házi őrizet tartama alatt a kijelölt lakást és az ahhoz tartozó bekerített helyet a kényszerintézkedés szabályainak megszegésével elhagyja, vétség miatt két évig terjedő szabadságvesztéssel büntetendő.",
           "act_id_abbreviations": [],
           "outgoing_references": [],
           "semantic_data": []
@@ -17690,6 +17668,13 @@
         {
           "identifier": "3",
           "text": "A büntetés egy évig terjedő szabadságvesztés, ha az elítélt a szabadságvesztés végrehajtása során a részére engedélyezett büntetés félbeszakítás, eltávozás, rövid tartamú eltávozás vagy kimaradás tartamának elteltével abból a célból nem tér vissza, hogy a büntetés végrehajtása alól kivonja magát.",
+          "act_id_abbreviations": [],
+          "outgoing_references": [],
+          "semantic_data": []
+        },
+        {
+          "identifier": "3a",
+          "text": "A büntetés egy évig terjedő szabadságvesztés, ha az elítélt a reintegrációs őrizet tartama alatt a számára kijelölt lakást és az ahhoz tartozó bekerített helyet vagy a számára meghatározott napirend szerinti tartózkodási helyet a reintegrációs őrizet szabályainak megszegésével abból a célból hagyja el, hogy a szabadságvesztés végrehajtása alól kivonja magát.",
           "act_id_abbreviations": [],
           "outgoing_references": [],
           "semantic_data": []
@@ -18227,28 +18212,12 @@
       "__type__": "Article"
     },
     {
-      "identifier": "",
-      "title": "Értelmező rendelkezés",
-      "__type__": "Subtitle"
-    },
-    {
       "identifier": "292",
       "children": [
         {
-          "text": "A 290–291. § alkalmazásában külföldi gazdálkodó szervezet az a szervezet, amely a személyes joga szerint jogi személyiséggel rendelkezik, és az adott szervezeti formában gazdasági tevékenység végzésére jogosult.",
+          "text": " ",
           "act_id_abbreviations": [],
-          "outgoing_references": [
-            {
-              "start_pos": 2,
-              "end_pos": 12,
-              "reference": {
-                "article": [
-                  "290",
-                  "291"
-                ]
-              }
-            }
-          ],
+          "outgoing_references": [],
           "semantic_data": []
         }
       ],
@@ -18264,26 +18233,26 @@
       "children": [
         {
           "identifier": "1",
-          "text": "Aki hivatalos személyt a működésével kapcsolatban neki vagy rá tekintettel másnak adott vagy ígért előnnyel befolyásolni törekszik, bűntett miatt három évig terjedő szabadságvesztéssel büntetendő.",
+          "text": "Aki hivatalos személyt a működésével kapcsolatban neki vagy rá tekintettel másnak adott vagy ígért jogtalan előnnyel befolyásolni törekszik, bűntett miatt három évig terjedő szabadságvesztéssel büntetendő.",
           "act_id_abbreviations": [],
           "outgoing_references": [],
           "semantic_data": []
         },
         {
           "identifier": "2",
-          "text": "Egy évtől öt évig terjedő szabadságvesztéssel büntetendő a vesztegető, ha az előnyt azért adja vagy ígéri, hogy a hivatalos személy a hivatali kötelességét megszegje, a hatáskörét túllépje, vagy a hivatali helyzetével egyébként visszaéljen.",
+          "text": "Egy évtől öt évig terjedő szabadságvesztéssel büntetendő a vesztegető, ha a jogtalan előnyt azért adja vagy ígéri, hogy a hivatalos személy a hivatali kötelességét megszegje, a hatáskörét túllépje, vagy a hivatali helyzetével egyébként visszaéljen.",
           "act_id_abbreviations": [],
           "outgoing_references": [],
           "semantic_data": []
         },
         {
           "identifier": "3",
-          "text": "Az (1)–(2) bekezdés szerint büntetendő, aki az ott meghatározott bűncselekményt külföldi hivatalos személy működésével kapcsolatban követi el.",
+          "text": "Az (1) és (2) bekezdés szerint büntetendő, aki az ott meghatározott bűncselekményt külföldi hivatalos személy működésével kapcsolatban követi el.",
           "act_id_abbreviations": [],
           "outgoing_references": [
             {
               "start_pos": 3,
-              "end_pos": 19,
+              "end_pos": 22,
               "reference": {
                 "paragraph": [
                   "1",
@@ -18365,7 +18334,7 @@
       "children": [
         {
           "identifier": "1",
-          "text": "Az a hivatalos személy, aki a működésével kapcsolatban előnyt kér, az előnyt vagy ennek ígéretét elfogadja, illetve a rá tekintettel harmadik személynek adott vagy ígért előny kérőjével vagy elfogadójával egyetért, bűntett miatt egy évtől öt évig terjedő szabadságvesztéssel büntetendő.",
+          "text": "Az a hivatalos személy, aki a működésével kapcsolatban jogtalan előnyt kér, a jogtalan előnyt vagy ennek ígéretét elfogadja, illetve a rá tekintettel harmadik személynek adott vagy ígért jogtalan előny kérőjével vagy elfogadójával egyetért, bűntett miatt egy évtől öt évig terjedő szabadságvesztéssel büntetendő.",
           "act_id_abbreviations": [],
           "outgoing_references": [],
           "semantic_data": []
@@ -18383,7 +18352,7 @@
           "children": [
             {
               "identifier": "a",
-              "intro": "az előnyért",
+              "intro": "a jogtalan előnyért",
               "children": [
                 {
                   "identifier": "aa",
@@ -18492,7 +18461,7 @@
       "children": [
         {
           "identifier": "1",
-          "text": "Aki azért, hogy más a bírósági, választottbírósági vagy hatósági eljárásban törvényes jogait ne gyakorolja, vagy kötelezettségeit ne teljesítse, neki vagy rá tekintettel másnak előnyt ad vagy ígér, bűntett miatt három évig terjedő szabadságvesztéssel büntetendő.",
+          "text": "Aki azért, hogy más a bírósági, választottbírósági vagy hatósági eljárásban törvényes jogait ne gyakorolja, vagy kötelezettségeit ne teljesítse, neki vagy rá tekintettel másnak jogtalan előnyt ad vagy ígér, bűntett miatt három évig terjedő szabadságvesztéssel büntetendő.",
           "act_id_abbreviations": [],
           "outgoing_references": [],
           "semantic_data": []
@@ -18514,12 +18483,12 @@
         },
         {
           "identifier": "3",
-          "text": "A büntetés korlátlanul enyhíthető – különös méltánylást érdemlő esetben mellőzhető – az (1)–(2) bekezdésben meghatározott bűncselekmény elkövetőjével szemben, ha a bűncselekményt, mielőtt az a hatóság tudomására jutott volna, a hatóságnak bejelenti, és az elkövetés körülményeit feltárja.",
+          "text": "A büntetés korlátlanul enyhíthető – különös méltánylást érdemlő esetben mellőzhető – az (1) és (2) bekezdésben meghatározott bűncselekmény elkövetőjével szemben, ha a bűncselekményt, mielőtt az a hatóság tudomására jutott volna, a hatóságnak bejelenti, és az elkövetés körülményeit feltárja.",
           "act_id_abbreviations": [],
           "outgoing_references": [
             {
               "start_pos": 88,
-              "end_pos": 107,
+              "end_pos": 110,
               "reference": {
                 "paragraph": [
                   "1",
@@ -18543,7 +18512,7 @@
       "children": [
         {
           "identifier": "1",
-          "text": "Aki azért, hogy a bírósági, választottbírósági vagy hatósági eljárásban törvényes jogait ne gyakorolja, vagy kötelezettségeit ne teljesítse, előnyt kér, az előnyt vagy ennek ígéretét elfogadja, illetve a rá tekintettel harmadik személynek adott vagy ígért előny kérőjével vagy elfogadójával egyetért, bűntett miatt egy évtől öt évig terjedő szabadságvesztéssel büntetendő.",
+          "text": "Aki azért, hogy a bírósági, választottbírósági vagy hatósági eljárásban törvényes jogait ne gyakorolja, vagy kötelezettségeit ne teljesítse, jogtalan előnyt kér, a jogtalan előnyt vagy ennek ígéretét elfogadja, illetve a rá tekintettel harmadik személynek adott vagy ígért jogtalan előny kérőjével vagy elfogadójával egyetért, bűntett miatt egy évtől öt évig terjedő szabadságvesztéssel büntetendő.",
           "act_id_abbreviations": [],
           "outgoing_references": [],
           "semantic_data": []
@@ -18565,12 +18534,12 @@
         },
         {
           "identifier": "3",
-          "text": "A büntetés korlátlanul enyhíthető – különös méltánylást érdemlő esetben mellőzhető – az (1)–(2) bekezdésben meghatározott bűncselekmény elkövetőjével szemben, ha a bűncselekményt, mielőtt az a hatóság tudomására jutott volna, a hatóságnak bejelenti, a kapott jogtalan vagyoni előnyt vagy annak ellenértékét a hatóságnak átadja, és az elkövetés körülményeit feltárja.",
+          "text": "A büntetés korlátlanul enyhíthető – különös méltánylást érdemlő esetben mellőzhető – az (1) és (2) bekezdésben meghatározott bűncselekmény elkövetőjével szemben, ha a bűncselekményt, mielőtt az a hatóság tudomására jutott volna, a hatóságnak bejelenti, a kapott jogtalan vagyoni előnyt vagy annak ellenértékét a hatóságnak átadja, és az elkövetés körülményeit feltárja.",
           "act_id_abbreviations": [],
           "outgoing_references": [
             {
               "start_pos": 88,
-              "end_pos": 107,
+              "end_pos": 110,
               "reference": {
                 "paragraph": [
                   "1",
@@ -18585,23 +18554,10 @@
       "__type__": "Article"
     },
     {
-      "identifier": "",
-      "title": "Vesztegetés feljelentésének elmulasztása",
-      "__type__": "Subtitle"
-    },
-    {
       "identifier": "297",
       "children": [
         {
-          "identifier": "1",
-          "text": "Az a hivatalos személy, aki e minőségében hitelt érdemlő tudomást szerez arról, hogy még le nem leplezett vesztegetést vagy vesztegetés elfogadását követtek el, és erről a hatóságnak, mihelyt teheti, nem tesz feljelentést, bűntett miatt három évig terjedő szabadságvesztéssel büntetendő.",
-          "act_id_abbreviations": [],
-          "outgoing_references": [],
-          "semantic_data": []
-        },
-        {
-          "identifier": "2",
-          "text": "Vesztegetés feljelentésének elmulasztása miatt az elkövető hozzátartozója nem büntethető.",
+          "text": " ",
           "act_id_abbreviations": [],
           "outgoing_references": [],
           "semantic_data": []
@@ -18644,8 +18600,23 @@
           "semantic_data": []
         },
         {
+          "identifier": "1a",
+          "text": "Az (1) bekezdés szerint büntetendő, aki magát hivatalos személynek kiadó személy részére vagy rá tekintettel másnak jogtalan előnyt ad vagy ígér.",
+          "act_id_abbreviations": [],
+          "outgoing_references": [
+            {
+              "start_pos": 3,
+              "end_pos": 15,
+              "reference": {
+                "paragraph": "1"
+              }
+            }
+          ],
+          "semantic_data": []
+        },
+        {
           "identifier": "2",
-          "text": "Aki az (1) bekezdésben meghatározott bűncselekményt gazdálkodó szervezet, illetve egyesület részére vagy érdekében tevékenységet végző személlyel kapcsolatban követi el, vétség miatt két évig terjedő szabadságvesztéssel büntetendő.",
+          "text": "Aki az (1) bekezdésben meghatározott bűncselekményt gazdálkodó szervezet  részére vagy érdekében tevékenységet végző személlyel kapcsolatban követi el, vétség miatt két évig terjedő szabadságvesztéssel büntetendő.",
           "act_id_abbreviations": [],
           "outgoing_references": [
             {
@@ -18660,7 +18631,7 @@
         },
         {
           "identifier": "3",
-          "text": "Az (1) bekezdés szerint büntetendő, aki az ott meghatározott bűncselekményt külföldi hivatalos személlyel kapcsolatban követi el.",
+          "text": "Az (1) bekezdés szerint büntetendő, aki az (1) és (1a) bekezdésben meghatározott bűncselekményt külföldi hivatalos személlyel kapcsolatban követi el.",
           "act_id_abbreviations": [],
           "outgoing_references": [
             {
@@ -18668,6 +18639,34 @@
               "end_pos": 15,
               "reference": {
                 "paragraph": "1"
+              }
+            },
+            {
+              "start_pos": 43,
+              "end_pos": 66,
+              "reference": {
+                "paragraph": [
+                  "1",
+                  "1a"
+                ]
+              }
+            }
+          ],
+          "semantic_data": []
+        },
+        {
+          "identifier": "4",
+          "text": "A büntetés korlátlanul enyhíthető – különös méltánylást érdemlő esetben mellőzhető – az (1)–(2) bekezdésben meghatározott bűncselekmény elkövetőjével szemben, ha a bűncselekményt, mielőtt az a hatóság tudomására jutott volna, a hatóságnak bejelenti, és az elkövetés körülményeit feltárja.",
+          "act_id_abbreviations": [],
+          "outgoing_references": [
+            {
+              "start_pos": 88,
+              "end_pos": 107,
+              "reference": {
+                "paragraph": [
+                  "1",
+                  "2"
+                ]
               }
             }
           ],
@@ -18686,7 +18685,7 @@
       "children": [
         {
           "identifier": "1",
-          "text": "Aki arra hivatkozással, hogy hivatalos személyt befolyásol, a maga vagy más számára előnyt kér, az előnyt vagy ennek ígéretét elfogadja, illetve a rá tekintettel harmadik személynek adott vagy ígért előny kérőjével vagy elfogadójával egyetért, bűntett miatt egy évtől öt évig terjedő szabadságvesztéssel büntetendő.",
+          "text": "Aki arra hivatkozással, hogy hivatalos személyt befolyásol, a maga vagy más számára jogtalan előnyt kér, a jogtalan előnyt vagy ennek ígéretét elfogadja, illetve a rá tekintettel harmadik személynek adott vagy ígért jogtalan előny kérőjével vagy elfogadójával egyetért, bűntett miatt egy évtől öt évig terjedő szabadságvesztéssel büntetendő.",
           "act_id_abbreviations": [],
           "outgoing_references": [],
           "semantic_data": []
@@ -18697,7 +18696,7 @@
           "children": [
             {
               "identifier": "a",
-              "text": "azt állítja, vagy azt a látszatot kelti, hogy hivatalos személyt veszteget,",
+              "text": "azt állítja vagy azt a látszatot kelti, hogy hivatalos személyt veszteget,",
               "act_id_abbreviations": [],
               "outgoing_references": [],
               "semantic_data": [],
@@ -18726,12 +18725,42 @@
         },
         {
           "identifier": "3",
-          "text": "Az (1)–(2) bekezdés szerint büntetendő, aki az ott meghatározott bűncselekményt külföldi hivatalos személlyel kapcsolatban követi el.",
+          "text": "Aki az (1) bekezdésében meghatározott bűncselekményt gazdálkodó szervezet részére vagy érdekében tevékenységet végző személlyel kapcsolatban követi el, vétség miatt két évig terjedő szabadságvesztéssel büntetendő.",
+          "act_id_abbreviations": [],
+          "outgoing_references": [
+            {
+              "start_pos": 7,
+              "end_pos": 23,
+              "reference": {
+                "paragraph": "1"
+              }
+            }
+          ],
+          "semantic_data": []
+        },
+        {
+          "identifier": "4",
+          "text": "A büntetés bűntett miatt három évig terjedő szabadságvesztés, ha a (3) bekezdésben meghatározott bűncselekményt gazdálkodó szervezet részére vagy érdekében tevékenységet végző, önálló intézkedésre jogosult személlyel kapcsolatban követik el.",
+          "act_id_abbreviations": [],
+          "outgoing_references": [
+            {
+              "start_pos": 67,
+              "end_pos": 82,
+              "reference": {
+                "paragraph": "3"
+              }
+            }
+          ],
+          "semantic_data": []
+        },
+        {
+          "identifier": "5",
+          "text": "Az (1) és (2) bekezdés szerint büntetendő, aki az ott meghatározott bűncselekményt külföldi hivatalos személlyel kapcsolatban követi el.",
           "act_id_abbreviations": [],
           "outgoing_references": [
             {
               "start_pos": 3,
-              "end_pos": 19,
+              "end_pos": 22,
               "reference": {
                 "paragraph": [
                   "1",
@@ -18741,39 +18770,89 @@
             }
           ],
           "semantic_data": []
+        },
+        {
+          "identifier": "6",
+          "text": "A büntetés korlátlanul enyhíthető – különös méltánylást érdemlő esetben mellőzhető – az (1) és (3) bekezdésben meghatározott bűncselekmény elkövetőjével szemben, ha a bűncselekményt, mielőtt az a hatóság tudomására jutott volna, a hatóságnak bejelenti, a kapott jogtalan vagyoni előnyt vagy annak ellenértékét a hatóságnak átadja, és az elkövetés körülményeit feltárja.",
+          "act_id_abbreviations": [],
+          "outgoing_references": [
+            {
+              "start_pos": 88,
+              "end_pos": 91,
+              "reference": {
+                "paragraph": "1"
+              }
+            },
+            {
+              "start_pos": 95,
+              "end_pos": 110,
+              "reference": {
+                "paragraph": "3"
+              }
+            }
+          ],
+          "semantic_data": []
         }
       ],
       "__type__": "Article"
+    },
+    {
+      "identifier": "",
+      "title": "Korrupciós bűncselekmény feljelentésének elmulasztása",
+      "__type__": "Subtitle"
     },
     {
       "identifier": "300",
       "children": [
         {
           "identifier": "1",
-          "text": "Aki a 299. § (1) bekezdésében meghatározott bűncselekményt gazdálkodó szervezet részére vagy érdekében tevékenységet végző személlyel kapcsolatban követi el, vétség miatt két évig terjedő szabadságvesztéssel büntetendő.",
+          "text": "Az a hivatalos személy, aki e minőségében hitelt érdemlő tudomást szerez arról, hogy még le nem leplezett vesztegetést, vesztegetés elfogadását, hivatali vesztegetést, hivatali vesztegetés elfogadását, vesztegetést bírósági vagy hatósági eljárásban, vesztegetés elfogadását bírósági vagy hatósági eljárásban, befolyás vásárlását vagy befolyással üzérkedést követtek el, és erről a hatóságnak, mihelyt teheti, nem tesz feljelentést, bűntett miatt három évig terjedő szabadságvesztéssel büntetendő.",
           "act_id_abbreviations": [],
-          "outgoing_references": [
-            {
-              "start_pos": 6,
-              "end_pos": 29,
-              "reference": {
-                "article": "299",
-                "paragraph": "1"
-              }
-            }
-          ],
+          "outgoing_references": [],
           "semantic_data": []
         },
         {
           "identifier": "2",
-          "text": "A büntetés bűntett miatt három évig terjedő szabadságvesztés, ha az (1) bekezdésben meghatározott bűncselekményt gazdálkodó szervezet részére vagy érdekében tevékenységet végző, önálló intézkedésre jogosult személlyel kapcsolatban követik el.",
+          "text": "Korrupciós bűncselekmény feljelentésének elmulasztása miatt az elkövető hozzátartozója nem büntethető.",
+          "act_id_abbreviations": [],
+          "outgoing_references": [],
+          "semantic_data": []
+        }
+      ],
+      "__type__": "Article"
+    },
+    {
+      "identifier": "",
+      "title": "Értelmező rendelkezés",
+      "__type__": "Subtitle"
+    },
+    {
+      "identifier": "300/A",
+      "children": [
+        {
+          "identifier": "1",
+          "text": "E fejezet alkalmazásában kötelességszegés a kötelességnek előny adásához kötött teljesítése is.",
+          "act_id_abbreviations": [],
+          "outgoing_references": [],
+          "semantic_data": []
+        },
+        {
+          "identifier": "2",
+          "text": "A 290. § és a 291. § alkalmazásában külföldi gazdálkodó szervezet az a szervezet, amely a személyes joga szerint jogi személyiséggel rendelkezik és az adott szervezeti formában gazdasági tevékenység végzésére jogosult.",
           "act_id_abbreviations": [],
           "outgoing_references": [
             {
-              "start_pos": 68,
-              "end_pos": 83,
+              "start_pos": 2,
+              "end_pos": 8,
               "reference": {
-                "paragraph": "1"
+                "article": "290"
+              }
+            },
+            {
+              "start_pos": 14,
+              "end_pos": 20,
+              "reference": {
+                "article": "291"
               }
             }
           ],
@@ -19908,7 +19987,7 @@
             },
             {
               "identifier": "i",
-              "text": "az információs rendszer vagy adat megsértése [423. § (1)–(3) bekezdés].",
+              "text": "az információs rendszer vagy adat megsértése [423. § (1)–(4) bekezdés].",
               "act_id_abbreviations": [],
               "outgoing_references": [
                 {
@@ -19918,7 +19997,7 @@
                     "article": "423",
                     "paragraph": [
                       "1",
-                      "3"
+                      "4"
                     ]
                   }
                 }
@@ -20538,7 +20617,7 @@
         },
         {
           "identifier": "5",
-          "text": "Aki az (1)–(3) bekezdésben meghatározott bűncselekményre irányuló előkészületet követ el, három évig terjedő szabadságvesztéssel büntetendő.",
+          "text": "Aki az (1)–(3) bekezdésben meghatározott bűncselekményre irányuló előkészületet követ el, bűntett miatt három évig terjedő szabadságvesztéssel büntetendő.",
           "act_id_abbreviations": [],
           "outgoing_references": [
             {
@@ -22883,7 +22962,7 @@
           "children": [
             {
               "identifier": "a",
-              "text": "tiltott szerencsejátékot rendszeresen szervez, vagy",
+              "text": "tiltott szerencsejátékot rendszeresen szervez,",
               "act_id_abbreviations": [],
               "outgoing_references": [],
               "semantic_data": [],
@@ -22891,7 +22970,15 @@
             },
             {
               "identifier": "b",
-              "text": "tiltott szerencsejáték rendszeres szervezéséhez helyiséget bocsát rendelkezésre,",
+              "text": "tiltott szerencsejáték rendszeres szervezéséhez helyiséget vagy eszközt bocsát rendelkezésre, vagy",
+              "act_id_abbreviations": [],
+              "outgoing_references": [],
+              "semantic_data": [],
+              "__type__": "AlphabeticPoint"
+            },
+            {
+              "identifier": "c",
+              "text": "tiltott szerencsejátékban való részvételre nagy nyilvánosság előtt felhív,",
               "act_id_abbreviations": [],
               "outgoing_references": [],
               "semantic_data": [],
@@ -31789,6 +31876,13 @@
           "semantic_data": []
         },
         {
+          "identifier": "3a",
+          "text": "Ahol e törvény rendfokozatot említ, azon a Magyar Honvédség tényleges állományú tagja esetében a viselt rendfokozatot, a rendőrség, az Országgyűlési Őrség, a büntetés-végrehajtási szervezet, a hivatásos katasztrófavédelmi szerv és a polgári nemzetbiztonsági szolgálatok hivatásos állományú tagja esetében a betöltött szolgálati beosztás besorolása és fizetési fokozata alapján meghatározott rendfokozatot kell érteni.",
+          "act_id_abbreviations": [],
+          "outgoing_references": [],
+          "semantic_data": []
+        },
+        {
           "identifier": "4",
           "text": "Ahol e törvény szigorúan titkos, titkos, bizalmas, illetve korlátozott terjesztésű minősítésű adatot említ, azon a minősített adat védelméről szóló törvényben meghatározott nemzeti vagy külföldi minősített adatot kell érteni.",
           "act_id_abbreviations": [],
@@ -32311,6 +32405,119 @@
           "text": "Nem valósul meg bűncselekmény, illetve vámszabálysértés valósul meg, ha a költségvetési csalással okozott vagyoni hátrány a százezer forintot nem haladja meg.",
           "act_id_abbreviations": [],
           "outgoing_references": [],
+          "semantic_data": []
+        },
+        {
+          "identifier": "4",
+          "intro": "Bűncselekmény valósul meg, ha az ugyanazon elkövető által, egy éven belül elkövetett és együttesen elbírált",
+          "children": [
+            {
+              "identifier": "a",
+              "text": "ugyanolyan tulajdon elleni szabálysértés esetén a dolog értéke, az okozott kár, illetve az okozott vagyoni hátrány a (2) bekezdés a)–c) pontjában meghatározott összeget,",
+              "act_id_abbreviations": [],
+              "outgoing_references": [
+                {
+                  "start_pos": 117,
+                  "end_pos": 145,
+                  "reference": {
+                    "paragraph": "2",
+                    "point": [
+                      "a",
+                      "c"
+                    ]
+                  }
+                }
+              ],
+              "semantic_data": [],
+              "__type__": "AlphabeticPoint"
+            },
+            {
+              "identifier": "b",
+              "text": "szerzői vagy szerzői joghoz kapcsolódó jogok megsértése esetén az üreshordozó díj, illetve a reprográfiai díj a (2) bekezdés d) pontjában meghatározott összeget,",
+              "act_id_abbreviations": [],
+              "outgoing_references": [
+                {
+                  "start_pos": 112,
+                  "end_pos": 137,
+                  "reference": {
+                    "paragraph": "2",
+                    "point": "d"
+                  }
+                }
+              ],
+              "semantic_data": [],
+              "__type__": "AlphabeticPoint"
+            },
+            {
+              "identifier": "c",
+              "text": "iparjogvédelmi jogok megsértése esetén a vagyoni hátrány a (2) bekezdés e) pontjában meghatározott összeget,",
+              "act_id_abbreviations": [],
+              "outgoing_references": [
+                {
+                  "start_pos": 59,
+                  "end_pos": 84,
+                  "reference": {
+                    "paragraph": "2",
+                    "point": "e"
+                  }
+                }
+              ],
+              "semantic_data": [],
+              "__type__": "AlphabeticPoint"
+            },
+            {
+              "identifier": "d",
+              "text": "rossz minőségű termék forgalomba hozatala vagy a versenytárs utánzása esetén a termék, illetve áru értéke a (2) bekezdés f) pontjában meghatározott összeget,",
+              "act_id_abbreviations": [],
+              "outgoing_references": [
+                {
+                  "start_pos": 108,
+                  "end_pos": 133,
+                  "reference": {
+                    "paragraph": "2",
+                    "point": "f"
+                  }
+                }
+              ],
+              "semantic_data": [],
+              "__type__": "AlphabeticPoint"
+            },
+            {
+              "identifier": "e",
+              "text": "vámszabálysértés esetén a vagyoni hátrány a (3) bekezdésben meghatározott összeget",
+              "act_id_abbreviations": [],
+              "outgoing_references": [
+                {
+                  "start_pos": 44,
+                  "end_pos": 59,
+                  "reference": {
+                    "paragraph": "3"
+                  }
+                }
+              ],
+              "semantic_data": [],
+              "__type__": "AlphabeticPoint"
+            }
+          ],
+          "wrap_up": "érték-egybefoglalás folytán meghaladja.",
+          "act_id_abbreviations": [],
+          "outgoing_references": [],
+          "semantic_data": []
+        },
+        {
+          "identifier": "5",
+          "text": "Bűncselekmény valósul meg ugyanazon elkövető által elkövetett és együttesen elbírált szerzői vagy szerzői joghoz kapcsolódó jogok megsértése szabálysértés esetén, ha az egyes cselekményekkel más vagy mások, a szerzői jogról szóló törvény alapján fennálló szerzői vagy ahhoz kapcsolódó jogát vagy jogait a (2) bekezdés d) pontjában meghatározott összeget meghaladó vagyoni hátrányt okozva sértik meg.",
+          "act_id_abbreviations": [],
+          "outgoing_references": [
+            {
+              "start_pos": 305,
+              "end_pos": 330,
+              "reference": {
+                "paragraph": "2",
+                "point": "d"
+              }
+            }
+          ],
           "semantic_data": []
         }
       ],
@@ -32953,6 +33160,40 @@
           "wrap_up": "végrehajtásához szükséges rendelkezéseket állapít meg.",
           "act_id_abbreviations": [],
           "outgoing_references": [],
+          "semantic_data": []
+        },
+        {
+          "identifier": "3",
+          "text": "E törvény 216. § (1) és (4) bekezdése, valamint 332. és 333. §-a a rasszizmus és az idegengyűlölet egyes formái és megnyilvánulásai elleni, büntetőjogi eszközökkel történő küzdelemről szóló, 2008. november 28-i 2008/913/IB tanácsi kerethatározat 1. cikkének való megfelelést szolgálja.",
+          "act_id_abbreviations": [],
+          "outgoing_references": [
+            {
+              "start_pos": 10,
+              "end_pos": 20,
+              "reference": {
+                "article": "216",
+                "paragraph": "1"
+              }
+            },
+            {
+              "start_pos": 24,
+              "end_pos": 37,
+              "reference": {
+                "article": "216",
+                "paragraph": "4"
+              }
+            },
+            {
+              "start_pos": 48,
+              "end_pos": 64,
+              "reference": {
+                "article": [
+                  "332",
+                  "333"
+                ]
+              }
+            }
+          ],
           "semantic_data": []
         }
       ],
