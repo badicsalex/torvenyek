@@ -3242,7 +3242,7 @@
             },
             {
               "identifier": "b",
-              "text": "akinek a családi élet tiszteletben tartásához való joga sérülne,",
+              "text": "aki Magyarország területén jogszerűen tartózkodik, és a családi élet tiszteletben tartásához való joga sérülne,",
               "act_id_abbreviations": [],
               "outgoing_references": [],
               "semantic_data": [],
@@ -3272,6 +3272,67 @@
           "text": "A határozott ideig tartó kiutasítás legrövidebb tartama egy év, leghosszabb tartama tíz év.",
           "act_id_abbreviations": [],
           "outgoing_references": [],
+          "semantic_data": []
+        },
+        {
+          "identifier": "2a",
+          "text": "A határzár tiltott átlépése (Btk. 352/A. §), a határzár megrongálása (Btk. 352/B. §), valamint a határzárral kapcsolatos építési munka akadályozása (Btk. 352/C. §) esetén kiszabott végrehajtandó szabadságvesztés mellett, valamint a 85. § (1a) bekezdésben meghatározott esetben a kiutasítás nem mellőzhető. Amennyiben a kiutasítás határozott ideig tart, annak tartama a kiszabott szabadságvesztés tartamának kétszerese, de legalább két év. A kiutasítás tartamát években, hónapokban és napokban is meg lehet állapítani.",
+          "act_id_abbreviations": [],
+          "outgoing_references": [
+            {
+              "start_pos": 29,
+              "end_pos": 33,
+              "reference": {
+                "act": "Btk."
+              }
+            },
+            {
+              "start_pos": 34,
+              "end_pos": 42,
+              "reference": {
+                "act": "Btk.",
+                "article": "352/A"
+              }
+            },
+            {
+              "start_pos": 70,
+              "end_pos": 74,
+              "reference": {
+                "act": "Btk."
+              }
+            },
+            {
+              "start_pos": 75,
+              "end_pos": 83,
+              "reference": {
+                "act": "Btk.",
+                "article": "352/B"
+              }
+            },
+            {
+              "start_pos": 149,
+              "end_pos": 153,
+              "reference": {
+                "act": "Btk."
+              }
+            },
+            {
+              "start_pos": 154,
+              "end_pos": 162,
+              "reference": {
+                "act": "Btk.",
+                "article": "352/C"
+              }
+            },
+            {
+              "start_pos": 232,
+              "end_pos": 254,
+              "reference": {
+                "article": "85",
+                "paragraph": "1a"
+              }
+            }
+          ],
           "semantic_data": []
         },
         {
@@ -4306,7 +4367,7 @@
             },
             {
               "identifier": "c",
-              "text": "a vagyonra, amelyet a kábítószer-kereskedelem elkövetője a bűncselekmény elkövetésének ideje alatt szerzett,",
+              "text": "a vagyonra, amelyet a kábítószer-kereskedelem vagy az embercsempészés elkövetője a bűncselekmény elkövetésének ideje alatt szerzett,",
               "act_id_abbreviations": [],
               "outgoing_references": [],
               "semantic_data": [],
@@ -4393,7 +4454,7 @@
             },
             {
               "identifier": "b",
-              "text": "az (1) bekezdés c) pontja esetében a kábítószer forgalomba hozatalának, illetve az azzal való kereskedés",
+              "text": "az (1) bekezdés c) pontja esetében a kábítószer forgalomba hozatalának, illetve az azzal való kereskedés, továbbá az embercsempészés üzletszerű vagy bűnszövetségben történő elkövetésének",
               "act_id_abbreviations": [],
               "outgoing_references": [
                 {
@@ -5033,10 +5094,116 @@
           "semantic_data": []
         },
         {
+          "identifier": "1a",
+          "text": "A határzár tiltott átlépése (Btk. 352/A. §), a határzár megrongálása (Btk. 352/B. §), valamint a határzárral kapcsolatos építési munka akadályozása (Btk. 352/C. §) esetén az öt évet meg nem haladó szabadságvesztés végrehajtása próbaidőre felfüggeszthető.",
+          "act_id_abbreviations": [],
+          "outgoing_references": [
+            {
+              "start_pos": 29,
+              "end_pos": 33,
+              "reference": {
+                "act": "Btk."
+              }
+            },
+            {
+              "start_pos": 34,
+              "end_pos": 42,
+              "reference": {
+                "act": "Btk.",
+                "article": "352/A"
+              }
+            },
+            {
+              "start_pos": 70,
+              "end_pos": 74,
+              "reference": {
+                "act": "Btk."
+              }
+            },
+            {
+              "start_pos": 75,
+              "end_pos": 83,
+              "reference": {
+                "act": "Btk.",
+                "article": "352/B"
+              }
+            },
+            {
+              "start_pos": 149,
+              "end_pos": 153,
+              "reference": {
+                "act": "Btk."
+              }
+            },
+            {
+              "start_pos": 154,
+              "end_pos": 162,
+              "reference": {
+                "act": "Btk.",
+                "article": "352/C"
+              }
+            }
+          ],
+          "semantic_data": []
+        },
+        {
           "identifier": "2",
           "text": "A próbaidő tartama – ha e törvény eltérően nem rendelkezik – egy évtől öt évig terjedhet, de a kiszabott szabadságvesztésnél rövidebb nem lehet. A próbaidőt években, vagy években és hónapokban kell meghatározni.",
           "act_id_abbreviations": [],
           "outgoing_references": [],
+          "semantic_data": []
+        },
+        {
+          "identifier": "2a",
+          "text": "A határzár tiltott átlépése (Btk. 352/A. §), a határzár megrongálása (Btk. 352/B. §), valamint a határzárral kapcsolatos építési munka akadályozása (Btk. 352/C. §) esetén a próbaidő tartama két évtől tíz évig terjedhet, de nem lehet rövidebb az ezen bűncselekmények miatt kiszabott kiutasítás tartamánál.",
+          "act_id_abbreviations": [],
+          "outgoing_references": [
+            {
+              "start_pos": 29,
+              "end_pos": 33,
+              "reference": {
+                "act": "Btk."
+              }
+            },
+            {
+              "start_pos": 34,
+              "end_pos": 42,
+              "reference": {
+                "act": "Btk.",
+                "article": "352/A"
+              }
+            },
+            {
+              "start_pos": 70,
+              "end_pos": 74,
+              "reference": {
+                "act": "Btk."
+              }
+            },
+            {
+              "start_pos": 75,
+              "end_pos": 83,
+              "reference": {
+                "act": "Btk.",
+                "article": "352/B"
+              }
+            },
+            {
+              "start_pos": 149,
+              "end_pos": 153,
+              "reference": {
+                "act": "Btk."
+              }
+            },
+            {
+              "start_pos": 154,
+              "end_pos": 162,
+              "reference": {
+                "act": "Btk.",
+                "article": "352/C"
+              }
+            }
+          ],
           "semantic_data": []
         }
       ],
@@ -5171,6 +5338,23 @@
               "text": "az elkövető a pártfogó felügyelet magatartási szabályait súlyosan megszegi.",
               "act_id_abbreviations": [],
               "outgoing_references": [],
+              "semantic_data": [],
+              "__type__": "AlphabeticPoint"
+            },
+            {
+              "identifier": "d",
+              "text": "a 60. § (2a) bekezdése alapján kiutasított elkövető a felfüggesztett szabadságvesztés próbaideje alatt Magyarország területére visszatér.",
+              "act_id_abbreviations": [],
+              "outgoing_references": [
+                {
+                  "start_pos": 2,
+                  "end_pos": 22,
+                  "reference": {
+                    "article": "60",
+                    "paragraph": "2a"
+                  }
+                }
+              ],
               "semantic_data": [],
               "__type__": "AlphabeticPoint"
             }
@@ -22454,26 +22638,26 @@
     },
     {
       "identifier": "",
-      "title": "Embercsempészés",
+      "title": "Határzár tiltott átlépése",
       "__type__": "Subtitle"
     },
     {
-      "identifier": "353",
+      "identifier": "352/A",
       "children": [
         {
           "identifier": "1",
-          "text": "Aki államhatárnak más által a jogszabályi rendelkezések megszegésével történő átlépéséhez segítséget nyújt, bűntett miatt három évig terjedő szabadságvesztéssel büntetendő.",
+          "text": "Aki Magyarországnak az államhatár rendje védelmét biztosító létesítmény által védett területére a létesítményen keresztül jogosulatlanul belép, bűntett miatt három évig terjedő szabadságvesztéssel büntetendő.",
           "act_id_abbreviations": [],
           "outgoing_references": [],
           "semantic_data": []
         },
         {
           "identifier": "2",
-          "intro": "A büntetés egy évtől öt évig terjedő szabadságvesztés, ha az embercsempészést",
+          "intro": "A büntetés egy évtől öt évig terjedő szabadságvesztés, ha az (1) bekezdésben meghatározott bűncselekményt",
           "children": [
             {
               "identifier": "a",
-              "text": "vagyoni haszonszerzés végett, vagy",
+              "text": "fegyveresen,",
               "act_id_abbreviations": [],
               "outgoing_references": [],
               "semantic_data": [],
@@ -22481,7 +22665,15 @@
             },
             {
               "identifier": "b",
-              "text": "államhatár átlépéséhez több személynek segítséget nyújtva",
+              "text": "felfegyverkezve,",
+              "act_id_abbreviations": [],
+              "outgoing_references": [],
+              "semantic_data": [],
+              "__type__": "AlphabeticPoint"
+            },
+            {
+              "identifier": "c",
+              "text": "tömegzavargás résztvevőjeként",
               "act_id_abbreviations": [],
               "outgoing_references": [],
               "semantic_data": [],
@@ -22490,12 +22682,214 @@
           ],
           "wrap_up": "követik el.",
           "act_id_abbreviations": [],
+          "outgoing_references": [
+            {
+              "start_pos": 61,
+              "end_pos": 76,
+              "reference": {
+                "paragraph": "1"
+              }
+            }
+          ],
+          "semantic_data": []
+        },
+        {
+          "identifier": "3",
+          "text": "Aki az (1) bekezdésben meghatározott bűncselekményt fegyveresen vagy felfegyverkezve tömegzavargás résztvevőjeként követi el, két évtől nyolc évig terjedő szabadságvesztéssel büntetendő.",
+          "act_id_abbreviations": [],
+          "outgoing_references": [
+            {
+              "start_pos": 7,
+              "end_pos": 22,
+              "reference": {
+                "paragraph": "1"
+              }
+            }
+          ],
+          "semantic_data": []
+        },
+        {
+          "identifier": "4",
+          "text": "A büntetés öt évtől tíz évig terjedő szabadságvesztés, ha a (2) vagy (3) bekezdésben meghatározott bűncselekmény halált okoz.",
+          "act_id_abbreviations": [],
+          "outgoing_references": [
+            {
+              "start_pos": 60,
+              "end_pos": 84,
+              "reference": {
+                "paragraph": [
+                  "2",
+                  "3"
+                ]
+              }
+            }
+          ],
+          "semantic_data": []
+        }
+      ],
+      "__type__": "Article"
+    },
+    {
+      "identifier": "",
+      "title": "Határzár megrongálása",
+      "__type__": "Subtitle"
+    },
+    {
+      "identifier": "352/B",
+      "children": [
+        {
+          "identifier": "1",
+          "text": "Aki az államhatár rendjének védelmét biztosító létesítményt, illetve eszközt megsemmisíti vagy megrongálja, ha súlyosabb bűncselekmény nem valósul meg, bűntett miatt egy évtől öt évig terjedő szabadságvesztéssel büntetendő.",
+          "act_id_abbreviations": [],
+          "outgoing_references": [],
+          "semantic_data": []
+        },
+        {
+          "identifier": "2",
+          "intro": "A büntetés két évtől nyolc évig terjedő szabadságvesztés, ha az (1) bekezdésben meghatározott bűncselekményt",
+          "children": [
+            {
+              "identifier": "a",
+              "text": "fegyveresen,",
+              "act_id_abbreviations": [],
+              "outgoing_references": [],
+              "semantic_data": [],
+              "__type__": "AlphabeticPoint"
+            },
+            {
+              "identifier": "b",
+              "text": "felfegyverkezve,",
+              "act_id_abbreviations": [],
+              "outgoing_references": [],
+              "semantic_data": [],
+              "__type__": "AlphabeticPoint"
+            },
+            {
+              "identifier": "c",
+              "text": "tömegzavargás résztvevőjeként",
+              "act_id_abbreviations": [],
+              "outgoing_references": [],
+              "semantic_data": [],
+              "__type__": "AlphabeticPoint"
+            }
+          ],
+          "wrap_up": "követik el.",
+          "act_id_abbreviations": [],
+          "outgoing_references": [
+            {
+              "start_pos": 64,
+              "end_pos": 79,
+              "reference": {
+                "paragraph": "1"
+              }
+            }
+          ],
+          "semantic_data": []
+        },
+        {
+          "identifier": "3",
+          "text": "Aki az (1) bekezdésben meghatározott bűncselekményt fegyveresen vagy felfegyverkezve tömegzavargás résztvevőjeként követi el, öt évtől tíz évig terjedő szabadságvesztéssel büntetendő.",
+          "act_id_abbreviations": [],
+          "outgoing_references": [
+            {
+              "start_pos": 7,
+              "end_pos": 22,
+              "reference": {
+                "paragraph": "1"
+              }
+            }
+          ],
+          "semantic_data": []
+        },
+        {
+          "identifier": "4",
+          "text": "A büntetés tíz évtől húsz évig terjedő szabadságvesztés, ha a (2) vagy (3) bekezdésben meghatározott bűncselekmény halált okoz.",
+          "act_id_abbreviations": [],
+          "outgoing_references": [
+            {
+              "start_pos": 62,
+              "end_pos": 86,
+              "reference": {
+                "paragraph": [
+                  "2",
+                  "3"
+                ]
+              }
+            }
+          ],
+          "semantic_data": []
+        }
+      ],
+      "__type__": "Article"
+    },
+    {
+      "identifier": "",
+      "title": "Határzárral kapcsolatos építési munka akadályozása",
+      "__type__": "Subtitle"
+    },
+    {
+      "identifier": "352/C",
+      "children": [
+        {
+          "text": "Aki az államhatár rendjének védelmét biztosító létesítmény építésével vagy karbantartásával kapcsolatos munkavégzést akadályozza, ha más bűncselekmény nem valósul meg, vétség miatt egy évig terjedő szabadságvesztéssel büntetendő.",
+          "act_id_abbreviations": [],
+          "outgoing_references": [],
+          "semantic_data": []
+        }
+      ],
+      "__type__": "Article"
+    },
+    {
+      "identifier": "",
+      "title": "Embercsempészés",
+      "__type__": "Subtitle"
+    },
+    {
+      "identifier": "353",
+      "children": [
+        {
+          "identifier": "1",
+          "text": "Aki államhatárnak más által a jogszabályi rendelkezések megszegésével történő átlépéséhez segítséget nyújt, bűntett miatt egy évtől öt évig terjedő szabadságvesztéssel büntetendő.",
+          "act_id_abbreviations": [],
+          "outgoing_references": [],
+          "semantic_data": []
+        },
+        {
+          "identifier": "2",
+          "intro": "A büntetés két évtől nyolc évig terjedő szabadságvesztés, ha az embercsempészést",
+          "children": [
+            {
+              "identifier": "a",
+              "text": "vagyoni haszonszerzés végett,",
+              "act_id_abbreviations": [],
+              "outgoing_references": [],
+              "semantic_data": [],
+              "__type__": "AlphabeticPoint"
+            },
+            {
+              "identifier": "b",
+              "text": "államhatár átlépéséhez több személynek segítséget nyújtva, vagy",
+              "act_id_abbreviations": [],
+              "outgoing_references": [],
+              "semantic_data": [],
+              "__type__": "AlphabeticPoint"
+            },
+            {
+              "identifier": "c",
+              "text": "az államhatár rendjének védelmét biztosító létesítmény, illetve eszköz megsemmisítésével vagy megrongálásával követik el.",
+              "act_id_abbreviations": [],
+              "outgoing_references": [],
+              "semantic_data": [],
+              "__type__": "AlphabeticPoint"
+            }
+          ],
+          "act_id_abbreviations": [],
           "outgoing_references": [],
           "semantic_data": []
         },
         {
           "identifier": "3",
-          "intro": "A büntetés két évtől nyolc évig terjedő szabadságvesztés, ha az embercsempészést",
+          "intro": "A büntetés öt évtől tíz évig terjedő szabadságvesztés, ha az embercsempészést",
           "children": [
             {
               "identifier": "a",
@@ -22545,7 +22939,96 @@
         },
         {
           "identifier": "4",
-          "text": "Aki embercsempészésre irányuló előkészületet követ el, vétség miatt két évig terjedő szabadságvesztéssel büntetendő.",
+          "intro": "A büntetés öt évtől tizenöt évig terjedő szabadságvesztés, ha",
+          "children": [
+            {
+              "identifier": "a",
+              "text": "a (3) bekezdés a) pontja szerinti embercsempészést a b)–e) pontban meghatározott módon",
+              "act_id_abbreviations": [],
+              "outgoing_references": [
+                {
+                  "start_pos": 2,
+                  "end_pos": 24,
+                  "reference": {
+                    "paragraph": "3",
+                    "point": "a"
+                  }
+                },
+                {
+                  "start_pos": 53,
+                  "end_pos": 66,
+                  "reference": {
+                    "point": [
+                      "b",
+                      "e"
+                    ]
+                  }
+                }
+              ],
+              "semantic_data": [],
+              "__type__": "AlphabeticPoint"
+            },
+            {
+              "identifier": "b",
+              "text": "a (3) bekezdés b) pontja szerinti embercsempészést az a), illetve a c)–e) pontban meghatározott módon",
+              "act_id_abbreviations": [],
+              "outgoing_references": [
+                {
+                  "start_pos": 2,
+                  "end_pos": 24,
+                  "reference": {
+                    "paragraph": "3",
+                    "point": "b"
+                  }
+                },
+                {
+                  "start_pos": 54,
+                  "end_pos": 56,
+                  "reference": {
+                    "point": "a"
+                  }
+                },
+                {
+                  "start_pos": 68,
+                  "end_pos": 81,
+                  "reference": {
+                    "point": [
+                      "c",
+                      "e"
+                    ]
+                  }
+                }
+              ],
+              "semantic_data": [],
+              "__type__": "AlphabeticPoint"
+            }
+          ],
+          "wrap_up": "követik el.",
+          "act_id_abbreviations": [],
+          "outgoing_references": [],
+          "semantic_data": []
+        },
+        {
+          "identifier": "5",
+          "text": "A (3) vagy (4) bekezdésben meghatározott bűncselekmény szervezője vagy irányítója tíz évtől húsz évig terjedő szabadságvesztéssel büntetendő.",
+          "act_id_abbreviations": [],
+          "outgoing_references": [
+            {
+              "start_pos": 2,
+              "end_pos": 26,
+              "reference": {
+                "paragraph": [
+                  "3",
+                  "4"
+                ]
+              }
+            }
+          ],
+          "semantic_data": []
+        },
+        {
+          "identifier": "6",
+          "text": "Aki embercsempészésre irányuló előkészületet követ el, három évig terjedő szabadságvesztéssel büntetendő.",
           "act_id_abbreviations": [],
           "outgoing_references": [],
           "semantic_data": []
