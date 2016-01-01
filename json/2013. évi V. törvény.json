@@ -5218,7 +5218,7 @@
         },
         {
           "identifier": "2",
-          "text": "A társaság nyeresége a tagokat vagyoni hozzájárulásuk arányában illeti meg, és a veszteséget is ilyen arányban kell viselniük. A társaság a tag részére tárgyévi adózott eredménye, illetve szabad eredménytartaléka terhére teljesíthet kifizetést vagy más vagyoni szolgáltatást. Semmis a létesítő okirat azon rendelkezése, amely valamely tagot a nyereségből vagy a veszteség viseléséből teljesen kizár.",
+          "text": "A társaság nyeresége a tagokat vagyoni hozzájárulásuk arányában illeti meg, és a veszteséget is ilyen arányban kell viselniük. A társaság a tag részére az előző üzleti évi adózott eredménnyel kiegészített szabad eredménytartaléka terhére teljesíthet kifizetést vagy más vagyoni szolgáltatást. Semmis a létesítő okirat azon rendelkezése, amely valamely tagot a nyereségből vagy a veszteség viseléséből teljesen kizár.",
           "act_id_abbreviations": [],
           "outgoing_references": [],
           "semantic_data": []
@@ -7926,7 +7926,7 @@
       "children": [
         {
           "identifier": "1",
-          "text": "A társaság saját tőkéjéből a tagok javára, azok tagsági jogviszonyára figyelemmel kifizetést a társaság fennállása során kizárólag az e törvényben meghatározott esetekben és – a törzstőke leszállításának esetét kivéve – a tárgyévi adózott eredményből, illetve a szabad eredménytartalékkal kiegészített tárgyévi adózott eredményből teljesíthet. Nem kerülhet sor kifizetésre, ha a társaság helyesbített saját tőkéje nem éri el vagy a kifizetés következtében nem érné el a társaság törzstőkéjét, továbbá, ha a kifizetés veszélyeztetné a társaság fizetőképességét.",
+          "text": "A társaság saját tőkéjéből a tagok javára, azok tagsági jogviszonyára figyelemmel kifizetést a társaság fennállása során kizárólag az e törvényben meghatározott esetekben és – a törzstőke leszállításának esetét kivéve – az előző üzleti évi adózott eredménnyel kiegészített szabad eredménytartalékból teljesíthet. Nem kerülhet sor kifizetésre, ha a társaság helyesbített saját tőkéje nem éri el vagy a kifizetés következtében nem érné el a társaság törzstőkéjét, továbbá, ha a kifizetés veszélyeztetné a társaság fizetőképességét.",
           "act_id_abbreviations": [],
           "outgoing_references": [],
           "semantic_data": []
@@ -8013,7 +8013,7 @@
             },
             {
               "identifier": "b",
-              "text": "a kifizetés nem haladja meg az utolsó beszámoló szerinti üzleti év könyveinek lezárása óta keletkezett eredménynek a megállapított, illetve a szabad eredménytartalékkal kiegészített összegét; és",
+              "text": "a kifizetés nem haladja meg az utolsó beszámoló szerinti üzleti év könyveinek lezárása óta kimutatott, az előző üzleti évi adózott eredménnyel kiegészített szabad eredménytartalék összegét; és",
               "act_id_abbreviations": [],
               "outgoing_references": [],
               "semantic_data": [],
@@ -9855,7 +9855,7 @@
         },
         {
           "identifier": "2",
-          "text": "A kamatozó részvény tulajdonosát a részvényhez fűződő egyéb jogokon felül a részvény névértéke után a tárgyévi adózott eredményből, illetve a szabad eredménytartalékkal kiegészített tárgyévi adózott eredményből az alapszabályban meghatározott módon számított kamat illeti meg. Nem fizethető a részvényesnek kamat, ha ennek következtében a részvénytársaság saját tőkéje nem érné el a részvénytársaság alaptőkéjét.",
+          "text": "A kamatozó részvény tulajdonosát a részvényhez fűződő egyéb jogokon felül a részvény névértéke után az előző üzleti évi adózott eredménnyel kiegészített szabad eredménytartalékból az alapszabályban meghatározott módon számított kamat illeti meg. Nem fizethető a részvényesnek kamat, ha ennek következtében a részvénytársaság saját tőkéje nem érné el a részvénytársaság alaptőkéjét.",
           "act_id_abbreviations": [],
           "outgoing_references": [],
           "semantic_data": []
@@ -10536,7 +10536,7 @@
       "children": [
         {
           "identifier": "1",
-          "text": "A részvénytársaság saját tőkéjéből a részvényes javára, annak tagsági jogviszonyára figyelemmel kifizetést a részvénytársaság fennállása során az e törvényben meghatározott esetekben és – az alaptőke leszállításának esetét kivéve – a tárgyévi adózott eredményből, illetve a szabad eredménytartalékkal kiegészített tárgyévi adózott eredményből teljesíthet. Nem kerülhet sor kifizetésre, ha a részvénytársaság saját tőkéje nem éri el vagy a kifizetés következtében nem érné el a részvénytársaság alaptőkéjét, továbbá ha a kifizetés veszélyeztetné a társaság fizetőképességét.",
+          "text": "A részvénytársaság saját tőkéjéből a részvényes javára, annak tagsági jogviszonyára figyelemmel kifizetést a részvénytársaság fennállása során az e törvényben meghatározott esetekben és – az alaptőke leszállításának esetét kivéve – az előző üzleti évi adózott eredménnyel kiegészített szabad eredménytartalékból teljesíthet. Nem kerülhet sor kifizetésre, ha a részvénytársaság saját tőkéje nem éri el vagy a kifizetés következtében nem érné el a részvénytársaság alaptőkéjét, továbbá ha a kifizetés veszélyeztetné a társaság fizetőképességét.",
           "act_id_abbreviations": [],
           "outgoing_references": [],
           "semantic_data": []
@@ -10642,7 +10642,7 @@
             },
             {
               "identifier": "b",
-              "text": "a kifizetés nem haladja meg az utolsó beszámoló szerinti üzleti év könyveinek lezárása óta keletkezett eredménynek a megállapított, illetve a szabad eredménytartalékkal kiegészített összegét; és",
+              "text": "a kifizetés nem haladja meg az utolsó beszámoló szerinti üzleti év könyveinek lezárása óta kimutatott, az előző üzleti évi adózott eredménnyel kiegészített szabad eredménytartalék összegét; és",
               "act_id_abbreviations": [],
               "outgoing_references": [],
               "semantic_data": [],
