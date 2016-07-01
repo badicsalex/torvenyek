@@ -1760,7 +1760,7 @@
       "children": [
         {
           "identifier": "1",
-          "text": "Mindenkinek joga van ahhoz, hogy törvény és mások jogainak korlátai között személyiségét szabadon érvényesíthesse, és hogy abban őt senki ne gátolja.",
+          "text": "Mindenkinek joga van ahhoz, hogy törvény és mások jogainak korlátai között személyiségét, így különösen a magán- és családi élet, az otthon, a másokkal való – bármilyen módon, illetve eszközzel történő – kapcsolattartás és a jóhírnév tiszteletben tartásához való jogát szabadon érvényesíthesse, és hogy abban őt senki ne gátolja.",
           "act_id_abbreviations": [],
           "outgoing_references": [],
           "semantic_data": []
@@ -3045,7 +3045,15 @@
       "identifier": "3:24",
       "children": [
         {
+          "identifier": "1",
           "text": "A vezető tisztségviselő az ügyvezetési tevékenysége során a jogi személynek okozott károkért a szerződésszegéssel okozott kárért való felelősség szabályai szerint felel a jogi személlyel szemben.",
+          "act_id_abbreviations": [],
+          "outgoing_references": [],
+          "semantic_data": []
+        },
+        {
+          "identifier": "2",
+          "text": "A vezető tisztségviselő által e jogkörében eljárva harmadik személynek okozott károkért a jogi személy felel. A vezető tisztségviselő a jogi személlyel egyetemlegesen felel, ha a kárt szándékosan okozta.",
           "act_id_abbreviations": [],
           "outgoing_references": [],
           "semantic_data": []
@@ -8013,7 +8021,7 @@
             },
             {
               "identifier": "b",
-              "text": "a kifizetés nem haladja meg az utolsó beszámoló szerinti üzleti év könyveinek lezárása óta kimutatott, az előző üzleti évi adózott eredménnyel kiegészített szabad eredménytartalék összegét; és",
+              "text": "a kifizetés nem haladja meg a közbenső mérlegben kimutatott adózott eredménnyel kiegészített szabad eredménytartalék összegét; és",
               "act_id_abbreviations": [],
               "outgoing_references": [],
               "semantic_data": [],
@@ -9196,7 +9204,7 @@
         },
         {
           "identifier": "2",
-          "text": "Zártkörűen működő részvénytársaság részvényei nyilvánosan nem hozhatók forgalomba.",
+          "text": "Zártkörűen működő részvénytársaság részvényei – a részvénytársaság működési formájának megváltoztatásához kapcsolódó forgalomba hozatalt kivéve – nyilvánosan nem hozhatók forgalomba.",
           "act_id_abbreviations": [],
           "outgoing_references": [],
           "semantic_data": []
@@ -10642,7 +10650,7 @@
             },
             {
               "identifier": "b",
-              "text": "a kifizetés nem haladja meg az utolsó beszámoló szerinti üzleti év könyveinek lezárása óta kimutatott, az előző üzleti évi adózott eredménnyel kiegészített szabad eredménytartalék összegét; és",
+              "text": "a kifizetés nem haladja meg a közbenső mérlegben kimutatott adózott eredménnyel kiegészített szabad eredménytartalék összegét; és",
               "act_id_abbreviations": [],
               "outgoing_references": [],
               "semantic_data": [],
@@ -22137,7 +22145,7 @@
         },
         {
           "identifier": "2",
-          "text": "Tartási kötelezettsége áll fenn elsősorban a szülőnek a gyermekével és a gyermeknek a szülőjével szemben.",
+          "text": "Tartási kötelezettsége áll fenn elsősorban a szülőnek a gyermekével és a nagykorú gyermeknek a rászoruló szülőjével szemben.",
           "act_id_abbreviations": [],
           "outgoing_references": [],
           "semantic_data": []
@@ -22473,6 +22481,13 @@
         {
           "identifier": "1",
           "text": "A kiskorút illető tartás iránt a kiskorú érdekében a gyámhatóság, a szülőt illető tartás iránt a szülő érdekében – egyetértésével – a járási hivatal is indíthat pert.",
+          "act_id_abbreviations": [],
+          "outgoing_references": [],
+          "semantic_data": []
+        },
+        {
+          "identifier": "1a",
+          "text": "Aki a tartásra rászorult szülő szükségleteinek ellátásáról a tartásra köteles gyermek helyett anélkül gondoskodik, hogy erre jogszabály vagy szerződés rendelkezése alapján köteles lenne, az indokoltan nyújtott ellátás ellenértékének megtérítését az ellátás nyújtásától számított egyéves jogvesztő határidőn belül követelheti a tartásra kötelezhető gyermektől.",
           "act_id_abbreviations": [],
           "outgoing_references": [],
           "semantic_data": []
@@ -29617,6 +29632,21 @@
           "act_id_abbreviations": [],
           "outgoing_references": [],
           "semantic_data": []
+        },
+        {
+          "identifier": "5",
+          "text": "A (4) bekezdésen alapuló érvénytelenségre csak a nyilatkozattevő személy érdekében lehet hivatkozni.",
+          "act_id_abbreviations": [],
+          "outgoing_references": [
+            {
+              "start_pos": 2,
+              "end_pos": 16,
+              "reference": {
+                "paragraph": "4"
+              }
+            }
+          ],
+          "semantic_data": []
         }
       ],
       "title": "Írásbeli alakhoz kötött jognyilatkozat",
@@ -32272,7 +32302,7 @@
       "identifier": "6:99",
       "children": [
         {
-          "text": "Semmis az a kikötés, amely – a pénzügyi biztosítékokról szóló irányelvben meghatározott biztosítéki megállapodások kivételével – pénzkövetelés biztosítása céljából tulajdonjog, más jog vagy követelés átruházására, vételi jog alapítására irányul.",
+          "text": "Semmis az a kikötés, amelyben fogyasztó követelés biztosítása céljából tulajdonjog, más jog vagy követelés átruházására vagy vételi jog alapítására vállal kötelezettséget.",
           "act_id_abbreviations": [],
           "outgoing_references": [],
           "semantic_data": []
@@ -35625,7 +35655,7 @@
         },
         {
           "identifier": "3",
-          "text": "A szerződésátruházással a szerződés biztosítékai megszűnnek. A zálogkötelezett hozzájárulása esetén az új zálogjog az eredeti zálogjog ranghelyén jön létre.",
+          "text": "A szerződésbe belépő félre átszálló jogosultság biztosítéka fennmarad. A szerződésbe belépő félre átszálló kötelezettség teljesítésének biztosítéka megszűnik, kivéve, ha a biztosíték kötelezettje a szerződésátruházáshoz hozzájárul.",
           "act_id_abbreviations": [],
           "outgoing_references": [],
           "semantic_data": []
@@ -35647,6 +35677,20 @@
         {
           "identifier": "2",
           "text": "A szerződésben maradó fél a jognyilatkozat megtételekor fenntarthatja a jogot annak visszavonására.",
+          "act_id_abbreviations": [],
+          "outgoing_references": [],
+          "semantic_data": []
+        },
+        {
+          "identifier": "3",
+          "text": "Ha a biztosíték kötelezettje a szerződésbe belépő félre átszálló kötelezettség biztosítéka fennmaradásához szükséges hozzájáruló jognyilatkozatát előzetesen megteszi, jognyilatkozata a szerződésátruházásról történt értesítésével válik hatályossá.",
+          "act_id_abbreviations": [],
+          "outgoing_references": [],
+          "semantic_data": []
+        },
+        {
+          "identifier": "4",
+          "text": "A biztosíték kötelezettje a jognyilatkozat megtételekor fenntarthatja a jogot annak visszavonására.",
           "act_id_abbreviations": [],
           "outgoing_references": [],
           "semantic_data": []
@@ -44881,13 +44925,12 @@
       "identifier": "6:541",
       "children": [
         {
-          "text": "Ha a jogi személy vezető tisztségviselője e jogviszonyával összefüggésben harmadik személynek kárt okoz, a károsulttal szemben a vezető tisztségviselő a jogi személlyel egyetemlegesen felel.",
+          "text": " ",
           "act_id_abbreviations": [],
           "outgoing_references": [],
           "semantic_data": []
         }
       ],
-      "title": "Felelősség a vezető tisztségviselő károkozásáért",
       "__type__": "Article"
     },
     {
