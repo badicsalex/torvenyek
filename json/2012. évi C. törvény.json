@@ -630,7 +630,7 @@
       "identifier": "16",
       "children": [
         {
-          "text": "Nem büntethető, aki a büntetendő cselekmény elkövetésekor a tizennegyedik életévét nem töltötte be, kivéve az emberölés [160. § (1)–(2) bekezdés], az erős felindulásban elkövetett emberölés (161. §), a testi sértés [164. § (8) bekezdés], a rablás [365. § (1)–(4) bekezdés] és a kifosztás [366. § (2)–(3) bekezdés] elkövetőjét, ha a bűncselekmény elkövetésekor a tizenkettedik életévét betöltötte, és az elkövetéskor rendelkezett a bűncselekmény következményeinek felismeréséhez szükséges belátással.",
+          "text": "Nem büntethető, aki a büntetendő cselekmény elkövetésekor a tizennegyedik életévét nem töltötte be, kivéve az emberölés [160. § (1)–(2) bekezdés], az erős felindulásban elkövetett emberölés (161. §), a testi sértés [164. § (8) bekezdés], a terrorcselekmény [314. § (1)–(4) bekezdés], a rablás [365. § (1)–(4) bekezdés] és a kifosztás [366. § (2)–(3) bekezdés] elkövetőjét, ha a bűncselekmény elkövetésekor a tizenkettedik életévét betöltötte, és az elkövetéskor rendelkezett a bűncselekmény következményeinek felismeréséhez szükséges belátással.",
           "act_id_abbreviations": [],
           "outgoing_references": [
             {
@@ -660,8 +660,19 @@
               }
             },
             {
-              "start_pos": 248,
-              "end_pos": 271,
+              "start_pos": 258,
+              "end_pos": 281,
+              "reference": {
+                "article": "314",
+                "paragraph": [
+                  "1",
+                  "4"
+                ]
+              }
+            },
+            {
+              "start_pos": 294,
+              "end_pos": 317,
               "reference": {
                 "article": "365",
                 "paragraph": [
@@ -671,8 +682,8 @@
               }
             },
             {
-              "start_pos": 289,
-              "end_pos": 312,
+              "start_pos": 335,
+              "end_pos": 358,
               "reference": {
                 "article": "366",
                 "paragraph": [
@@ -19804,7 +19815,25 @@
         },
         {
           "identifier": "2",
-          "text": "Az (1) bekezdés szerint büntetendő, aki az a) pontban meghatározott célból jelentős anyagi javakat kerít hatalmába, és azok sértetlenül hagyását vagy visszaadását állami szervhez vagy nemzetközi szervezethez intézett követelés teljesítésétől teszi függővé.",
+          "intro": "Az (1) bekezdés szerint büntetendő, aki az a) pontban meghatározott célból",
+          "children": [
+            {
+              "identifier": "a",
+              "text": "jelentős anyagi javakat kerít hatalmába, és azok sértetlenül hagyását vagy visszaadását állami szervhez vagy nemzetközi szervezethez intézett követelés teljesítésétől teszi függővé, vagy",
+              "act_id_abbreviations": [],
+              "outgoing_references": [],
+              "semantic_data": [],
+              "__type__": "AlphabeticPoint"
+            },
+            {
+              "identifier": "b",
+              "text": "terrorista csoportot szervez.",
+              "act_id_abbreviations": [],
+              "outgoing_references": [],
+              "semantic_data": [],
+              "__type__": "AlphabeticPoint"
+            }
+          ],
           "act_id_abbreviations": [],
           "outgoing_references": [
             {
@@ -20270,7 +20299,26 @@
       "identifier": "316",
       "children": [
         {
-          "text": "Aki terrorcselekmény elkövetésével fenyeget, bűntett miatt két évtől nyolc évig terjedő szabadságvesztéssel büntetendő.",
+          "intro": "Aki",
+          "children": [
+            {
+              "identifier": "a",
+              "text": "terrorcselekmény elkövetésével fenyeget, vagy",
+              "act_id_abbreviations": [],
+              "outgoing_references": [],
+              "semantic_data": [],
+              "__type__": "AlphabeticPoint"
+            },
+            {
+              "identifier": "b",
+              "text": "terrorista csoporthoz csatlakozás céljából Magyarország területéről kiutazik vagy azon átutazik,",
+              "act_id_abbreviations": [],
+              "outgoing_references": [],
+              "semantic_data": [],
+              "__type__": "AlphabeticPoint"
+            }
+          ],
+          "wrap_up": "bűntett miatt két évtől nyolc évig terjedő szabadságvesztéssel büntetendő.",
           "act_id_abbreviations": [],
           "outgoing_references": [],
           "semantic_data": []
@@ -21527,9 +21575,25 @@
       "identifier": "331",
       "children": [
         {
+          "identifier": "1",
           "text": "Aki nagy nyilvánosság előtt háborúra uszít, vagy egyébként háborús hírverést folytat, bűntett miatt egy évtől öt évig terjedő szabadságvesztéssel büntetendő.",
           "act_id_abbreviations": [],
           "outgoing_references": [],
+          "semantic_data": []
+        },
+        {
+          "identifier": "2",
+          "text": "Az (1) bekezdés szerint büntetendő, ha súlyosabb bűncselekmény nem valósul meg, aki nagy nyilvánosság előtt a terrorizmus támogatására uszít, vagy egyébként a terrorizmust támogató hírverést folytat.",
+          "act_id_abbreviations": [],
+          "outgoing_references": [
+            {
+              "start_pos": 3,
+              "end_pos": 15,
+              "reference": {
+                "paragraph": "1"
+              }
+            }
+          ],
           "semantic_data": []
         }
       ],
