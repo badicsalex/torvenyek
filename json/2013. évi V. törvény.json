@@ -26015,7 +26015,7 @@
       "children": [
         {
           "identifier": "1",
-          "text": "A zálogszerződésben a zálogkötelezett és a zálogjogosult zálogjognak meghatározott zálogtárgyon meghatározott követelés biztosítása céljából való alapításában állapodnak meg.",
+          "text": "A zálogszerződésben a zálogkötelezett és a zálogjogosult zálogjognak meghatározott zálogtárgyon és – ha e törvény eltérően nem rendelkezik – meghatározott követelés biztosítása céljából való alapításában állapodnak meg.",
           "act_id_abbreviations": [],
           "outgoing_references": [],
           "semantic_data": []
@@ -26101,7 +26101,7 @@
             },
             {
               "identifier": "b",
-              "text": "a biztosított követelés meghatározásának tartalmaznia kell az összeg megjelölését.",
+              "text": "a biztosított követelés meghatározásának tartalmaznia kell a követelés – járulékok nélküli – összegének megjelölését, vagy azt az összeget, amelynek erejéig a zálogjogosult a zálogtárgyból kielégítést kereshet.",
               "act_id_abbreviations": [],
               "outgoing_references": [],
               "semantic_data": [],
@@ -26251,7 +26251,7 @@
           "children": [
             {
               "identifier": "a",
-              "text": "pénzen és értékpapíron kézizálogjogként;",
+              "text": "pénzen és értékpapíron,",
               "act_id_abbreviations": [],
               "outgoing_references": [],
               "semantic_data": [],
@@ -26259,49 +26259,17 @@
             },
             {
               "identifier": "b",
-              "text": "dematerializált értékpapíron kézizálogjogként vagy a (2) bekezdésben meghatározott módokon;",
+              "text": "fizetésiszámla-követelésen, illetve betétszerződésből eredő követelésen vagy egyébként jogszabály rendelkezése szerint számlavezetőként erre feljogosított intézmény által vezetett számlán nyilvántartott követelésen (a továbbiakban e cím alkalmazásában: fizetésiszámla-követelés), továbbá",
               "act_id_abbreviations": [],
-              "outgoing_references": [
-                {
-                  "start_pos": 53,
-                  "end_pos": 68,
-                  "reference": {
-                    "paragraph": "2"
-                  }
-                }
-              ],
+              "outgoing_references": [],
               "semantic_data": [],
               "__type__": "AlphabeticPoint"
             },
             {
               "identifier": "c",
-              "text": "fizetésiszámla-követelésen a (2) bekezdésben meghatározott módokon;",
+              "text": "jogszabályban óvadék tárgyaként meghatározott más vagyontárgyon",
               "act_id_abbreviations": [],
-              "outgoing_references": [
-                {
-                  "start_pos": 29,
-                  "end_pos": 44,
-                  "reference": {
-                    "paragraph": "2"
-                  }
-                }
-              ],
-              "semantic_data": [],
-              "__type__": "AlphabeticPoint"
-            },
-            {
-              "identifier": "d",
-              "text": "jogszabályban meghatározott egyéb vagyontárgyon a (4) bekezdésben meghatározott módon",
-              "act_id_abbreviations": [],
-              "outgoing_references": [
-                {
-                  "start_pos": 50,
-                  "end_pos": 65,
-                  "reference": {
-                    "paragraph": "4"
-                  }
-                }
-              ],
+              "outgoing_references": [],
               "semantic_data": [],
               "__type__": "AlphabeticPoint"
             }
@@ -26313,11 +26281,18 @@
         },
         {
           "identifier": "2",
-          "intro": "Dematerializált értékpapíron és fizetésiszámla-követelésen óvadék alapítása történhet",
+          "text": "Óvadékot pénzen és nem dematerializált értékpapíron kézizálogjogként, dematerializált értékpapíron, fizetésiszámla-követelésen és jogszabályban óvadék tárgyaként meghatározott más vagyontárgyon pedig úgy kell alapítani, hogy annak eredményeként az óvadék tárgya egyértelműen azonosítható módon az óvadék kötelezettjének hatalmából az óvadék jogosultjának hatalmába kerüljön, vagy az óvadék kötelezettjének korlátlan rendelkezése alól egyébként kikerüljön.",
+          "act_id_abbreviations": [],
+          "outgoing_references": [],
+          "semantic_data": []
+        },
+        {
+          "identifier": "3",
+          "intro": "Dematerializált értékpapíron és fizetésiszámla-követelésen óvadék",
           "children": [
             {
               "identifier": "a",
-              "text": "a számlatulajdonos, a számlavezető és a zálogjogosult közötti írásbeli megállapodással, amely szerint a számlavezető a számlatulajdonos rendelkezéseit a zálogjogosult jóváhagyásával, a zálogjogosult rendelkezéseit a számlatulajdonos jóváhagyása nélkül is teljesíti; vagy",
+              "text": "a számlatulajdonos, a számlavezető és az óvadék jogosultja közötti írásbeli megállapodással, amely szerint a számlavezető a számlatulajdonos rendelkezéseit az óvadék jogosultjának jóváhagyásával, az óvadék jogosultjának rendelkezéseit a számlatulajdonos jóváhagyása nélkül is teljesíti; vagy",
               "act_id_abbreviations": [],
               "outgoing_references": [],
               "semantic_data": [],
@@ -26325,35 +26300,21 @@
             },
             {
               "identifier": "b",
-              "text": "a számlavezető javára önmagában a számlatulajdonos és a számlavezető közötti zálogszerződéssel.",
+              "text": "a számlavezető javára önmagában a számlatulajdonos és a számlavezető közötti zálogszerződéssel",
               "act_id_abbreviations": [],
               "outgoing_references": [],
               "semantic_data": [],
               "__type__": "AlphabeticPoint"
             }
           ],
+          "wrap_up": "is alapítható.",
           "act_id_abbreviations": [],
           "outgoing_references": [],
           "semantic_data": []
         },
         {
-          "identifier": "3",
-          "text": "A számlavezető a (2) bekezdésben foglaltak szerint fennálló zálogjogot valamennyi számlakivonaton és egyéb egyenlegközlő iraton köteles feltüntetni.",
-          "act_id_abbreviations": [],
-          "outgoing_references": [
-            {
-              "start_pos": 17,
-              "end_pos": 32,
-              "reference": {
-                "paragraph": "2"
-              }
-            }
-          ],
-          "semantic_data": []
-        },
-        {
           "identifier": "4",
-          "text": "Ha az óvadék tárgya jogszabályban meghatározott vagyontárgy, az óvadék alapításához az szükséges, hogy az óvadék tárgya egyértelműen azonosítható módon a kötelezett hatalmából a jogosult hatalmába kerüljön, vagy a kötelezett korlátlan rendelkezése alól egyébként kikerüljön.",
+          "text": "A számlavezető a dematerializált értékpapíron és fizetésiszámla-követelésen fennálló óvadékot valamennyi számlakivonaton és egyéb egyenlegközlő iraton köteles feltüntetni.",
           "act_id_abbreviations": [],
           "outgoing_references": [],
           "semantic_data": []
@@ -26367,7 +26328,7 @@
       "children": [
         {
           "identifier": "1",
-          "text": "A zálogjogosult vagy több zálogjogosult együttesen a zálogszerződésben vagy egyébként írásban zálogjogosulti bizományost jelölhet ki. A kijelölést írásba kell foglalni.",
+          "text": "A követelés jogosultja, illetve több ilyen jogosult együttesen a zálogszerződésben vagy egyébként írásban zálogjogosulti bizományost jelölhet ki. A kijelölést írásba kell foglalni. A zálogjogosulti bizományos a saját nevében – az őt kijelölő jogosultak, mint zálogjogosultak javára, ideértve saját magát is, ha a követelésnek is jogosultja – zálogszerződést köthet.",
           "act_id_abbreviations": [],
           "outgoing_references": [],
           "semantic_data": []
@@ -26381,7 +26342,7 @@
         },
         {
           "identifier": "3",
-          "text": "  A zálogjogosulti bizományos kijelölésének visszavonása harmadik személyekkel szemben attól az időponttól hatályos, amikor a zálogjogosultat az ingatlan-nyilvántartásba, a lajstromba vagy a hitelbiztosítéki nyilvántartásba bejegyzik.",
+          "text": "A zálogjogosulti bizományos kijelölésének visszavonása esetén a zálogjogosult – több zálogjogosult esetén ezek együttesen – a kijelölés visszavonásával egyidejűleg új zálogjogosulti bizományost jelölhet ki, vagy maga lép a zálogjogosulti bizományos helyébe. A zálogjogosulti bizományos kijelölésének visszavonása harmadik személyekkel szemben attól az időponttól hatályos, amikor az új zálogjogosulti bizományost vagy a zálogjogosultat az ingatlan-nyilvántartásba, a lajstromba vagy a hitelbiztosítéki nyilvántartásba bejegyzik.",
           "act_id_abbreviations": [],
           "outgoing_references": [],
           "semantic_data": []
@@ -26402,7 +26363,7 @@
         },
         {
           "identifier": "6",
-          "text": "A zálogjogosult a zálogjogból fakadó jogokat a zálogjogosulti bizományos bejegyzésének tartama alatt nem gyakorolhatja, azonban a zálogjogosulti bizományos magatartásáért úgy felel, mintha maga járt volna el.",
+          "text": "A zálogjogosult a zálogjogból fakadó jogokat a zálogjogosulti bizományos bejegyzésének tartama alatt nem gyakorolhatja, azonban a zálogjogosulti bizományos magatartásáért – ha a zálogkötelezett hozzájárulásával a zálogjogosultak és a zálogjogosulti bizományos eltérően nem rendelkeznek – úgy felel, mintha maga járt volna el.",
           "act_id_abbreviations": [],
           "outgoing_references": [],
           "semantic_data": []
@@ -26523,7 +26484,14 @@
         },
         {
           "identifier": "3",
-          "text": "A zálogjogot a zálogjoggal biztosított követeléssel együtt lehet átruházni.",
+          "text": "A zálogjogot – az önálló zálogjog kivételével – a zálogjoggal biztosított követeléssel együtt lehet átruházni vagy megterhelni.",
+          "act_id_abbreviations": [],
+          "outgoing_references": [],
+          "semantic_data": []
+        },
+        {
+          "identifier": "4",
+          "text": "A zálogjoggal biztosított követelés alzálogjog alapítása útján terhelhető meg zálogjoggal. Az alzálogjog tárgya a zálogjog és az általa biztosított követelés, az alzálogjogra – ha e törvény eltérően nem rendelkezik – a zálogjogra vonatkozó szabályok irányadók.",
           "act_id_abbreviations": [],
           "outgoing_references": [],
           "semantic_data": []
@@ -26537,41 +26505,94 @@
       "children": [
         {
           "identifier": "1",
-          "text": "A jelzálogjog jogosultja – szerződéssel, tartozásának biztosítékául – a biztosított követelés nélkül is átruházhatja a zálogjogot (a továbbiakban: különvált zálogjog) a vele szembeni követelés jogosultjára. A különvált zálogjog alapján a zálogjogosult jogai a zálogjog megszerzőjét (a továbbiakban: a különvált zálogjog jogosultja) illetik.",
+          "text": "Pénzügyi intézmény javára ingatlanon jelzálogjog úgy is alapítható, hogy az a zálogtárgyat a biztosított követeléstől függetlenül, meghatározott összeg erejéig terhelje (önálló zálogjog).",
           "act_id_abbreviations": [],
           "outgoing_references": [],
           "semantic_data": []
         },
         {
           "identifier": "2",
-          "text": "A zálogjog átruházására szolgáló szerződésben meg kell határozni azt a követelést, amelyet a különvált zálogjog biztosít. A szerződést írásba kell foglalni.",
+          "text": "Az önálló zálogjogot alapító zálogszerződés a zálogtárgy megjelölésén kívül azt a meghatározott összeget tartalmazza, amelynek erejéig a zálogtárgyból kielégítés kereshető. Ezt az összeget az ingatlan-nyilvántartásban is fel kell tüntetni.",
           "act_id_abbreviations": [],
           "outgoing_references": [],
           "semantic_data": []
         },
         {
           "identifier": "3",
-          "text": "A zálogjog átruházása harmadik személyekkel szemben attól az időponttól hatályos, amikor a különvált zálogjog jogosultját az ingatlan-nyilvántartásba, más lajstromba, illetve a hitelbiztosítéki nyilvántartásba bejegyezték, vagy amikor a harmadik személy, az engedményezésről való értesítés szabályainak megfelelő alkalmazásával, értesítést kapott a zálogjog átruházásáról.",
+          "text": "A zálogtárgyból való kielégítési jog gyakorlásának feltételeit a zálogjogosult és a zálogkötelezett között létrejövő biztosítéki szerződésben kell meghatározni. A biztosítéki szerződést írásba kell foglalni, és annak tartalmaznia kell az önálló zálogjog alapításának biztosítéki célját, a kielégítési jog megnyílásának feltételeit és terjedelmét, ha a kielégítési jog felmondással nyílik meg, úgy a felmondás gyakorlásának módját és a felmondási időt is. A kielégítési jog a biztosítéki szerződésben foglaltaknak megfelelően gyakorolható.",
           "act_id_abbreviations": [],
           "outgoing_references": [],
           "semantic_data": []
         },
         {
           "identifier": "4",
-          "text": "A különvált zálogjog jogosultja a zálogjogból folyó jogait úgy köteles gyakorolni, hogy ne veszélyeztesse az eredeti biztosított követelés megtérülését.",
+          "text": "Az önálló zálogjog más pénzügyi intézményre egészben vagy részben, illetve részletekben átruházható. Az átruházással az önálló zálogjogot megszerző fél a biztosítéki szerződésben – az átruházás mértékének megfelelően – az átruházó helyébe lép. A szerző fél a megszerzett jogának – részben vagy részletekben történő átruházás esetén az önálló zálogjog megosztásának – az ingatlan-nyilvántartásban való feltüntetését igényelheti.",
           "act_id_abbreviations": [],
           "outgoing_references": [],
           "semantic_data": []
         },
         {
           "identifier": "5",
-          "text": "A különvált zálogjoggal biztosított követelés megszűnésével a különvált zálogjog visszaszáll az eredeti zálogjogosultra. A különvált zálogjog jogosultja a biztosított követelés megszűnését megelőzően visszaruházhatja a zálogjogot az eredeti zálogjogosultra. A különvált zálogjogot egyébként csak a különvált zálogjoggal biztosított követeléssel együtt lehet átruházni.",
+          "text": "Ha a biztosítéki szerződés eltérően nem rendelkezik, a zálogjogosult kielégítése érdekében az önálló zálogjogot mind a zálogjogosult, mind a zálogkötelezett írásban felmondhatja. A felmondási idő – a felek eltérő megállapodása hiányában – hat hónap. Ha a kielégítési jog felmondással nyílik meg, annak kizárása semmis.",
+          "act_id_abbreviations": [],
+          "outgoing_references": [],
+          "semantic_data": []
+        },
+        {
+          "identifier": "6",
+          "text": "A zálogkötelezett az önálló zálogjog mindenkori jogosultjával szemben hivatkozhat azokra a kifogásokra is, amelyek a biztosítéki szerződésben meghatározott követelés kötelezettjét megilletik. A biztosítéki szerződés szerint kielégíthető követelés összegét a kielégítési jog gyakorlása során befolyt vételár csökkenti.",
+          "act_id_abbreviations": [],
+          "outgoing_references": [],
+          "semantic_data": []
+        },
+        {
+          "identifier": "7",
+          "text": "Az önálló zálogjoggal terhelt zálogtárgy tulajdonjogát megszerző fél a biztosítéki szerződésben a zálogkötelezett helyébe lép.",
+          "act_id_abbreviations": [],
+          "outgoing_references": [],
+          "semantic_data": []
+        },
+        {
+          "identifier": "8",
+          "intro": "Ha a biztosítéki szerződés nem jött létre, az önálló zálogjog létesítésének a biztosítéki szerződésben megjelölt célja véglegesen meghiúsult, vagy a biztosítéki szerződés, illetve a biztosítéki szerződés szerint a zálogtárgyból kielégíthető követelés – ideértve a megtérítési követelést is – megszűnt, továbbá, ha a biztosítéki szerződésbe foglalt más, az önálló zálogjog megszűnését eredményező ok vagy feltétel bekövetkezett, a zálogjogosult a zálogkötelezett írásbeli felszólítására köteles hozzájárulni ahhoz, hogy",
+          "children": [
+            {
+              "identifier": "a",
+              "text": "az ingatlan-nyilvántartásba az önálló zálogjog jogosultjaként a zálogkötelezettet vagy az általa megjelölt pénzügyi intézményt jegyezzék be, vagy",
+              "act_id_abbreviations": [],
+              "outgoing_references": [],
+              "semantic_data": [],
+              "__type__": "AlphabeticPoint"
+            },
+            {
+              "identifier": "b",
+              "text": "az önálló zálogjogot töröljék az ingatlan-nyilvántartásból.",
+              "act_id_abbreviations": [],
+              "outgoing_references": [],
+              "semantic_data": [],
+              "__type__": "AlphabeticPoint"
+            }
+          ],
+          "act_id_abbreviations": [],
+          "outgoing_references": [],
+          "semantic_data": []
+        },
+        {
+          "identifier": "9",
+          "text": "Az önálló zálogjog követelést biztosító zálogjoggá, ez utóbbi pedig önálló zálogjoggá a felek erre irányuló írásbeli megállapodásával és az átváltoztatás ingatlan-nyilvántartásba való bejegyzésével – a zálogjog ranghelyének megtartása mellett – átváltoztatható. Ehhez nem szükséges a rangsorban azonos ranghelyen vagy hátrább álló zálogjogosultak hozzájárulása sem.",
+          "act_id_abbreviations": [],
+          "outgoing_references": [],
+          "semantic_data": []
+        },
+        {
+          "identifier": "10",
+          "text": "Az önálló zálogjogra egyebekben – ha a biztosított követeléstől való függetlenségéből más nem következik – a követelést biztosító zálogjogra vonatkozó rendelkezéseket kell megfelelően alkalmazni.",
           "act_id_abbreviations": [],
           "outgoing_references": [],
           "semantic_data": []
         }
       ],
-      "title": "A különvált zálogjog",
+      "title": "Az önálló zálogjog",
       "__type__": "Article"
     },
     {
@@ -26716,7 +26737,7 @@
         },
         {
           "identifier": "8",
-          "text": "A különvált zálogjog érvényesítése eredményeként a különvált zálogjog jogosultjához befolyt pénzösszegen vagy más vagyontárgyon a zálogjog átruházására okot adó követelést biztosító kézizálogjog keletkezik.",
+          "text": " ",
           "act_id_abbreviations": [],
           "outgoing_references": [],
           "semantic_data": []
@@ -26874,7 +26895,15 @@
       "identifier": "5:110",
       "children": [
         {
-          "text": "Az elzálogosított követelés kötelezettjének a zálogjog megalapításáról való – az elzálogosított követelés és a zálogjogosult megjelölését tartalmazó – írásbeli értesítését követően a zálogjogosulttal szemben hatálytalan a zálogkötelezett és az elzálogosított követelés kötelezettje közötti szerződés módosítása. A kötelezett a zálogjogosulttal szemben azokat a kifogásokat érvényesítheti és azokat az ellenköveteléseket számíthatja be, amelyek a zálogkötelezettel szemben az értesítésekor már fennállt jogalapon keletkeztek.",
+          "identifier": "1",
+          "text": "Az elzálogosított követelés kötelezettjének a zálogjog megalapításáról való – az elzálogosított követelés és a zálogjogosult megjelölését tartalmazó – írásbeli értesítését követően a zálogjogosulttal szemben hatálytalan a zálogkötelezett és az elzálogosított követelés kötelezettje közötti szerződés megszüntetése vagy olyan módosítása, amely a zálogjogosult kielégítési jogát hátrányosan érinti vagy egyébként a zálogfedezetet csökkenti. A szerződés megszüntetése vagy módosítása azonban hatályossá válik, ha ahhoz a zálogjogosult a zálogkötelezetthez és az elzálogosított követelés kötelezettjéhez intézett nyilatkozattal hozzájárul.",
+          "act_id_abbreviations": [],
+          "outgoing_references": [],
+          "semantic_data": []
+        },
+        {
+          "identifier": "2",
+          "text": "A kötelezett a zálogjogosulttal szemben azokat a kifogásokat érvényesítheti és azokat az ellenköveteléseket számíthatja be, amelyek a zálogkötelezettel szemben az értesítésekor már fennállt jogalapon keletkeztek.",
           "act_id_abbreviations": [],
           "outgoing_references": [],
           "semantic_data": []
@@ -27363,14 +27392,14 @@
         },
         {
           "identifier": "2",
-          "text": "A különvált zálogjog esetében a zálogjog átruházásával biztosított követelés esedékessé válása és teljesítésének elmulasztása nem eredményezi a kielégítési jog megnyílását. Ha azonban az eredeti biztosított követelésre tekintettel a különvált zálogjogból fakadó kielégítési jog megnyílt, a zálogjog érvényesítésének nem akadálya az, hogy a zálogjog átruházásával biztosított követelés még nem vált esedékessé. A különvált zálogjogból fakadó kielégítési jog megnyílta esetén a különvált zálogjog jogosultja köteles kielégítési jogát gyakorolni vagy a zálogjogot visszaruházni az eredeti zálogjogosultra.",
+          "text": "Az önálló zálogjog jogosultjának kielégítési joga – ha a felek a biztosítéki szerződésben másként nem állapodtak meg – az önálló zálogjog felmondásával és a felmondási idő elteltével nyílik meg.",
           "act_id_abbreviations": [],
           "outgoing_references": [],
           "semantic_data": []
         },
         {
           "identifier": "3",
-          "text": "A kielégítési jog gyakorlása a zálogjogosult választása szerint bírósági végrehajtás útján vagy bírósági végrehajtáson kívül történhet.",
+          "text": "A kielégítési jog gyakorlása a zálogjogosult választása szerint bírósági végrehajtás útján vagy – fogyasztóval szemben e törvény szerinti korlátozással – bírósági végrehajtáson kívül történhet.",
           "act_id_abbreviations": [],
           "outgoing_references": [],
           "semantic_data": []
@@ -27443,11 +27472,11 @@
       "identifier": "5:128",
       "children": [
         {
-          "intro": "Fogyasztói zálogszerződés esetén a zálogjogosult",
+          "intro": "A zálogjogosult a fogyasztóval szembeni kielégítési jogát bírósági végrehajtáson kívül csak akkor gyakorolhatja, ha",
           "children": [
             {
               "identifier": "a",
-              "text": "csak nyilvánosan értékesítheti a zálogtárgyat, kivéve, ha a felek a kielégítési jog megnyílása után írásban eltérő értékesítési módban állapodtak meg; és",
+              "text": "az óvadék tárgyára vonatkozóan a közvetlen kielégítés jogával él,",
               "act_id_abbreviations": [],
               "outgoing_references": [],
               "semantic_data": [],
@@ -27455,7 +27484,15 @@
             },
             {
               "identifier": "b",
-              "text": "nem szerezheti meg – az óvadék kivételével – a kielégítés fejében a zálogtárgy tulajdonjogát.",
+              "text": "az elzálogosított jogot vagy követelést e törvény szerint érvényesíti, vagy",
+              "act_id_abbreviations": [],
+              "outgoing_references": [],
+              "semantic_data": [],
+              "__type__": "AlphabeticPoint"
+            },
+            {
+              "identifier": "c",
+              "text": "a kielégítési jog megnyílása után a zálogkötelezettel a zálogtárgy zálogjogosult által történő értékesítésének módjában írásban megállapodott.",
               "act_id_abbreviations": [],
               "outgoing_references": [],
               "semantic_data": [],
@@ -27467,7 +27504,7 @@
           "semantic_data": []
         }
       ],
-      "title": "A kielégítési jog gyakorlása fogyasztói zálogszerződés esetén",
+      "title": "A kielégítési jog gyakorlása fogyasztóval szemben",
       "__type__": "Article"
     },
     {
@@ -27555,7 +27592,7 @@
         },
         {
           "identifier": "2",
-          "text": "Az előzetes értesítés és az értékesítés között legalább tíz napnak, fogyasztói zálogszerződés esetén legalább harminc napnak kell eltelnie.",
+          "text": "Az előzetes értesítés és az értékesítés időpontja között legalább tíz napnak kell eltelnie.",
           "act_id_abbreviations": [],
           "outgoing_references": [],
           "semantic_data": []
@@ -28045,13 +28082,21 @@
       "identifier": "5:140",
       "children": [
         {
-          "text": "Ha a zálogjog tárgyául szolgáló követelés zálogjoggal vagy kezességgel van biztosítva, a zálogjogosult a követelés jogosultjának a zálogjogból, illetve kezességből fakadó jogait is gyakorolhatja. Ha a követelést kézizálogjog biztosítja, a követelés jogosultja a zálogjogosult kérésére köteles a zálogtárgy birtokát részére átruházni.",
+          "identifier": "1",
+          "text": "Ha a zálogjog tárgyául szolgáló követelés zálogjoggal vagy kezességgel van biztosítva, az alzálogjog jogosultja a zálogjogosultnak a zálogjogból, illetve kezességből fakadó jogait annyiban gyakorolhatja, amennyiben e jogok gyakorlására a zálogjogosult maga is jogosult. Ha a követelést kézizálogjog biztosítja, a zálogjogosult az alzálogjog jogosultjának kérésére köteles a zálogtárgy birtokát részére átruházni.",
+          "act_id_abbreviations": [],
+          "outgoing_references": [],
+          "semantic_data": []
+        },
+        {
+          "identifier": "2",
+          "text": "Az alzálogjog jogosultja e jogából fakadó jogait úgy köteles gyakorolni, hogy azzal a zálogjogosult zálogjoggal biztosított követelésének megtérülését ne veszélyeztesse. Az alzálogjog érvényesítése eredményeként az ennek jogosultjához az alzálogjoggal biztosított követelést meghaladóan befolyt pénzösszegen vagy más vagyontárgyon a zálogjogosultat az alzálogjogosulttal szembeni elszámolási igénye biztosítására zálogjog illeti meg.",
           "act_id_abbreviations": [],
           "outgoing_references": [],
           "semantic_data": []
         }
       ],
-      "title": "Alzálogjog",
+      "title": "Alzálogjog érvényesítése",
       "__type__": "Article"
     },
     {
@@ -28113,7 +28158,7 @@
             },
             {
               "identifier": "e",
-              "text": "a zálogjoggal biztosított követelés elévül;",
+              "text": "a zálogjoggal biztosított követelés elévül, ez azonban a követelést biztosító kézizálogból való kielégítést nem akadályozza;",
               "act_id_abbreviations": [],
               "outgoing_references": [],
               "semantic_data": [],
@@ -28148,7 +28193,7 @@
         },
         {
           "identifier": "4",
-          "text": "Az előző bekezdésekben meghatározott esetekben a zálogjog akkor is megszűnik, ha korábban annak átruházására került sor.",
+          "text": "Megszűnik a zálogjog, ha a követelés átruházása kifejezetten az azt biztosító zálogjog átszállásának kizárásával történt. Ha azonban a zálogjog a követelés átruházójának az átruházott követelését meghaladóan más követelését is biztosítja, e követelés biztosítékaként a zálogjog fennmarad.",
           "act_id_abbreviations": [],
           "outgoing_references": [],
           "semantic_data": []
@@ -28223,7 +28268,7 @@
         },
         {
           "identifier": "3",
-          "text": "A különvált zálogjog jogosultja köteles a zálogjog megszűnésekor és az eredeti zálogjogosultra való visszaszállásakor az eredeti zálogjogosulttal elszámolni.",
+          "text": " ",
           "act_id_abbreviations": [],
           "outgoing_references": [],
           "semantic_data": []
