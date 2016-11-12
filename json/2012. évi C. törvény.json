@@ -32558,9 +32558,17 @@
                 },
                 {
                   "identifier": "c",
-                  "text": "az emberi felhasználásra kerülő gyógyszerekről szóló törvény mellékletében meghatározott pszichotróp anyag;",
+                  "text": "az emberi alkalmazásra kerülő gyógyszerekről és egyéb, a gyógyszerpiacot szabályozó törvények módosításáról szóló 2005. évi XCV. törvény 2. számú mellékletében meghatározott pszichotróp anyag;",
                   "act_id_abbreviations": [],
-                  "outgoing_references": [],
+                  "outgoing_references": [
+                    {
+                      "start_pos": 114,
+                      "end_pos": 136,
+                      "reference": {
+                        "act": "2005. évi XCV. törvény"
+                      }
+                    }
+                  ],
                   "semantic_data": [],
                   "__type__": "AlphabeticSubpoint"
                 }
