@@ -1466,6 +1466,10 @@ Az előzetes fogvatartás és a házi őrizet beszámítása
                Nem bocsátható feltételes szabadságra az elítélt az összbüntetésből, ha
                bármelyik szabadságvesztés esetén a feltételes szabadságra bocsátás
                lehetősége kizárt.
+          (4)  Ha azt a szabadságvesztést, amellyel kapcsolatosan az elítéltet önhibájából
+               eredően zárták ki a feltételes szabadságra bocsátás lehetőségéből, utóbb
+               összbüntetésbe foglalják, akkor az elítélt az összbüntetésből sem
+               bocsátható feltételes szabadságra.
 
 96. §     (1)  Ha a foglalkozástól eltiltást, a járművezetéstől eltiltást, a kitiltást, a
                sportrendezvények látogatásától való eltiltást vagy a kiutasítást

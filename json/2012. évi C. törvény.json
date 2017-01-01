@@ -6470,6 +6470,13 @@
           "act_id_abbreviations": [],
           "outgoing_references": [],
           "semantic_data": []
+        },
+        {
+          "identifier": "4",
+          "text": "Ha azt a szabadságvesztést, amellyel kapcsolatosan az elítéltet önhibájából eredően zárták ki a feltételes szabadságra bocsátás lehetőségéből, utóbb összbüntetésbe foglalják, akkor az elítélt az összbüntetésből sem bocsátható feltételes szabadságra.",
+          "act_id_abbreviations": [],
+          "outgoing_references": [],
+          "semantic_data": []
         }
       ],
       "__type__": "Article"
