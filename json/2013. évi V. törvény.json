@@ -4414,7 +4414,7 @@
         },
         {
           "identifier": "4",
-          "text": "A tagok – a tagdíj megfizetésén túl – az egyesület tartozásaiért saját vagyonukkal nem felelnek.",
+          "text": "Az egyesület tagja nem köteles vagyoni hozzájárulást teljesíteni. A tag az egyesület tartozásaiért saját vagyonával nem felel.",
           "act_id_abbreviations": [],
           "outgoing_references": [],
           "semantic_data": []
@@ -4546,7 +4546,7 @@
       "children": [
         {
           "identifier": "1",
-          "text": "A tagnak jogszabályt, az egyesület alapszabályát vagy közgyűlési határozatát súlyosan vagy ismételten sértő magatartása esetén a közgyűlés – bármely egyesületi tag vagy egyesületi szerv kezdeményezésére – a taggal szemben kizárási eljárást folytathat le, ha az alapszabály a tisztességes eljárást biztosító szabályokat meghatározta.",
+          "text": "A tagnak jogszabályt, az egyesület alapszabályát vagy közgyűlési határozatát súlyosan vagy ismételten sértő magatartása esetén – bármely egyesületi tag vagy egyesületi szerv kezdeményezésére – a taggal szemben kizárási eljárás folytatható le, ha az alapszabály a kizárást lefolytató szervet és a tisztességes eljárást biztosító szabályokat meghatározta.",
           "act_id_abbreviations": [],
           "outgoing_references": [],
           "semantic_data": []
@@ -4564,6 +4564,24 @@
           "act_id_abbreviations": [],
           "outgoing_references": [],
           "semantic_data": []
+        },
+        {
+          "identifier": "4",
+          "text": "Semmis az alapszabály olyan rendelkezése, amely az (1)–(3) bekezdésben foglalt szabályoktól eltér.",
+          "act_id_abbreviations": [],
+          "outgoing_references": [
+            {
+              "start_pos": 51,
+              "end_pos": 70,
+              "reference": {
+                "paragraph": [
+                  "1",
+                  "3"
+                ]
+              }
+            }
+          ],
+          "semantic_data": []
         }
       ],
       "title": "A tag kizárása",
@@ -4571,74 +4589,11 @@
     },
     {
       "identifier": "8",
-      "title": "AZ EGYESÜLET ALAPSZABÁLYA ÉS SZERVEI",
+      "title": "AZ EGYESÜLET SZERVEI",
       "__type__": "Title"
     },
     {
       "identifier": "3:71",
-      "children": [
-        {
-          "identifier": "1",
-          "intro": "A jogi személy létesítő okiratának általános kötelező tartalmi elemein túl az egyesület alapszabályában meg kell határozni",
-          "children": [
-            {
-              "identifier": "a",
-              "text": "a tag jogait és kötelezettségeit;",
-              "act_id_abbreviations": [],
-              "outgoing_references": [],
-              "semantic_data": [],
-              "__type__": "AlphabeticPoint"
-            },
-            {
-              "identifier": "b",
-              "text": "az egyesület szerveit és azok hatáskörét, továbbá a tagokra, a vezető tisztségviselőkre és a felügyelőbizottsági tagokra vonatkozó kizáró és összeférhetetlenségi szabályokat;",
-              "act_id_abbreviations": [],
-              "outgoing_references": [],
-              "semantic_data": [],
-              "__type__": "AlphabeticPoint"
-            },
-            {
-              "identifier": "c",
-              "text": "a jogszabályt, az alapszabályt vagy az egyesületi határozatot sértő vagy az egyesület céljával összeegyezhetetlen tagi magatartás esetén alkalmazható jogkövetkezményeket és a taggal szembeni eljárás szabályait vagy mindezeknek a mellőzését;",
-              "act_id_abbreviations": [],
-              "outgoing_references": [],
-              "semantic_data": [],
-              "__type__": "AlphabeticPoint"
-            },
-            {
-              "identifier": "d",
-              "text": "a közgyűlés összehívásának és lebonyolításának, a közgyűlés helye meghatározásának, a közgyűlési meghívó tartalmának, a napirendnek, a közgyűlés tisztségviselőinek, a levezető elnöknek, a szavazatszámlálók megválasztásának, a határozatképességnek, a szavazásnak, a jegyzőkönyvvezetésnek, valamint a határozatok kihirdetésének szabályait; és",
-              "act_id_abbreviations": [],
-              "outgoing_references": [],
-              "semantic_data": [],
-              "__type__": "AlphabeticPoint"
-            },
-            {
-              "identifier": "e",
-              "text": "a szavazati jog gyakorlásának feltételeit.",
-              "act_id_abbreviations": [],
-              "outgoing_references": [],
-              "semantic_data": [],
-              "__type__": "AlphabeticPoint"
-            }
-          ],
-          "act_id_abbreviations": [],
-          "outgoing_references": [],
-          "semantic_data": []
-        },
-        {
-          "identifier": "2",
-          "text": "Az alapszabályt az egyesület céljának figyelembevételével kell értelmezni.",
-          "act_id_abbreviations": [],
-          "outgoing_references": [],
-          "semantic_data": []
-        }
-      ],
-      "title": "Az alapszabály tartalmi elemei és értelmezése",
-      "__type__": "Article"
-    },
-    {
-      "identifier": "3:72",
       "children": [
         {
           "identifier": "1",
@@ -4656,45 +4611,39 @@
         },
         {
           "identifier": "3",
+          "text": "A közgyűlés hatáskörébe tartozik az alapszabály módosítása; az alapszabály ettől eltérő rendelkezése semmis.",
+          "act_id_abbreviations": [],
+          "outgoing_references": [],
+          "semantic_data": []
+        },
+        {
+          "identifier": "4",
           "text": "Ha az alapszabály küldöttgyűlés működését írja elő, meg kell határoznia a küldöttek választásának módját. A küldöttgyűlésre egyebekben a közgyűlés szabályait kell megfelelően alkalmazni.",
           "act_id_abbreviations": [],
           "outgoing_references": [],
           "semantic_data": []
         }
       ],
-      "title": "Közgyűlés, küldöttgyűlés",
+      "title": "Közgyűlés, a közgyűlés hatásköre. A küldöttgyűlés",
       "__type__": "Article"
     },
     {
-      "identifier": "3:73",
+      "identifier": "3:72",
       "children": [
         {
           "identifier": "1",
-          "text": "A közgyűlés évente legalább egy alkalommal ülésezik. A létesítő okirat ennél ritkább ülésezést előíró rendelkezése semmis.",
+          "text": "A közgyűlés évente legalább egy alkalommal ülésezik. Az alapszabály négy évnél ritkább ülésezést előíró rendelkezése semmis. A közgyűlési meghívó elküldése és a közgyűlés napja között legalább tizenöt napnak kell eltelnie.",
           "act_id_abbreviations": [],
           "outgoing_references": [],
           "semantic_data": []
         },
         {
           "identifier": "2",
-          "text": "A közgyűlés nem nyilvános; azon a tagokon és az ügyvezetésen kívül a közgyűlés összehívására jogosult által meghívottak és az alapszabály vagy a közgyűlés határozata alapján tanácskozási joggal rendelkező személyek vehetnek részt.",
-          "act_id_abbreviations": [],
-          "outgoing_references": [],
-          "semantic_data": []
-        }
-      ],
-      "title": "A közgyűlés ülésezése",
-      "__type__": "Article"
-    },
-    {
-      "identifier": "3:74",
-      "children": [
-        {
-          "intro": "A közgyűlés hatáskörébe tartozik",
+          "intro": "A közgyűlési meghívó az általános tartalmi elemeken túl tartalmazza",
           "children": [
             {
               "identifier": "a",
-              "text": "az alapszabály módosítása;",
+              "text": "határozatképtelenség esetére a megismételt közgyűlés időpontját, helyét és az eltérő határozatképességi szabályokra vonatkozó figyelemfelhívást; és",
               "act_id_abbreviations": [],
               "outgoing_references": [],
               "semantic_data": [],
@@ -4702,79 +4651,7 @@
             },
             {
               "identifier": "b",
-              "text": "az egyesület megszűnésének, egyesülésének és szétválásának elhatározása;",
-              "act_id_abbreviations": [],
-              "outgoing_references": [],
-              "semantic_data": [],
-              "__type__": "AlphabeticPoint"
-            },
-            {
-              "identifier": "c",
-              "text": "a vezető tisztségviselő megválasztása, visszahívása és díjazásának megállapítása;",
-              "act_id_abbreviations": [],
-              "outgoing_references": [],
-              "semantic_data": [],
-              "__type__": "AlphabeticPoint"
-            },
-            {
-              "identifier": "d",
-              "text": "az éves költségvetés elfogadása;",
-              "act_id_abbreviations": [],
-              "outgoing_references": [],
-              "semantic_data": [],
-              "__type__": "AlphabeticPoint"
-            },
-            {
-              "identifier": "e",
-              "text": "az éves beszámoló – ezen belül az ügyvezető szervnek az egyesület vagyoni helyzetéről szóló jelentésének – elfogadása;",
-              "act_id_abbreviations": [],
-              "outgoing_references": [],
-              "semantic_data": [],
-              "__type__": "AlphabeticPoint"
-            },
-            {
-              "identifier": "f",
-              "text": "a vezető tisztségviselő feletti munkáltatói jogok gyakorlása, ha a vezető tisztségviselő az egyesülettel munkaviszonyban áll;",
-              "act_id_abbreviations": [],
-              "outgoing_references": [],
-              "semantic_data": [],
-              "__type__": "AlphabeticPoint"
-            },
-            {
-              "identifier": "g",
-              "text": "az olyan szerződés megkötésének jóváhagyása, amelyet az egyesület saját tagjával, vezető tisztségviselőjével, a felügyelőbizottság tagjával vagy ezek hozzátartozójával köt;",
-              "act_id_abbreviations": [],
-              "outgoing_references": [],
-              "semantic_data": [],
-              "__type__": "AlphabeticPoint"
-            },
-            {
-              "identifier": "h",
-              "text": "a jelenlegi és korábbi egyesületi tagok, a vezető tisztségviselők és a felügyelőbizottsági tagok vagy más egyesületi szervek tagjai elleni kártérítési igények érvényesítéséről való döntés;",
-              "act_id_abbreviations": [],
-              "outgoing_references": [],
-              "semantic_data": [],
-              "__type__": "AlphabeticPoint"
-            },
-            {
-              "identifier": "i",
-              "text": "a felügyelőbizottság tagjainak megválasztása, visszahívásuk és díjazásuk megállapítása;",
-              "act_id_abbreviations": [],
-              "outgoing_references": [],
-              "semantic_data": [],
-              "__type__": "AlphabeticPoint"
-            },
-            {
-              "identifier": "j",
-              "text": "a választott könyvvizsgáló megválasztása, visszahívása és díjazásának megállapítása; és",
-              "act_id_abbreviations": [],
-              "outgoing_references": [],
-              "semantic_data": [],
-              "__type__": "AlphabeticPoint"
-            },
-            {
-              "identifier": "k",
-              "text": "a végelszámoló kijelölése.",
+              "text": "küldöttgyűlés tartása esetén az erre a körülményre történő utalást.",
               "act_id_abbreviations": [],
               "outgoing_references": [],
               "semantic_data": [],
@@ -4784,13 +4661,27 @@
           "act_id_abbreviations": [],
           "outgoing_references": [],
           "semantic_data": []
+        },
+        {
+          "identifier": "3",
+          "text": "A közgyűlés helyszínét elegendő a meghívóban megjelölni akkor is, ha az eltér az egyesület székhelyétől.",
+          "act_id_abbreviations": [],
+          "outgoing_references": [],
+          "semantic_data": []
+        },
+        {
+          "identifier": "4",
+          "text": "A közgyűlés napirendjére tűzött ügyekre vonatkozóan az ügyvezetés a tagnak – kérelmére – köteles felvilágosítást adni.",
+          "act_id_abbreviations": [],
+          "outgoing_references": [],
+          "semantic_data": []
         }
       ],
-      "title": "A közgyűlés hatásköre",
+      "title": "A közgyűlés összehívása és napirendje",
       "__type__": "Article"
     },
     {
-      "identifier": "3:75",
+      "identifier": "3:73",
       "children": [
         {
           "identifier": "1",
@@ -4811,11 +4702,148 @@
       "__type__": "Article"
     },
     {
+      "identifier": "3:74",
+      "children": [
+        {
+          "identifier": "1",
+          "text": "A közgyűlés nem nyilvános; azon a tagokon és az ügyvezetésen kívül a közgyűlés összehívására jogosult által meghívottak és az alapszabály vagy a közgyűlés határozata alapján tanácskozási joggal rendelkező személyek vehetnek részt.",
+          "act_id_abbreviations": [],
+          "outgoing_references": [],
+          "semantic_data": []
+        },
+        {
+          "identifier": "2",
+          "text": "A tag a közgyűlés ülésén tagsági jogait személyes részvétel helyett elektronikus hírközlő eszközök igénybevételével akkor gyakorolhatja, ha az alapszabály az igénybe vehető elektronikus hírközlő eszközöket, valamint azok alkalmazásának feltételeit és módját úgy határozza meg, hogy a tagok azonosítása és a tagok közötti kölcsönös és korlátozásmentes kommunikáció biztosított legyen.",
+          "act_id_abbreviations": [],
+          "outgoing_references": [],
+          "semantic_data": []
+        },
+        {
+          "identifier": "3",
+          "text": "Ha a közgyűlést nem szabályszerűen hívták össze, az ülést akkor lehet megtartani, ha az ülésen a részvételre jogosultak legalább háromnegyede jelen van, és egyhangúlag hozzájárul az ülés megtartásához.",
+          "act_id_abbreviations": [],
+          "outgoing_references": [],
+          "semantic_data": []
+        },
+        {
+          "identifier": "4",
+          "text": "A szabályszerűen közölt napirenden szereplő kérdésben hozható határozat, kivéve, ha a részvételre jogosultak legalább háromnegyede jelen van és a napirenden nem szereplő kérdés megtárgyalásához egyhangúlag hozzájárul.",
+          "act_id_abbreviations": [],
+          "outgoing_references": [],
+          "semantic_data": []
+        },
+        {
+          "identifier": "5",
+          "text": "A (3) és (4) bekezdésekben foglalt esetek körébe nem eső, nem szabályosan összehívott vagy megtartott közgyűlésen elfogadott és ebből az okból érvénytelen határozat az elfogadásának időpontjára visszamenő hatállyal érvényessé válik, ha a határozatot a közgyűlés napjától számított harminc napon belül valamennyi tag egyhangúlag érvényesnek ismeri el. Semmis az alapszabály olyan rendelkezése, amely az egyhangúságra vonatkozó feltételtől eltér.",
+          "act_id_abbreviations": [],
+          "outgoing_references": [
+            {
+              "start_pos": 2,
+              "end_pos": 26,
+              "reference": {
+                "paragraph": [
+                  "3",
+                  "4"
+                ]
+              }
+            }
+          ],
+          "semantic_data": []
+        }
+      ],
+      "title": "A közgyűlés ülésezése",
+      "__type__": "Article"
+    },
+    {
+      "identifier": "3:75",
+      "children": [
+        {
+          "identifier": "1",
+          "text": "A közgyűlésen megjelent tagokról jelenléti ívet kell készíteni, amelyen fel kell tüntetni a tag, valamint – ha az alapszabály a képviselő útján történő részvételt lehetővé teszi – képviselője nevét és lakóhelyét vagy székhelyét, és – ha a tagokat nem azonos számú szavazat illeti meg – a tagot megillető szavazatok számát. A jelenléti ívet a közgyűlés levezető elnöke és a jegyzőkönyvvezető aláírásával hitelesíti.",
+          "act_id_abbreviations": [],
+          "outgoing_references": [],
+          "semantic_data": []
+        },
+        {
+          "identifier": "2",
+          "intro": "A közgyűlésről jegyzőkönyvet kell készíteni, amely tartalmazza",
+          "children": [
+            {
+              "identifier": "a",
+              "text": "az egyesület nevét és székhelyét;",
+              "act_id_abbreviations": [],
+              "outgoing_references": [],
+              "semantic_data": [],
+              "__type__": "AlphabeticPoint"
+            },
+            {
+              "identifier": "b",
+              "text": "a közgyűlés helyét és idejét;",
+              "act_id_abbreviations": [],
+              "outgoing_references": [],
+              "semantic_data": [],
+              "__type__": "AlphabeticPoint"
+            },
+            {
+              "identifier": "c",
+              "text": "a közgyűlés levezető elnökének, a jegyzőkönyvvezetőnek, a jegyzőkönyv hitelesítőjének a nevét;",
+              "act_id_abbreviations": [],
+              "outgoing_references": [],
+              "semantic_data": [],
+              "__type__": "AlphabeticPoint"
+            },
+            {
+              "identifier": "d",
+              "text": "a közgyűlésen lezajlott fontosabb eseményeket, az elhangzott indítványokat;",
+              "act_id_abbreviations": [],
+              "outgoing_references": [],
+              "semantic_data": [],
+              "__type__": "AlphabeticPoint"
+            },
+            {
+              "identifier": "e",
+              "text": "a határozati javaslatokat, a leadott szavazatok és ellenszavazatok, valamint a szavazástól tartózkodók számát.",
+              "act_id_abbreviations": [],
+              "outgoing_references": [],
+              "semantic_data": [],
+              "__type__": "AlphabeticPoint"
+            }
+          ],
+          "act_id_abbreviations": [],
+          "outgoing_references": [],
+          "semantic_data": []
+        },
+        {
+          "identifier": "3",
+          "text": "A jegyzőkönyvet a jegyzőkönyvvezető és a közgyűlés levezető elnöke írja alá, és egy erre megválasztott, jelen lévő tag hitelesíti.",
+          "act_id_abbreviations": [],
+          "outgoing_references": [],
+          "semantic_data": []
+        },
+        {
+          "identifier": "4",
+          "text": "Az egyesület ügyvezetése köteles a közgyűlési jegyzőkönyvet, valamint a jelenléti ívet az egyesület dokumentumai között elhelyezni és megőrizni.",
+          "act_id_abbreviations": [],
+          "outgoing_references": [],
+          "semantic_data": []
+        },
+        {
+          "identifier": "5",
+          "text": "Bármely tag a közgyűlési jegyzőkönyv másolatának vagy a jegyzőkönyv egy részét tartalmazó kivonatának a kiadását kérheti az ügyvezetéstől.",
+          "act_id_abbreviations": [],
+          "outgoing_references": [],
+          "semantic_data": []
+        }
+      ],
+      "title": "Jelenléti ív. Jegyzőkönyv",
+      "__type__": "Article"
+    },
+    {
       "identifier": "3:76",
       "children": [
         {
           "identifier": "1",
-          "text": "Az egyesület alapszabályának módosításához a jelen lévő tagok háromnegyedes szótöbbséggel hozott határozata szükséges.",
+          "text": "Az egyesület alapszabályának módosításához, az egyesület egyesüléséhez és szétválásához a közgyűlés háromnegyedes szótöbbséggel hozott határozata szükséges.",
           "act_id_abbreviations": [],
           "outgoing_references": [],
           "semantic_data": []
@@ -4826,9 +4854,16 @@
           "act_id_abbreviations": [],
           "outgoing_references": [],
           "semantic_data": []
+        },
+        {
+          "identifier": "3",
+          "text": "Ha a közgyűlés határozatképtelen, a megismételt közgyűlés az eredeti napirenden szereplő ügyekben a megjelent tagok számára tekintet nélkül határozatképes, ha azt az eredeti időpontot legalább három és legfeljebb tizenöt nappal követő időpontra hívják össze.",
+          "act_id_abbreviations": [],
+          "outgoing_references": [],
+          "semantic_data": []
         }
       ],
-      "title": "Határozathozatal",
+      "title": "Határozathozatal, megismételt közgyűlés",
       "__type__": "Article"
     },
     {
@@ -4849,7 +4884,7 @@
       "children": [
         {
           "identifier": "1",
-          "text": "Az elnökség három tagból áll. Az elnökség az elnökét maga választja tagjai közül.",
+          "text": "Az elnökség három tagból áll. Semmis az alapszabály olyan rendelkezése, amely háromnál kevesebb tagú elnökség felállítását írja elő.",
           "act_id_abbreviations": [],
           "outgoing_references": [],
           "semantic_data": []
@@ -5069,6 +5104,24 @@
             }
           ],
           "semantic_data": []
+        },
+        {
+          "identifier": "3",
+          "text": "Semmis az alapszabály olyan rendelkezése, amely az (1) és a (2) bekezdésben foglalt szabályoknál az egyesületre nézve enyhébb követelményeket ír elő.",
+          "act_id_abbreviations": [],
+          "outgoing_references": [
+            {
+              "start_pos": 51,
+              "end_pos": 75,
+              "reference": {
+                "paragraph": [
+                  "1",
+                  "2"
+                ]
+              }
+            }
+          ],
+          "semantic_data": []
         }
       ],
       "title": "A közgyűlés összehívása",
@@ -5079,7 +5132,7 @@
       "children": [
         {
           "identifier": "1",
-          "text": "Kötelező felügyelőbizottságot létrehozni, ha a tagok több mint fele nem természetes személy, vagy ha a tagság létszáma a száz főt meghaladja.",
+          "text": "Kötelező felügyelőbizottságot létrehozni, ha a tagok több mint fele nem természetes személy, vagy ha a tagság létszáma a száz főt meghaladja. Az alapszabály ettől eltérő rendelkezése semmis",
           "act_id_abbreviations": [],
           "outgoing_references": [],
           "semantic_data": []

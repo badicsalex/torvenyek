@@ -1671,8 +1671,8 @@ AZ EGYESÜLET FOGALMA, LÉTESÍTÉSE, TAGSÁGA
           (3)  A tag tagsági jogait személyesen gyakorolhatja. A tag tagsági jogait akkor
                gyakorolhatja képviselőn keresztül, ha azt az alapszabály lehetővé teszi. A
                tagsági jogok forgalomképtelenek és nem örökölhetők.
-          (4)  A tagok – a tagdíj megfizetésén túl – az egyesület tartozásaiért saját
-               vagyonukkal nem felelnek.
+          (4)  Az egyesület tagja nem köteles vagyoni hozzájárulást teljesíteni. A tag az
+               egyesület tartozásaiért saját vagyonával nem felel.
 
 3:66. §        [A tagok kötelezettsége]
           (1)  Az egyesület tagja köteles az alapszabályban meghatározott tagi
@@ -1703,10 +1703,10 @@ AZ EGYESÜLET FOGALMA, LÉTESÍTÉSE, TAGSÁGA
 
 3:70. §        [A tag kizárása]
           (1)  A tagnak jogszabályt, az egyesület alapszabályát vagy közgyűlési
-               határozatát súlyosan vagy ismételten sértő magatartása esetén a közgyűlés –
-               bármely egyesületi tag vagy egyesületi szerv kezdeményezésére – a taggal
-               szemben kizárási eljárást folytathat le, ha az alapszabály a tisztességes
-               eljárást biztosító szabályokat meghatározta.
+               határozatát súlyosan vagy ismételten sértő magatartása esetén – bármely
+               egyesületi tag vagy egyesületi szerv kezdeményezésére – a taggal szemben
+               kizárási eljárás folytatható le, ha az alapszabály a kizárást lefolytató
+               szervet és a tisztességes eljárást biztosító szabályokat meghatározta.
           (2)  A tag kizárását kimondó határozatot írásba kell foglalni és indokolással
                kell ellátni; az indokolásnak tartalmaznia kell a kizárás alapjául szolgáló
                tényeket és bizonyítékokat, továbbá a jogorvoslati lehetőségről való
@@ -1714,72 +1714,39 @@ AZ EGYESÜLET FOGALMA, LÉTESÍTÉSE, TAGSÁGA
           (3)  Az alapszabály a kizáró határozat ellen fellebbezési lehetőséget
                biztosíthat, ebben az esetben az alapszabályban rendelkezni kell a
                fellebbezési eljárásról és a fellebbezést elbíráló egyesületi szervről.
+          (4)  Semmis az alapszabály olyan rendelkezése, amely az (1)–(3) bekezdésben
+               foglalt szabályoktól eltér.
 
 VIII. CÍM
-AZ EGYESÜLET ALAPSZABÁLYA ÉS SZERVEI
+AZ EGYESÜLET SZERVEI
 
-3:71. §        [Az alapszabály tartalmi elemei és értelmezése]
-          (1)  A jogi személy létesítő okiratának általános kötelező tartalmi elemein túl
-               az egyesület alapszabályában meg kell határozni
-               a)   a tag jogait és kötelezettségeit;
-               b)   az egyesület szerveit és azok hatáskörét, továbbá a tagokra, a vezető
-                    tisztségviselőkre és a felügyelőbizottsági tagokra vonatkozó kizáró és
-                    összeférhetetlenségi szabályokat;
-               c)   a jogszabályt, az alapszabályt vagy az egyesületi határozatot sértő
-                    vagy az egyesület céljával összeegyezhetetlen tagi magatartás esetén
-                    alkalmazható jogkövetkezményeket és a taggal szembeni eljárás
-                    szabályait vagy mindezeknek a mellőzését;
-               d)   a közgyűlés összehívásának és lebonyolításának, a közgyűlés helye
-                    meghatározásának, a közgyűlési meghívó tartalmának, a napirendnek, a
-                    közgyűlés tisztségviselőinek, a levezető elnöknek, a szavazatszámlálók
-                    megválasztásának, a határozatképességnek, a szavazásnak, a
-                    jegyzőkönyvvezetésnek, valamint a határozatok kihirdetésének
-                    szabályait; és
-               e)   a szavazati jog gyakorlásának feltételeit.
-          (2)  Az alapszabályt az egyesület céljának figyelembevételével kell értelmezni.
-
-3:72. §        [Közgyűlés, küldöttgyűlés]
+3:71. §        [Közgyűlés, a közgyűlés hatásköre. A küldöttgyűlés]
           (1)  Az egyesület döntéshozó szerve a közgyűlés.
           (2)  A tag jogosult a közgyűlésen részt venni, szavazati jogát gyakorolni, a
                közgyűlés rendjének megfelelően felszólalni, kérdéseket feltenni,
                javaslatokat és észrevételeket tenni.
-          (3)  Ha az alapszabály küldöttgyűlés működését írja elő, meg kell határoznia a
+          (3)  A közgyűlés hatáskörébe tartozik az alapszabály módosítása; az alapszabály
+               ettől eltérő rendelkezése semmis.
+          (4)  Ha az alapszabály küldöttgyűlés működését írja elő, meg kell határoznia a
                küldöttek választásának módját. A küldöttgyűlésre egyebekben a közgyűlés
                szabályait kell megfelelően alkalmazni.
 
-3:73. §        [A közgyűlés ülésezése]
-          (1)  A közgyűlés évente legalább egy alkalommal ülésezik. A létesítő okirat
-               ennél ritkább ülésezést előíró rendelkezése semmis.
-          (2)  A közgyűlés nem nyilvános; azon a tagokon és az ügyvezetésen kívül a
-               közgyűlés összehívására jogosult által meghívottak és az alapszabály vagy a
-               közgyűlés határozata alapján tanácskozási joggal rendelkező személyek
-               vehetnek részt.
+3:72. §        [A közgyűlés összehívása és napirendje]
+          (1)  A közgyűlés évente legalább egy alkalommal ülésezik. Az alapszabály négy
+               évnél ritkább ülésezést előíró rendelkezése semmis. A közgyűlési meghívó
+               elküldése és a közgyűlés napja között legalább tizenöt napnak kell
+               eltelnie.
+          (2)  A közgyűlési meghívó az általános tartalmi elemeken túl tartalmazza
+               a)   határozatképtelenség esetére a megismételt közgyűlés időpontját,
+                    helyét és az eltérő határozatképességi szabályokra vonatkozó
+                    figyelemfelhívást; és
+               b)   küldöttgyűlés tartása esetén az erre a körülményre történő utalást.
+          (3)  A közgyűlés helyszínét elegendő a meghívóban megjelölni akkor is, ha az
+               eltér az egyesület székhelyétől.
+          (4)  A közgyűlés napirendjére tűzött ügyekre vonatkozóan az ügyvezetés a tagnak
+               – kérelmére – köteles felvilágosítást adni.
 
-3:74. §        [A közgyűlés hatásköre]
-               A közgyűlés hatáskörébe tartozik
-               a)   az alapszabály módosítása;
-               b)   az egyesület megszűnésének, egyesülésének és szétválásának
-                    elhatározása;
-               c)   a vezető tisztségviselő megválasztása, visszahívása és díjazásának
-                    megállapítása;
-               d)   az éves költségvetés elfogadása;
-               e)   az éves beszámoló – ezen belül az ügyvezető szervnek az egyesület
-                    vagyoni helyzetéről szóló jelentésének – elfogadása;
-               f)   a vezető tisztségviselő feletti munkáltatói jogok gyakorlása, ha a
-                    vezető tisztségviselő az egyesülettel munkaviszonyban áll;
-               g)   az olyan szerződés megkötésének jóváhagyása, amelyet az egyesület
-                    saját tagjával, vezető tisztségviselőjével, a felügyelőbizottság
-                    tagjával vagy ezek hozzátartozójával köt;
-               h)   a jelenlegi és korábbi egyesületi tagok, a vezető tisztségviselők és a
-                    felügyelőbizottsági tagok vagy más egyesületi szervek tagjai elleni
-                    kártérítési igények érvényesítéséről való döntés;
-               i)   a felügyelőbizottság tagjainak megválasztása, visszahívásuk és
-                    díjazásuk megállapítása;
-               j)   a választott könyvvizsgáló megválasztása, visszahívása és díjazásának
-                    megállapítása; és
-               k)   a végelszámoló kijelölése.
-
-3:75. §        [A napirend kiegészítése]
+3:73. §        [A napirend kiegészítése]
           (1)  A közgyűlési meghívó kézbesítésétől vagy közzétételétől számított, az
                alapszabályban meghatározott időn belül a tagok és az egyesület szervei a
                közgyűlést összehívó szervtől vagy személytől a napirend kiegészítését
@@ -1790,12 +1757,65 @@ AZ EGYESÜLET ALAPSZABÁLYA ÉS SZERVEI
                közgyűlés a napirend elfogadásáról szóló határozat meghozatalát megelőzően
                külön dönt a napirend kiegészítésének tárgyában.
 
-3:76. §        [Határozathozatal]
-          (1)  Az egyesület alapszabályának módosításához a jelen lévő tagok háromnegyedes
-               szótöbbséggel hozott határozata szükséges.
+3:74. §        [A közgyűlés ülésezése]
+          (1)  A közgyűlés nem nyilvános; azon a tagokon és az ügyvezetésen kívül a
+               közgyűlés összehívására jogosult által meghívottak és az alapszabály vagy a
+               közgyűlés határozata alapján tanácskozási joggal rendelkező személyek
+               vehetnek részt.
+          (2)  A tag a közgyűlés ülésén tagsági jogait személyes részvétel helyett
+               elektronikus hírközlő eszközök igénybevételével akkor gyakorolhatja, ha az
+               alapszabály az igénybe vehető elektronikus hírközlő eszközöket, valamint
+               azok alkalmazásának feltételeit és módját úgy határozza meg, hogy a tagok
+               azonosítása és a tagok közötti kölcsönös és korlátozásmentes kommunikáció
+               biztosított legyen.
+          (3)  Ha a közgyűlést nem szabályszerűen hívták össze, az ülést akkor lehet
+               megtartani, ha az ülésen a részvételre jogosultak legalább háromnegyede
+               jelen van, és egyhangúlag hozzájárul az ülés megtartásához.
+          (4)  A szabályszerűen közölt napirenden szereplő kérdésben hozható határozat,
+               kivéve, ha a részvételre jogosultak legalább háromnegyede jelen van és a
+               napirenden nem szereplő kérdés megtárgyalásához egyhangúlag hozzájárul.
+          (5)  A (3) és (4) bekezdésekben foglalt esetek körébe nem eső, nem szabályosan
+               összehívott vagy megtartott közgyűlésen elfogadott és ebből az okból
+               érvénytelen határozat az elfogadásának időpontjára visszamenő hatállyal
+               érvényessé válik, ha a határozatot a közgyűlés napjától számított harminc
+               napon belül valamennyi tag egyhangúlag érvényesnek ismeri el. Semmis az
+               alapszabály olyan rendelkezése, amely az egyhangúságra vonatkozó
+               feltételtől eltér.
+
+3:75. §        [Jelenléti ív. Jegyzőkönyv]
+          (1)  A közgyűlésen megjelent tagokról jelenléti ívet kell készíteni, amelyen fel
+               kell tüntetni a tag, valamint – ha az alapszabály a képviselő útján történő
+               részvételt lehetővé teszi – képviselője nevét és lakóhelyét vagy
+               székhelyét, és – ha a tagokat nem azonos számú szavazat illeti meg – a
+               tagot megillető szavazatok számát. A jelenléti ívet a közgyűlés levezető
+               elnöke és a jegyzőkönyvvezető aláírásával hitelesíti.
+          (2)  A közgyűlésről jegyzőkönyvet kell készíteni, amely tartalmazza
+               a)   az egyesület nevét és székhelyét;
+               b)   a közgyűlés helyét és idejét;
+               c)   a közgyűlés levezető elnökének, a jegyzőkönyvvezetőnek, a jegyzőkönyv
+                    hitelesítőjének a nevét;
+               d)   a közgyűlésen lezajlott fontosabb eseményeket, az elhangzott
+                    indítványokat;
+               e)   a határozati javaslatokat, a leadott szavazatok és ellenszavazatok,
+                    valamint a szavazástól tartózkodók számát.
+          (3)  A jegyzőkönyvet a jegyzőkönyvvezető és a közgyűlés levezető elnöke írja
+               alá, és egy erre megválasztott, jelen lévő tag hitelesíti.
+          (4)  Az egyesület ügyvezetése köteles a közgyűlési jegyzőkönyvet, valamint a
+               jelenléti ívet az egyesület dokumentumai között elhelyezni és megőrizni.
+          (5)  Bármely tag a közgyűlési jegyzőkönyv másolatának vagy a jegyzőkönyv egy
+               részét tartalmazó kivonatának a kiadását kérheti az ügyvezetéstől.
+
+3:76. §        [Határozathozatal, megismételt közgyűlés]
+          (1)  Az egyesület alapszabályának módosításához, az egyesület egyesüléséhez és
+               szétválásához a közgyűlés háromnegyedes szótöbbséggel hozott határozata
+               szükséges.
           (2)  Az egyesület céljának módosításához és az egyesület megszűnéséről szóló
                közgyűlési döntéshez a szavazati joggal rendelkező tagok háromnegyedes
                szótöbbséggel hozott határozata szükséges.
+          (3)  Ha a közgyűlés határozatképtelen, a megismételt közgyűlés az eredeti
+               napirenden szereplő ügyekben a megjelent tagok számára tekintet nélkül
+               határozatképes, ha azt az eredeti időpontot legalább három és legfeljebb
+               tizenöt nappal követő időpontra hívják össze.
 
 3:77. §        [Az ügyvezetés ellátása]
                Az egyesület ügyvezetését az egyesület ügyvezetője vagy az elnökség látja
@@ -1803,8 +1823,8 @@ AZ EGYESÜLET ALAPSZABÁLYA ÉS SZERVEI
                tagjai.
 
 3:78. §        [Elnökség]
-          (1)  Az elnökség három tagból áll. Az elnökség az elnökét maga választja tagjai
-               közül.
+          (1)  Az elnökség három tagból áll. Semmis az alapszabály olyan rendelkezése,
+               amely háromnál kevesebb tagú elnökség felállítását írja elő.
           (2)  Az elnökség tagjai kötelesek a közgyűlésen részt venni, a közgyűlésen az
                egyesülettel kapcsolatos kérdésekre válaszolni, az egyesület
                tevékenységéről és gazdasági helyzetéről beszámolni.
@@ -1858,10 +1878,13 @@ AZ EGYESÜLET ALAPSZABÁLYA ÉS SZERVEI
           (2)  Az (1) bekezdés alapján összehívott közgyűlésen a tagok kötelesek az
                összehívásra okot adó körülmény megszüntetése érdekében intézkedést tenni
                vagy az egyesület megszüntetéséről dönteni.
+          (3)  Semmis az alapszabály olyan rendelkezése, amely az (1) és a (2) bekezdésben
+               foglalt szabályoknál az egyesületre nézve enyhébb követelményeket ír elő.
 
 3:82. §        [A felügyelőbizottság létrehozásának kötelező esetei]
           (1)  Kötelező felügyelőbizottságot létrehozni, ha a tagok több mint fele nem
-               természetes személy, vagy ha a tagság létszáma a száz főt meghaladja.
+               természetes személy, vagy ha a tagság létszáma a száz főt meghaladja. Az
+               alapszabály ettől eltérő rendelkezése semmis
           (2)  A felügyelőbizottság feladata az egyesületi szervek, valamint a
                jogszabályok, az alapszabály és az egyesületi határozatok végrehajtásának,
                betartásának ellenőrzése.
