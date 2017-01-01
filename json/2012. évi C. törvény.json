@@ -27896,7 +27896,7 @@
         },
         {
           "identifier": "6",
-          "text": "Az (1)–(5) bekezdés szerint büntetendő, aki a jövedéki adóról és a jövedéki termékek forgalmazásának különös szabályairól szóló törvényben, valamint a felhatalmazásán alapuló jogszabályban megállapított feltétel hiányában vagy hatósági engedély nélkül jövedéki terméket előállít, megszerez, tart, forgalomba hoz, vagy azzal kereskedik, és ezzel a költségvetésnek vagyoni hátrányt okoz.",
+          "text": "Az (1)–(5) bekezdés szerint büntetendő, aki a jövedéki adóról szóló törvényben, valamint a felhatalmazásán alapuló jogszabályban megállapított feltétel hiányában vagy hatósági engedély nélkül jövedéki terméket előállít, megszerez, tart, forgalomba hoz, vagy azzal kereskedik, és ezzel a költségvetésnek vagyoni hátrányt okoz.",
           "act_id_abbreviations": [],
           "outgoing_references": [
             {
@@ -27996,7 +27996,7 @@
           "children": [
             {
               "identifier": "a",
-              "text": "jövedéki termék előállítására alkalmas, a jövedéki adóról és a jövedéki termékek forgalmazásának különös szabályairól szóló törvényben, valamint a felhatalmazásán alapuló jogszabályban meghatározott berendezést, készüléket, eszközt vagy alapanyagot engedély nélkül vagy a jogszabály megszegésével előállít, megszerez, tart, forgalomba hoz, illetve",
+              "text": "jövedéki termék előállítására alkalmas, a jövedéki adóról szóló törvényben, valamint a felhatalmazásán alapuló jogszabályban meghatározott berendezést, készüléket, eszközt vagy alapanyagot engedély nélkül vagy a jogszabály megszegésével előállít, megszerez, tart, forgalomba hoz, illetve",
               "act_id_abbreviations": [],
               "outgoing_references": [],
               "semantic_data": [],
@@ -28004,7 +28004,7 @@
             },
             {
               "identifier": "b",
-              "text": "a forgalomba hozatalhoz szükséges zárjegyet vagy adójegyet engedély nélkül vagy jogszabály megszegésével előállít, megszerez vagy tart,",
+              "text": "a forgalomba hozatalhoz szükséges zárjegyet engedély nélkül vagy jogszabály megszegésével előállít, megszerez vagy tart,",
               "act_id_abbreviations": [],
               "outgoing_references": [],
               "semantic_data": [],
