@@ -18074,7 +18074,7 @@
         },
         {
           "identifier": "2",
-          "text": "A büntetés korlátlanul enyhíthető, különös méltánylást érdemlő esetben mellőzhető azzal szemben, aki az alapügy jogerős befejezése előtt az eljáró hatóságnak az általa szolgáltatott bizonyítási eszköz hamis voltát bejelenti.",
+          "text": "A büntetés korlátlanul enyhíthető, különös méltánylást érdemlő esetben mellőzhető azzal szemben, aki az alapügy jogerős vagy végleges befejezése előtt az eljáró hatóságnak az általa szolgáltatott bizonyítási eszköz hamis voltát bejelenti.",
           "act_id_abbreviations": [],
           "outgoing_references": [],
           "semantic_data": []
