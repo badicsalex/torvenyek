@@ -38548,6 +38548,13 @@
           "act_id_abbreviations": [],
           "outgoing_references": [],
           "semantic_data": []
+        },
+        {
+          "identifier": "5",
+          "text": "A kedvezményezetti jogosultság megszűnik, ha a kedvezményezett a szerződésben meghatározottaktól eltérő jogcímen érvényesít igényt a kezelt vagyonnal szemben.",
+          "act_id_abbreviations": [],
+          "outgoing_references": [],
+          "semantic_data": []
         }
       ],
       "title": "A kedvezményezett meghatározása",
@@ -38883,6 +38890,13 @@
           "act_id_abbreviations": [],
           "outgoing_references": [],
           "semantic_data": []
+        },
+        {
+          "identifier": "4",
+          "text": "A vagyonrendelő a halála vagy jogutód nélküli megszűnése esetére a szerződésben kijelölheti a vagyonrendelőt megillető jogok gyakorlására jogosult és a vagyonrendelőt terhelő kötelezettségek teljesítésére köteles személyt. A kijelölésnek a vagyonkezelőhöz intézett nyilatkozattal történő elfogadása esetén a kijelölt személyt a vagyonrendelő jogai és kötelezettségei illetik meg, illetve terhelik abban a körben, amelyben a szerződés e jogait és kötelezettségeit nem korlátozta.",
+          "act_id_abbreviations": [],
+          "outgoing_references": [],
+          "semantic_data": []
         }
       ],
       "title": "Változás a felek személyében",
@@ -38922,6 +38936,14 @@
             {
               "identifier": "d",
               "text": "a vagyonrendelő volt az egyetlen kedvezményezett, az ő halálának időpontjában.",
+              "act_id_abbreviations": [],
+              "outgoing_references": [],
+              "semantic_data": [],
+              "__type__": "AlphabeticPoint"
+            },
+            {
+              "identifier": "e",
+              "text": "a vagyonrendelő a határozatlan időre kötött szerződést – annak eltérő rendelkezése hiányában – felmondja.",
               "act_id_abbreviations": [],
               "outgoing_references": [],
               "semantic_data": [],
@@ -39050,7 +39072,7 @@
         },
         {
           "identifier": "2",
-          "text": "Végrendelettel alapított vagyonkezelési jogviszony azzal jön létre, hogy a vagyonkezelővé való kijelölést a vagyonkezelő a végrendeletben meghatározott tartalommal elfogadja.",
+          "text": "Végrendelettel alapított bizalmi vagyonkezelési jogviszony a vagyonkezelővé való kijelölésnek a vagyonkezelő által a végrendeletben meghatározott tartalommal történő elfogadásával a vagyonrendelő halálának időpontjára visszamenő hatállyal jön létre.",
           "act_id_abbreviations": [],
           "outgoing_references": [],
           "semantic_data": []
@@ -48404,7 +48426,7 @@
       "children": [
         {
           "identifier": "1",
-          "text": "A kötelesrész alapja a hagyaték tiszta értéke, valamint az örökhagyó által élők között bárkinek juttatott ingyenes adományok juttatáskori tiszta értéke.",
+          "text": "A kötelesrész alapja a hagyaték tiszta értéke, valamint az örökhagyó által élők között bárkinek juttatott ingyenes adományok juttatáskori tiszta értéke, ideértve az örökhagyó által bizalmi vagyonkezelésbe adott vagyon értékét is (a továbbiakban: ingyenes adomány).",
           "act_id_abbreviations": [],
           "outgoing_references": [],
           "semantic_data": []
@@ -48949,6 +48971,13 @@
         {
           "identifier": "4",
           "text": "A házastárs a haszonélvezetével terhelt vagyonból tűrni köteles a hitelezők követeléseinek kielégítését, a hagyományon és a meghagyáson alapuló követelések kivételével.",
+          "act_id_abbreviations": [],
+          "outgoing_references": [],
+          "semantic_data": []
+        },
+        {
+          "identifier": "5",
+          "text": "Végrendelettel alapított bizalmi vagyonkezelési jogviszony esetén a bizalmi vagyonkezelő a hagyatéki tartozásokért a kezelt vagyonnal úgy felel, mintha dologi hagyományban részesült volna.",
           "act_id_abbreviations": [],
           "outgoing_references": [],
           "semantic_data": []
