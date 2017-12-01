@@ -2941,7 +2941,14 @@
         },
         {
           "identifier": "3",
-          "text": "A nemi élet szabadsága és a nemi erkölcs elleni bűncselekmény elkövetője, ha a bűncselekményt tizennyolcadik életévét be nem töltött személy sérelmére követte el, eltiltható bármely olyan foglalkozás gyakorlásától vagy egyéb tevékenységtől, amelynek keretében tizennyolcadik életévét be nem töltött személy nevelését, felügyeletét, gondozását, gyógykezelését végzi, illetve ilyen személlyel egyéb hatalmi vagy befolyási viszonyban áll.",
+          "text": "A nemi élet szabadsága és a nemi erkölcs elleni bűncselekmény elkövetőjét, ha a bűncselekményt tizennyolcadik életévét be nem töltött személy sérelmére követte el, végleges hatállyal el kell tiltani bármely olyan foglalkozás gyakorlásától vagy egyéb tevékenységtől, amelynek keretében tizennyolcadik életévét be nem töltött személy nevelését, felügyeletét, gondozását, gyógykezelését végzi, illetve ilyen személlyel egyéb hatalmi vagy befolyási viszonyban áll.",
+          "act_id_abbreviations": [],
+          "outgoing_references": [],
+          "semantic_data": []
+        },
+        {
+          "identifier": "4",
+          "text": "A kiskorú veszélyeztetése bűncselekmény elkövetőjét el kell tiltani bármely olyan foglalkozás gyakorlásától vagy egyéb tevékenységtől, amelynek keretében tizennyolcadik életévét be nem töltött személy nevelését, felügyeletét, gondozását, gyógykezelését végzi, illetve ilyen személlyel egyéb hatalmi vagy befolyási viszonyban áll. Különös méltánylást érdemlő esetben a foglalkozástól eltiltás kötelező alkalmazása mellőzhető.",
           "act_id_abbreviations": [],
           "outgoing_references": [],
           "semantic_data": []
