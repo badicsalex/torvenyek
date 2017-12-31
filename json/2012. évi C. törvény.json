@@ -29857,7 +29857,7 @@
           "children": [
             {
               "identifier": "a",
-              "text": "más lakását, egyéb helyiségét vagy az azokhoz tartozó bekerített helyet titokban átkutatja,",
+              "text": "más lakását, ahhoz tartozó egyéb helyiségét vagy az azokhoz tartozó bekerített helyet titokban átkutatja,",
               "act_id_abbreviations": [],
               "outgoing_references": [],
               "semantic_data": [],
@@ -29865,7 +29865,7 @@
             },
             {
               "identifier": "b",
-              "text": "más lakásában, egyéb helyiségében vagy az azokhoz tartozó bekerített helyen történteket technikai eszköz alkalmazásával megfigyeli vagy rögzíti,",
+              "text": "más lakásában, ahhoz tartozó egyéb helyiségében vagy az azokhoz tartozó bekerített helyen történteket technikai eszköz alkalmazásával megfigyeli vagy rögzíti,",
               "act_id_abbreviations": [],
               "outgoing_references": [],
               "semantic_data": [],
