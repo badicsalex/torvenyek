@@ -1578,6 +1578,14 @@
               "outgoing_references": [],
               "semantic_data": [],
               "__type__": "AlphabeticPoint"
+            },
+            {
+              "identifier": "c",
+              "text": "életfogytig tartó szabadságvesztés mellett pénzbüntetés.",
+              "act_id_abbreviations": [],
+              "outgoing_references": [],
+              "semantic_data": [],
+              "__type__": "AlphabeticPoint"
             }
           ],
           "act_id_abbreviations": [],
@@ -6372,6 +6380,142 @@
               }
             }
           ],
+          "semantic_data": []
+        }
+      ],
+      "__type__": "Article"
+    },
+    {
+      "identifier": "92/A",
+      "children": [
+        {
+          "identifier": "1",
+          "text": "A szabálysértési eljárásban kiszabott és végrehajtott elzárás és közérdekű munka teljes időtartamát, valamint a pénzbírságot be kell számítani – a szabálysértésekről, a szabálysértési eljárásról és a szabálysértési nyilvántartási rendszerről szóló 2012. évi II. törvény 127. § (1) bekezdés e) pontja szerint lefolytatott perújítási eljárást követően, a perújítással érintett cselekmény miatt – a büntetőeljárásban kiszabott szabadságvesztésbe, elzárásba, közérdekű munkába, pénzbüntetésbe és javítóintézeti nevelésbe.",
+          "act_id_abbreviations": [],
+          "outgoing_references": [
+            {
+              "start_pos": 248,
+              "end_pos": 269,
+              "reference": {
+                "act": "2012. évi II. törvény"
+              }
+            },
+            {
+              "start_pos": 270,
+              "end_pos": 299,
+              "reference": {
+                "act": "2012. évi II. törvény",
+                "article": "127",
+                "paragraph": "1",
+                "point": "e"
+              }
+            }
+          ],
+          "semantic_data": []
+        },
+        {
+          "identifier": "2",
+          "text": "A beszámításnál egynapi szabálysértési elzárás egynapi szabadságvesztésnek, illetve elzárásnak, négy óra közérdekű munkának, egynapi tétel pénzbüntetésnek, valamint egynapi javítóintézeti nevelésnek felel meg.",
+          "act_id_abbreviations": [],
+          "outgoing_references": [],
+          "semantic_data": []
+        },
+        {
+          "identifier": "3",
+          "text": "A szabálysértési pénzbírság ötezer forintonként egynapi szabadságvesztésnek, illetve elzárásnak, négy óra közérdekű munkának, a pénzbüntetés azonos értékének, illetve egynapi javítóintézeti nevelésnek felel meg.",
+          "act_id_abbreviations": [],
+          "outgoing_references": [],
+          "semantic_data": []
+        },
+        {
+          "identifier": "4",
+          "text": "A szabálysértési eljárásban kiszabott közérdekű munka a közérdekű munka azonos mértékének, továbbá a szabálysértési eljárásban kiszabott közérdekű munka hat óránként egynapi szabadságvesztésnek, illetve elzárásnak, egynapi tétel pénzbüntetésnek, valamint egynapi javítóintézeti nevelésnek felel meg.",
+          "act_id_abbreviations": [],
+          "outgoing_references": [],
+          "semantic_data": []
+        }
+      ],
+      "__type__": "Article"
+    },
+    {
+      "identifier": "",
+      "title": "A már végrehajtott büntetés vagy intézkedés beszámítására vonatkozó szabályok",
+      "__type__": "Subtitle"
+    },
+    {
+      "identifier": "92/B",
+      "children": [
+        {
+          "identifier": "1",
+          "text": "Ha a perújítás, a felülvizsgálat, a törvényesség érdekében bejelentett jogorvoslat, vagy a megismételt eljárás eredményeként hozott ítélet az alapügyben hozott határozatot megváltoztatatja, az alapügyben kiszabott és végrehajtott büntetést vagy intézkedést be kell számítani. Ha a büntetés vagy az intézkedés neme eltér, a beszámításra a (2) bekezdésben foglaltak az irányadók.",
+          "act_id_abbreviations": [],
+          "outgoing_references": [
+            {
+              "start_pos": 338,
+              "end_pos": 353,
+              "reference": {
+                "paragraph": "2"
+              }
+            }
+          ],
+          "semantic_data": []
+        },
+        {
+          "identifier": "2",
+          "intro": "A beszámításnál",
+          "children": [
+            {
+              "identifier": "a",
+              "text": "egynapi szabadságvesztés egynapi elzárásnak, négy óra közérdekű munkának, egynapi tétel pénzbüntetésnek, hat óra jóvátételi munkának vagy egynapi javítóintézeti nevelésnek,",
+              "act_id_abbreviations": [],
+              "outgoing_references": [],
+              "semantic_data": [],
+              "__type__": "AlphabeticPoint"
+            },
+            {
+              "identifier": "b",
+              "text": "egynapi elzárás egynapi szabadságvesztésnek, négy óra közérdekű munkának, egynapi tétel pénzbüntetésnek, hat óra jóvátételi munkának vagy egynapi javítóintézeti nevelésnek,",
+              "act_id_abbreviations": [],
+              "outgoing_references": [],
+              "semantic_data": [],
+              "__type__": "AlphabeticPoint"
+            },
+            {
+              "identifier": "c",
+              "text": "négy óra közérdekű munka egynapi szabadságvesztésnek, egynapi elzárásnak, egynapi tétel pénzbüntetésnek, hat óra jóvátételi munkának vagy egynapi javítóintézeti nevelésnek,",
+              "act_id_abbreviations": [],
+              "outgoing_references": [],
+              "semantic_data": [],
+              "__type__": "AlphabeticPoint"
+            },
+            {
+              "identifier": "d",
+              "text": "egynapi tétel pénzbüntetés egynapi szabadságvesztésnek, egynapi elzárásnak, négy óra közérdekű munkának, hat óra jóvátételi munkának vagy egynapi javítóintézeti nevelésnek,",
+              "act_id_abbreviations": [],
+              "outgoing_references": [],
+              "semantic_data": [],
+              "__type__": "AlphabeticPoint"
+            },
+            {
+              "identifier": "e",
+              "text": "egynapi javítóintézeti nevelés egynapi szabadságvesztésnek, egynapi elzárásnak, négy óra közérdekű munkának, egynapi tétel pénzbüntetésnek vagy hat óra jóvátételi munkának,",
+              "act_id_abbreviations": [],
+              "outgoing_references": [],
+              "semantic_data": [],
+              "__type__": "AlphabeticPoint"
+            },
+            {
+              "identifier": "f",
+              "text": "hat óra jóvátételi munka egynapi szabadságvesztésnek, egynapi elzárásnak, négy óra közérdekű munkának, egynapi tétel pénzbüntetésnek vagy egynapi javítóintézeti nevelésnek,",
+              "act_id_abbreviations": [],
+              "outgoing_references": [],
+              "semantic_data": [],
+              "__type__": "AlphabeticPoint"
+            }
+          ],
+          "wrap_up": "felel meg.",
+          "act_id_abbreviations": [],
+          "outgoing_references": [],
           "semantic_data": []
         }
       ],
@@ -12517,6 +12661,24 @@
           "semantic_data": []
         },
         {
+          "identifier": "4a",
+          "text": "Aki az (1)–(4) bekezdésben meghatározott egészségügyi termék hamisítására irányuló előkészületet követ el, vétség miatt egy évig terjedő szabadságvesztéssel büntetendő.",
+          "act_id_abbreviations": [],
+          "outgoing_references": [
+            {
+              "start_pos": 7,
+              "end_pos": 26,
+              "reference": {
+                "paragraph": [
+                  "1",
+                  "4"
+                ]
+              }
+            }
+          ],
+          "semantic_data": []
+        },
+        {
           "identifier": "5",
           "intro": "E § alkalmazásában",
           "children": [
@@ -18258,14 +18420,14 @@
       "children": [
         {
           "identifier": "1",
-          "text": "Aki olyan kihívóan közösségellenes vagy erőszakos magatartást tanúsít, amely a hatóság eljárását megzavarja vagy akadályozza, ha súlyosabb bűncselekmény nem valósul meg, vétség miatt két évig terjedő szabadságvesztéssel büntetendő.",
+          "text": "Aki olyan kihívóan közösségellenes vagy erőszakos magatartást tanúsít, amely a hatóság eljárását megzavarja, akadályozza vagy meghiúsítja, ha súlyosabb bűncselekmény nem valósul meg, vétség miatt két évig terjedő szabadságvesztéssel büntetendő.",
           "act_id_abbreviations": [],
           "outgoing_references": [],
           "semantic_data": []
         },
         {
           "identifier": "2",
-          "text": "A büntetés bűntett miatt három évig terjedő szabadságvesztés, ha az (1) bekezdésben meghatározott bűncselekmény a hatóság eljárását meghiúsítja.",
+          "text": "A büntetés bűntett miatt három évig terjedő szabadságvesztés, ha az (1) bekezdésben meghatározott bűncselekményt bírósági eljárásban követik el.",
           "act_id_abbreviations": [],
           "outgoing_references": [
             {
@@ -18848,14 +19010,14 @@
       "children": [
         {
           "identifier": "1",
-          "text": "Aki jogosulatlanul és üzletszerűen ügyvédi, jogtanácsosi vagy közjegyzői tevékenységet végez, vétség miatt két évig terjedő szabadságvesztéssel büntetendő.",
+          "text": "Aki jogosulatlanul és üzletszerűen ügyvédi, szabadalmi ügyvivői vagy közjegyzői tevékenységet végez, vétség miatt két évig terjedő szabadságvesztéssel büntetendő.",
           "act_id_abbreviations": [],
           "outgoing_references": [],
           "semantic_data": []
         },
         {
           "identifier": "2",
-          "text": "A büntetés bűntett miatt három évig terjedő szabadságvesztés, ha a zugírászatot ügyvédi, jogtanácsosi vagy közjegyzői tevékenységre jogosultság színlelésével követik el.",
+          "text": "A büntetés bűntett miatt három évig terjedő szabadságvesztés, ha a zugírászatot ügyvédi, szabadalmi ügyvivői vagy közjegyzői tevékenységre jogosultság színlelésével követik el.",
           "act_id_abbreviations": [],
           "outgoing_references": [],
           "semantic_data": []
@@ -23296,7 +23458,7 @@
         },
         {
           "identifier": "3",
-          "text": "Az (1) bekezdés szerint büntetendő az az ügyvéd, jogtanácsos vagy közjegyző, aki az (1) bekezdés szerinti szerződés megkötésében közreműködik.",
+          "text": "Az (1) bekezdés szerint büntetendő az az ügyvéd, kamarai jogtanácsos vagy közjegyző, aki az (1) bekezdés szerinti szerződés megkötésében közreműködik.",
           "act_id_abbreviations": [],
           "outgoing_references": [
             {
@@ -23307,8 +23469,8 @@
               }
             },
             {
-              "start_pos": 84,
-              "end_pos": 96,
+              "start_pos": 92,
+              "end_pos": 104,
               "reference": {
                 "paragraph": "1"
               }
@@ -27998,7 +28160,7 @@
         },
         {
           "identifier": "8",
-          "text": "Korlátlanul enyhíthető annak a büntetése, aki az (1)–(6) bekezdésében meghatározott költségvetési csalással okozott vagyoni hátrányt a vádirat benyújtásáig megtéríti. Ez a rendelkezés nem alkalmazható, ha a bűncselekményt bűnszövetségben vagy üzletszerűen követik el.",
+          "text": "Korlátlanul enyhíthető annak a büntetése, aki az (1)–(6) bekezdésében meghatározott költségvetési csalással okozott vagyoni hátrányt a vádirat benyújtásáig megtéríti. Ez a rendelkezés nem alkalmazható, ha a bűncselekményt bűnszövetségben vagy különös visszaesőként követik el.",
           "act_id_abbreviations": [],
           "outgoing_references": [
             {
@@ -28029,6 +28191,14 @@
             {
               "identifier": "b",
               "text": "vagyoni hátrány alatt érteni kell a költségvetésbe történő befizetési kötelezettség nem teljesítése miatt bekövetkezett bevételkiesést, valamint a költségvetésből jogosulatlanul igénybe vett vagy céltól eltérően felhasznált pénzeszközt is.",
+              "act_id_abbreviations": [],
+              "outgoing_references": [],
+              "semantic_data": [],
+              "__type__": "AlphabeticPoint"
+            },
+            {
+              "identifier": "c",
+              "text": "a különös visszaesés szempontjából hasonló jellegű bűncselekmény a költségvetést károsító bűncselekmény.",
               "act_id_abbreviations": [],
               "outgoing_references": [],
               "semantic_data": [],
@@ -28361,7 +28531,7 @@
             },
             {
               "identifier": "c",
-              "text": "pénzügyi intézmény, befektetési vállalkozás, árutőzsdei szolgáltató, befektetési alapkezelő, kockázati tőkealap-kezelő, tőzsdei, elszámolóházi, központi értéktári vagy központi szerződő fél tevékenységet végző szervezet, biztosító, viszontbiztosító vagy független biztosításközvetítő, illetve önkéntes kölcsönös biztosító pénztár, magánnyugdíjpénztár vagy foglalkoztatói nyugdíjszolgáltató intézmény, szerencsejáték szervezésével foglalkozó szervezet, vagy szabályozott ingatlanbefektetési társaság tisztségviselőjeként vagy alkalmazottjaként,",
+              "text": "pénzügyi intézmény, befektetési vállalkozás, árutőzsdei szolgáltató, befektetési alapkezelő, kockázati tőkealap-kezelő, tőzsdei, központi értéktári vagy központi szerződő fél tevékenységet végző szervezet, biztosító, viszontbiztosító vagy független biztosításközvetítő, illetve önkéntes kölcsönös biztosító pénztár, magánnyugdíjpénztár vagy foglalkoztatói nyugdíjszolgáltató intézmény, szerencsejáték szervezésével foglalkozó szervezet, vagy szabályozott ingatlanbefektetési társaság tisztségviselőjeként vagy alkalmazottjaként,",
               "act_id_abbreviations": [],
               "outgoing_references": [],
               "semantic_data": [],
@@ -28464,7 +28634,7 @@
             },
             {
               "identifier": "b",
-              "text": "pénzügyi intézmény, befektetési vállalkozás, árutőzsdei szolgáltató, befektetési alapkezelő, kockázati tőkealap-kezelő, tőzsdei, elszámolóházi, központi értéktári vagy központi szerződő fél tevékenységet végző szervezet, biztosító, viszontbiztosító vagy független biztosításközvetítő, illetve önkéntes kölcsönös biztosító pénztár, magánnyugdíjpénztár vagy foglalkoztatói nyugdíjszolgáltató intézmény, szerencsejáték szervezésével foglalkozó szervezet, vagy szabályozott ingatlanbefektetési társaság tisztségviselőjeként vagy alkalmazottjaként, illetve",
+              "text": "pénzügyi intézmény, befektetési vállalkozás, árutőzsdei szolgáltató, befektetési alapkezelő, kockázati tőkealap-kezelő, tőzsdei, központi értéktári vagy központi szerződő fél tevékenységet végző szervezet, biztosító, viszontbiztosító vagy független biztosításközvetítő, illetve önkéntes kölcsönös biztosító pénztár, magánnyugdíjpénztár vagy foglalkoztatói nyugdíjszolgáltató intézmény, szerencsejáték szervezésével foglalkozó szervezet, vagy szabályozott ingatlanbefektetési társaság tisztségviselőjeként vagy alkalmazottjaként, illetve",
               "act_id_abbreviations": [],
               "outgoing_references": [],
               "semantic_data": [],
@@ -28558,7 +28728,7 @@
         },
         {
           "identifier": "2",
-          "text": "A 399–400. § alkalmazásában pénzügyi tevékenységen, illetve pénzügyi szolgáltatás igénybevételén a pénzügyi szolgáltatási vagy kiegészítő pénzügyi szolgáltatási, befektetési szolgáltatási vagy befektetési szolgáltatási tevékenységet kiegészítő szolgáltatási, árutőzsdei szolgáltatási, befektetési alapkezelési, kockázati tőkealapkezelési, tőzsdei, elszámolóházi, központi értéktári vagy központi szerződő fél, vagy biztosítási, viszontbiztosítási vagy független biztosításközvetítői, illetve önkéntes kölcsönös biztosító pénztári, magán-nyugdíjpénztári vagy foglalkoztatói nyugdíj-szolgáltatási tevékenységet, illetve annak igénybevételét kell érteni.",
+          "text": "A 399–400. § alkalmazásában pénzügyi tevékenységen, illetve pénzügyi szolgáltatás igénybevételén a pénzügyi szolgáltatási vagy kiegészítő pénzügyi szolgáltatási, befektetési szolgáltatási vagy befektetési szolgáltatási tevékenységet kiegészítő szolgáltatási, árutőzsdei szolgáltatási, befektetési alapkezelési, kockázati tőkealapkezelési, tőzsdei, központi értéktári vagy központi szerződő fél, vagy biztosítási, viszontbiztosítási vagy független biztosításközvetítői, illetve önkéntes kölcsönös biztosító pénztári, magán-nyugdíjpénztári vagy foglalkoztatói nyugdíj-szolgáltatási tevékenységet, illetve annak igénybevételét kell érteni.",
           "act_id_abbreviations": [],
           "outgoing_references": [
             {
@@ -28633,7 +28803,7 @@
         },
         {
           "identifier": "3",
-          "text": "A büntetés az (1) bekezdés esetén két évtől nyolc évig terjedő szabadságvesztés, ha a bűncselekményt pénzügyi intézmény, befektetési vállalkozás, árutőzsdei szolgáltató, befektetési alapkezelő, kockázati tőkealap-kezelő, tőzsdei, elszámolóházi, központi értéktári vagy központi szerződő fél tevékenységet végző szervezet, biztosító, viszontbiztosító vagy független biztosításközvetítő, önkéntes kölcsönös biztosító pénztár, magánnyugdíjpénztár vagy foglalkoztatói nyugdíjszolgáltató intézmény vagy szabályozott ingatlanbefektetési társaság körében követik el.",
+          "text": "A büntetés az (1) bekezdés esetén két évtől nyolc évig terjedő szabadságvesztés, ha a bűncselekményt pénzügyi intézmény, befektetési vállalkozás, árutőzsdei szolgáltató, befektetési alapkezelő, kockázati tőkealap-kezelő, tőzsdei, központi értéktári vagy központi szerződő fél tevékenységet végző szervezet, biztosító, viszontbiztosító vagy független biztosításközvetítő, önkéntes kölcsönös biztosító pénztár, magánnyugdíjpénztár vagy foglalkoztatói nyugdíjszolgáltató intézmény vagy szabályozott ingatlanbefektetési társaság körében követik el.",
           "act_id_abbreviations": [],
           "outgoing_references": [
             {
@@ -28964,6 +29134,7 @@
       "identifier": "408",
       "children": [
         {
+          "identifier": "1",
           "intro": "Aki törvényben előírt engedély nélkül",
           "children": [
             {
@@ -28976,7 +29147,7 @@
             },
             {
               "identifier": "b",
-              "text": "befektetési szolgáltatási, illetve befektetési szolgáltatási tevékenységet kiegészítő szolgáltatási, árutőzsdei szolgáltatási, befektetési alapkezelési, kockázati tőkealap-kezelési, tőzsdei, elszámolóházi, központi értéktári vagy központi szerződő fél,",
+              "text": "befektetési szolgáltatási, illetve befektetési szolgáltatási tevékenységet kiegészítő szolgáltatási, árutőzsdei szolgáltatási, befektetési alapkezelési, kockázati tőkealap-kezelési, tőzsdei, központi értéktári vagy központi szerződő fél,",
               "act_id_abbreviations": [],
               "outgoing_references": [],
               "semantic_data": [],
@@ -28984,7 +29155,7 @@
             },
             {
               "identifier": "c",
-              "text": "biztosítási, viszontbiztosítási vagy független biztosításközvetítési,",
+              "text": "biztosítási, viszontbiztosítási,",
               "act_id_abbreviations": [],
               "outgoing_references": [],
               "semantic_data": [],
@@ -28992,7 +29163,7 @@
             },
             {
               "identifier": "d",
-              "text": "önkéntes kölcsönös biztosító pénztári, magán-nyugdíjpénztári vagy foglalkoztatói nyugdíj-szolgáltatási",
+              "text": "önkéntes kölcsönös biztosító pénztári, magánnyugdíjpénztári vagy foglalkoztatói nyugdíj-szolgáltatási",
               "act_id_abbreviations": [],
               "outgoing_references": [],
               "semantic_data": [],
@@ -29002,6 +29173,44 @@
           "wrap_up": "tevékenységet végez, bűntett miatt három évig terjedő szabadságvesztéssel büntetendő.",
           "act_id_abbreviations": [],
           "outgoing_references": [],
+          "semantic_data": []
+        },
+        {
+          "identifier": "2",
+          "intro": "Aki az (1) bekezdés a)–c) pontjában megjelölt valamely tevékenységhez kapcsolódóan törvényben előírt",
+          "children": [
+            {
+              "identifier": "a",
+              "text": "engedély nélkül közvetítői tevékenységet végez,",
+              "act_id_abbreviations": [],
+              "outgoing_references": [],
+              "semantic_data": [],
+              "__type__": "AlphabeticPoint"
+            },
+            {
+              "identifier": "b",
+              "text": "nyilvántartásba vétel, illetve bejelentés hiányában közvetítői tevékenységet végez oly módon, hogy annak megtörténte ellenőrzését elmulasztotta,",
+              "act_id_abbreviations": [],
+              "outgoing_references": [],
+              "semantic_data": [],
+              "__type__": "AlphabeticPoint"
+            }
+          ],
+          "wrap_up": "vétség miatt két évig terjedő szabadságvesztéssel büntetendő.",
+          "act_id_abbreviations": [],
+          "outgoing_references": [
+            {
+              "start_pos": 7,
+              "end_pos": 35,
+              "reference": {
+                "paragraph": "1",
+                "point": [
+                  "a",
+                  "c"
+                ]
+              }
+            }
+          ],
           "semantic_data": []
         }
       ],
@@ -29961,6 +30170,39 @@
           "wrap_up": "bűntett miatt három évig terjedő szabadságvesztéssel büntetendő.",
           "act_id_abbreviations": [],
           "outgoing_references": [],
+          "semantic_data": []
+        },
+        {
+          "identifier": "1a",
+          "intro": "Az (1) bekezdés szerint büntetendő, aki személyes adat, magántitok, gazdasági titok vagy üzleti titok jogosulatlan megismerése céljából",
+          "children": [
+            {
+              "identifier": "a",
+              "text": "nyilvános vagy a közönség részére nyitva álló helyen kívül más helyiséget vagy területet, továbbá – a közösségi közlekedési eszköz kivételével – járművet titokban átkutat,",
+              "act_id_abbreviations": [],
+              "outgoing_references": [],
+              "semantic_data": [],
+              "__type__": "AlphabeticPoint"
+            },
+            {
+              "identifier": "b",
+              "text": "nyilvános vagy a közönség részére nyitva álló helyen kívül más helyiségben vagy területen, továbbá – a közösségi közlekedési eszköz kivételével – járművön történteket titokban technikai eszköz alkalmazásával megfigyeli vagy rögzíti.",
+              "act_id_abbreviations": [],
+              "outgoing_references": [],
+              "semantic_data": [],
+              "__type__": "AlphabeticPoint"
+            }
+          ],
+          "act_id_abbreviations": [],
+          "outgoing_references": [
+            {
+              "start_pos": 3,
+              "end_pos": 15,
+              "reference": {
+                "paragraph": "1"
+              }
+            }
+          ],
           "semantic_data": []
         },
         {

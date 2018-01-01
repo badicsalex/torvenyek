@@ -434,6 +434,7 @@ A BÜNTETÉSEK
           (6)  Nem szabható ki
                a)   szabadságvesztés mellett elzárás vagy közérdekű munka,
                b)   kiutasítás mellett közérdekű munka vagy pénzbüntetés.
+               c)   életfogytig tartó szabadságvesztés mellett pénzbüntetés.
 
 A szabadságvesztés
 
@@ -1437,6 +1438,56 @@ Az előzetes fogvatartás és a házi őrizet beszámítása
           (4)  A (2) és (3) bekezdés szerinti beszámítás után fennmaradó előzetes
                fogvatartás vagy házi őrizet tartamát egynapi szabadságvesztésként kell
                beszámítani.
+
+92/A. §   (1)  A szabálysértési eljárásban kiszabott és végrehajtott elzárás és közérdekű
+               munka teljes időtartamát, valamint a pénzbírságot be kell számítani – a
+               szabálysértésekről, a szabálysértési eljárásról és a szabálysértési
+               nyilvántartási rendszerről szóló 2012. évi II. törvény 127. § (1) bekezdés
+               e) pontja szerint lefolytatott perújítási eljárást követően, a perújítással
+               érintett cselekmény miatt – a büntetőeljárásban kiszabott
+               szabadságvesztésbe, elzárásba, közérdekű munkába, pénzbüntetésbe és
+               javítóintézeti nevelésbe.
+          (2)  A beszámításnál egynapi szabálysértési elzárás egynapi szabadságvesztésnek,
+               illetve elzárásnak, négy óra közérdekű munkának, egynapi tétel
+               pénzbüntetésnek, valamint egynapi javítóintézeti nevelésnek felel meg.
+          (3)  A szabálysértési pénzbírság ötezer forintonként egynapi
+               szabadságvesztésnek, illetve elzárásnak, négy óra közérdekű munkának, a
+               pénzbüntetés azonos értékének, illetve egynapi javítóintézeti nevelésnek
+               felel meg.
+          (4)  A szabálysértési eljárásban kiszabott közérdekű munka a közérdekű munka
+               azonos mértékének, továbbá a szabálysértési eljárásban kiszabott közérdekű
+               munka hat óránként egynapi szabadságvesztésnek, illetve elzárásnak, egynapi
+               tétel pénzbüntetésnek, valamint egynapi javítóintézeti nevelésnek felel
+               meg.
+
+A már végrehajtott büntetés vagy intézkedés beszámítására vonatkozó szabályok
+
+92/B. §   (1)  Ha a perújítás, a felülvizsgálat, a törvényesség érdekében bejelentett
+               jogorvoslat, vagy a megismételt eljárás eredményeként hozott ítélet az
+               alapügyben hozott határozatot megváltoztatatja, az alapügyben kiszabott és
+               végrehajtott büntetést vagy intézkedést be kell számítani. Ha a büntetés
+               vagy az intézkedés neme eltér, a beszámításra a (2) bekezdésben foglaltak
+               az irányadók.
+          (2)  A beszámításnál
+               a)   egynapi szabadságvesztés egynapi elzárásnak, négy óra közérdekű
+                    munkának, egynapi tétel pénzbüntetésnek, hat óra jóvátételi munkának
+                    vagy egynapi javítóintézeti nevelésnek,
+               b)   egynapi elzárás egynapi szabadságvesztésnek, négy óra közérdekű
+                    munkának, egynapi tétel pénzbüntetésnek, hat óra jóvátételi munkának
+                    vagy egynapi javítóintézeti nevelésnek,
+               c)   négy óra közérdekű munka egynapi szabadságvesztésnek, egynapi
+                    elzárásnak, egynapi tétel pénzbüntetésnek, hat óra jóvátételi munkának
+                    vagy egynapi javítóintézeti nevelésnek,
+               d)   egynapi tétel pénzbüntetés egynapi szabadságvesztésnek, egynapi
+                    elzárásnak, négy óra közérdekű munkának, hat óra jóvátételi munkának
+                    vagy egynapi javítóintézeti nevelésnek,
+               e)   egynapi javítóintézeti nevelés egynapi szabadságvesztésnek, egynapi
+                    elzárásnak, négy óra közérdekű munkának, egynapi tétel pénzbüntetésnek
+                    vagy hat óra jóvátételi munkának,
+               f)   hat óra jóvátételi munka egynapi szabadságvesztésnek, egynapi
+                    elzárásnak, négy óra közérdekű munkának, egynapi tétel pénzbüntetésnek
+                    vagy egynapi javítóintézeti nevelésnek,
+               felel meg.
 
 Összbüntetés
 
@@ -2920,6 +2971,9 @@ Egészségügyi termék hamisítása
           (4)  A (3) bekezdés szerint büntetendő, ha a hamis, meghamisított vagy
                Magyarországon nem engedélyezett egészségügyi termék a felhasználók számára
                széles körben válik hozzáférhetővé.
+          (4a) Aki az (1)–(4) bekezdésben meghatározott egészségügyi termék hamisítására
+               irányuló előkészületet követ el, vétség miatt egy évig terjedő
+               szabadságvesztéssel büntetendő.
           (5)  E § alkalmazásában
                a)   egészségügyi termék: a gyógyszer, az állatgyógyászati készítmény, az
                     orvostechnikai eszköz, az in vitro diagnosztikai orvostechnikai eszköz
@@ -4410,11 +4464,11 @@ Kényszerítés hatósági eljárásban
 Hatósági eljárás megzavarása
 
 279. §    (1)  Aki olyan kihívóan közösségellenes vagy erőszakos magatartást tanúsít,
-               amely a hatóság eljárását megzavarja vagy akadályozza, ha súlyosabb
-               bűncselekmény nem valósul meg, vétség miatt két évig terjedő
+               amely a hatóság eljárását megzavarja, akadályozza vagy meghiúsítja, ha
+               súlyosabb bűncselekmény nem valósul meg, vétség miatt két évig terjedő
                szabadságvesztéssel büntetendő.
           (2)  A büntetés bűntett miatt három évig terjedő szabadságvesztés, ha az (1)
-               bekezdésben meghatározott bűncselekmény a hatóság eljárását meghiúsítja.
+               bekezdésben meghatározott bűncselekményt bírósági eljárásban követik el.
           (3)  A büntetés egy évtől öt évig terjedő szabadságvesztés, ha az (1)
                bekezdésben meghatározott bűncselekményt csoportosan, fegyveresen vagy
                felfegyverkezve követik el.
@@ -4549,11 +4603,11 @@ Fogolyzendülés
 
 Zugírászat
 
-286. §    (1)  Aki jogosulatlanul és üzletszerűen ügyvédi, jogtanácsosi vagy közjegyzői
-               tevékenységet végez, vétség miatt két évig terjedő szabadságvesztéssel
-               büntetendő.
+286. §    (1)  Aki jogosulatlanul és üzletszerűen ügyvédi, szabadalmi ügyvivői vagy
+               közjegyzői tevékenységet végez, vétség miatt két évig terjedő
+               szabadságvesztéssel büntetendő.
           (2)  A büntetés bűntett miatt három évig terjedő szabadságvesztés, ha a
-               zugírászatot ügyvédi, jogtanácsosi vagy közjegyzői tevékenységre
+               zugírászatot ügyvédi, szabadalmi ügyvivői vagy közjegyzői tevékenységre
                jogosultság színlelésével követik el.
 
 Zártörés
@@ -5586,7 +5640,7 @@ Mező- és erdőgazdasági hasznosítású föld jogellenes megszerzése
                erdőgazdasági hasznosítású földet használ, illetve szedi annak hasznait, ha
                súlyosabb bűncselekmény nem valósul meg, bűntett miatt három évig terjedő
                szabadságvesztéssel büntetendő.
-          (3)  Az (1) bekezdés szerint büntetendő az az ügyvéd, jogtanácsos vagy
+          (3)  Az (1) bekezdés szerint büntetendő az az ügyvéd, kamarai jogtanácsos vagy
                közjegyző, aki az (1) bekezdés szerinti szerződés megkötésében
                közreműködik.
           (4)  Korlátlanul enyhíthető az (1) és (2) bekezdés szerinti bűncselekmény
@@ -6665,7 +6719,7 @@ Költségvetési csalás
           (8)  Korlátlanul enyhíthető annak a büntetése, aki az (1)–(6) bekezdésében
                meghatározott költségvetési csalással okozott vagyoni hátrányt a vádirat
                benyújtásáig megtéríti. Ez a rendelkezés nem alkalmazható, ha a
-               bűncselekményt bűnszövetségben vagy üzletszerűen követik el.
+               bűncselekményt bűnszövetségben vagy különös visszaesőként követik el.
           (9)  E § alkalmazásában
                a)   költségvetésen az államháztartás alrendszereinek költségvetését –
                     ideértve a társadalombiztosítás pénzügyi alapjainak költségvetését és
@@ -6680,6 +6734,8 @@ Költségvetési csalás
                     kötelezettség nem teljesítése miatt bekövetkezett bevételkiesést,
                     valamint a költségvetésből jogosulatlanul igénybe vett vagy céltól
                     eltérően felhasznált pénzeszközt is.
+               c)   a különös visszaesés szempontjából hasonló jellegű bűncselekmény a
+                    költségvetést károsító bűncselekmény.
 
 A költségvetési csaláshoz kapcsolódó felügyeleti vagy ellenőrzési kötelezettség
 elmulasztása
@@ -6758,13 +6814,13 @@ Pénzmosás
                a)   üzletszerűen,
                b)   különösen nagy vagy azt meghaladó értékre,
                c)   pénzügyi intézmény, befektetési vállalkozás, árutőzsdei szolgáltató,
-                    befektetési alapkezelő, kockázati tőkealap-kezelő, tőzsdei,
-                    elszámolóházi, központi értéktári vagy központi szerződő fél
-                    tevékenységet végző szervezet, biztosító, viszontbiztosító vagy
-                    független biztosításközvetítő, illetve önkéntes kölcsönös biztosító
-                    pénztár, magánnyugdíjpénztár vagy foglalkoztatói nyugdíjszolgáltató
-                    intézmény, szerencsejáték szervezésével foglalkozó szervezet, vagy
-                    szabályozott ingatlanbefektetési társaság tisztségviselőjeként vagy
+                    befektetési alapkezelő, kockázati tőkealap-kezelő, tőzsdei, központi
+                    értéktári vagy központi szerződő fél tevékenységet végző szervezet,
+                    biztosító, viszontbiztosító vagy független biztosításközvetítő,
+                    illetve önkéntes kölcsönös biztosító pénztár, magánnyugdíjpénztár vagy
+                    foglalkoztatói nyugdíjszolgáltató intézmény, szerencsejáték
+                    szervezésével foglalkozó szervezet, vagy szabályozott
+                    ingatlanbefektetési társaság tisztségviselőjeként vagy
                     alkalmazottjaként,
                d)   hivatalos személyként vagy
                e)   ügyvédként
@@ -6782,13 +6838,13 @@ Pénzmosás
                meghatározott bűncselekményt
                a)   különösen nagy vagy azt meghaladó értékre,
                b)   pénzügyi intézmény, befektetési vállalkozás, árutőzsdei szolgáltató,
-                    befektetési alapkezelő, kockázati tőkealap-kezelő, tőzsdei,
-                    elszámolóházi, központi értéktári vagy központi szerződő fél
-                    tevékenységet végző szervezet, biztosító, viszontbiztosító vagy
-                    független biztosításközvetítő, illetve önkéntes kölcsönös biztosító
-                    pénztár, magánnyugdíjpénztár vagy foglalkoztatói nyugdíjszolgáltató
-                    intézmény, szerencsejáték szervezésével foglalkozó szervezet, vagy
-                    szabályozott ingatlanbefektetési társaság tisztségviselőjeként vagy
+                    befektetési alapkezelő, kockázati tőkealap-kezelő, tőzsdei, központi
+                    értéktári vagy központi szerződő fél tevékenységet végző szervezet,
+                    biztosító, viszontbiztosító vagy független biztosításközvetítő,
+                    illetve önkéntes kölcsönös biztosító pénztár, magánnyugdíjpénztár vagy
+                    foglalkoztatói nyugdíjszolgáltató intézmény, szerencsejáték
+                    szervezésével foglalkozó szervezet, vagy szabályozott
+                    ingatlanbefektetési társaság tisztségviselőjeként vagy
                     alkalmazottjaként, illetve
                c)   hivatalos személyként
                követik el.
@@ -6815,11 +6871,11 @@ A pénzmosással kapcsolatos bejelentési kötelezettség elmulasztása
                pénzügyi szolgáltatási, befektetési szolgáltatási vagy befektetési
                szolgáltatási tevékenységet kiegészítő szolgáltatási, árutőzsdei
                szolgáltatási, befektetési alapkezelési, kockázati tőkealapkezelési,
-               tőzsdei, elszámolóházi, központi értéktári vagy központi szerződő fél, vagy
-               biztosítási, viszontbiztosítási vagy független biztosításközvetítői,
-               illetve önkéntes kölcsönös biztosító pénztári, magán-nyugdíjpénztári vagy
-               foglalkoztatói nyugdíj-szolgáltatási tevékenységet, illetve annak
-               igénybevételét kell érteni.
+               tőzsdei, központi értéktári vagy központi szerződő fél, vagy biztosítási,
+               viszontbiztosítási vagy független biztosításközvetítői, illetve önkéntes
+               kölcsönös biztosító pénztári, magán-nyugdíjpénztári vagy foglalkoztatói
+               nyugdíj-szolgáltatási tevékenységet, illetve annak igénybevételét kell
+               érteni.
 
 XLI. FEJEZET
 A GAZDÁLKODÁS RENDJÉT SÉRTŐ BŰNCSELEKMÉNYEK
@@ -6842,9 +6898,9 @@ A számvitel rendjének megsértése
           (3)  A büntetés az (1) bekezdés esetén két évtől nyolc évig terjedő
                szabadságvesztés, ha a bűncselekményt pénzügyi intézmény, befektetési
                vállalkozás, árutőzsdei szolgáltató, befektetési alapkezelő, kockázati
-               tőkealap-kezelő, tőzsdei, elszámolóházi, központi értéktári vagy központi
-               szerződő fél tevékenységet végző szervezet, biztosító, viszontbiztosító
-               vagy független biztosításközvetítő, önkéntes kölcsönös biztosító pénztár,
+               tőkealap-kezelő, tőzsdei, központi értéktári vagy központi szerződő fél
+               tevékenységet végző szervezet, biztosító, viszontbiztosító vagy független
+               biztosításközvetítő, önkéntes kölcsönös biztosító pénztár,
                magánnyugdíjpénztár vagy foglalkoztatói nyugdíjszolgáltató intézmény vagy
                szabályozott ingatlanbefektetési társaság körében követik el.
           (4)  E § alkalmazásában a megbízható és valós képet lényegesen befolyásoló a
@@ -6934,17 +6990,24 @@ Saját tőke csorbítása
 
 Jogosulatlan pénzügyi tevékenység
 
-408. §         Aki törvényben előírt engedély nélkül
+408. §    (1)  Aki törvényben előírt engedély nélkül
                a)   pénzügyi szolgáltatási vagy kiegészítő pénzügyi szolgáltatási,
                b)   befektetési szolgáltatási, illetve befektetési szolgáltatási
                     tevékenységet kiegészítő szolgáltatási, árutőzsdei szolgáltatási,
                     befektetési alapkezelési, kockázati tőkealap-kezelési, tőzsdei,
-                    elszámolóházi, központi értéktári vagy központi szerződő fél,
-               c)   biztosítási, viszontbiztosítási vagy független biztosításközvetítési,
-               d)   önkéntes kölcsönös biztosító pénztári, magán-nyugdíjpénztári vagy
+                    központi értéktári vagy központi szerződő fél,
+               c)   biztosítási, viszontbiztosítási,
+               d)   önkéntes kölcsönös biztosító pénztári, magánnyugdíjpénztári vagy
                     foglalkoztatói nyugdíj-szolgáltatási
                tevékenységet végez, bűntett miatt három évig terjedő szabadságvesztéssel
                büntetendő.
+          (2)  Aki az (1) bekezdés a)–c) pontjában megjelölt valamely tevékenységhez
+               kapcsolódóan törvényben előírt
+               a)   engedély nélkül közvetítői tevékenységet végez,
+               b)   nyilvántartásba vétel, illetve bejelentés hiányában közvetítői
+                    tevékenységet végez oly módon, hogy annak megtörténte ellenőrzését
+                    elmulasztotta,
+               vétség miatt két évig terjedő szabadságvesztéssel büntetendő.
 
 Gazdasági adatszolgáltatási kötelezettség elmulasztása
 
@@ -7244,6 +7307,15 @@ Tiltott adatszerzés
                     útján másnak továbbított vagy azon tárolt adatot kifürkész, és az
                     észlelteket technikai eszközzel rögzíti,
                bűntett miatt három évig terjedő szabadságvesztéssel büntetendő.
+          (1a) Az (1) bekezdés szerint büntetendő, aki személyes adat, magántitok,
+               gazdasági titok vagy üzleti titok jogosulatlan megismerése céljából
+               a)   nyilvános vagy a közönség részére nyitva álló helyen kívül más
+                    helyiséget vagy területet, továbbá – a közösségi közlekedési eszköz
+                    kivételével – járművet titokban átkutat,
+               b)   nyilvános vagy a közönség részére nyitva álló helyen kívül más
+                    helyiségben vagy területen, továbbá – a közösségi közlekedési eszköz
+                    kivételével – járművön történteket titokban technikai eszköz
+                    alkalmazásával megfigyeli vagy rögzíti.
           (2)  Az (1) bekezdés szerint büntetendő, aki fedett nyomozó vagy a bűnüldöző
                hatósággal, illetve titkosszolgálattal titkosan együttműködő személy
                kilétének vagy tevékenységének megállapítása céljából az (1) bekezdésben
