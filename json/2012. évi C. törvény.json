@@ -13603,26 +13603,67 @@
           "children": [
             {
               "identifier": "a",
-              "text": "aki az (1) bekezdés a) pontjában vagy a (3) bekezdés b) vagy c) pontjában meghatározott bűncselekményt tizenkettedik életévét be nem töltött személy sérelmére követi el, vagy",
+              "intro": "aki a (2) bekezdésben meghatározott bűncselekményt",
+              "children": [
+                {
+                  "identifier": "aa",
+                  "text": "az (1) bekezdésben meghatározott módon,",
+                  "act_id_abbreviations": [],
+                  "outgoing_references": [
+                    {
+                      "start_pos": 3,
+                      "end_pos": 18,
+                      "reference": {
+                        "paragraph": "1"
+                      }
+                    }
+                  ],
+                  "semantic_data": [],
+                  "__type__": "AlphabeticSubpoint"
+                },
+                {
+                  "identifier": "ab",
+                  "text": "a (3) bekezdés b) pontjában meghatározott sértett sérelmére, vagy",
+                  "act_id_abbreviations": [],
+                  "outgoing_references": [
+                    {
+                      "start_pos": 2,
+                      "end_pos": 27,
+                      "reference": {
+                        "paragraph": "3",
+                        "point": "b"
+                      }
+                    }
+                  ],
+                  "semantic_data": [],
+                  "__type__": "AlphabeticSubpoint"
+                },
+                {
+                  "identifier": "ac",
+                  "text": "a (3) bekezdés c) pontjában meghatározott módon",
+                  "act_id_abbreviations": [],
+                  "outgoing_references": [
+                    {
+                      "start_pos": 2,
+                      "end_pos": 27,
+                      "reference": {
+                        "paragraph": "3",
+                        "point": "c"
+                      }
+                    }
+                  ],
+                  "semantic_data": [],
+                  "__type__": "AlphabeticSubpoint"
+                }
+              ],
+              "wrap_up": "követi el, vagy",
               "act_id_abbreviations": [],
               "outgoing_references": [
                 {
-                  "start_pos": 7,
-                  "end_pos": 32,
+                  "start_pos": 6,
+                  "end_pos": 21,
                   "reference": {
-                    "paragraph": "1",
-                    "point": "a"
-                  }
-                },
-                {
-                  "start_pos": 40,
-                  "end_pos": 73,
-                  "reference": {
-                    "paragraph": "3",
-                    "point": [
-                      "b",
-                      "c"
-                    ]
+                    "paragraph": "2"
                   }
                 }
               ],
@@ -13660,6 +13701,35 @@
           ],
           "act_id_abbreviations": [],
           "outgoing_references": [],
+          "semantic_data": []
+        },
+        {
+          "identifier": "4a",
+          "text": "A büntetés öt évtől húsz évig terjedő szabadságvesztés, ha a (4) bekezdés a) pont aa) alpontjában meghatározott bűncselekmény a (4) bekezdés a) pont ab) vagy ac) alpontja szerint is minősül.",
+          "act_id_abbreviations": [],
+          "outgoing_references": [
+            {
+              "start_pos": 61,
+              "end_pos": 97,
+              "reference": {
+                "paragraph": "4",
+                "point": "a",
+                "subpoint": "aa"
+              }
+            },
+            {
+              "start_pos": 128,
+              "end_pos": 170,
+              "reference": {
+                "paragraph": "4",
+                "point": "a",
+                "subpoint": [
+                  "ab",
+                  "ac"
+                ]
+              }
+            }
+          ],
           "semantic_data": []
         },
         {
