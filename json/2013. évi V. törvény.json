@@ -5476,7 +5476,7 @@
         },
         {
           "identifier": "2",
-          "text": "A létesítő okiratot közjegyzői okiratba vagy ügyvéd, illetve valamelyik alapító jogtanácsosa által ellenjegyzett magánokiratba kell foglalni.",
+          "text": "A létesítő okiratot közjegyzői okiratba vagy ügyvéd, illetve valamelyik alapító kamarai jogtanácsosa által ellenjegyzett magánokiratba kell foglalni.",
           "act_id_abbreviations": [],
           "outgoing_references": [],
           "semantic_data": []
@@ -5599,7 +5599,7 @@
       "children": [
         {
           "identifier": "1",
-          "text": "Gazdasági társaság alapítását a létesítő okirat közjegyzői okiratba foglalásától vagy ügyvédi vagy jogtanácsosi ellenjegyzésétől számított harminc napon belül be kell jelenteni a nyilvántartó bíróságnak.",
+          "text": "Gazdasági társaság alapítását a létesítő okirat közjegyzői okiratba foglalásától vagy ügyvédi vagy kamarai jogtanácsosi ellenjegyzésétől számított harminc napon belül be kell jelenteni a nyilvántartó bíróságnak.",
           "act_id_abbreviations": [],
           "outgoing_references": [],
           "semantic_data": []
@@ -5620,7 +5620,7 @@
       "children": [
         {
           "identifier": "1",
-          "text": "A gazdasági társaság a létesítő okirat közjegyzői okiratba foglalásától vagy ügyvédi vagy jogtanácsosi ellenjegyzésétől kezdődően a létrehozni kívánt társaság előtársaságaként működhet. Üzletszerű gazdasági tevékenységet az előtársaság a nyilvántartásba-vételi kérelem benyújtását követően folytathat. Az előtársasági jelleget a társaság iratain és jognyilatkozatain fel kell tüntetni; ennek hiányában az előtársaság által tett jognyilatkozat – ha a nyilvántartó bíróság a társaságot nem jegyzi be – az alapítók által együttesen tett jognyilatkozatnak minősül.",
+          "text": "A gazdasági társaság a létesítő okirat közjegyzői okiratba foglalásától vagy ügyvédi vagy kamarai jogtanácsosi ellenjegyzésétől kezdődően a létrehozni kívánt társaság előtársaságaként működhet. Üzletszerű gazdasági tevékenységet az előtársaság a nyilvántartásba-vételi kérelem benyújtását követően folytathat. Az előtársasági jelleget a társaság iratain és jognyilatkozatain fel kell tüntetni; ennek hiányában az előtársaság által tett jognyilatkozat – ha a nyilvántartó bíróság a társaságot nem jegyzi be – az alapítók által együttesen tett jognyilatkozatnak minősül.",
           "act_id_abbreviations": [],
           "outgoing_references": [],
           "semantic_data": []
@@ -5756,7 +5756,7 @@
         },
         {
           "identifier": "4",
-          "text": "A létesítő okirat módosítására egyebekben a társaság alapítására vonatkozó rendelkezéseket kell megfelelően alkalmazni, azzal, hogy a módosítást tartalmazó okiratot a tagoknak nem kell aláírniuk, és azt a társaság jogtanácsosa is ellenjegyezheti.",
+          "text": "A létesítő okirat módosítására egyebekben a társaság alapítására vonatkozó rendelkezéseket kell megfelelően alkalmazni, azzal, hogy a módosítást tartalmazó okiratot a tagoknak nem kell aláírniuk, és azt a társaság kamarai jogtanácsosa is ellenjegyezheti.",
           "act_id_abbreviations": [],
           "outgoing_references": [],
           "semantic_data": []
@@ -12971,7 +12971,7 @@
       "children": [
         {
           "identifier": "1",
-          "text": "A szövetkezet alapítását az alapszabály közjegyzői okiratba foglalásától vagy ügyvédi vagy jogtanácsosi ellenjegyzésétől számított harminc napon belül be kell jelenteni a nyilvántartó bíróságnak. Ha a szövetkezet alapítása hatósági engedélyhez kötött, a bejelentést a véglegessé vált engedély kézhezvételétől számított tizenöt napon belül kell teljesíteni.",
+          "text": "A szövetkezet alapítását az alapszabály közjegyzői okiratba foglalásától vagy ügyvédi vagy kamarai jogtanácsosi ellenjegyzésétől számított harminc napon belül be kell jelenteni a nyilvántartó bíróságnak. Ha a szövetkezet alapítása hatósági engedélyhez kötött, a bejelentést a véglegessé vált engedély kézhezvételétől számított tizenöt napon belül kell teljesíteni.",
           "act_id_abbreviations": [],
           "outgoing_references": [],
           "semantic_data": []
@@ -13060,7 +13060,7 @@
         },
         {
           "identifier": "3",
-          "text": "Az alapszabályt közjegyzői okiratba, ügyvéd vagy valamelyik alapító jogtanácsosa által ellenjegyzett magánokiratba kell foglalni. Ezt a szabályt kell alkalmazni az alapszabály módosítása vagy a jegyzőkönyvbe foglalt alapszabály-módosítás esetén is azzal, hogy azt a tag jogtanácsosa vagy a szövetkezet jogtanácsosa is ellenjegyezheti.",
+          "text": "Az alapszabályt közjegyzői okiratba, ügyvéd vagy valamelyik alapító kamarai jogtanácsosa által ellenjegyzett magánokiratba kell foglalni. Ezt a szabályt kell alkalmazni az alapszabály módosítása vagy a jegyzőkönyvbe foglalt alapszabály-módosítás esetén is azzal, hogy azt a tag kamarai jogtanácsosa vagy a szövetkezet kamarai jogtanácsosa is ellenjegyezheti.",
           "act_id_abbreviations": [],
           "outgoing_references": [],
           "semantic_data": []

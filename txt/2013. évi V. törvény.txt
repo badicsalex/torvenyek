@@ -2027,7 +2027,8 @@ A gazdasági társaság alapítása
                magánokiratba foglalt meghatalmazással rendelkező képviselője is
                aláírhatja.
           (2)  A létesítő okiratot közjegyzői okiratba vagy ügyvéd, illetve valamelyik
-               alapító jogtanácsosa által ellenjegyzett magánokiratba kell foglalni.
+               alapító kamarai jogtanácsosa által ellenjegyzett magánokiratba kell
+               foglalni.
 
 3:96. §        [A társaság tevékenységének helye]
           (1)  Ha a társaság székhelye nem azonos a társaság központi ügyintézésének
@@ -2075,16 +2076,16 @@ A gazdasági társaság alapítása
 
 3:100. §       [A társaság alapításának bírósági bejelentése]
           (1)  Gazdasági társaság alapítását a létesítő okirat közjegyzői okiratba
-               foglalásától vagy ügyvédi vagy jogtanácsosi ellenjegyzésétől számított
-               harminc napon belül be kell jelenteni a nyilvántartó bíróságnak.
+               foglalásától vagy ügyvédi vagy kamarai jogtanácsosi ellenjegyzésétől
+               számított harminc napon belül be kell jelenteni a nyilvántartó bíróságnak.
           (2)  Ha a gazdasági társaság alapítása hatósági engedélyhez kötött, a
                bejelentést a véglegessé vált engedély kézhezvételétől számított tizenöt
                napon belül kell teljesíteni.
 
 3:101. §       [Előtársaság]
           (1)  A gazdasági társaság a létesítő okirat közjegyzői okiratba foglalásától
-               vagy ügyvédi vagy jogtanácsosi ellenjegyzésétől kezdődően a létrehozni
-               kívánt társaság előtársaságaként működhet. Üzletszerű gazdasági
+               vagy ügyvédi vagy kamarai jogtanácsosi ellenjegyzésétől kezdődően a
+               létrehozni kívánt társaság előtársaságaként működhet. Üzletszerű gazdasági
                tevékenységet az előtársaság a nyilvántartásba-vételi kérelem benyújtását
                követően folytathat. Az előtársasági jelleget a társaság iratain és
                jognyilatkozatain fel kell tüntetni; ennek hiányában az előtársaság által
@@ -2139,7 +2140,7 @@ A létesítő okirat módosítása
           (4)  A létesítő okirat módosítására egyebekben a társaság alapítására vonatkozó
                rendelkezéseket kell megfelelően alkalmazni, azzal, hogy a módosítást
                tartalmazó okiratot a tagoknak nem kell aláírniuk, és azt a társaság
-               jogtanácsosa is ellenjegyezheti.
+               kamarai jogtanácsosa is ellenjegyezheti.
 
 XVIII. FEJEZET
 Kisebbségvédelem
@@ -5229,8 +5230,8 @@ XVI. CÍM
 
 3:329. §       [A szövetkezet nyilvántartásba vétele]
           (1)  A szövetkezet alapítását az alapszabály közjegyzői okiratba foglalásától
-               vagy ügyvédi vagy jogtanácsosi ellenjegyzésétől számított harminc napon
-               belül be kell jelenteni a nyilvántartó bíróságnak. Ha a szövetkezet
+               vagy ügyvédi vagy kamarai jogtanácsosi ellenjegyzésétől számított harminc
+               napon belül be kell jelenteni a nyilvántartó bíróságnak. Ha a szövetkezet
                alapítása hatósági engedélyhez kötött, a bejelentést a véglegessé vált
                engedély kézhezvételétől számított tizenöt napon belül kell teljesíteni.
           (2)  A szövetkezet esetében az előtársaságra vonatkozó rendelkezéseket
@@ -5256,11 +5257,11 @@ XVI. CÍM
                alapszabályt a tag helyett közokiratba vagy teljes bizonyító erejű
                magánokiratba foglalt meghatalmazással rendelkező képviselője is
                aláírhatja.
-          (3)  Az alapszabályt közjegyzői okiratba, ügyvéd vagy valamelyik alapító
+          (3)  Az alapszabályt közjegyzői okiratba, ügyvéd vagy valamelyik alapító kamarai
                jogtanácsosa által ellenjegyzett magánokiratba kell foglalni. Ezt a
                szabályt kell alkalmazni az alapszabály módosítása vagy a jegyzőkönyvbe
-               foglalt alapszabály-módosítás esetén is azzal, hogy azt a tag jogtanácsosa
-               vagy a szövetkezet jogtanácsosa is ellenjegyezheti.
+               foglalt alapszabály-módosítás esetén is azzal, hogy azt a tag kamarai
+               jogtanácsosa vagy a szövetkezet kamarai jogtanácsosa is ellenjegyezheti.
           (4)  A jogi személy létesítő okiratának általánosan kötelező tartalmi elemein
                túl a szövetkezet alapszabályában meg kell határozni
                a)   a vagyoni hozzájárulás azon mértékét, amelynek teljesítése minden tag
