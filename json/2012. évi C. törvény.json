@@ -33579,7 +33579,7 @@
                 },
                 {
                   "identifier": "ad",
-                  "text": "amfetamin, metamfetamin és MDPV esetén a 0,5 gramm,",
+                  "text": "amfetamin, metamfetamin, MDPV és alfa-PVP esetén a 0,5 gramm,",
                   "act_id_abbreviations": [],
                   "outgoing_references": [],
                   "semantic_data": [],
@@ -33640,6 +33640,14 @@
                   "outgoing_references": [],
                   "semantic_data": [],
                   "__type__": "AlphabeticSubpoint"
+                },
+                {
+                  "identifier": "al",
+                  "text": "pentedron esetén a 0,4 gramm,",
+                  "act_id_abbreviations": [],
+                  "outgoing_references": [],
+                  "semantic_data": [],
+                  "__type__": "AlphabeticSubpoint"
                 }
               ],
               "act_id_abbreviations": [],
@@ -33658,6 +33666,32 @@
             {
               "identifier": "c",
               "text": "tetrahidro-kannabinol (THC) esetén a tiszta és savformában együttesen jelen levő THC-tartalom (totál-THC) a 6 gramm",
+              "act_id_abbreviations": [],
+              "outgoing_references": [],
+              "semantic_data": [],
+              "__type__": "AlphabeticPoint"
+            },
+            {
+              "identifier": "d",
+              "intro": "annak tiszta hatóanyag-tartalma",
+              "children": [
+                {
+                  "identifier": "da",
+                  "text": "GBL esetén a 6,2 gramm,",
+                  "act_id_abbreviations": [],
+                  "outgoing_references": [],
+                  "semantic_data": [],
+                  "__type__": "AlphabeticSubpoint"
+                },
+                {
+                  "identifier": "db",
+                  "text": "AB-CHMINACA, MDMB-CHMICA, AM-2201, AB-PINACA, AB-FUBINACA, és ADB-FUBINACA esetén a 0,05 gramm",
+                  "act_id_abbreviations": [],
+                  "outgoing_references": [],
+                  "semantic_data": [],
+                  "__type__": "AlphabeticSubpoint"
+                }
+              ],
               "act_id_abbreviations": [],
               "outgoing_references": [],
               "semantic_data": [],

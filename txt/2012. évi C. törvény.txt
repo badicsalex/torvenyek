@@ -8090,7 +8090,7 @@ ZÁRÓ RÉSZ
                     aa)  LSD esetén a 0,001 gramm,
                     ab)  pszilocibin esetén a 0,1 gramm,
                     ac)  pszilocin esetén a 0,2 gramm,
-                    ad)  amfetamin, metamfetamin és MDPV esetén a 0,5 gramm,
+                    ad)  amfetamin, metamfetamin, MDPV és alfa-PVP esetén a 0,5 gramm,
                     ae)  dihidrokodein esetén a 0,8 gramm,
                     af)  heroin esetén a 0,6 gramm,
                     ag)  morfin esetén a 0,9 gramm,
@@ -8100,10 +8100,15 @@ ZÁRÓ RÉSZ
                     ai)  mefedron, metilon és 4-MEC esetén az 1,5 gramm,
                     aj)  kokain esetén a 2 gramm,
                     ak)  BZP esetén a 3 gramm,
+                    al)  pentedron esetén a 0,4 gramm,
                b)   GHB esetén annak sav formában megadott tiszta hatóanyag-tartalma a 7,5
                     gramm,
                c)   tetrahidro-kannabinol (THC) esetén a tiszta és savformában együttesen
                     jelen levő THC-tartalom (totál-THC) a 6 gramm
+               d)   annak tiszta hatóanyag-tartalma
+                    da)  GBL esetén a 6,2 gramm,
+                    db)  AB-CHMINACA, MDMB-CHMICA, AM-2201, AB-PINACA, AB-FUBINACA, és
+                         ADB-FUBINACA esetén a 0,05 gramm
                mennyiséget nem haladja meg.
           (2)  A 176–180. § alkalmazásában a kábítószer csekély mennyiségű, ha kannabisz
                növény esetén a növényegyedek száma legfeljebb öt.
