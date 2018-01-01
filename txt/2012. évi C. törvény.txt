@@ -466,16 +466,16 @@ A határozott ideig tartó szabadságvesztés
                          bűncselekmény,
                     ab)  életfogytig tartó szabadságvesztéssel is büntethető katonai
                          bűncselekmény,
-                    ac)  terrorcselekmény [314. § (1)–(2) bekezdés, 315–316. §],
-                         terrorizmus finanszírozása [318. § (1)–(2) bekezdés], jármű
-                         hatalomba kerítése [320. § (1)–(3) bekezdés], bűnszervezetben
-                         részvétel [321. § (1) bekezdés], robbanóanyaggal vagy
-                         robbantószerrel visszaélés (324. §), lőfegyverrel vagy lőszerrel
-                         visszaélés [325. § (1)–(3) bekezdés], nemzetközi szerződés által
-                         tiltott fegyverrel visszaélés [326. § (1)–(6) bekezdés],
-                         haditechnikai termékkel vagy szolgáltatással visszaélés [329. §
-                         (1)–(4) bekezdés], kettős felhasználású termékkel visszaélés
-                         [330. § (1)–(3) bekezdés],
+                    ac)  terrorcselekmény [314. § (1)–(2) bekezdés, 315–316/A. §],
+                         terrorizmus finanszírozása [318. § és 318/A. §], jármű hatalomba
+                         kerítése [320. § (1)–(3) bekezdés], bűnszervezetben részvétel
+                         [321. § (1) bekezdés], robbanóanyaggal vagy robbantószerrel
+                         visszaélés (324. §), lőfegyverrel vagy lőszerrel visszaélés [325.
+                         § (1)–(3) bekezdés], nemzetközi szerződés által tiltott
+                         fegyverrel visszaélés [326. § (1)–(6) bekezdés], haditechnikai
+                         termékkel vagy szolgáltatással visszaélés [329. § (1)–(4)
+                         bekezdés], kettős felhasználású termékkel visszaélés [330. §
+                         (1)–(3) bekezdés],
                     ad)  emberölés, kábítószer-kereskedelem, kábítószer birtoklása,
                          emberrablás, emberkereskedelem, szexuális erőszak, közveszély
                          okozása, nemzetközi gazdasági tilalom megszegése vagy rablás
@@ -1161,8 +1161,8 @@ A vagyonelkobzás
                     § (1) és (3)–(4) bekezdés],
                g)   a vesztegetés, a vesztegetés elfogadása, a hivatali vesztegetés, a
                     hivatali vesztegetés elfogadása (290–294. §),
-               h)   a terrorcselekmény [314. §, 315. § (1)–(2) bekezdés és 316. §], a
-                    terrorizmus finanszírozása [318. § (1)–(2) bekezdés],
+               h)   a terrorcselekmény [314. §, 315. § (1)–(2) bekezdés, 316. § és 316/A.
+                    §], a terrorizmus finanszírozása [318. § és 318/A. §],
                i)   a bűnszervezetben részvétel [321. § (1) bekezdés],
                j)   az embercsempészés (353. §)
                k)   a zsarolás (367. §),
@@ -4525,8 +4525,8 @@ Bűnpártolás
                b)   emberöléssel [160. § (1)–(3) és (5) bekezdés], emberrablással [190. §
                     (1)–(4) bekezdés], emberkereskedelemmel [192. § (1)–(6) bekezdés],
                     terrorcselekménnyel [314. § (1)–(2) bekezdés], terrorizmus
-                    finanszírozásával [318. § (1)–(2) bekezdés], jármű hatalomba
-                    kerítésével [320. § (1)–(2) bekezdés],
+                    finanszírozásával [318. § és 318/A. §], jármű hatalomba kerítésével
+                    [320. § (1)–(2) bekezdés],
                c)   az a)–b) pontokban fel nem sorolt, életfogytig tartó
                     szabadságvesztéssel is büntethető bűncselekménnyel kapcsolatban
                     követik el, vagy
@@ -5025,9 +5025,6 @@ Nemzetközileg védett személy elleni erőszak
                három évig terjedő szabadságvesztéssel büntetendő.
           (3)  Aki nemzetközileg védett személy elleni erőszakra irányuló előkészületet
                követ el, vétség miatt egy évig terjedő szabadságvesztéssel büntetendő.
-          (4)  E § alkalmazásában nemzetközileg védett személy az a külföldi hivatalos
-               személy, aki a rá vonatkozó nemzetközi szerződés alapján diplomáciai vagy
-               nemzetközi jogon alapuló egyéb mentességet élvez.
 
 XXX. FEJEZET
 A KÖZBIZTONSÁG ELLENI BŰNCSELEKMÉNYEK
@@ -5045,10 +5042,11 @@ Terrorcselekmény
                vagy fegyverrel kapcsolatos bűncselekményt követ el, bűntett miatt tíz
                évtől húsz évig terjedő vagy életfogytig tartó szabadságvesztéssel
                büntetendő.
-          (2)  Az (1) bekezdés szerint büntetendő, aki az a) pontban meghatározott célból
-               a)   jelentős anyagi javakat kerít hatalmába, és azok sértetlenül hagyását
-                    vagy visszaadását állami szervhez vagy nemzetközi szervezethez
-                    intézett követelés teljesítésétől teszi függővé, vagy
+          (2)  Az (1) bekezdés szerint büntetendő, aki
+               a)   az (1) bekezdés a) pontjában meghatározott célból jelentős anyagi
+                    javakat kerít hatalmába, és azok sértetlenül hagyását vagy
+                    visszaadását állami szervhez vagy nemzetközi szervezethez intézett
+                    követelés teljesítésétől teszi függővé, vagy
                b)   terrorista csoportot szervez.
           (3)  Korlátlanul enyhíthető annak a büntetése, aki
                a)   az (1) vagy (2) bekezdésében meghatározott terrorcselekményt
@@ -5100,11 +5098,22 @@ Terrorcselekmény
                bűncselekményt, mielőtt az a hatóság tudomására jutott volna, a hatóságnak
                bejelenti, és az elkövetés körülményeit feltárja.
 
-316. §         Aki
-               a)   terrorcselekmény elkövetésével fenyeget, vagy
-               b)   terrorista csoporthoz csatlakozás céljából Magyarország területéről
-                    kiutazik vagy azon átutazik,
-               bűntett miatt két évtől nyolc évig terjedő szabadságvesztéssel büntetendő.
+316. §         Aki terrorcselekmény elkövetésével fenyeget, bűntett miatt két évtől nyolc
+               évig terjedő szabadságvesztéssel büntetendő.
+
+316/A. §  (1)  Aki
+               a)   a 314. § (1) vagy (2) bekezdésében meghatározott bűntett elkövetése
+                    vagy az elkövetésére történő felhívás, ajánlkozás, vállalkozás, a
+                    közös elkövetésben megállapodás, vagy az elkövetés elősegítése
+                    céljából az ehhez szükséges vagy ezt könnyítő feltételek biztosítása,
+                    illetve
+               b)   terrorista csoporthoz csatlakozás
+               céljából Magyarország területére beutazik, onnan kiutazik vagy azon
+               átutazik, bűntett miatt két évtől nyolc évig terjedő szabadságvesztéssel
+               büntetendő.
+          (2)  Az (1) bekezdés szerint büntetendő, aki az ott meghatározott utazást
+               szervezi, vagy az ilyen utazás támogatása céljából anyagi eszközt
+               szolgáltat vagy gyűjt.
 
 Terrorcselekmény feljelentésének elmulasztása
 
@@ -5114,25 +5123,66 @@ Terrorcselekmény feljelentésének elmulasztása
 
 Terrorizmus finanszírozása
 
-318. §    (1)  Aki terrorcselekmény feltételeinek biztosításához anyagi eszközt szolgáltat
-               vagy gyűjt, vagy terrorcselekmény elkövetésére készülő személyt vagy rá
-               tekintettel mást anyagi eszközzel támogat, bűntett miatt két évtől nyolc
-               évig terjedő szabadságvesztéssel büntetendő.
+318. §    (1)  Aki
+               a)   terrorcselekmény feltételeinek biztosításához anyagi eszközt
+                    szolgáltat vagy gyűjt,
+               b)   terrorcselekmény elkövetésére készülő személyt, illetve
+                    terrorcselekmény elkövetőjét, vagy e személyekre tekintettel más
+                    személyt anyagi eszközzel támogat, vagy
+               c)   a b) pontban meghatározott személyek támogatása céljából anyagi
+                    eszközt szolgáltat vagy gyűjt,
+               bűntett miatt két évtől nyolc évig terjedő szabadságvesztéssel büntetendő.
           (2)  Aki az (1) bekezdésben meghatározott bűncselekményt terrorcselekmény
                terrorista csoportban történő elkövetése vagy terrorista csoport tagja
                érdekében valósítja meg, vagy a terrorista csoport tevékenységét egyéb
-               módon támogatja, öt évtől tíz évig terjedő szabadságvesztéssel büntetendő.
-          (3)  E § alkalmazásában anyagi eszközön a terrorizmus leküzdése érdekében egyes
-               személyekkel és szervezetekkel szemben hozott különleges korlátozó
-               intézkedésekről szóló, 2001. december 27-i 2580/2001/EK tanácsi rendelet 1.
-               cikk 1. pontjában meghatározott eszközöket, jogi dokumentumokat és
-               okiratokat kell érteni.
+               módon támogatja, vagy a terrorista csoport ilyen támogatása céljából anyagi
+               eszközt szolgáltat vagy gyűjt, öt évtől tíz évig terjedő
+               szabadságvesztéssel büntetendő.
+
+318/A. §  (1)  Aki
+               a)   terror jellegű bűncselekmény feltételeinek biztosításához anyagi
+                    eszközt szolgáltat vagy gyűjt,
+               b)   terror jellegű bűncselekmény elkövetésére készülő személyt, illetve
+                    terror jellegű bűncselekmény elkövetőjét, vagy e személyekre
+                    tekintettel más személyt anyagi eszközökkel támogat, vagy
+               c)   a b) pontban meghatározott személyek támogatása céljából anyagi
+                    eszközt szolgáltat vagy gyűjt,
+               bűntett miatt három évig terjedő szabadságvesztéssel büntetendő.
+          (2)  Az (1) bekezdés vonatkozásában terror jellegű bűncselekmény:
+               a)   az emberölés [160. § (1) bekezdés, 160. § (2) bekezdés, ha a
+                    cselekmény a nemzetközi polgári repülést kiszolgáló repülőtéren vagy
+                    repülésben levő légijármű fedélzetén vagy tengeren hajózó hajón
+                    tartózkodó személy, vagy nemzetközileg védett személy ellen irányul],
+               b)   a testi sértés (164. §, ha a cselekmény a nemzetközi polgári repülést
+                    kiszolgáló repülőtéren vagy repülésben levő légijármű fedélzetén vagy
+                    tengeren hajózó hajón tartózkodó személy vagy nemzetközileg védett
+                    személy ellen irányul),
+               c)   az emberrablás [190. § (1)–(4) bekezdés],
+               d)   a közlekedés biztonsága elleni bűncselekmény (232. §, ha a cselekmény
+                    légi jármű vagy tengeren hajózó hajó ellen irányul).
+               e)   a radioaktív anyaggal visszaélés (250. §),
+               f)   a rombolás (257. §),
+               g)   a nemzetközileg védett személy elleni erőszak (313. §),
+               h)   a jármű hatalomba kerítése (320. §),
+               i)   a közveszély okozása [322. § (1)–(3) bekezdés],
+               j)   a közérdekű üzem működésének megzavarása (323. §),
+               k)   a robbanóanyaggal vagy robbantószerrel visszaélés (324. §, ha a
+                    cselekményt közérdekű üzem, illetve középület vagy építmény területén
+                    követik el),
+               l)   a lőfegyverrel vagy lőszerrel visszaélés (325. §, ha a cselekményt
+                    közérdekű üzem, illetve középület vagy építmény területén követik el).
+
+318/B. §       A 318. § és a 318/A. § alkalmazásában anyagi eszközön a terrorizmus
+               leküzdése érdekében egyes személyekkel és szervezetekkel szemben hozott
+               különleges korlátozó intézkedésekről szóló, 2001. december 27-i
+               2580/2001/EK tanácsi rendelet 1. cikk 1. pontjában meghatározott
+               eszközöket, jogi dokumentumokat és okiratokat kell érteni.
 
 Értelmező rendelkezés
 
-319. §         A 315. és a 318. § alkalmazásában terrorista csoport a három vagy több
-               személyből álló, hosszabb időre szervezett, összehangoltan működő csoport,
-               amelynek célja terrorcselekmény elkövetése.
+319. §         A 314–315. §, a 316/A. § és a 318. § alkalmazásában terrorista csoport a
+               három vagy több személyből álló, hosszabb időre szervezett, összehangoltan
+               működő csoport, amelynek célja terrorcselekmény elkövetése.
 
 Jármű hatalomba kerítése
 
@@ -6804,8 +6854,8 @@ Pénzmosás
                b)   megőrzi, kezeli, használja vagy felhasználja, azon vagy az
                     ellenértékén más anyagi javakat szerez,
                ha a dolog eredetét az elkövetés időpontjában ismerte.
-          (3)  Az (1) bekezdés szerint büntetendő, aki bűncselekményének elkövetéséből
-               származó dolgot ezen eredetének leplezése, titkolása céljából
+          (3)  Az (1) bekezdés szerint büntetendő, aki büntetendő cselekményének
+               elkövetéséből származó dolgot ezen eredetének leplezése, titkolása céljából
                a)   gazdasági tevékenység gyakorlása során felhasználja,
                b)   a dologgal összefüggésben bármilyen pénzügyi tevékenységet végez, vagy
                     pénzügyi szolgáltatást vesz igénybe.
@@ -6828,7 +6878,7 @@ Pénzmosás
           (5)  Aki az (1)–(4) bekezdésben meghatározott pénzmosás elkövetésében
                megállapodik, vétség miatt két évig terjedő szabadságvesztéssel büntetendő.
 
-400. §    (1)  Aki a más által elkövetett bűncselekményből származó
+400. §    (1)  Aki a más által elkövetett büntetendő cselekményből származó
                a)   dolgot gazdasági tevékenység gyakorlása során felhasználja,
                b)   dologgal összefüggésben bármilyen pénzügyi tevékenységet végez, vagy
                     pénzügyi szolgáltatást vesz igénybe,
@@ -8109,6 +8159,9 @@ ZÁRÓ RÉSZ
                     c)   erőszakos többszörös visszaeső az a többszörös visszaeső, aki
                          mindhárom alkalommal személy elleni erőszakos bűncselekményt
                          követ el.
+               32.  nemzetközileg védett személy: az a külföldi hivatalos személy, aki a
+                    rá vonatkozó nemzetközi szerződés alapján nemzetközi jogon alapuló
+                    egyéb mentességet élvez.
           (2)  Ahol e törvény élettársat említ, azon a bejegyzett élettársat is érteni
                kell.
           (3)  Ahol e törvény szövetséges fegyveres erőt, külföldi hadműveleti területen
