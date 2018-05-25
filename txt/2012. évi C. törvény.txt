@@ -3568,18 +3568,20 @@ Egészségügyi önrendelkezési jog megsértése
 
 Személyes adattal visszaélés
 
-219. §    (1)  Aki a személyes adatok védelméről vagy kezeléséről szóló törvényi
-               rendelkezések megszegésével haszonszerzési célból vagy jelentős
-               érdeksérelmet okozva
+219. §    (1)  Aki a személyes adatok védelméről vagy kezeléséről szóló törvényi vagy az
+               Európai Unió kötelező jogi aktusában meghatározott rendelkezések
+               megszegésével haszonszerzési célból vagy jelentős érdeksérelmet okozva
                a)   jogosulatlanul vagy a céltól eltérően személyes adatot kezel, vagy
                b)   az adatok biztonságát szolgáló intézkedést elmulasztja,
                vétség miatt egy évig terjedő szabadságvesztéssel büntetendő.
           (2)  Az (1) bekezdés szerint büntetendő az is, aki a személyes adatok védelméről
-               vagy kezeléséről szóló törvényi rendelkezések megszegésével az érintett
-               tájékoztatására vonatkozó kötelezettségének nem tesz eleget, és ezzel más
-               vagy mások érdekeit jelentősen sérti.
+               vagy kezeléséről szóló törvényi vagy az Európai Unió kötelező jogi
+               aktusában meghatározott rendelkezések megszegésével az érintett
+               hozzáféréshez való jogának gyakorlása érdekében szükséges tájékoztatására
+               vonatkozó kötelezettségének nem tesz eleget, és ezzel más vagy mások
+               érdekeit jelentősen sérti.
           (3)  A büntetés két évig terjedő szabadságvesztés, ha a személyes adattal
-               visszaélést különleges adatra követik el.
+               visszaélést különleges adatra vagy bűnügyi személyes adatra követik el.
           (4)  A büntetés bűntett miatt három évig terjedő szabadságvesztés, ha személyes
                adattal visszaélést hivatalos személyként vagy közmegbízatás
                felhasználásával követik el.
@@ -8368,6 +8370,18 @@ Az Európai Unió jogának való megfelelés
                     jövedelemnek az Európai Unión belüli befagyasztásáról és elkobzásáról
                     szóló 2014. április 3-i 2014/42/EU európai parlamenti és tanácsi
                     irányelvnek
+               l)   219. §-a a személyes adatoknak az illetékes hatóságok által a
+                    bűncselekmények megelőzése, nyomozása, felderítése, a vádeljárás
+                    lefolytatása vagy büntetőjogi szankciók végrehajtása céljából végzett
+                    kezelése tekintetében a természetes személyek védelméről és az ilyen
+                    adatok szabad áramlásáról, valamint a 2008/977/IB tanácsi
+                    kerethatározat hatályon kívül helyezéséről szóló, 2016. április 27-i
+                    (EU) 2016/680 európai parlamenti és tanácsi irányelvnek,
+               m)   3., 10., 12., 14., 31., 63., 72–77., 80., 314–318/A., 319. és 331. §-a
+                    a terrorizmus elleni küzdelemről, a 2002/475/IB tanácsi kerethatározat
+                    felváltásáról, valamint a 2005/671/IB tanácsi határozat módosításáról
+                    szóló, 2017. március 15-i (EU) 2017/541 európai parlamenti és tanácsi
+                    irányelvnek
                való megfelelést szolgálja.
           (2)  E törvény
                a)   182–183. §-a
@@ -8509,6 +8523,12 @@ Az Európai Unió jogának való megfelelés
                          brókertevékenységére és tranzitjára vonatkozó közösségi
                          ellenőrzési rendszer kialakításáról szóló, 2009. május 5-i
                          428/2009/EK tanácsi rendelet 24. cikkének
+               d)   219. §-a a természetes személyeknek a személyes adatok kezelése
+                    tekintetében történő védelméről és az ilyen adatok szabad áramlásáról,
+                    valamint a 95/46/EK irányelv hatályon kívül helyezéséről szóló, 2016.
+                    április 27-i (EU) 2016/679 európai parlamenti és tanácsi rendelet
+                    (általános adatvédelmi rendelet) végrehajtásához szükséges
+                    rendelkezéseket állapít meg.
                végrehajtásához szükséges rendelkezéseket állapít meg.
           (3)  E törvény 216. § (1) és (4) bekezdése, valamint 332. és 333. §-a a
                rasszizmus és az idegengyűlölet egyes formái és megnyilvánulásai elleni,

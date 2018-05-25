@@ -15165,7 +15165,7 @@
       "children": [
         {
           "identifier": "1",
-          "intro": "Aki a személyes adatok védelméről vagy kezeléséről szóló törvényi rendelkezések megszegésével haszonszerzési célból vagy jelentős érdeksérelmet okozva",
+          "intro": "Aki a személyes adatok védelméről vagy kezeléséről szóló törvényi vagy az Európai Unió kötelező jogi aktusában meghatározott rendelkezések megszegésével haszonszerzési célból vagy jelentős érdeksérelmet okozva",
           "children": [
             {
               "identifier": "a",
@@ -15191,7 +15191,7 @@
         },
         {
           "identifier": "2",
-          "text": "Az (1) bekezdés szerint büntetendő az is, aki a személyes adatok védelméről vagy kezeléséről szóló törvényi rendelkezések megszegésével az érintett tájékoztatására vonatkozó kötelezettségének nem tesz eleget, és ezzel más vagy mások érdekeit jelentősen sérti.",
+          "text": "Az (1) bekezdés szerint büntetendő az is, aki a személyes adatok védelméről vagy kezeléséről szóló törvényi vagy az Európai Unió kötelező jogi aktusában meghatározott rendelkezések megszegésével az érintett hozzáféréshez való jogának gyakorlása érdekében szükséges tájékoztatására vonatkozó kötelezettségének nem tesz eleget, és ezzel más vagy mások érdekeit jelentősen sérti.",
           "act_id_abbreviations": [],
           "outgoing_references": [
             {
@@ -15206,7 +15206,7 @@
         },
         {
           "identifier": "3",
-          "text": "A büntetés két évig terjedő szabadságvesztés, ha a személyes adattal visszaélést különleges adatra követik el.",
+          "text": "A büntetés két évig terjedő szabadságvesztés, ha a személyes adattal visszaélést különleges adatra vagy bűnügyi személyes adatra követik el.",
           "act_id_abbreviations": [],
           "outgoing_references": [],
           "semantic_data": []
@@ -35120,6 +35120,114 @@
               ],
               "semantic_data": [],
               "__type__": "AlphabeticPoint"
+            },
+            {
+              "identifier": "l",
+              "text": "219. §-a a személyes adatoknak az illetékes hatóságok által a bűncselekmények megelőzése, nyomozása, felderítése, a vádeljárás lefolytatása vagy büntetőjogi szankciók végrehajtása céljából végzett kezelése tekintetében a természetes személyek védelméről és az ilyen adatok szabad áramlásáról, valamint a 2008/977/IB tanácsi kerethatározat hatályon kívül helyezéséről szóló, 2016. április 27-i (EU) 2016/680 európai parlamenti és tanácsi irányelvnek,",
+              "act_id_abbreviations": [],
+              "outgoing_references": [
+                {
+                  "start_pos": 0,
+                  "end_pos": 8,
+                  "reference": {
+                    "article": "219"
+                  }
+                }
+              ],
+              "semantic_data": [],
+              "__type__": "AlphabeticPoint"
+            },
+            {
+              "identifier": "m",
+              "text": "3., 10., 12., 14., 31., 63., 72–77., 80., 314–318/A., 319. és 331. §-a a terrorizmus elleni küzdelemről, a 2002/475/IB tanácsi kerethatározat felváltásáról, valamint a 2005/671/IB tanácsi határozat módosításáról szóló, 2017. március 15-i (EU) 2017/541 európai parlamenti és tanácsi irányelvnek",
+              "act_id_abbreviations": [],
+              "outgoing_references": [
+                {
+                  "start_pos": 0,
+                  "end_pos": 2,
+                  "reference": {
+                    "article": "3"
+                  }
+                },
+                {
+                  "start_pos": 4,
+                  "end_pos": 7,
+                  "reference": {
+                    "article": "10"
+                  }
+                },
+                {
+                  "start_pos": 9,
+                  "end_pos": 12,
+                  "reference": {
+                    "article": "12"
+                  }
+                },
+                {
+                  "start_pos": 14,
+                  "end_pos": 17,
+                  "reference": {
+                    "article": "14"
+                  }
+                },
+                {
+                  "start_pos": 19,
+                  "end_pos": 22,
+                  "reference": {
+                    "article": "31"
+                  }
+                },
+                {
+                  "start_pos": 24,
+                  "end_pos": 27,
+                  "reference": {
+                    "article": "63"
+                  }
+                },
+                {
+                  "start_pos": 29,
+                  "end_pos": 35,
+                  "reference": {
+                    "article": [
+                      "72",
+                      "77"
+                    ]
+                  }
+                },
+                {
+                  "start_pos": 37,
+                  "end_pos": 40,
+                  "reference": {
+                    "article": "80"
+                  }
+                },
+                {
+                  "start_pos": 42,
+                  "end_pos": 52,
+                  "reference": {
+                    "article": [
+                      "314",
+                      "318/A"
+                    ]
+                  }
+                },
+                {
+                  "start_pos": 54,
+                  "end_pos": 58,
+                  "reference": {
+                    "article": "319"
+                  }
+                },
+                {
+                  "start_pos": 62,
+                  "end_pos": 70,
+                  "reference": {
+                    "article": "331"
+                  }
+                }
+              ],
+              "semantic_data": [],
+              "__type__": "AlphabeticPoint"
             }
           ],
           "wrap_up": "való megfelelést szolgálja.",
@@ -35457,6 +35565,22 @@
                       "329",
                       "330"
                     ]
+                  }
+                }
+              ],
+              "semantic_data": [],
+              "__type__": "AlphabeticPoint"
+            },
+            {
+              "identifier": "d",
+              "text": "219. §-a a természetes személyeknek a személyes adatok kezelése tekintetében történő védelméről és az ilyen adatok szabad áramlásáról, valamint a 95/46/EK irányelv hatályon kívül helyezéséről szóló, 2016. április 27-i (EU) 2016/679 európai parlamenti és tanácsi rendelet (általános adatvédelmi rendelet) végrehajtásához szükséges rendelkezéseket állapít meg.",
+              "act_id_abbreviations": [],
+              "outgoing_references": [
+                {
+                  "start_pos": 0,
+                  "end_pos": 8,
+                  "reference": {
+                    "article": "219"
                   }
                 }
               ],
