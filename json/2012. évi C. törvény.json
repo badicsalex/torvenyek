@@ -24591,6 +24591,178 @@
     },
     {
       "identifier": "",
+      "title": "Jogellenes bevándorlás elősegítése, támogatása",
+      "__type__": "Subtitle"
+    },
+    {
+      "identifier": "353/A",
+      "children": [
+        {
+          "identifier": "1",
+          "intro": "Aki szervező tevékenységet folytat annak érdekében, hogy",
+          "children": [
+            {
+              "identifier": "a",
+              "text": "Magyarországon menedékjogi eljárás kezdeményezését tegye lehetővé olyan személy részére, aki hazájában vagy a szokásos tartózkodási helye szerinti országban vagy olyan más országban, amelyen keresztül érkezett, nincs faji, nemzeti hovatartozása, meghatározott társadalmi csoporthoz tartozása, vallási, illetve politikai meggyőződése miatt üldözésnek kitéve, vagy a közvetlen üldöztetéstől való félelme nem megalapozott, vagy",
+              "act_id_abbreviations": [],
+              "outgoing_references": [],
+              "semantic_data": [],
+              "__type__": "AlphabeticPoint"
+            },
+            {
+              "identifier": "b",
+              "text": "a Magyarországra jogellenesen belépő vagy jogszerűtlenül tartózkodó személy tartózkodási jogcímet szerezzen, ha súlyosabb bűncselekmény nem valósul meg, vétség miatt elzárással büntetendő.",
+              "act_id_abbreviations": [],
+              "outgoing_references": [],
+              "semantic_data": [],
+              "__type__": "AlphabeticPoint"
+            }
+          ],
+          "act_id_abbreviations": [],
+          "outgoing_references": [],
+          "semantic_data": []
+        },
+        {
+          "identifier": "2",
+          "text": "Egy évig terjedő szabadságvesztéssel büntetendő, aki az (1) bekezdésben meghatározott bűncselekmény elkövetéséhez anyagi eszközöket szolgáltat vagy a szervező tevékenységet rendszeresen folytatja.",
+          "act_id_abbreviations": [],
+          "outgoing_references": [
+            {
+              "start_pos": 56,
+              "end_pos": 71,
+              "reference": {
+                "paragraph": "1"
+              }
+            }
+          ],
+          "semantic_data": []
+        },
+        {
+          "identifier": "3",
+          "intro": "A (2) bekezdés szerint büntetendő, aki az (1) bekezdésben meghatározott bűncselekményt",
+          "children": [
+            {
+              "identifier": "a",
+              "text": "vagyoni haszonszerzés végett,",
+              "act_id_abbreviations": [],
+              "outgoing_references": [],
+              "semantic_data": [],
+              "__type__": "AlphabeticPoint"
+            },
+            {
+              "identifier": "b",
+              "text": "több személynek segítséget nyújtva, vagy",
+              "act_id_abbreviations": [],
+              "outgoing_references": [],
+              "semantic_data": [],
+              "__type__": "AlphabeticPoint"
+            },
+            {
+              "identifier": "c",
+              "text": "a személyek határátlépésére irányadó szabályok uniós kódexéről szóló, 2016. március 9-i (EU) 2016/399 európai parlamenti és tanácsi rendelet (a továbbiakban: Schengeni határ-ellenőrzési kódex) 2. cikk 2. pontjának megfelelő Magyarország külső határának határvonalától, illetve a határjeltől számított 8 km-es sávon belül",
+              "act_id_abbreviations": [],
+              "outgoing_references": [
+                {
+                  "start_pos": 201,
+                  "end_pos": 213,
+                  "reference": {
+                    "point": "2"
+                  }
+                }
+              ],
+              "semantic_data": [],
+              "__type__": "AlphabeticPoint"
+            }
+          ],
+          "wrap_up": "követi el.",
+          "act_id_abbreviations": [],
+          "outgoing_references": [
+            {
+              "start_pos": 2,
+              "end_pos": 14,
+              "reference": {
+                "paragraph": "2"
+              }
+            },
+            {
+              "start_pos": 42,
+              "end_pos": 57,
+              "reference": {
+                "paragraph": "1"
+              }
+            }
+          ],
+          "semantic_data": []
+        },
+        {
+          "identifier": "4",
+          "text": "A büntetés korlátlanul enyhíthető – különös méltánylást érdemlő esetben mellőzhető – az (1) bekezdésben meghatározott bűncselekmény elkövetőjével szemben, ha az elkövető a vádemelésig az elkövetés körülményeit feltárja.",
+          "act_id_abbreviations": [],
+          "outgoing_references": [
+            {
+              "start_pos": 88,
+              "end_pos": 103,
+              "reference": {
+                "paragraph": "1"
+              }
+            }
+          ],
+          "semantic_data": []
+        },
+        {
+          "identifier": "5",
+          "intro": "E § alkalmazásában szervező tevékenységnek minősül különösen, ha az (1) bekezdésben meghatározott célból",
+          "children": [
+            {
+              "identifier": "a",
+              "text": "Magyarország területének Schengeni határ-ellenőrzési kódex 2. cikk 2. pontjának megfelelő külső határ szerinti határvonalán, illetve határjelénél határmegfigyelést szervez,",
+              "act_id_abbreviations": [],
+              "outgoing_references": [
+                {
+                  "start_pos": 67,
+                  "end_pos": 79,
+                  "reference": {
+                    "point": "2"
+                  }
+                }
+              ],
+              "semantic_data": [],
+              "__type__": "AlphabeticPoint"
+            },
+            {
+              "identifier": "b",
+              "text": "információs anyagot készít, terjeszt vagy ilyenre megbízást ad,",
+              "act_id_abbreviations": [],
+              "outgoing_references": [],
+              "semantic_data": [],
+              "__type__": "AlphabeticPoint"
+            },
+            {
+              "identifier": "c",
+              "text": "hálózatot épít vagy működtet.",
+              "act_id_abbreviations": [],
+              "outgoing_references": [],
+              "semantic_data": [],
+              "__type__": "AlphabeticPoint"
+            }
+          ],
+          "act_id_abbreviations": [],
+          "outgoing_references": [
+            {
+              "start_pos": 68,
+              "end_pos": 83,
+              "reference": {
+                "paragraph": "1"
+              }
+            }
+          ],
+          "semantic_data": []
+        }
+      ],
+      "__type__": "Article"
+    },
+    {
+      "identifier": "",
       "title": "Jogellenes tartózkodás elősegítése",
       "__type__": "Subtitle"
     },
@@ -25174,7 +25346,7 @@
       "identifier": "364",
       "children": [
         {
-          "text": "Az embercsempészés és a tiltott szerencsejáték szervezése elkövetőjével szemben kitiltásnak is helye van.",
+          "text": "Az embercsempészés, a határzár tiltott átlépése, a határzár megrongálása, a határzárral kapcsolatos építési munka akadályozása, a jogellenes tartózkodás elősegítése, a jogellenes bevándorlás elősegítése, támogatása és a tiltott szerencsejáték szervezése elkövetőjével szemben kitiltásnak is helye van.",
           "act_id_abbreviations": [],
           "outgoing_references": [],
           "semantic_data": []
