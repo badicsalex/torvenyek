@@ -1175,7 +1175,7 @@
       "children": [
         {
           "identifier": "1",
-          "text": "Az elévülést félbeszakítja a bíróságnak, az ügyésznek, a nyomozó hatóságnak, illetve nemzetközi vonatkozású ügyekben az igazságügyért felelős miniszternek vagy a külföldi hatóságnak az elkövető ellen a bűncselekmény miatt foganatosított büntetőeljárási cselekménye. A félbeszakítás napján az elévülés határideje ismét elkezdődik.",
+          "text": "Az elévülést félbeszakítja a bíróságnak, az ügyészségnek, a nyomozó hatóságnak, illetve nemzetközi vonatkozású ügyekben az igazságügyért felelős miniszternek vagy a külföldi hatóságnak az elkövető ellen a bűncselekmény miatt foganatosított büntetőeljárási cselekménye. A félbeszakítás napján az elévülés határideje ismét elkezdődik.",
           "act_id_abbreviations": [],
           "outgoing_references": [],
           "semantic_data": []
@@ -1199,21 +1199,21 @@
         },
         {
           "identifier": "2",
-          "text": "Ha a büntetőeljárást felfüggesztik, a felfüggesztés tartama az elévülés határidejébe nem számít be. Ez a rendelkezés nem alkalmazható, ha a büntetőeljárást azért függesztik fel, mert az elkövető kiléte a nyomozásban nem volt megállapítható, ismeretlen helyen tartózkodik, vagy kóros elmeállapotú lett.",
+          "text": "Ha a büntetőeljárást felfüggesztik, a felfüggesztés tartama az elévülés határidejébe nem számít be. Ez a rendelkezés nem alkalmazható, ha a büntetőeljárást azért függesztik fel, mert az elkövető kiléte a nyomozásban nem volt megállapítható, ismeretlen helyen tartózkodik, vagy kóros elmeállapotú lett, továbbá ha a szabadlábon lévő terhelt külföldön ismert helyen tartózkodik és a büntetőeljárás a távollétében nem folytatható le.",
           "act_id_abbreviations": [],
           "outgoing_references": [],
           "semantic_data": []
         },
         {
           "identifier": "3",
-          "text": "Az elévülés határidejébe nem számít be az a tartam, amely alatt közjogi tisztség betöltésén alapuló mentesség folytán a büntetőeljárás azért nem volt megindítható vagy folytatható, mert a törvényben biztosított mentelmi jogot a döntésre jogosult nem függesztette fel. Ez a rendelkezés nem alkalmazható olyan magánindítványra büntetendő bűncselekmény esetén, amely miatt a vádat a magánvádló képviseli.",
+          "text": "Az elévülés határidejébe nem számít be az a tartam, amely alatt a mentelmi jogon alapuló mentesség folytán a büntetőeljárás azért nem volt megindítható vagy folytatható, mert a törvényben biztosított mentelmi jogot a döntésre jogosult nem függesztette fel. Ez a rendelkezés nem alkalmazható olyan magánindítványra büntetendő bűncselekmény esetén, amely miatt a vádat a magánvádló képviseli.",
           "act_id_abbreviations": [],
           "outgoing_references": [],
           "semantic_data": []
         },
         {
           "identifier": "4",
-          "text": "A vádemelés elhalasztásának tartama, próbára bocsátás esetén a próbaidő tartama és a jóvátételi munka tartama az elévülés határidejébe nem számít be.",
+          "text": "Próbára bocsátás esetén a próbaidő tartama és a jóvátételi munka tartama az elévülés határidejébe nem számít be.",
           "act_id_abbreviations": [],
           "outgoing_references": [],
           "semantic_data": []
@@ -1281,7 +1281,7 @@
             },
             {
               "identifier": "d",
-              "text": "a szándékos bűncselekményt a szabadságvesztés felfüggesztésének próbaideje alatt vagy a szándékos bűncselekmény elkövetése miatt végrehajtandó szabadságvesztésre ítélése után, a szabadságvesztés végrehajtásának befejezése előtt, illetve próbára bocsátás vagy vádemelés elhalasztásának tartama alatt követte el, vagy",
+              "text": "a szándékos bűncselekményt a szabadságvesztés felfüggesztésének próbaideje alatt vagy a szándékos bűncselekmény elkövetése miatt végrehajtandó szabadságvesztésre ítélése után, a szabadságvesztés végrehajtásának befejezése előtt, illetve próbára bocsátás vagy feltételes ügyészi felfüggesztés tartama alatt követte el, vagy",
               "act_id_abbreviations": [],
               "outgoing_references": [],
               "semantic_data": [],
@@ -1289,7 +1289,7 @@
             },
             {
               "identifier": "e",
-              "text": "korábban szándékos bűncselekménye miatt közvetítői eljárásban vett részt, és ennek eredményeként vele szemben az (1) vagy (2) bekezdést alkalmazták, feltéve, hogy az ügydöntő határozat jogerőre emelkedésétől az újabb szándékos bűncselekmény elkövetéséig két év még nem telt el.",
+              "text": "korábban szándékos bűncselekménye miatt közvetítői eljárásban vett részt, és ennek eredményeként vele szemben az (1) vagy (2) bekezdést alkalmazták, feltéve, hogy a határozat véglegessé válásától az újabb szándékos bűncselekmény elkövetéséig két év még nem telt el.",
               "act_id_abbreviations": [],
               "outgoing_references": [
                 {
@@ -1385,9 +1385,26 @@
         },
         {
           "identifier": "3",
-          "text": "Ha a sértett cselekvőképtelen, a magánindítványt törvényes képviselője terjesztheti elő. Ha a sértett korlátozottan cselekvőképes, a magánindítványt önállóan terjesztheti elő, kivéve ha a cselekvőképességében részlegesen korlátozott nagykorút a személyes ügyei vitelében vagy a bírósághoz, hatósághoz fordulás jogában a bíróság korlátozta, ebben az esetben a magánindítvány előterjesztéséhez a törvényes képviselő hozzájárulása szükséges. A magánindítványt a korlátozottan cselekvőképes kiskorú sértett törvényes képviselője is előterjesztheti. Ezekben az esetekben a magánindítvány előterjesztésére a gyámhatóság is jogosult. Érdekellentét esetén a Polgári Törvénykönyv szabályai az irányadók.",
+          "text": "A büntetőeljárásról szóló 2017. évi XC. törvény 69. § (5) bekezdésében meghatározott esetekben a magánindítványt a sértett törvényes képviselője terjesztheti elő. A magánindítványt a korlátozottan cselekvőképes kiskorú sértett önállóan is előterjesztheti, és erre törvényes képviselője is jogosult. Ezekben az esetekben a magánindítvány előterjesztésére a gyámhatóság is jogosult. Érdekellentét esetén a Polgári Törvénykönyv szabályai az irányadók.",
           "act_id_abbreviations": [],
-          "outgoing_references": [],
+          "outgoing_references": [
+            {
+              "start_pos": 26,
+              "end_pos": 47,
+              "reference": {
+                "act": "2017. évi XC. törvény"
+              }
+            },
+            {
+              "start_pos": 48,
+              "end_pos": 70,
+              "reference": {
+                "act": "2017. évi XC. törvény",
+                "article": "69",
+                "paragraph": "5"
+              }
+            }
+          ],
           "semantic_data": []
         },
         {
@@ -2011,12 +2028,12 @@
       "children": [
         {
           "identifier": "1",
-          "text": "Határozott ideig tartó szabadságvesztés kiszabása esetén a bíróság az ítéletében megállapítja a feltételes szabadságra bocsátás legkorábbi időpontját, vagy – a (4) bekezdésben meghatározott esetekben – azt, hogy a feltételes szabadságra bocsátás lehetősége kizárt.",
+          "text": "Határozott ideig tartó szabadságvesztés kiszabása esetén a bíróság az ügydöntő határozatában megállapítja a feltételes szabadságra bocsátás legkorábbi időpontját, vagy – a (4) bekezdésben meghatározott esetekben – azt, hogy a feltételes szabadságra bocsátás lehetősége kizárt.",
           "act_id_abbreviations": [],
           "outgoing_references": [
             {
-              "start_pos": 160,
-              "end_pos": 175,
+              "start_pos": 172,
+              "end_pos": 187,
               "reference": {
                 "paragraph": "4"
               }
@@ -2052,7 +2069,7 @@
         },
         {
           "identifier": "3",
-          "text": "Öt évet meg nem haladó szabadságvesztés kiszabása esetén – különös méltánylást érdemlő esetben – a bíróság ítéletében akként rendelkezhet, hogy az elítélt a büntetés fele részének letöltése után feltételes szabadságra bocsátható. Ez a rendelkezés nem alkalmazható, ha az elítélt többszörös visszaeső.",
+          "text": "Öt évet meg nem haladó szabadságvesztés kiszabása esetén – különös méltánylást érdemlő esetben – a bíróság az ügydöntő határozatában akként rendelkezhet, hogy az elítélt a büntetés fele részének letöltése után feltételes szabadságra bocsátható. Ez a rendelkezés nem alkalmazható, ha az elítélt többszörös visszaeső.",
           "act_id_abbreviations": [],
           "outgoing_references": [],
           "semantic_data": []
@@ -2106,7 +2123,7 @@
       "children": [
         {
           "identifier": "1",
-          "text": "Határozott ideig tartó szabadságvesztés esetén a feltételes szabadság tartama azonos a szabadságvesztés hátralevő részével, de legalább egy év. A 38. § (3) bekezdés alkalmazása esetén a bíróság ítéletében rendelkezhet úgy, hogy a feltételes szabadság tartama legalább egy, legfeljebb három évvel meghosszabbodik.",
+          "text": "Határozott ideig tartó szabadságvesztés esetén a feltételes szabadság tartama azonos a szabadságvesztés hátralevő részével, de legalább egy év. A 38. § (3) bekezdés alkalmazása esetén a bíróság az ügydöntő határozatában rendelkezhet úgy, hogy a feltételes szabadság tartama legalább egy, legfeljebb három évvel meghosszabbodik.",
           "act_id_abbreviations": [],
           "outgoing_references": [
             {
@@ -2139,7 +2156,7 @@
           "children": [
             {
               "identifier": "a",
-              "text": "az ítélet jogerőre emelkedését követően elkövetett bűncselekmény miatt a feltételes szabadság tartama alatt, vagy",
+              "text": "az ügydöntő határozat jogerőre emelkedését követően elkövetett bűncselekmény miatt a feltételes szabadság tartama alatt, vagy",
               "act_id_abbreviations": [],
               "outgoing_references": [],
               "semantic_data": [],
@@ -2183,7 +2200,7 @@
         },
         {
           "identifier": "4",
-          "intro": "Ha a feltételes szabadság tartama alatt az elítélten olyan bűncselekmény miatt kiszabott szabadságvesztést kell végrehajtani, amelyet a korábbi ítélet jogerőre emelkedése előtt követett el, a szabadságvesztés végrehajtása a feltételes szabadságot félbeszakítja, és a bíróság a feltételes szabadság folytatásának legkorábbi időpontját",
+          "intro": "Ha a feltételes szabadság tartama alatt az elítélten olyan bűncselekmény miatt kiszabott szabadságvesztést kell végrehajtani, amelyet a korábbi ügydöntő határozat jogerőre emelkedése előtt követett el, a szabadságvesztés végrehajtása a feltételes szabadságot félbeszakítja, és a bíróság a feltételes szabadság folytatásának legkorábbi időpontját",
           "children": [
             {
               "identifier": "a",
@@ -2253,7 +2270,7 @@
       "identifier": "42",
       "children": [
         {
-          "text": "Életfogytig tartó szabadságvesztés kiszabása esetén a bíróság az ítéletében meghatározza a feltételes szabadságra bocsátás legkorábbi időpontját, vagy a feltételes szabadságra bocsátás lehetőségét kizárja.",
+          "text": "Életfogytig tartó szabadságvesztés kiszabása esetén a bíróság az ügydöntő határozatában meghatározza a feltételes szabadságra bocsátás legkorábbi időpontját, vagy a feltételes szabadságra bocsátás lehetőségét kizárja.",
           "act_id_abbreviations": [],
           "outgoing_references": [],
           "semantic_data": []
@@ -2689,7 +2706,7 @@
         },
         {
           "identifier": "6",
-          "text": "Ha az életfogytig tartó szabadságvesztésből történő feltételes szabadságra bocsátás legkorábbi időpontjának elhalasztására az (1), (2), (4) és (5) bekezdés szerinti határozott tartamú szabadságvesztés miatt kerül sor, a feltételes szabadságra bocsátás legkorábbi időpontját a határozott tartamú szabadságvesztésbe beszámított előzetes fogva tartás, valamint házi őrizet idejének figyelembevételével kell megállapítani.",
+          "text": "Ha az életfogytig tartó szabadságvesztésből történő feltételes szabadságra bocsátás legkorábbi időpontjának elhalasztására az (1), (2), (4) és (5) bekezdés szerinti határozott tartamú szabadságvesztés miatt kerül sor, a feltételes szabadságra bocsátás legkorábbi időpontját a határozott tartamú szabadságvesztésbe beszámított előzetes fogva tartás, valamint bűnügyi felügyelet idejének figyelembevételével kell megállapítani.",
           "act_id_abbreviations": [],
           "outgoing_references": [
             {
@@ -2781,7 +2798,7 @@
         },
         {
           "identifier": "3",
-          "text": "A bíróság ítéletében a közérdekű munka jellegéről rendelkezik.",
+          "text": "A bíróság az ügydöntő határozatában a közérdekű munka jellegéről rendelkezik.",
           "act_id_abbreviations": [],
           "outgoing_references": [],
           "semantic_data": []
@@ -2866,7 +2883,7 @@
         },
         {
           "identifier": "4",
-          "text": "A bíróság ítéletében – az elkövető vagyoni, jövedelmi viszonyaira tekintettel – rendelkezhet úgy, hogy az elkövető a pénzbüntetést legfeljebb két éven belül havi részletekben fizetheti meg.",
+          "text": "A bíróság az ügydöntő határozatában – az elkövető vagyoni, jövedelmi viszonyaira tekintettel – rendelkezhet úgy, hogy az elkövető a pénzbüntetést legfeljebb két éven belül havi részletekben fizetheti meg.",
           "act_id_abbreviations": [],
           "outgoing_references": [],
           "semantic_data": []
@@ -2986,7 +3003,7 @@
         },
         {
           "identifier": "3",
-          "text": "A foglalkozástól eltiltás tartama az ítélet jogerőre emelkedésével kezdődik. Ha a foglalkozástól eltiltást szabadságvesztés mellett szabják ki, annak tartamába nem számít bele az az idő, amely alatt az elítélt a szabadságvesztést tölti, illetve amíg kivonja magát a szabadságvesztés végrehajtása alól. Ha a feltételes szabadságot nem szüntetik meg, a feltételes szabadságon töltött időt a foglalkozástól eltiltás tartamába be kell számítani.",
+          "text": "A foglalkozástól eltiltás tartama az ügydöntő határozat jogerőre emelkedésével kezdődik. Ha a foglalkozástól eltiltást szabadságvesztés mellett szabják ki, annak tartamába nem számít bele az az idő, amely alatt az elítélt a szabadságvesztést tölti, illetve amíg kivonja magát a szabadságvesztés végrehajtása alól. Ha a feltételes szabadságot nem szüntetik meg, a feltételes szabadságon töltött időt a foglalkozástól eltiltás tartamába be kell számítani.",
           "act_id_abbreviations": [],
           "outgoing_references": [],
           "semantic_data": []
@@ -3131,7 +3148,7 @@
         },
         {
           "identifier": "4",
-          "text": "A járművezetéstől eltiltás tartama az ítélet jogerőre emelkedésével kezdődik. Ha a járművezetéstől eltiltást szabadságvesztés mellett szabják ki, annak tartamába nem számít bele az az idő, amely alatt az elítélt a szabadságvesztést tölti, illetve amíg kivonja magát a szabadságvesztés végrehajtása alól. Ha a feltételes szabadságot nem szüntetik meg, a feltételes szabadságon töltött időt a járművezetéstől eltiltás tartamába be kell számítani.",
+          "text": "A járművezetéstől eltiltás tartama az ügydöntő határozat jogerőre emelkedésével kezdődik. Ha a járművezetéstől eltiltást szabadságvesztés mellett szabják ki, annak tartamába nem számít bele az az idő, amely alatt az elítélt a szabadságvesztést tölti, illetve amíg kivonja magát a szabadságvesztés végrehajtása alól. Ha a feltételes szabadságot nem szüntetik meg, a feltételes szabadságon töltött időt a járművezetéstől eltiltás tartamába be kell számítani.",
           "act_id_abbreviations": [],
           "outgoing_references": [],
           "semantic_data": []
@@ -3170,7 +3187,7 @@
         },
         {
           "identifier": "3",
-          "text": "A kitiltás tartama az ítélet jogerőre emelkedésével kezdődik. Ha a kitiltást szabadságvesztés mellett szabják ki, annak tartamába nem számít bele az az idő, amely alatt az elítélt a szabadságvesztést tölti, illetve amíg kivonja magát a szabadságvesztés végrehajtása alól. Ha a feltételes szabadságot nem szüntetik meg, a feltételes szabadságon töltött időt a kitiltás tartamába be kell számítani.",
+          "text": "A kitiltás tartama az ügydöntő határozat jogerőre emelkedésével kezdődik. Ha a kitiltást szabadságvesztés mellett szabják ki, annak tartamába nem számít bele az az idő, amely alatt az elítélt a szabadságvesztést tölti, illetve amíg kivonja magát a szabadságvesztés végrehajtása alól. Ha a feltételes szabadságot nem szüntetik meg, a feltételes szabadságon töltött időt a kitiltás tartamába be kell számítani.",
           "act_id_abbreviations": [],
           "outgoing_references": [],
           "semantic_data": []
@@ -3220,7 +3237,7 @@
         },
         {
           "identifier": "3",
-          "text": "Az eltiltás tartama az ítélet jogerőre emelkedésével kezdődik. Ha a sportrendezvények látogatásától való eltiltást szabadságvesztés mellett szabják ki, annak tartamába nem számít bele az az idő, amely alatt az elítélt a szabadságvesztést tölti, illetve amíg kivonja magát a szabadságvesztés végrehajtása alól. Ha a feltételes szabadságot nem szüntetik meg, a feltételes szabadságon töltött időt a sportrendezvények látogatásától való eltiltás tartamába be kell számítani.",
+          "text": "Az eltiltás tartama az ügydöntő határozat jogerőre emelkedésével kezdődik. Ha a sportrendezvények látogatásától való eltiltást szabadságvesztés mellett szabják ki, annak tartamába nem számít bele az az idő, amely alatt az elítélt a szabadságvesztést tölti, illetve amíg kivonja magát a szabadságvesztés végrehajtása alól. Ha a feltételes szabadságot nem szüntetik meg, a feltételes szabadságon töltött időt a sportrendezvények látogatásától való eltiltás tartamába be kell számítani.",
           "act_id_abbreviations": [],
           "outgoing_references": [],
           "semantic_data": []
@@ -3373,7 +3390,7 @@
         },
         {
           "identifier": "4",
-          "text": "A kiutasítás tartama az ítélet jogerőre emelkedésével kezdődik. A kiutasítás tartamába nem számít bele az az idő, amely alatt az elítélt szabadságvesztés büntetést tölt.",
+          "text": "A kiutasítás tartama az ügydöntő határozat jogerőre emelkedésével kezdődik. A kiutasítás tartamába nem számít bele az az idő, amely alatt az elítélt szabadságvesztés büntetést tölt.",
           "act_id_abbreviations": [],
           "outgoing_references": [],
           "semantic_data": []
@@ -3486,12 +3503,12 @@
         },
         {
           "identifier": "3",
-          "text": "A közügyektől eltiltott az ítélet jogerőre emelkedésével elveszti mindazon tagságát, állását, tisztségét, katonai rendfokozatát, megbízatását és kitüntetését, amelynek elnyerését a (2) bekezdés kizárja, valamint címzetes rendfokozatát.",
+          "text": "A közügyektől eltiltott az ügydöntő határozat jogerőre emelkedésével elveszti mindazon tagságát, állását, tisztségét, katonai rendfokozatát, megbízatását és kitüntetését, amelynek elnyerését a (2) bekezdés kizárja, valamint címzetes rendfokozatát.",
           "act_id_abbreviations": [],
           "outgoing_references": [
             {
-              "start_pos": 181,
-              "end_pos": 193,
+              "start_pos": 193,
+              "end_pos": 205,
               "reference": {
                 "paragraph": "2"
               }
@@ -3514,7 +3531,7 @@
         },
         {
           "identifier": "2",
-          "text": "A közügyektől eltiltás tartama az ítélet jogerőre emelkedésével kezdődik. A közügyektől eltiltás tartamába nem számít bele az az idő, amely alatt az elítélt a szabadságvesztést tölti, vagy amely alatt kivonja magát a szabadságvesztés végrehajtása alól. Ha a feltételes szabadságot nem szüntetik meg, a feltételes szabadságon töltött időt a közügyektől eltiltás tartamába be kell számítani.",
+          "text": "A közügyektől eltiltás tartama az ügydöntő határozat jogerőre emelkedésével kezdődik. A közügyektől eltiltás tartamába nem számít bele az az idő, amely alatt az elítélt a szabadságvesztést tölti, vagy amely alatt kivonja magát a szabadságvesztés végrehajtása alól. Ha a feltételes szabadságot nem szüntetik meg, a feltételes szabadságon töltött időt a közügyektől eltiltás tartamába be kell számítani.",
           "act_id_abbreviations": [],
           "outgoing_references": [],
           "semantic_data": []
@@ -3652,7 +3669,7 @@
         },
         {
           "identifier": "2",
-          "text": "A megrovással a bíróság vagy az ügyész helytelenítését fejezi ki a jogellenes cselekmény miatt, és felszólítja az elkövetőt, hogy a jövőben tartózkodjon bűncselekmény elkövetésétől.",
+          "text": "A megrovással a bíróság vagy az ügyészség helytelenítését fejezi ki a jogellenes cselekmény miatt, és felszólítja az elkövetőt, hogy a jövőben tartózkodjon bűncselekmény elkövetésétől.",
           "act_id_abbreviations": [],
           "outgoing_references": [],
           "semantic_data": []
@@ -3894,7 +3911,7 @@
           "children": [
             {
               "identifier": "a",
-              "text": "a vádemelés elhalasztásának tartamára,",
+              "text": "a feltételes ügyészi felfüggesztés tartamára,",
               "act_id_abbreviations": [],
               "outgoing_references": [],
               "semantic_data": [],
@@ -3999,7 +4016,7 @@
             },
             {
               "identifier": "d",
-              "text": "a vádemelés elhalasztásának tartamával,",
+              "text": "a feltételes ügyészi felfüggesztés tartamával,",
               "act_id_abbreviations": [],
               "outgoing_references": [],
               "semantic_data": [],
@@ -4075,7 +4092,7 @@
         },
         {
           "identifier": "2",
-          "intro": "A bíróság, illetve vádemelés elhalasztása esetén az ügyész a határozatában a pártfogó felügyelet céljának elősegítése érdekében külön magatartási szabályként kötelezettségeket és tilalmakat írhat elő. A bíróság, illetve az ügyész elrendelheti, hogy a pártfogolt",
+          "intro": "A bíróság, illetve feltételes ügyészi felfüggesztés esetén az ügyészség a határozatában a pártfogó felügyelet céljának elősegítése érdekében külön magatartási szabályként kötelezettségeket és tilalmakat írhat elő. A bíróság, illetve az ügyészség elrendelheti, hogy a pártfogolt",
           "children": [
             {
               "identifier": "a",
@@ -4156,12 +4173,12 @@
         },
         {
           "identifier": "3",
-          "text": "A bíróság, illetve az ügyész a (2) bekezdésben felsorolt magatartási szabályokon kívül más magatartási szabályokat is előírhat, különös tekintettel a bűncselekmény jellegére, az okozott kárra és az elkövető társadalmi beilleszkedése esélyeinek növelésére.",
+          "text": "A bíróság, illetve az ügyészség a (2) bekezdésben felsorolt magatartási szabályokon kívül más magatartási szabályokat is előírhat, különös tekintettel a bűncselekmény jellegére, az okozott kárra és az elkövető társadalmi beilleszkedése esélyeinek növelésére.",
           "act_id_abbreviations": [],
           "outgoing_references": [
             {
-              "start_pos": 31,
-              "end_pos": 46,
+              "start_pos": 34,
+              "end_pos": 49,
               "reference": {
                 "paragraph": "2"
               }
@@ -5714,7 +5731,7 @@
     },
     {
       "identifier": "",
-      "title": "A büntetés kiszabása tárgyalásról lemondás esetén",
+      "title": "A büntetés kiszabása egyezség esetén",
       "__type__": "Subtitle"
     },
     {
@@ -5722,19 +5739,19 @@
       "children": [
         {
           "identifier": "1",
-          "text": "Tárgyalásról lemondás esetén – a (2) bekezdésben meghatározottak kivételével – a büntetés kiszabásakor a 82. § (2) bekezdésében meghatározott enyhébb büntetési tételek alsó határát kell alapul venni.",
+          "text": "A büntetőeljárásról szóló 2017. évi XC. törvény XCIX. Fejezete szerinti eljárásban az egyezség (a továbbiakban: egyezség) jóváhagyása esetén a büntetés kiszabásakor a 82. § (2) bekezdésében meghatározott enyhébb büntetési tételek alsó határát kell alapul venni.",
           "act_id_abbreviations": [],
           "outgoing_references": [
             {
-              "start_pos": 33,
-              "end_pos": 48,
+              "start_pos": 26,
+              "end_pos": 47,
               "reference": {
-                "paragraph": "2"
+                "act": "2017. évi XC. törvény"
               }
             },
             {
-              "start_pos": 105,
-              "end_pos": 127,
+              "start_pos": 167,
+              "end_pos": 189,
               "reference": {
                 "article": "82",
                 "paragraph": "2"
@@ -5745,41 +5762,23 @@
         },
         {
           "identifier": "2",
-          "intro": "Együttműködő terhelt tárgyalásról lemondása esetén a szabadságvesztés mértéke",
-          "children": [
+          "text": "Ha az egyezség jóváhagyására olyan terhelt esetében kerül sor, aki az ügy, illetve más büntetőügy bizonyításához hozzájárulva az ügyészséggel, illetve a nyomozó hatósággal jelentős mértékben együttműködött, a büntetést a 82. § (2) bekezdés soron következő pontja alapján is ki lehet szabni.",
+          "act_id_abbreviations": [],
+          "outgoing_references": [
             {
-              "identifier": "a",
-              "text": "nyolc évnél nem súlyosabb szabadságvesztéssel büntetendő bűncselekmény miatt a három évet,",
-              "act_id_abbreviations": [],
-              "outgoing_references": [],
-              "semantic_data": [],
-              "__type__": "AlphabeticPoint"
-            },
-            {
-              "identifier": "b",
-              "text": "öt évnél nem súlyosabb szabadságvesztéssel büntetendő bűncselekmény miatt a két évet,",
-              "act_id_abbreviations": [],
-              "outgoing_references": [],
-              "semantic_data": [],
-              "__type__": "AlphabeticPoint"
-            },
-            {
-              "identifier": "c",
-              "text": "három évnél nem súlyosabb szabadságvesztéssel büntetendő bűncselekmény miatt a hat hónapot",
-              "act_id_abbreviations": [],
-              "outgoing_references": [],
-              "semantic_data": [],
-              "__type__": "AlphabeticPoint"
+              "start_pos": 221,
+              "end_pos": 239,
+              "reference": {
+                "article": "82",
+                "paragraph": "2"
+              }
             }
           ],
-          "wrap_up": "nem haladhatja meg.",
-          "act_id_abbreviations": [],
-          "outgoing_references": [],
           "semantic_data": []
         },
         {
           "identifier": "3",
-          "text": "Ha a tárgyalásról lemondásnak nyolcévi szabadságvesztésnél súlyosabban büntetendő bűncselekmény miatt van helye, a bűnszervezetben elkövetett bűncselekményre előírt szigorúbb rendelkezések nem alkalmazhatóak, a büntetést a bűncselekményre az e törvény által előírt büntetési tételkeretek között kell kiszabni.",
+          "text": " ",
           "act_id_abbreviations": [],
           "outgoing_references": [],
           "semantic_data": []
@@ -5791,52 +5790,9 @@
       "identifier": "84",
       "children": [
         {
-          "identifier": "1",
-          "text": "Tárgyalásról lemondás esetén a bűnhalmazatban lévő bűncselekményekre a halmazati büntetésre vonatkozó rendelkezések az irányadók azzal, hogy a bűnhalmazatban lévő bűncselekmények büntetési tételeinek felső határát a 83. § (1)–(2) bekezdése alapján kiszabható büntetések közül a legsúlyosabbnak az alapulvételével kell kiszabni.",
+          "text": " ",
           "act_id_abbreviations": [],
-          "outgoing_references": [
-            {
-              "start_pos": 216,
-              "end_pos": 239,
-              "reference": {
-                "article": "83",
-                "paragraph": [
-                  "1",
-                  "2"
-                ]
-              }
-            }
-          ],
-          "semantic_data": []
-        },
-        {
-          "identifier": "2",
-          "text": "Ha e törvény a bűnhalmazatban lévő bűncselekmények közül legalább kettőre határozott ideig tartó szabadságvesztést rendel, a 83. § (1)–(2) bekezdése alapján kiszabható legsúlyosabb büntetési tétel felső határa a legmagasabb büntetési tétel középmértékével emelkedik, de nem érheti el az egyes bűncselekményekre a 83. § (1)–(2) bekezdés alapján kiszabható büntetések együttes tartamát.",
-          "act_id_abbreviations": [],
-          "outgoing_references": [
-            {
-              "start_pos": 125,
-              "end_pos": 148,
-              "reference": {
-                "article": "83",
-                "paragraph": [
-                  "1",
-                  "2"
-                ]
-              }
-            },
-            {
-              "start_pos": 313,
-              "end_pos": 335,
-              "reference": {
-                "article": "83",
-                "paragraph": [
-                  "1",
-                  "2"
-                ]
-              }
-            }
-          ],
+          "outgoing_references": [],
           "semantic_data": []
         }
       ],
@@ -6152,18 +6108,9 @@
       "children": [
         {
           "identifier": "1",
-          "text": "A különös és a többszörös visszaesővel szemben az újabb bűncselekmény büntetési tételének felső határa szabadságvesztés esetén a felével emelkedik, de nem haladhatja meg a huszonöt évet. Tárgyalásról lemondás esetén a 83. § (2) bekezdése szerinti büntetési tételt kell a felével emelni.",
+          "text": "A különös és a többszörös visszaesővel szemben az újabb bűncselekmény büntetési tételének felső határa szabadságvesztés esetén a felével emelkedik, de nem haladhatja meg a huszonöt évet.",
           "act_id_abbreviations": [],
-          "outgoing_references": [
-            {
-              "start_pos": 218,
-              "end_pos": 237,
-              "reference": {
-                "article": "83",
-                "paragraph": "2"
-              }
-            }
-          ],
+          "outgoing_references": [],
           "semantic_data": []
         },
         {
@@ -6221,18 +6168,9 @@
         },
         {
           "identifier": "2",
-          "text": "Az erőszakos többszörös visszaesővel szemben az erőszakos többszörös visszaesőkénti minősítést megalapozó bűncselekmény büntetési tételének felső határa szabadságvesztés esetén a kétszeresére emelkedik. Ha a büntetési tétel így felemelt felső határa a húsz évet meghaladná, vagy a törvény szerint a bűncselekmény életfogytig tartó szabadságvesztéssel is büntethető, az elkövetővel szemben életfogytig tartó szabadságvesztést kell kiszabni. Tárgyalásról lemondás esetén a 83. § (2) bekezdése szerinti büntetési tételt kell a kétszeresére emelni.",
+          "text": "Az erőszakos többszörös visszaesővel szemben az erőszakos többszörös visszaesőkénti minősítést megalapozó bűncselekmény büntetési tételének felső határa szabadságvesztés esetén a kétszeresére emelkedik. Ha a büntetési tétel így felemelt felső határa a húsz évet meghaladná, vagy a törvény szerint a bűncselekmény életfogytig tartó szabadságvesztéssel is büntethető, az elkövetővel szemben életfogytig tartó szabadságvesztést kell kiszabni.",
           "act_id_abbreviations": [],
-          "outgoing_references": [
-            {
-              "start_pos": 471,
-              "end_pos": 490,
-              "reference": {
-                "article": "83",
-                "paragraph": "2"
-              }
-            }
-          ],
+          "outgoing_references": [],
           "semantic_data": []
         },
         {
@@ -6282,18 +6220,9 @@
       "children": [
         {
           "identifier": "1",
-          "text": "Azzal szemben, aki a szándékos bűncselekményt bűnszervezetben követte el, a bűncselekmény büntetési tételének felső határa a kétszeresére emelkedik, de a huszonöt évet nem haladhatja meg. Tárgyalásról lemondás esetén a 83. § (2) bekezdése szerinti büntetési tételt kell alapul venni.",
+          "text": "Azzal szemben, aki a szándékos bűncselekményt bűnszervezetben követte el, a bűncselekmény büntetési tételének felső határa a kétszeresére emelkedik, de a huszonöt évet nem haladhatja meg.",
           "act_id_abbreviations": [],
-          "outgoing_references": [
-            {
-              "start_pos": 219,
-              "end_pos": 238,
-              "reference": {
-                "article": "83",
-                "paragraph": "2"
-              }
-            }
-          ],
+          "outgoing_references": [],
           "semantic_data": []
         },
         {
@@ -6315,7 +6244,7 @@
     },
     {
       "identifier": "",
-      "title": "Az előzetes fogvatartás és a házi őrizet beszámítása",
+      "title": "Az előzetes fogvatartás, a bűnügyi felügyelet és a szabálysértési büntetések beszámítása",
       "__type__": "Subtitle"
     },
     {
@@ -6323,7 +6252,7 @@
       "children": [
         {
           "identifier": "1",
-          "text": "Az előzetes fogvatartás és a házi őrizet teljes idejét be kell számítani a kiszabott szabadságvesztésbe, elzárásba, közérdekű munkába és pénzbüntetésbe.",
+          "text": "A kiszabott szabadságvesztésbe, elzárásba, közérdekű munkába és pénzbüntetésbe be kell számítani az előzetes fogvatartás és az olyan bűnügyi felügyelet teljes idejét, amelynek során a bíróság a terhelt számára előírta, hogy lakást, egyéb helyiséget, intézményt, vagy ahhoz tartozó bekerített helyet engedély nélkül nem hagyhat el.",
           "act_id_abbreviations": [],
           "outgoing_references": [],
           "semantic_data": []
@@ -6337,7 +6266,7 @@
         },
         {
           "identifier": "3",
-          "intro": "Házi őrizet beszámítása esetén",
+          "intro": "A beszámításnál",
           "children": [
             {
               "identifier": "a",
@@ -6372,14 +6301,14 @@
               "__type__": "AlphabeticPoint"
             }
           ],
-          "wrap_up": "házi őrizetben töltött idő felel meg.",
+          "wrap_up": "az (1) bekezdésben meghatározott bűnügyi felügyeletben töltött idő felel meg.",
           "act_id_abbreviations": [],
           "outgoing_references": [],
           "semantic_data": []
         },
         {
           "identifier": "4",
-          "text": "A (2) és (3) bekezdés szerinti beszámítás után fennmaradó előzetes fogvatartás vagy házi őrizet tartamát egynapi szabadságvesztésként kell beszámítani.",
+          "text": "A (2) és (3) bekezdés szerinti beszámítás után fennmaradó tartamot egynapi szabadságvesztésként kell beszámítani.",
           "act_id_abbreviations": [],
           "outgoing_references": [
             {
@@ -6544,7 +6473,7 @@
       "children": [
         {
           "identifier": "1",
-          "text": "Ha az elkövetőt több, határozott ideig tartó szabadságvesztésre ítélik, a jogerősen kiszabott büntetéseket – törvényben meghatározottak szerint – összbüntetésbe kell foglalni, ha az elkövető valamennyi bűncselekményt a legkorábbi elsőfokú ítélet kihirdetését megelőzően követte el.",
+          "text": "Ha az elkövetőt több, határozott ideig tartó szabadságvesztésre ítélik, a jogerősen kiszabott büntetéseket – törvényben meghatározottak szerint – összbüntetésbe kell foglalni, ha az elkövető valamennyi bűncselekményt a legkorábbi elsőfokú ügydöntő határozat kihirdetését megelőzően követte el.",
           "act_id_abbreviations": [],
           "outgoing_references": [],
           "semantic_data": []
@@ -6687,23 +6616,22 @@
         },
         {
           "identifier": "2",
-          "text": "A büntetőjogi felelősség megállapítására, a kiszabott büntetésre és az alkalmazott intézkedésre vonatkozó adatokat közhiteles hatósági nyilvántartás tartalmazza a törvényben meghatározott időpontig, ezt követően hátrányos jogkövetkezmény az elítélés miatt már nem állapítható meg az elítélttel szemben. A visszaesés és az ahhoz fűződő, e törvényben meghatározott hátrányos jogkövetkezmények a büntetőeljárásról szóló 1998. évi XIX. törvény 178/A. § (2) bekezdése szerint, az újabb bűncselekmény elkövetéséhez legközelebbi időpontban a bűnügyi nyilvántartásból beszerzett adatok alapján akkor is megállapítandók, ha utóbb ezek az adatok törlésre kerültek.",
+          "text": "A büntetőjogi felelősség megállapítására, a kiszabott büntetésre és az alkalmazott intézkedésre vonatkozó adatokat közhiteles hatósági nyilvántartás tartalmazza a törvényben meghatározott időpontig, ezt követően hátrányos jogkövetkezmény az elítélés miatt már nem állapítható meg az elítélttel szemben. A visszaesés és az ahhoz fűződő, e törvényben meghatározott hátrányos jogkövetkezmények a büntetőeljárásról szóló 2017. évi XC. törvény 389. §-a szerint, az újabb bűncselekmény elkövetéséhez legközelebbi időpontban a bűnügyi nyilvántartásból beszerzett adatok alapján akkor is megállapítandók, ha utóbb ezek az adatok törlésre kerültek.",
           "act_id_abbreviations": [],
           "outgoing_references": [
             {
               "start_pos": 417,
-              "end_pos": 439,
+              "end_pos": 438,
               "reference": {
-                "act": "1998. évi XIX. törvény"
+                "act": "2017. évi XC. törvény"
               }
             },
             {
-              "start_pos": 440,
-              "end_pos": 462,
+              "start_pos": 439,
+              "end_pos": 447,
               "reference": {
-                "act": "1998. évi XIX. törvény",
-                "article": "178/A",
-                "paragraph": "2"
+                "act": "2017. évi XC. törvény",
+                "article": "389"
               }
             }
           ],
@@ -6801,7 +6729,7 @@
           "children": [
             {
               "identifier": "a",
-              "text": "elzárás, pénzbüntetés és közérdekű munka esetén az ítélet jogerőre emelkedésének napján,",
+              "text": "elzárás, pénzbüntetés és közérdekű munka esetén az ügydöntő határozat jogerőre emelkedésének napján,",
               "act_id_abbreviations": [],
               "outgoing_references": [],
               "semantic_data": [],
@@ -6809,7 +6737,7 @@
             },
             {
               "identifier": "b",
-              "text": "foglalkozástól eltiltás, járművezetéstől eltiltás, kitiltás és sportrendezvények látogatásától való eltiltás esetén az ítélet jogerőre emelkedése napján,",
+              "text": "foglalkozástól eltiltás, járművezetéstől eltiltás, kitiltás és sportrendezvények látogatásától való eltiltás esetén az ügydöntő határozat jogerőre emelkedése napján,",
               "act_id_abbreviations": [],
               "outgoing_references": [],
               "semantic_data": [],
@@ -6983,7 +6911,7 @@
         },
         {
           "identifier": "3",
-          "text": "Az érdemesség elbírálásánál figyelembe kell venni az elítéltnek a büntetés kitöltése, felfüggesztett szabadságvesztés esetén az ítélet jogerőre emelkedése óta folytatott életmódját, továbbá azt, hogy – ha erre módja volt – jóvátette-e a bűncselekménnyel okozott sérelmet.",
+          "text": "Az érdemesség elbírálásánál figyelembe kell venni az elítéltnek a büntetés kitöltése, felfüggesztett szabadságvesztés esetén az ügydöntő határozat jogerőre emelkedése óta folytatott életmódját, továbbá azt, hogy – ha erre módja volt – jóvátette-e a bűncselekménnyel okozott sérelmet.",
           "act_id_abbreviations": [],
           "outgoing_references": [],
           "semantic_data": []
@@ -7003,7 +6931,7 @@
       "children": [
         {
           "identifier": "1",
-          "text": "A szabadságvesztés végrehajtásának felfüggesztése esetén a bíróság ítéletében előzetes mentesítésben részesítheti az elítéltet, ha arra érdemes.",
+          "text": "A szabadságvesztés végrehajtásának felfüggesztése esetén a bíróság az ügydöntő határozatban előzetes mentesítésben részesítheti az elítéltet, ha arra érdemes.",
           "act_id_abbreviations": [],
           "outgoing_references": [],
           "semantic_data": []
@@ -7342,7 +7270,7 @@
       "identifier": "112",
       "children": [
         {
-          "text": "Fiatalkorúval szemben közérdekű munkát akkor lehet kiszabni, ha az ítélet meghozatalakor tizenhatodik életévét betöltötte.",
+          "text": "Fiatalkorúval szemben közérdekű munkát akkor lehet kiszabni, ha az ügydöntő határozat meghozatalakor tizenhatodik életévét betöltötte.",
           "act_id_abbreviations": [],
           "outgoing_references": [],
           "semantic_data": []
@@ -7557,7 +7485,7 @@
       "identifier": "117",
       "children": [
         {
-          "text": "Fiatalkorúval szemben jóvátételi munkavégzés akkor írható elő, ha az ítélet meghozatalakor tizenhatodik életévét betöltötte.",
+          "text": "Fiatalkorúval szemben jóvátételi munkavégzés akkor írható elő, ha az ügydöntő határozat meghozatalakor tizenhatodik életévét betöltötte.",
           "act_id_abbreviations": [],
           "outgoing_references": [],
           "semantic_data": []
@@ -7628,7 +7556,7 @@
             },
             {
               "identifier": "e",
-              "text": "a vádemelés elhalasztásának tartama",
+              "text": "a feltételes ügyészi felfüggesztés tartama",
               "act_id_abbreviations": [],
               "outgoing_references": [],
               "semantic_data": [],
@@ -7660,7 +7588,7 @@
       "children": [
         {
           "identifier": "1",
-          "text": "Javítóintézeti nevelést a bíróság akkor rendel el, ha a fiatalkorú eredményes nevelése érdekében intézeti elhelyezése szükséges. Javítóintézeti nevelés nem rendelhető el azzal szemben, aki az ítélet meghozatalakor huszadik életévét betöltötte.",
+          "text": "Javítóintézeti nevelést a bíróság akkor rendel el, ha a fiatalkorú eredményes nevelése érdekében intézeti elhelyezése szükséges. Javítóintézeti nevelés nem rendelhető el azzal szemben, aki az ügydöntő határozat meghozatalakor huszadik életévét betöltötte.",
           "act_id_abbreviations": [],
           "outgoing_references": [],
           "semantic_data": []
@@ -7907,7 +7835,144 @@
     },
     {
       "identifier": "",
-      "title": "Az előzetes fogvatartás és házi őrizet beszámítása",
+      "title": "A büntetés kiszabása egyezség esetén",
+      "__type__": "Subtitle"
+    },
+    {
+      "identifier": "124/A",
+      "children": [
+        {
+          "identifier": "1",
+          "intro": "Ha az egyezség jóváhagyására olyan a bűncselekmény elkövetésekor tizenhatodik életévét be nem töltött fiatalkorú esetében kerül sor, aki az ügy, illetve más büntetőügy bizonyításához hozzájárulva az ügyészséggel, illetve a nyomozó hatósággal jelentős mértékben együttműködött, a kiszabható szabadságvesztés mértéke",
+          "children": [
+            {
+              "identifier": "a",
+              "text": "életfogytig tartó szabadságvesztéssel is büntethető bűncselekmény elkövetése esetén a nyolc évet,",
+              "act_id_abbreviations": [],
+              "outgoing_references": [],
+              "semantic_data": [],
+              "__type__": "AlphabeticPoint"
+            },
+            {
+              "identifier": "b",
+              "text": "öt évet meghaladó tartamú szabadságvesztéssel büntetendő bűncselekmény elkövetése esetén a három évet,",
+              "act_id_abbreviations": [],
+              "outgoing_references": [],
+              "semantic_data": [],
+              "__type__": "AlphabeticPoint"
+            },
+            {
+              "identifier": "c",
+              "text": "a három évet meghaladó tartamú szabadságvesztéssel büntetendő bűncselekmény elkövetése esetén a két évet,",
+              "act_id_abbreviations": [],
+              "outgoing_references": [],
+              "semantic_data": [],
+              "__type__": "AlphabeticPoint"
+            },
+            {
+              "identifier": "d",
+              "text": "a három évet meg nem haladó tartamú szabadságvesztéssel büntetendő bűncselekmény elkövetése esetén a hat hónapot",
+              "act_id_abbreviations": [],
+              "outgoing_references": [],
+              "semantic_data": [],
+              "__type__": "AlphabeticPoint"
+            }
+          ],
+          "wrap_up": "nem haladhatja meg.",
+          "act_id_abbreviations": [],
+          "outgoing_references": [],
+          "semantic_data": []
+        },
+        {
+          "identifier": "2",
+          "intro": "Ha az egyezség jóváhagyására olyan a bűncselekmény elkövetésekor tizenhatodik életévét betöltött fiatalkorú esetében kerül sor, aki az ügy, illetve más büntetőügy bizonyításához hozzájárulva az ügyészséggel, illetve a nyomozó hatósággal jelentős mértékben együttműködött, a kiszabható szabadságvesztés mértéke",
+          "children": [
+            {
+              "identifier": "a",
+              "text": "életfogytig tartó szabadságvesztéssel is büntethető bűncselekmény elkövetése esetén a tíz évet,",
+              "act_id_abbreviations": [],
+              "outgoing_references": [],
+              "semantic_data": [],
+              "__type__": "AlphabeticPoint"
+            },
+            {
+              "identifier": "b",
+              "text": "a tíz évet meghaladó tartamú szabadságvesztéssel büntetendő bűncselekmény elkövetése esetén a nyolc évet,",
+              "act_id_abbreviations": [],
+              "outgoing_references": [],
+              "semantic_data": [],
+              "__type__": "AlphabeticPoint"
+            },
+            {
+              "identifier": "c",
+              "text": "öt évet meghaladó tartamú szabadságvesztéssel büntetendő bűncselekmény elkövetése esetén a három évet,",
+              "act_id_abbreviations": [],
+              "outgoing_references": [],
+              "semantic_data": [],
+              "__type__": "AlphabeticPoint"
+            },
+            {
+              "identifier": "d",
+              "text": "a három évet meghaladó tartamú szabadságvesztéssel büntetendő bűncselekmény elkövetése esetén a két évet,",
+              "act_id_abbreviations": [],
+              "outgoing_references": [],
+              "semantic_data": [],
+              "__type__": "AlphabeticPoint"
+            },
+            {
+              "identifier": "e",
+              "text": "a három évet meg nem haladó tartamú szabadságvesztéssel büntetendő bűncselekmény elkövetése esetén a hat hónapot",
+              "act_id_abbreviations": [],
+              "outgoing_references": [],
+              "semantic_data": [],
+              "__type__": "AlphabeticPoint"
+            }
+          ],
+          "wrap_up": "nem haladhatja meg.",
+          "act_id_abbreviations": [],
+          "outgoing_references": [],
+          "semantic_data": []
+        },
+        {
+          "identifier": "3",
+          "intro": "A büntetés kiszabása során",
+          "children": [
+            {
+              "identifier": "a",
+              "text": "bűnhalmazat esetén,",
+              "act_id_abbreviations": [],
+              "outgoing_references": [],
+              "semantic_data": [],
+              "__type__": "AlphabeticPoint"
+            },
+            {
+              "identifier": "b",
+              "text": "a különös, többszörös, illetve erőszakos többszörös visszaesővel szemben, illetve",
+              "act_id_abbreviations": [],
+              "outgoing_references": [],
+              "semantic_data": [],
+              "__type__": "AlphabeticPoint"
+            },
+            {
+              "identifier": "c",
+              "text": "bűncselekmény bűnszervezetben történő elkövetése esetén",
+              "act_id_abbreviations": [],
+              "outgoing_references": [],
+              "semantic_data": [],
+              "__type__": "AlphabeticPoint"
+            }
+          ],
+          "wrap_up": "az (1) és (2) bekezdés szerinti büntetési tételt kell alapul venni.",
+          "act_id_abbreviations": [],
+          "outgoing_references": [],
+          "semantic_data": []
+        }
+      ],
+      "__type__": "Article"
+    },
+    {
+      "identifier": "",
+      "title": "Az előzetes fogvatartás és a bűnügyi felügyelet beszámítása",
       "__type__": "Subtitle"
     },
     {
@@ -7915,14 +7980,48 @@
       "children": [
         {
           "identifier": "1",
-          "text": "Az elrendelt javítóintézeti nevelésbe az előzetes fogvatartás és házi őrizet teljes idejét be kell számítani.",
+          "text": "Az elrendelt javítóintézeti nevelésbe be kell számítani az előzetes fogvatartás és az olyan bűnügyi felügyelet teljes idejét, amelynek során a bíróság a terhelt számára előírta, hogy lakást, egyéb helyiséget, intézményt, vagy ahhoz tartozó bekerített helyet engedély nélkül nem hagyhat el.",
           "act_id_abbreviations": [],
           "outgoing_references": [],
           "semantic_data": []
         },
         {
           "identifier": "2",
-          "text": "A beszámításnál egynapi javítóintézeti nevelésnek egynapi előzetes fogvatartás, illetve három nap házi őrizet felel meg. A beszámítás után fennmaradó házi őrizet tartamát egynapi javítóintézeti nevelésként kell beszámítani.",
+          "intro": "A beszámításnál egynapi javítóintézeti nevelésnek",
+          "children": [
+            {
+              "identifier": "a",
+              "text": "egynapi előzetes fogvatartás és",
+              "act_id_abbreviations": [],
+              "outgoing_references": [],
+              "semantic_data": [],
+              "__type__": "AlphabeticPoint"
+            },
+            {
+              "identifier": "b",
+              "text": "három nap az (1) bekezdésben meghatározott bűnügyi felügyelet",
+              "act_id_abbreviations": [],
+              "outgoing_references": [
+                {
+                  "start_pos": 13,
+                  "end_pos": 28,
+                  "reference": {
+                    "paragraph": "1"
+                  }
+                }
+              ],
+              "semantic_data": [],
+              "__type__": "AlphabeticPoint"
+            }
+          ],
+          "wrap_up": "felel meg.",
+          "act_id_abbreviations": [],
+          "outgoing_references": [],
+          "semantic_data": []
+        },
+        {
+          "identifier": "3",
+          "text": "A beszámítás után fennmaradó tartamot egynapi javítóintézeti nevelésként kell beszámítani.",
           "act_id_abbreviations": [],
           "outgoing_references": [],
           "semantic_data": []
@@ -7944,7 +8043,7 @@
           "children": [
             {
               "identifier": "a",
-              "text": "az ítélet jogerőre emelkedésének napján, ha a kiszabott szabadságvesztés végrehajtását felfüggesztik,",
+              "text": "az ügydöntő határozat jogerőre emelkedésének napján, ha a kiszabott szabadságvesztés végrehajtását felfüggesztik,",
               "act_id_abbreviations": [],
               "outgoing_references": [],
               "semantic_data": [],
@@ -8450,14 +8549,14 @@
       "children": [
         {
           "identifier": "1",
-          "text": "A törvény erejénél fogva áll be a mentesítés a lefokozás és a szolgálati viszony megszüntetése esetén az ítélet jogerőre emelkedésének napján.",
+          "text": "A törvény erejénél fogva áll be a mentesítés a lefokozás és a szolgálati viszony megszüntetése esetén az ügydöntő határozat jogerőre emelkedésének napján.",
           "act_id_abbreviations": [],
           "outgoing_references": [],
           "semantic_data": []
         },
         {
           "identifier": "2",
-          "text": "A bíróság ítéletében az elítéltet a büntetett előélethez fűződő hátrányok alól előzetes mentesítésben részesítheti, ha a szabadságvesztést katonai fogdában rendeli végrehajtani. Ez a mentesítés a büntetés kiállásának, illetve végrehajthatósága megszűnésének napján áll be.",
+          "text": "A bíróság az ügydöntő határozatban az elítéltet a büntetett előélethez fűződő hátrányok alól előzetes mentesítésben részesítheti, ha a szabadságvesztést katonai fogdában rendeli végrehajtani. Ez a mentesítés a büntetés kiállásának, illetve végrehajthatósága megszűnésének napján áll be.",
           "act_id_abbreviations": [],
           "outgoing_references": [],
           "semantic_data": []
@@ -11325,20 +11424,28 @@
       "children": [
         {
           "identifier": "1",
-          "text": "Nem büntethető, aki csekély mennyiségű kábítószert saját használatra termeszt, előállít, megszerez vagy tart, illetve aki kábítószert fogyaszt, ha a bűncselekmény elkövetését beismeri, és az elsőfokú ítélet meghozataláig okirattal igazolja, hogy legalább hat hónapig folyamatos, kábítószer-függőséget gyógyító kezelésben, kábítószer-használatot kezelő más ellátásban részesült, vagy megelőző-felvilágosító szolgáltatáson vett részt.",
+          "text": "Nem büntethető, aki csekély mennyiségű kábítószert saját használatra termeszt, előállít, megszerez vagy tart, illetve aki kábítószert fogyaszt, ha a bűncselekmény elkövetését beismeri, és az elsőfokú ügydöntő határozat meghozataláig okirattal igazolja, hogy legalább hat hónapig folyamatos, kábítószer-függőséget gyógyító kezelésben, kábítószer-használatot kezelő más ellátásban részesült, vagy megelőző-felvilágosító szolgáltatáson vett részt.",
           "act_id_abbreviations": [],
           "outgoing_references": [],
           "semantic_data": []
         },
         {
           "identifier": "2",
-          "intro": "Az (1) bekezdés nem alkalmazható, ha a bűncselekmény elkövetését megelőzően két éven belül",
+          "intro": "Az (1) bekezdés nem alkalmazható, ha a bűncselekmény elkövetését megelőző két éven belül",
           "children": [
             {
               "identifier": "a",
-              "text": "az elkövetővel szemben a vádemelést azért halasztották el, illetve a nyomozást vagy az eljárást azért függesztették fel, mert vállalta a kábítószer-függőséget gyógyító kezelésen, kábítószer-használatot kezelő más ellátáson vagy megelőző-felvilágosító szolgáltatáson való részvételt, vagy",
+              "text": "az elkövetővel szemben az eljárást az (1) bekezdésben meghatározott büntethetőséget megszüntető okra figyelemmel függesztették fel, vagy",
               "act_id_abbreviations": [],
-              "outgoing_references": [],
+              "outgoing_references": [
+                {
+                  "start_pos": 38,
+                  "end_pos": 53,
+                  "reference": {
+                    "paragraph": "1"
+                  }
+                }
+              ],
               "semantic_data": [],
               "__type__": "AlphabeticPoint"
             },
@@ -14646,7 +14753,7 @@
         },
         {
           "identifier": "2",
-          "text": "Nem büntethető az elkövető, ha a kapcsolattartást az elsőfokú ítélet meghozataláig megfelelően biztosítja, és az elmaradt kapcsolattartási formák pótlását megkezdi.",
+          "text": "Nem büntethető az elkövető, ha a kapcsolattartást az elsőfokú ügydöntő határozat meghozataláig megfelelően biztosítja, és az elmaradt kapcsolattartási formák pótlását megkezdi.",
           "act_id_abbreviations": [],
           "outgoing_references": [],
           "semantic_data": []
@@ -14711,7 +14818,7 @@
         },
         {
           "identifier": "3",
-          "text": "Az (1) bekezdés alapján az elkövető nem büntethető, a (2) bekezdés esetén büntetése korlátlanul enyhíthető, ha kötelezettségének az elsőfokú ítélet meghozataláig eleget tesz.",
+          "text": "Az (1) bekezdés alapján az elkövető nem büntethető, a (2) bekezdés esetén büntetése korlátlanul enyhíthető, ha kötelezettségének az elsőfokú ügydöntő határozat meghozataláig eleget tesz.",
           "act_id_abbreviations": [],
           "outgoing_references": [
             {
@@ -15536,7 +15643,7 @@
             },
             {
               "identifier": "b",
-              "text": "elektronikus hírközlő hálózat útján másnak továbbított közleményt kifürkész,",
+              "text": "elektronikus hírközlő hálózat – ideértve az információs rendszert is – útján másnak továbbított közleményt kifürkész,",
               "act_id_abbreviations": [],
               "outgoing_references": [],
               "semantic_data": [],
@@ -16661,7 +16768,7 @@
         },
         {
           "identifier": "3",
-          "text": "Az (1) bekezdés a) pontjában, és a (2) bekezdés első és második fordulatában meghatározott esetben az elkövető nem büntethető, az (1) bekezdés b) pontja esetén pedig büntetése korlátlanul enyhíthető, ha az elsőfokú ítélet meghozataláig a bűncselekmény által bekövetkezett veszélyt, illetve környezetkárosodást megszünteti, a károsodott környezet eredeti állapotát helyreállítja.",
+          "text": "Az (1) bekezdés a) pontjában, és a (2) bekezdés első és második fordulatában meghatározott esetben az elkövető nem büntethető, az (1) bekezdés b) pontja esetén pedig büntetése korlátlanul enyhíthető, ha az elsőfokú ügydöntő határozat meghozataláig a bűncselekmény által bekövetkezett veszélyt, illetve környezetkárosodást megszünteti, a károsodott környezet eredeti állapotát helyreállítja.",
           "act_id_abbreviations": [],
           "outgoing_references": [
             {
@@ -18226,7 +18333,7 @@
         },
         {
           "identifier": "3",
-          "text": "A (2) bekezdés c) pontja alapján nem büntethető a büntető ügy terheltje.",
+          "text": "A (2) bekezdés c) pontja alapján nem büntethető a büntetőügy terheltje.",
           "act_id_abbreviations": [],
           "outgoing_references": [
             {
@@ -18242,7 +18349,7 @@
         },
         {
           "identifier": "4",
-          "text": "Aki a hamis tanúzást büntető ügyben követi el, bűntett miatt egy évtől öt évig terjedő szabadságvesztéssel büntetendő. Ha a hamis tanúzás olyan bűncselekményre vonatkozik, amely életfogytig tartó szabadságvesztéssel is büntethető, a büntetés két évtől nyolc évig terjedő szabadságvesztés.",
+          "text": "Aki a hamis tanúzást büntetőügyben követi el, bűntett miatt egy évtől öt évig terjedő szabadságvesztéssel büntetendő. Ha a hamis tanúzás olyan bűncselekményre vonatkozik, amely életfogytig tartó szabadságvesztéssel is büntethető, a büntetés két évtől nyolc évig terjedő szabadságvesztés.",
           "act_id_abbreviations": [],
           "outgoing_references": [],
           "semantic_data": []
@@ -18344,7 +18451,7 @@
       "children": [
         {
           "identifier": "1",
-          "text": "Aki mást hamis tanúzásra rábírni törekszik, büntető ügyben történő elkövetés esetén bűntett miatt három évig terjedő szabadságvesztéssel, polgári ügyben történő elkövetés esetén vétség miatt két évig terjedő szabadságvesztéssel büntetendő.",
+          "text": "Aki mást hamis tanúzásra rábírni törekszik, büntetőügyben történő elkövetés esetén bűntett miatt három évig terjedő szabadságvesztéssel, polgári ügyben történő elkövetés esetén vétség miatt két évig terjedő szabadságvesztéssel büntetendő.",
           "act_id_abbreviations": [],
           "outgoing_references": [],
           "semantic_data": []
@@ -18376,7 +18483,7 @@
       "identifier": "277",
       "children": [
         {
-          "text": "A tanú, aki büntetőügyben a bíróság előtti vallomástételt a következményekre történt figyelmeztetés után jogosulatlanul megtagadja, vétség miatt elzárással büntetendő.",
+          "text": "A tanú, aki büntetőügyben a bíróság előtti vallomástételt a tanúzási figyelmeztetés után jogosulatlanul megtagadja, vétség miatt elzárással büntetendő.",
           "act_id_abbreviations": [],
           "outgoing_references": [],
           "semantic_data": []
@@ -18401,7 +18508,7 @@
         },
         {
           "identifier": "2",
-          "text": "Aki a bűncselekményt büntető ügyben követi el, bűntett miatt egy évtől öt évig terjedő szabadságvesztéssel büntetendő. Ha a bűncselekményt olyan büntető ügyben követik el, amely életfogytig tartó szabadságvesztéssel is büntethető bűncselekmény miatt folyik, a büntetés két évtől nyolc évig terjedő szabadságvesztés.",
+          "text": "Aki a bűncselekményt büntetőügyben követi el, bűntett miatt egy évtől öt évig terjedő szabadságvesztéssel büntetendő. Ha a bűncselekményt olyan büntetőügyben követik el, amely életfogytig tartó szabadságvesztéssel is büntethető bűncselekmény miatt folyik, a büntetés két évtől nyolc évig terjedő szabadságvesztés.",
           "act_id_abbreviations": [],
           "outgoing_references": [],
           "semantic_data": []
@@ -18842,33 +18949,14 @@
         },
         {
           "identifier": "2",
-          "text": "Aki abból a célból, hogy az ellene folytatott büntetőeljárás alól kivonja magát, a lakhelyelhagyási tilalom tartama alatt a számára kijelölt területet, körzetet vagy a házi őrizet tartama alatt a kijelölt lakást és az ahhoz tartozó bekerített helyet a kényszerintézkedés szabályainak megszegésével elhagyja, vétség miatt két évig terjedő szabadságvesztéssel büntetendő.",
+          "text": "Aki abból a célból, hogy az ellene folytatott büntetőeljárás alól kivonja magát, a bűnügyi felügyelet tartama alatt a számára meghatározott területet, lakást, egyéb helyiséget, intézményt, vagy ahhoz tartozó bekerített helyet a kényszerintézkedés szabályainak megszegésével elhagyja, vétség miatt két évig terjedő szabadságvesztéssel büntetendő.",
           "act_id_abbreviations": [],
           "outgoing_references": [],
           "semantic_data": []
         },
         {
           "identifier": "2a",
-          "intro": "A (2) bekezdés szerint büntetendő, aki abból a célból, hogy az ellene folytatott kiadatási vagy átadási eljárás alól kivonja magát,",
-          "children": [
-            {
-              "identifier": "a",
-              "text": "az ideiglenes kiadatási lakhelyelhagyási tilalom, illetve az ideiglenes átadási lakhelyelhagyási tilalom tartama alatt a számára kijelölt területet, körzetet, vagy",
-              "act_id_abbreviations": [],
-              "outgoing_references": [],
-              "semantic_data": [],
-              "__type__": "AlphabeticPoint"
-            },
-            {
-              "identifier": "b",
-              "text": "az ideiglenes kiadatási házi őrizet, illetve az ideiglenes átadási házi őrizet tartama alatt a számára kijelölt lakást és az ahhoz tartozó bekerített helyet",
-              "act_id_abbreviations": [],
-              "outgoing_references": [],
-              "semantic_data": [],
-              "__type__": "AlphabeticPoint"
-            }
-          ],
-          "wrap_up": "a kényszerintézkedés szabályainak megszegésével elhagyja.",
+          "text": "A (2) bekezdés szerint büntetendő, aki abból a célból, hogy az ellene folytatott kiadatási vagy átadási eljárás alól kivonja magát, az ideiglenes kiadatási, illetve az ideiglenes átadási bűnügyi felügyelet tartama alatt a számára meghatározott területet, lakást, egyéb helyiséget, intézményt, vagy ahhoz tartozó bekerített helyet a kényszerintézkedés szabályainak megszegésével elhagyja.",
           "act_id_abbreviations": [],
           "outgoing_references": [
             {
@@ -19071,7 +19159,7 @@
             },
             {
               "identifier": "c",
-              "text": "az információs rendszerben tárolt adatok megőrzésére kötelezéssel érintett adatot jogosulatlan személy számára hozzáférhetővé teszi, illetve azt az eljárás alól elvonja vagy módosítja,",
+              "text": "az elektronikus adat megőrzésére kötelezéssel érintett adatot jogosulatlan személy számára hozzáférhetővé teszi, illetve azt az eljárás alól elvonja vagy módosítja,",
               "act_id_abbreviations": [],
               "outgoing_references": [],
               "semantic_data": [],
@@ -19079,7 +19167,7 @@
             },
             {
               "identifier": "d",
-              "text": "a büntetőeljárás során hozzáférhetetlenné tett adatot jogosulatlan személy számára hozzáférhetővé teszi, illetve azt az eljárás alól elvonja vagy módosítja,",
+              "text": "a büntetőeljárás során ideiglenesen hozzáférhetetlenné tett elektronikus adatot jogosulatlan személy számára hozzáférhetővé teszi, illetve azt az eljárás alól elvonja vagy módosítja,",
               "act_id_abbreviations": [],
               "outgoing_references": [],
               "semantic_data": [],
@@ -19100,7 +19188,7 @@
         },
         {
           "identifier": "3",
-          "text": "A (2) bekezdésben meghatározott zártörés miatt nem büntethető az elkövető, ha a vádirat benyújtásáig a dolgot – állagának sérelme nélkül – az eljáró hatóságnak visszaszolgáltatja.",
+          "text": "A (2) bekezdésben meghatározott zártörés miatt nem büntethető az elkövető, ha a vádemelés előtt a dolgot – állagának sérelme nélkül – az eljáró hatóságnak visszaszolgáltatja.",
           "act_id_abbreviations": [],
           "outgoing_references": [
             {
@@ -19133,7 +19221,7 @@
         },
         {
           "identifier": "2",
-          "text": "Nem büntethető az elkövető, ha a vádirat benyújtásáig a végrehajtásból eredő, jogszabályban foglalt kötelezettségének eleget tesz.",
+          "text": "Nem büntethető az elkövető, ha a vádemelés előtt a végrehajtásból eredő, jogszabályban foglalt kötelezettségének eleget tesz.",
           "act_id_abbreviations": [],
           "outgoing_references": [],
           "semantic_data": []
@@ -20121,7 +20209,7 @@
         },
         {
           "identifier": "4",
-          "text": "Korlátlanul enyhíthető annak a büntetése, aki a (2) bekezdésben meghatározott bűncselekmény elkövetésének körülményeit a vádirat benyújtásáig a hatóság előtt feltárja.",
+          "text": "Korlátlanul enyhíthető annak a büntetése, aki a (2) bekezdésben meghatározott bűncselekmény elkövetésének körülményeit a vádemelés előtt a hatóság előtt feltárja.",
           "act_id_abbreviations": [],
           "outgoing_references": [
             {
@@ -20176,7 +20264,7 @@
         },
         {
           "identifier": "4",
-          "text": "Korlátlanul enyhíthető annak a büntetése, aki (2) bekezdésben meghatározott bűncselekmény elkövetésének körülményeit a vádirat benyújtásáig a hatóság előtt feltárja.",
+          "text": "Korlátlanul enyhíthető annak a büntetése, aki (2) bekezdésben meghatározott bűncselekmény elkövetésének körülményeit a vádemelés előtt a hatóság előtt feltárja.",
           "act_id_abbreviations": [],
           "outgoing_references": [
             {
@@ -20231,7 +20319,7 @@
         },
         {
           "identifier": "4",
-          "text": "Korlátlanul enyhíthető annak a büntetése, aki (2) bekezdésben meghatározott bűncselekmény elkövetésének körülményeit a vádirat benyújtásáig a hatóság előtt feltárja.",
+          "text": "Korlátlanul enyhíthető annak a büntetése, aki (2) bekezdésben meghatározott bűncselekmény elkövetésének körülményeit a vádemelés előtt a hatóság előtt feltárja.",
           "act_id_abbreviations": [],
           "outgoing_references": [
             {
@@ -20389,7 +20477,7 @@
     },
     {
       "identifier": "",
-      "title": "Jogosulatlan titkos információgyűjtés vagy adatszerzés",
+      "title": "Jogosulatlan titkos információgyűjtés vagy leplezett eszköz jogosulatlan alkalmazása",
       "__type__": "Subtitle"
     },
     {
@@ -20397,11 +20485,11 @@
       "children": [
         {
           "identifier": "1",
-          "intro": "Az a hivatalos személy, aki bíró vagy az igazságügyért felelős miniszter engedélyéhez kötött titkos információgyűjtést, illetve titkos adatszerzést",
+          "intro": "Az a hivatalos személy, aki",
           "children": [
             {
               "identifier": "a",
-              "text": "engedély nélkül végez, vagy az engedély kereteit túllépi,",
+              "text": "bíró vagy az igazságügyért felelős miniszter engedélyéhez kötött titkos információgyűjtést engedély nélkül végez, illetve bírói engedélyhez kötött leplezett eszközt engedély nélkül alkalmaz vagy az ezekre vonatkozó engedély kereteit túllépi,",
               "act_id_abbreviations": [],
               "outgoing_references": [],
               "semantic_data": [],
@@ -20409,7 +20497,7 @@
             },
             {
               "identifier": "b",
-              "text": "jogosulatlanul elrendel vagy engedélyez,",
+              "text": "bíró vagy az igazságügyért felelős miniszter engedélyéhez kötött titkos információgyűjtést, illetve bírói engedélyhez kötött leplezett eszköz alkalmazását jogosulatlanul elrendeli vagy engedélyezi,",
               "act_id_abbreviations": [],
               "outgoing_references": [],
               "semantic_data": [],
@@ -20423,7 +20511,7 @@
         },
         {
           "identifier": "2",
-          "text": "Az (1) bekezdés szerint büntetendő az a hivatalos személy, akinek valótlan tényállítása alapján bíró vagy az igazságügyért felelős miniszter engedélyéhez kötött titkos információgyűjtést, illetve titkos adatszerzést az arra jogosult elrendeli vagy engedélyezi.",
+          "text": "Az (1) bekezdés szerint büntetendő az a hivatalos személy, akinek valótlan tényállítása alapján a bíró vagy az igazságügyért felelős miniszter engedélyéhez kötött titkos információgyűjtést, illetve a bírói engedélyhez kötött leplezett eszköz alkalmazását elrendelik vagy engedélyezik.",
           "act_id_abbreviations": [],
           "outgoing_references": [
             {
@@ -20471,7 +20559,7 @@
           "children": [
             {
               "identifier": "a",
-              "text": "ügyészi jóváhagyás nélkül végez, vagy a jóváhagyás kereteit túllépi,",
+              "text": "ügyészségi jóváhagyás nélkül végez, vagy a jóváhagyás kereteit túllépi,",
               "act_id_abbreviations": [],
               "outgoing_references": [],
               "semantic_data": [],
@@ -28371,7 +28459,7 @@
         },
         {
           "identifier": "2",
-          "text": "Korlátlanul enyhíthető annak a büntetése, aki társadalombiztosítási, szociális vagy más jóléti juttatással visszaéléssel okozott kárt a vádirat benyújtásáig megtéríti.",
+          "text": "Korlátlanul enyhíthető annak a büntetése, aki társadalombiztosítási, szociális vagy más jóléti juttatással visszaéléssel okozott kárt a vádemelés előtt megtéríti.",
           "act_id_abbreviations": [],
           "outgoing_references": [],
           "semantic_data": []
@@ -28556,7 +28644,7 @@
         },
         {
           "identifier": "8",
-          "text": "Korlátlanul enyhíthető annak a büntetése, aki az (1)–(6) bekezdésében meghatározott költségvetési csalással okozott vagyoni hátrányt a vádirat benyújtásáig megtéríti. Ez a rendelkezés nem alkalmazható, ha a bűncselekményt bűnszövetségben vagy különös visszaesőként követik el.",
+          "text": "Korlátlanul enyhíthető annak a büntetése, aki az (1)–(6) bekezdésében meghatározott költségvetési csalással okozott vagyoni hátrányt a vádemelés előtt megtéríti. Ez a rendelkezés nem alkalmazható, ha a bűncselekményt bűnszövetségben vagy különös visszaesőként követik el.",
           "act_id_abbreviations": [],
           "outgoing_references": [
             {
@@ -29479,7 +29567,7 @@
         },
         {
           "identifier": "4",
-          "text": "Tartozás fedezetének elvonása miatt az elkövető nem büntethető, ha a tartozást a vádirat benyújtásáig kiegyenlíti.",
+          "text": "Tartozás fedezetének elvonása miatt az elkövető nem büntethető, ha a tartozást a vádemelés előtt kiegyenlíti.",
           "act_id_abbreviations": [],
           "outgoing_references": [],
           "semantic_data": []
@@ -30434,7 +30522,7 @@
         },
         {
           "identifier": "4",
-          "text": "Nem büntethető az (1)–(3) bekezdésben meghatározott bűncselekmény elkövetője, ha a cselekményt, mielőtt az a büntető ügyekben eljáró hatóság tudomására jutott volna, a hatóságnak bejelenti, és az elkövetés körülményeit feltárja.",
+          "text": "Nem büntethető az (1)–(3) bekezdésben meghatározott bűncselekmény elkövetője, ha a cselekményt, mielőtt az a büntetőügyekben eljáró hatóság tudomására jutott volna, a hatóságnak bejelenti, és az elkövetés körülményeit feltárja.",
           "act_id_abbreviations": [],
           "outgoing_references": [
             {
@@ -30540,7 +30628,7 @@
             },
             {
               "identifier": "b",
-              "text": "más lakásában, ahhoz tartozó egyéb helyiségében vagy az azokhoz tartozó bekerített helyen történteket technikai eszköz alkalmazásával megfigyeli vagy rögzíti,",
+              "text": "más lakásában, ahhoz tartozó egyéb helyiségében vagy az azokhoz tartozó bekerített helyen történteket technikai eszköz alkalmazásával titokban megfigyeli vagy rögzíti,",
               "act_id_abbreviations": [],
               "outgoing_references": [],
               "semantic_data": [],
@@ -30548,7 +30636,7 @@
             },
             {
               "identifier": "c",
-              "text": "más közlést tartalmazó zárt küldeményét felbontja vagy megszerzi, és annak tartalmát technikai eszközzel rögzíti,",
+              "text": "más postai küldeményét vagy egyéb zárt küldeményét titokban felbontja vagy megszerzi, és annak tartalmát technikai eszközzel rögzíti,",
               "act_id_abbreviations": [],
               "outgoing_references": [],
               "semantic_data": [],
@@ -30556,7 +30644,15 @@
             },
             {
               "identifier": "d",
-              "text": "elektronikus hírközlő hálózat – ideértve az információs rendszert is – útján másnak továbbított vagy azon tárolt adatot kifürkész, és az észlelteket technikai eszközzel rögzíti,",
+              "text": "elektronikus hírközlő hálózat vagy eszköz útján, illetve információs rendszeren folytatott kommunikáció tartalmát titokban kifürkészi, és az észlelteket technikai eszközzel rögzíti,",
+              "act_id_abbreviations": [],
+              "outgoing_references": [],
+              "semantic_data": [],
+              "__type__": "AlphabeticPoint"
+            },
+            {
+              "identifier": "e",
+              "text": "információs rendszerben kezelt adatokat titokban kifürkész, és az észlelteket technikai eszközzel rögzíti,",
               "act_id_abbreviations": [],
               "outgoing_references": [],
               "semantic_data": [],
@@ -30574,7 +30670,7 @@
           "children": [
             {
               "identifier": "a",
-              "text": "nyilvános vagy a közönség részére nyitva álló helyen kívül más helyiséget vagy területet, továbbá – a közösségi közlekedési eszköz kivételével – járművet titokban átkutat,",
+              "text": "nyilvános vagy a közönség részére nyitva álló helyen kívül más helyiséget vagy területet, – a közösségi közlekedési eszköz kivételével – járművet, továbbá más használatában levő tárgyat titokban átkutat,",
               "act_id_abbreviations": [],
               "outgoing_references": [],
               "semantic_data": [],
@@ -30603,7 +30699,7 @@
         },
         {
           "identifier": "2",
-          "text": "Az (1) bekezdés szerint büntetendő, aki fedett nyomozó vagy a bűnüldöző hatósággal, illetve titkosszolgálattal titkosan együttműködő személy kilétének vagy tevékenységének megállapítása céljából az (1) bekezdésben meghatározottakon kívül információt gyűjt.",
+          "text": "Az (1) bekezdés szerint büntetendő, aki fedett nyomozó, illetve titkos információgyűjtés folytatására vagy leplezett eszközök alkalmazására feljogosított szervvel titkosan együttműködő személy kilétének vagy tevékenységének megállapítása céljából az (1) bekezdésben meghatározottakon kívül információt gyűjt.",
           "act_id_abbreviations": [],
           "outgoing_references": [
             {
@@ -30614,8 +30710,8 @@
               }
             },
             {
-              "start_pos": 198,
-              "end_pos": 213,
+              "start_pos": 250,
+              "end_pos": 265,
               "reference": {
                 "paragraph": "1"
               }
@@ -30837,7 +30933,7 @@
         },
         {
           "identifier": "2",
-          "text": "Nem büntethető az (1) bekezdés a) pontjában meghatározott bűncselekmény elkövetője, ha – mielőtt a bűncselekmény elkövetéséhez szükséges vagy ezt megkönnyítő jelszó vagy számítástechnikai program készítése a büntető ügyekben eljáró hatóság tudomására jutott volna – tevékenységét a hatóság előtt felfedi, az elkészített dolgot a hatóságnak átadja, és lehetővé teszi a készítésben részt vevő más személy kilétének megállapítását.",
+          "text": "Nem büntethető az (1) bekezdés a) pontjában meghatározott bűncselekmény elkövetője, ha – mielőtt a bűncselekmény elkövetéséhez szükséges vagy ezt megkönnyítő jelszó vagy számítástechnikai program készítése a büntetőügyekben eljáró hatóság tudomására jutott volna – tevékenységét a hatóság előtt felfedi, az elkészített dolgot a hatóságnak átadja, és lehetővé teszi a készítésben részt vevő más személy kilétének megállapítását.",
           "act_id_abbreviations": [],
           "outgoing_references": [
             {
@@ -32842,7 +32938,7 @@
             },
             {
               "identifier": "9",
-              "text": "hatóság a bíróság és az ügyész is;",
+              "text": "hatóság a bíróság és az ügyészség is;",
               "act_id_abbreviations": [],
               "outgoing_references": [],
               "semantic_data": [],
@@ -34078,7 +34174,7 @@
             },
             {
               "identifier": "32",
-              "text": "nemzetközileg védett személy: az a külföldi hivatalos személy, aki a rá vonatkozó nemzetközi szerződés alapján nemzetközi jogon alapuló egyéb mentességet élvez.",
+              "text": "nemzetközileg védett személy: az a külföldi hivatalos személy, aki a rá vonatkozó nemzetközi szerződés alapján nemzetközi jogon alapuló   mentességet élvez.",
               "act_id_abbreviations": [],
               "outgoing_references": [],
               "semantic_data": [],
