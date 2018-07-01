@@ -37014,7 +37014,7 @@
         },
         {
           "identifier": "2",
-          "text": "A szerződést írásba kell foglalni; semmis a szerződés olyan kikötése, amelyet nem foglaltak írásba.",
+          "text": "A díjengedmény, illetve a kártérítési igény elévülése szempontjából a fogyasztónak nem minősülő megrendelőt is fogyasztónak kell tekinteni.",
           "act_id_abbreviations": [],
           "outgoing_references": [],
           "semantic_data": []
@@ -49388,7 +49388,7 @@
             },
             {
               "identifier": "d",
-              "text": "a szervezett utazási formákról szóló 1990. június 13-i 90/314/EGK tanácsi irányelvnek;",
+              "text": "az utazási csomagokról és az utazási szolgáltatásegyüttesekről, valamint a 2006/2004/EK rendelet és a 2011/83/EU európai parlamenti és tanácsi irányelv módosításáról, továbbá a 90/314/EGK tanácsi irányelv hatályon kívül helyezéséről szóló, 2015. november 25-i 2015/2302/EU európai parlamenti és tanácsi irányelvnek;",
               "act_id_abbreviations": [],
               "outgoing_references": [],
               "semantic_data": [],
