@@ -1858,7 +1858,22 @@
       "identifier": "2:44",
       "children": [
         {
-          "text": "A közügyek szabad vitatását biztosító alapjogok gyakorlása a közéleti szereplő személyiségi jogainak védelmét méltányolható közérdekből, szükséges és arányos mértékben, az emberi méltóság sérelme nélkül korlátozhatja.",
+          "identifier": "1",
+          "text": "A közügyek szabad vitatását biztosító alapjogok gyakorlása a közéleti szereplő személyiségi jogainak védelmét szükséges és arányos mértékben, az emberi méltóság sérelme nélkül korlátozhatja; azonban az nem járhat a magán-és családi életének, valamint otthonának sérelmével.",
+          "act_id_abbreviations": [],
+          "outgoing_references": [],
+          "semantic_data": []
+        },
+        {
+          "identifier": "2",
+          "text": "A közéleti szereplőt a közügyek szabad vitatásának körén kívül eső közléssel vagy magatartással szemben a nem közéleti szereplővel azonos védelem illeti meg.",
+          "act_id_abbreviations": [],
+          "outgoing_references": [],
+          "semantic_data": []
+        },
+        {
+          "identifier": "3",
+          "text": "Nem minősül közügynek a közéleti szereplő magán- vagy családi életével kapcsolatos tevékenység, illetve adat.",
           "act_id_abbreviations": [],
           "outgoing_references": [],
           "semantic_data": []
