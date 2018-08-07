@@ -15573,7 +15573,7 @@
             },
             {
               "identifier": "b",
-              "text": "nevelése, felügyelete, gondozása vagy gyógykezelése alatt álló személy sérelmére, illetve",
+              "text": "nevelése, felügyelete, gondozása vagy gyógykezelése alatt álló személy sérelmére,",
               "act_id_abbreviations": [],
               "outgoing_references": [],
               "semantic_data": [],
@@ -15581,7 +15581,15 @@
             },
             {
               "identifier": "c",
-              "text": "hatalmi vagy befolyási helyzetével visszaélve",
+              "text": "hatalmi vagy befolyási helyzetével visszaélve, illetve",
+              "act_id_abbreviations": [],
+              "outgoing_references": [],
+              "semantic_data": [],
+              "__type__": "AlphabeticPoint"
+            },
+            {
+              "identifier": "d",
+              "text": "hivatalos személy sérelmére, hivatali tevékenységével össze nem egyeztethető helyen vagy időben",
               "act_id_abbreviations": [],
               "outgoing_references": [],
               "semantic_data": [],
@@ -16624,6 +16632,38 @@
       "children": [
         {
           "text": "Ha a közlekedési balesettel érintett jármű vezetője a helyszínen nem áll meg, illetve onnan eltávozik, mielőtt meggyőződne arról, hogy valaki megsérült-e, illetve az életét vagy testi épségét közvetlenül fenyegető veszély miatt segítségnyújtásra szorul-e, ha súlyosabb bűncselekmény nem valósul meg, vétség miatt egy évig terjedő szabadságvesztéssel büntetendő.",
+          "act_id_abbreviations": [],
+          "outgoing_references": [],
+          "semantic_data": []
+        }
+      ],
+      "__type__": "Article"
+    },
+    {
+      "identifier": "",
+      "title": "Jogellenesen átalakított személyszállítást végző jármű vezetése",
+      "__type__": "Subtitle"
+    },
+    {
+      "identifier": "239/A",
+      "children": [
+        {
+          "identifier": "1",
+          "text": "Aki közúton, illetve közforgalom elől el nem zárt magánúton engedély nélkül vagy az engedélytől eltérően átalakított, a személyszállítási szolgáltatásokról szóló törvényben meghatározott közúti járművet vagy különleges személyszállító szolgáltatást nyújtó járművet vezet, ha súlyosabb bűncselekmény nem valósul meg, vétség miatt egy évig terjedő szabadságvesztéssel büntetendő.",
+          "act_id_abbreviations": [],
+          "outgoing_references": [],
+          "semantic_data": []
+        },
+        {
+          "identifier": "2",
+          "text": "A büntetés két évig terjedő szabadságvesztés, ha a bűncselekményt iskolabusszal vagy különleges igényű – így különösen mozgásában korlátozott, idős vagy beteg – személyek szállítására szolgáló közúti járművel követik el.",
+          "act_id_abbreviations": [],
+          "outgoing_references": [],
+          "semantic_data": []
+        },
+        {
+          "identifier": "3",
+          "text": "Aki az e §-ban meghatározott járművet engedély nélkül átalakít vagy átalakíttat, vétség miatt elzárással büntetendő.",
           "act_id_abbreviations": [],
           "outgoing_references": [],
           "semantic_data": []
