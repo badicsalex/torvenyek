@@ -1908,7 +1908,7 @@
       "children": [
         {
           "identifier": "1",
-          "text": "A magántitok védelme kiterjed különösen a levéltitok, a hivatásbeli titok és az üzleti titok oltalmára.",
+          "text": "A magántitok védelme kiterjed különösen a levéltitok és hivatásbeli titok oltalmára.",
           "act_id_abbreviations": [],
           "outgoing_references": [],
           "semantic_data": []
@@ -1928,47 +1928,12 @@
       "identifier": "2:47",
       "children": [
         {
-          "identifier": "1",
-          "text": "Üzleti titok a gazdasági tevékenységhez kapcsolódó minden nem közismert vagy az érintett gazdasági tevékenységet végző személyek számára nem könnyen hozzáférhető olyan tény, tájékoztatás, egyéb adat és az azokból készült összeállítás, amelynek illetéktelenek által történő megszerzése, hasznosítása, másokkal való közlése vagy nyilvánosságra hozatala a jogosult jogos pénzügyi, gazdasági vagy piaci érdekét sértené vagy veszélyeztetné, feltéve, hogy a titok megőrzésével kapcsolatban a vele jogszerűen rendelkező jogosultat felróhatóság nem terheli.",
-          "act_id_abbreviations": [],
-          "outgoing_references": [],
-          "semantic_data": []
-        },
-        {
-          "identifier": "2",
-          "intro": "Az üzleti titokkal azonos védelemben részesül az azonosításra alkalmas módon rögzített, vagyoni értéket képviselő műszaki, gazdasági vagy szervezési ismeret, tapasztalat vagy ezek összeállítása (e törvény alkalmazásában: védett ismeret), ha a jóhiszeműség és tisztesség elvét sértő módon szerzik meg, hasznosítják, közlik mással vagy hozzák nyilvánosságra. E védelemre nem lehet hivatkozni azzal szemben, aki a védett ismerethez vagy az azt lényegében helyettesítő hasonló ismerethez",
-          "children": [
-            {
-              "identifier": "a",
-              "text": "a jogosulttól független fejlesztéssel vagy",
-              "act_id_abbreviations": [],
-              "outgoing_references": [],
-              "semantic_data": [],
-              "__type__": "AlphabeticPoint"
-            },
-            {
-              "identifier": "b",
-              "text": "jogszerűen megszerzett termék vagy jogszerűen igénybevett szolgáltatás vizsgálata és elemzése útján",
-              "act_id_abbreviations": [],
-              "outgoing_references": [],
-              "semantic_data": [],
-              "__type__": "AlphabeticPoint"
-            }
-          ],
-          "wrap_up": "jutott hozzá.",
-          "act_id_abbreviations": [],
-          "outgoing_references": [],
-          "semantic_data": []
-        },
-        {
-          "identifier": "3",
-          "text": "Az üzleti titok megsértésére nem lehet hivatkozni azzal szemben, aki az üzleti titkot vagy a védett ismeretet harmadik személytől kereskedelmi forgalomban jóhiszeműen és ellenérték fejében szerezte meg.",
+          "text": " ",
           "act_id_abbreviations": [],
           "outgoing_references": [],
           "semantic_data": []
         }
       ],
-      "title": "Az üzleti titokhoz való jog. Know-how (védett ismeret)",
       "__type__": "Article"
     },
     {
@@ -2225,7 +2190,7 @@
       "identifier": "2:55",
       "children": [
         {
-          "text": "E törvényt kell alkalmazni a hatálya alá tartozó olyan kérdésekben, amelyeket a szerzői jogról és az iparjogvédelemről rendelkező törvények nem szabályoznak.",
+          "text": "E törvényt kell alkalmazni a hatálya alá tartozó olyan kérdésekben, amelyeket a szerzői jogról és az iparjogvédelemről, valamint az üzleti titok védelméről rendelkező törvények nem szabályoznak.",
           "act_id_abbreviations": [],
           "outgoing_references": [],
           "semantic_data": []
