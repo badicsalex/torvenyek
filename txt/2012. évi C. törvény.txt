@@ -1029,7 +1029,7 @@ A pártfogó felügyelet
                     továbbá a sértett által rendszeresen látogatott helytől tartsa távol
                     magát,
                c)   meghatározott jellegű nyilvános helyeket és nyilvános rendezvényeket,
-                    meghatározott közterületeket ne látogasson,
+                    valamint gyűléseket, meghatározott közterületeket ne látogasson,
                d)   nyilvános helyen ne fogyasszon szeszes italt,
                e)   meghatározott helyen és időközönként, meghatározott szervnél vagy
                     személynél jelentkezzen,
@@ -3556,12 +3556,33 @@ Közösség tagja elleni erőszak
           (4)  Aki a közösség tagja elleni erőszakra irányuló előkészületet követ el,
                vétség miatt két évig terjedő szabadságvesztéssel büntetendő.
 
-Az egyesülési, a gyülekezési szabadság, valamint a választási gyűlésen való részvétel
-jogának megsértése
+Az egyesülési és a gyülekezési szabadság megsértése
 
-217. §         Aki mást egyesülési vagy gyülekezési jogának gyakorlásában, valamint
-               választási gyűlésen való részvételében erőszakkal vagy fenyegetéssel
-               akadályoz, bűntett miatt három évig terjedő szabadságvesztéssel büntetendő.
+217. §    (1)  Aki mást egyesülési vagy gyülekezési jogának gyakorlásában erőszakkal vagy
+               fenyegetéssel akadályoz, bűntett miatt három évig terjedő
+               szabadságvesztéssel büntetendő.
+          (2)  Aki valamely gyűlést akadályoz, ellehetetlenít, vagy annak lebonyolítását
+               egyébként meghiúsítja, illetve a gyűlést súlyosan megzavarja, ha súlyosabb
+               bűncselekmény nem valósul meg, vétség miatt egy évig terjedő
+               szabadságvesztéssel büntetendő.
+
+217/A. §       Aki a gyűlésen a gyűlés szervezőjének, vezetőjének vagy a rendezőknek
+               rendezői feladataik jogszerű teljesítése során erőszakkal vagy
+               fenyegetéssel ellenszegül, vagy őket rendezői feladataik ellátása alatt
+               bántalmazza, ha más bűncselekmény nem valósul meg, vétség miatt két évig
+               terjedő szabadságvesztéssel büntetendő.
+
+217/B. §  (1)  Aki a gyűlés gyülekezési jogról szóló törvény szerinti békés jellegét
+               biztosító korlátozásait megsérti, ha súlyosabb bűncselekmény nem valósul
+               meg, vétség miatt egy évig terjedő szabadságvesztéssel büntetendő.
+          (2)  Az (1) bekezdés szerint büntetendő a gyűlés vezetője, ha az általa
+               alkalmazott rendező a gyűlés békés jellegét biztosító korlátozásokat
+               megsérti és annak tudomására jutásától haladéktalanul nem intézkedik a
+               rendező leváltásáról.
+
+217/C. §       Aki megtiltott gyűlést szervez, vagy azon való részvételre a gyülekezési
+               jogról szóló törvény szerint felhív, ha más bűncselekmény nem valósul meg,
+               vétség miatt egy évig terjedő szabadságvesztéssel büntetendő.
 
 Egészségügyi önrendelkezési jog megsértése
 
@@ -5593,13 +5614,13 @@ Garázdaság
                b)   a köznyugalmat súlyosan megzavarva,
                c)   fegyveresen,
                d)   felfegyverkezve vagy
-               e)   nyilvános rendezvényen
+               e)   nyilvános rendezvényen vagy gyűlésen
                követik el.
 
 Rendbontás
 
-340. §    (1)  Aki nyilvános rendezvény szervezőjének vagy rendezőjének a rend fenntartása
-               érdekében tett jogszerű intézkedésével szemben erőszakkal vagy
+340. §    (1)  Aki nyilvános rendezvény vagy gyűlés szervezőjének vagy rendezőjének a rend
+               fenntartása érdekében tett jogszerű intézkedésével szemben erőszakkal vagy
                fenyegetéssel ellenállást tanúsít, ha súlyosabb bűncselekmény nem valósul
                meg, vétség miatt két évig terjedő szabadságvesztéssel büntetendő.
           (2)  Ha súlyosabb bűncselekmény nem valósul meg, az (1) bekezdés szerint
@@ -5613,6 +5634,8 @@ Rendbontás
                b)   fegyveresen,
                c)   felfegyverkezve vagy
                d)   különös visszaesőként
+               e)   a gyűlés gyülekezési jogról szóló törvény szerinti békés jellegét
+                    biztosító korlátozásokat megsértve
                követik el.
           (4)  A különös visszaesés szempontjából hasonló jellegű bűncselekmény
                a)   a testi sértés [164. § (3)–(6) és (8) bekezdés],
@@ -8173,9 +8196,9 @@ ZÁRÓ RÉSZ
                          szóló Egyezmény 2. Cikk 2. pontjában meghatározott kazettás
                          lőszer, valamint 2. Cikk 13. pontjában meghatározott kisméretű
                          ejtőlőszer;
-               24.  nyilvános rendezvény: a gyülekezési jogról szóló törvény hatálya alá
-                    tartozó rendezvény, továbbá az olyan rendezvény, amely mindenki
-                    számára azonos feltételek mellett nyitva áll;
+               24.  gyűlés: a gyülekezési jogról szóló törvény hatálya alá tartozó gyűlés;
+               24a. nyilvános rendezvény: a gyűlés kivételével olyan rendezvény, amely
+                    mindenki számára azonos feltételek mellett nyitva áll;
                25.  prostitúció a rendszeres haszonszerzés céljából történő szexuális
                     cselekmény végzése;
                26.  személy elleni erőszakos bűncselekmény:
@@ -8194,9 +8217,8 @@ ZÁRÓ RÉSZ
                     e)   a szexuális kényszerítés (196. §), a szexuális erőszak [197. §
                          (1)–(4) bekezdés],
                     f)   a lelkiismeret és vallásszabadság megsértése (215. §), a közösség
-                         tagja elleni erőszak [216. § (2)–(3) bekezdés], az egyesülési, a
-                         gyülekezési szabadság, valamint a választási gyűlésen való
-                         részvétel jogának megsértése (217. §),
+                         tagja elleni erőszak [216. § (2)–(3) bekezdés], az egyesülési és
+                         a gyülekezési szabadság megsértése [217. § (1) bekezdés];
                     g)   az alkotmányos rend erőszakos megváltoztatása [254. § (1)
                          bekezdés], a lázadás [256. § (1)–(2) bekezdés],
                     h)   a bántalmazás hivatalos eljárásban [301. § (1)–(2) bekezdés], a

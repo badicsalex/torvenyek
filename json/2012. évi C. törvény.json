@@ -4112,7 +4112,7 @@
             },
             {
               "identifier": "c",
-              "text": "meghatározott jellegű nyilvános helyeket és nyilvános rendezvényeket, meghatározott közterületeket ne látogasson,",
+              "text": "meghatározott jellegű nyilvános helyeket és nyilvános rendezvényeket, valamint gyűléseket, meghatározott közterületeket ne látogasson,",
               "act_id_abbreviations": [],
               "outgoing_references": [],
               "semantic_data": [],
@@ -15172,14 +15172,74 @@
     },
     {
       "identifier": "",
-      "title": "Az egyesülési, a gyülekezési szabadság, valamint a választási gyűlésen való részvétel jogának megsértése",
+      "title": "Az egyesülési és a gyülekezési szabadság megsértése",
       "__type__": "Subtitle"
     },
     {
       "identifier": "217",
       "children": [
         {
-          "text": "Aki mást egyesülési vagy gyülekezési jogának gyakorlásában, valamint választási gyűlésen való részvételében erőszakkal vagy fenyegetéssel akadályoz, bűntett miatt három évig terjedő szabadságvesztéssel büntetendő.",
+          "identifier": "1",
+          "text": "Aki mást egyesülési vagy gyülekezési jogának gyakorlásában erőszakkal vagy fenyegetéssel akadályoz, bűntett miatt három évig terjedő szabadságvesztéssel büntetendő.",
+          "act_id_abbreviations": [],
+          "outgoing_references": [],
+          "semantic_data": []
+        },
+        {
+          "identifier": "2",
+          "text": "Aki valamely gyűlést akadályoz, ellehetetlenít, vagy annak lebonyolítását egyébként meghiúsítja, illetve a gyűlést súlyosan megzavarja, ha súlyosabb bűncselekmény nem valósul meg, vétség miatt egy évig terjedő szabadságvesztéssel büntetendő.",
+          "act_id_abbreviations": [],
+          "outgoing_references": [],
+          "semantic_data": []
+        }
+      ],
+      "__type__": "Article"
+    },
+    {
+      "identifier": "217/A",
+      "children": [
+        {
+          "text": "Aki a gyűlésen a gyűlés szervezőjének, vezetőjének vagy a rendezőknek rendezői feladataik jogszerű teljesítése során erőszakkal vagy fenyegetéssel ellenszegül, vagy őket rendezői feladataik ellátása alatt bántalmazza, ha más bűncselekmény nem valósul meg, vétség miatt két évig terjedő szabadságvesztéssel büntetendő.",
+          "act_id_abbreviations": [],
+          "outgoing_references": [],
+          "semantic_data": []
+        }
+      ],
+      "__type__": "Article"
+    },
+    {
+      "identifier": "217/B",
+      "children": [
+        {
+          "identifier": "1",
+          "text": "Aki a gyűlés gyülekezési jogról szóló törvény szerinti békés jellegét biztosító korlátozásait megsérti, ha súlyosabb bűncselekmény nem valósul meg, vétség miatt egy évig terjedő szabadságvesztéssel büntetendő.",
+          "act_id_abbreviations": [],
+          "outgoing_references": [],
+          "semantic_data": []
+        },
+        {
+          "identifier": "2",
+          "text": "Az (1) bekezdés szerint büntetendő a gyűlés vezetője, ha az általa alkalmazott rendező a gyűlés békés jellegét biztosító korlátozásokat megsérti és annak tudomására jutásától haladéktalanul nem intézkedik a rendező leváltásáról.",
+          "act_id_abbreviations": [],
+          "outgoing_references": [
+            {
+              "start_pos": 3,
+              "end_pos": 15,
+              "reference": {
+                "paragraph": "1"
+              }
+            }
+          ],
+          "semantic_data": []
+        }
+      ],
+      "__type__": "Article"
+    },
+    {
+      "identifier": "217/C",
+      "children": [
+        {
+          "text": "Aki megtiltott gyűlést szervez, vagy azon való részvételre a gyülekezési jogról szóló törvény szerint felhív, ha más bűncselekmény nem valósul meg, vétség miatt egy évig terjedő szabadságvesztéssel büntetendő.",
           "act_id_abbreviations": [],
           "outgoing_references": [],
           "semantic_data": []
@@ -23362,7 +23422,7 @@
             },
             {
               "identifier": "e",
-              "text": "nyilvános rendezvényen",
+              "text": "nyilvános rendezvényen vagy gyűlésen",
               "act_id_abbreviations": [],
               "outgoing_references": [],
               "semantic_data": [],
@@ -23387,7 +23447,7 @@
       "children": [
         {
           "identifier": "1",
-          "text": "Aki nyilvános rendezvény szervezőjének vagy rendezőjének a rend fenntartása érdekében tett jogszerű intézkedésével szemben erőszakkal vagy fenyegetéssel ellenállást tanúsít, ha súlyosabb bűncselekmény nem valósul meg, vétség miatt két évig terjedő szabadságvesztéssel büntetendő.",
+          "text": "Aki nyilvános rendezvény vagy gyűlés szervezőjének vagy rendezőjének a rend fenntartása érdekében tett jogszerű intézkedésével szemben erőszakkal vagy fenyegetéssel ellenállást tanúsít, ha súlyosabb bűncselekmény nem valósul meg, vétség miatt két évig terjedő szabadságvesztéssel büntetendő.",
           "act_id_abbreviations": [],
           "outgoing_references": [],
           "semantic_data": []
@@ -23438,6 +23498,14 @@
             {
               "identifier": "d",
               "text": "különös visszaesőként",
+              "act_id_abbreviations": [],
+              "outgoing_references": [],
+              "semantic_data": [],
+              "__type__": "AlphabeticPoint"
+            },
+            {
+              "identifier": "e",
+              "text": "a gyűlés gyülekezési jogról szóló törvény szerinti békés jellegét biztosító korlátozásokat megsértve",
               "act_id_abbreviations": [],
               "outgoing_references": [],
               "semantic_data": [],
@@ -33826,7 +33894,15 @@
             },
             {
               "identifier": "24",
-              "text": "nyilvános rendezvény: a gyülekezési jogról szóló törvény hatálya alá tartozó rendezvény, továbbá az olyan rendezvény, amely mindenki számára azonos feltételek mellett nyitva áll;",
+              "text": "gyűlés: a gyülekezési jogról szóló törvény hatálya alá tartozó gyűlés;",
+              "act_id_abbreviations": [],
+              "outgoing_references": [],
+              "semantic_data": [],
+              "__type__": "NumericPoint"
+            },
+            {
+              "identifier": "24a",
+              "text": "nyilvános rendezvény: a gyűlés kivételével olyan rendezvény, amely mindenki számára azonos feltételek mellett nyitva áll;",
               "act_id_abbreviations": [],
               "outgoing_references": [],
               "semantic_data": [],
@@ -34057,7 +34133,7 @@
                 },
                 {
                   "identifier": "f",
-                  "text": "a lelkiismeret és vallásszabadság megsértése (215. §), a közösség tagja elleni erőszak [216. § (2)–(3) bekezdés], az egyesülési, a gyülekezési szabadság, valamint a választási gyűlésen való részvétel jogának megsértése (217. §),",
+                  "text": "a lelkiismeret és vallásszabadság megsértése (215. §), a közösség tagja elleni erőszak [216. § (2)–(3) bekezdés], az egyesülési és a gyülekezési szabadság megsértése [217. § (1) bekezdés];",
                   "act_id_abbreviations": [],
                   "outgoing_references": [
                     {
@@ -34079,10 +34155,11 @@
                       }
                     },
                     {
-                      "start_pos": 220,
-                      "end_pos": 226,
+                      "start_pos": 167,
+                      "end_pos": 186,
                       "reference": {
-                        "article": "217"
+                        "article": "217",
+                        "paragraph": "1"
                       }
                     }
                   ],
