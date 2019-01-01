@@ -4350,7 +4350,7 @@
             },
             {
               "identifier": "c",
-              "text": "kábítószer-kereskedelem, kábítószer birtoklása, kábítószer készítésének elősegítése, kábítószer előállításához szükséges anyaggal visszaélés, új pszichoaktív anyaggal visszaélés, teljesítményfokozó szerrel visszaélés, egészségügyi termék hamisítása, méreggel visszaélés, ártalmas közfogyasztási cikkel visszaélés, természetkárosítás, állatkínzás, orvhalászat, orvvadászat, tiltott állatviadal szervezése, ózonréteget lebontó anyaggal visszaélés, radioaktív anyaggal visszaélés, nukleáris létesítmény üzemeltetésével visszaélés, robbanóanyaggal vagy robbantószerrel visszaélés, lőfegyverrel vagy lőszerrel visszaélés, nemzetközi szerződés által tiltott fegyverrel visszaélés, haditechnikai termékkel vagy szolgáltatással visszaélés, kettős felhasználású termékkel visszaélés vagy veszélyes eb tartásával kapcsolatos kötelezettség megszegése esetén.",
+              "text": "kábítószer-kereskedelem, kábítószer birtoklása, kábítószer készítésének elősegítése, kábítószer előállításához szükséges anyaggal visszaélés, új pszichoaktív anyaggal visszaélés, teljesítményfokozó szerrel visszaélés, gyógyszerhamisítás, egészségügyi termék hamisítása, méreggel visszaélés, ártalmas közfogyasztási cikkel visszaélés, természetkárosítás, állatkínzás, orvhalászat, orvvadászat, tiltott állatviadal szervezése, ózonréteget lebontó anyaggal visszaélés, radioaktív anyaggal visszaélés, nukleáris létesítmény üzemeltetésével visszaélés, robbanóanyaggal vagy robbantószerrel visszaélés, lőfegyverrel vagy lőszerrel visszaélés, nemzetközi szerződés által tiltott fegyverrel visszaélés, haditechnikai termékkel vagy szolgáltatással visszaélés, kettős felhasználású termékkel visszaélés vagy veszélyes eb tartásával kapcsolatos kötelezettség megszegése esetén.",
               "act_id_abbreviations": [],
               "outgoing_references": [],
               "semantic_data": [],
@@ -12629,6 +12629,287 @@
     },
     {
       "identifier": "",
+      "title": "Gyógyszerhamisítás",
+      "__type__": "Subtitle"
+    },
+    {
+      "identifier": "185/A",
+      "children": [
+        {
+          "identifier": "1",
+          "intro": "Aki",
+          "children": [
+            {
+              "identifier": "a",
+              "text": "gyógyszert vagy állatgyógyászati készítményt meghamisít, illetve hamis gyógyszert vagy állatgyógyászati készítményt készít,",
+              "act_id_abbreviations": [],
+              "outgoing_references": [],
+              "semantic_data": [],
+              "__type__": "AlphabeticPoint"
+            },
+            {
+              "identifier": "b",
+              "text": "hamis, meghamisított vagy Magyarországon nem engedélyezett gyógyszert vagy állatgyógyászati készítményt forgalomba hoz, vagy azzal kereskedik, illetve indokolatlan mennyiségben kínál, átad,",
+              "act_id_abbreviations": [],
+              "outgoing_references": [],
+              "semantic_data": [],
+              "__type__": "AlphabeticPoint"
+            },
+            {
+              "identifier": "c",
+              "text": "hamis vagy meghamisított gyógyszert vagy állatgyógyászati készítményt az ország területére behoz, onnan kivisz, azon átszállít, vagy indokolatlan mennyiségben megszerez, tart,",
+              "act_id_abbreviations": [],
+              "outgoing_references": [],
+              "semantic_data": [],
+              "__type__": "AlphabeticPoint"
+            },
+            {
+              "identifier": "d",
+              "text": "Magyarországon nem engedélyezett gyógyszert vagy állatgyógyászati készítményt indokolatlan mennyiségben megszerez, tart, az ország területére behoz, onnan kivisz, azon átszállít,",
+              "act_id_abbreviations": [],
+              "outgoing_references": [],
+              "semantic_data": [],
+              "__type__": "AlphabeticPoint"
+            },
+            {
+              "identifier": "e",
+              "text": "gyógyszerhez vagy állatgyógyászati készítményhez kapcsolódó eredeti dokumentumot kereskedelmi céllal rendeltetésétől eltérően felhasznál,",
+              "act_id_abbreviations": [],
+              "outgoing_references": [],
+              "semantic_data": [],
+              "__type__": "AlphabeticPoint"
+            }
+          ],
+          "wrap_up": "bűntett miatt három évig terjedő szabadságvesztéssel büntetendő.",
+          "act_id_abbreviations": [],
+          "outgoing_references": [],
+          "semantic_data": []
+        },
+        {
+          "identifier": "2",
+          "text": "Ha az (1) bekezdésben meghatározott bűncselekményt az 1979. évi 25. törvényerejű rendelettel kihirdetett, a pszichotróp anyagokról szóló, Bécsben, az 1971. évi február hó 21. napján aláírt egyezmény mellékletének III. vagy IV. Jegyzékében meghatározott pszichotróp anyag tartalmú gyógyszerre, illetve a bejelentési kötelezettség megsértésével, engedély nélkül vagy az engedély kereteit túllépve ilyen gyógyszer hatóanyagára követik el, a büntetés egy évtől öt évig terjedő szabadságvesztés.",
+          "act_id_abbreviations": [],
+          "outgoing_references": [
+            {
+              "start_pos": 6,
+              "end_pos": 21,
+              "reference": {
+                "paragraph": "1"
+              }
+            }
+          ],
+          "semantic_data": []
+        },
+        {
+          "identifier": "3",
+          "intro": "A büntetés az (1) bekezdés a) és b) pontjában meghatározott esetekben",
+          "children": [
+            {
+              "identifier": "a",
+              "text": "egy évtől öt évig terjedő szabadságvesztés, ha a bűncselekmény maradandó fogyatékosságot vagy súlyos egészségromlást,",
+              "act_id_abbreviations": [],
+              "outgoing_references": [],
+              "semantic_data": [],
+              "__type__": "AlphabeticPoint"
+            },
+            {
+              "identifier": "b",
+              "text": "két évtől nyolc évig terjedő szabadságvesztés, ha a bűncselekmény halált",
+              "act_id_abbreviations": [],
+              "outgoing_references": [],
+              "semantic_data": [],
+              "__type__": "AlphabeticPoint"
+            }
+          ],
+          "wrap_up": "okoz.",
+          "act_id_abbreviations": [],
+          "outgoing_references": [
+            {
+              "start_pos": 14,
+              "end_pos": 45,
+              "reference": {
+                "paragraph": "1",
+                "point": [
+                  "a",
+                  "b"
+                ]
+              }
+            }
+          ],
+          "semantic_data": []
+        },
+        {
+          "identifier": "4",
+          "intro": "A büntetés a (2) bekezdésben meghatározott esetben",
+          "children": [
+            {
+              "identifier": "a",
+              "text": "két évtől nyolc évig terjedő szabadságvesztés, ha az (1) bekezdés a) vagy b) pontja szerinti bűncselekmény maradandó fogyatékosságot vagy súlyos egészségromlást,",
+              "act_id_abbreviations": [],
+              "outgoing_references": [
+                {
+                  "start_pos": 53,
+                  "end_pos": 83,
+                  "reference": {
+                    "paragraph": "1",
+                    "point": [
+                      "a",
+                      "b"
+                    ]
+                  }
+                }
+              ],
+              "semantic_data": [],
+              "__type__": "AlphabeticPoint"
+            },
+            {
+              "identifier": "b",
+              "text": "öt évtől tíz évig terjedő szabadságvesztés, ha az (1) bekezdés a) vagy b) pontja szerinti bűncselekmény halált",
+              "act_id_abbreviations": [],
+              "outgoing_references": [
+                {
+                  "start_pos": 50,
+                  "end_pos": 80,
+                  "reference": {
+                    "paragraph": "1",
+                    "point": [
+                      "a",
+                      "b"
+                    ]
+                  }
+                }
+              ],
+              "semantic_data": [],
+              "__type__": "AlphabeticPoint"
+            }
+          ],
+          "wrap_up": "okoz.",
+          "act_id_abbreviations": [],
+          "outgoing_references": [
+            {
+              "start_pos": 13,
+              "end_pos": 28,
+              "reference": {
+                "paragraph": "2"
+              }
+            }
+          ],
+          "semantic_data": []
+        },
+        {
+          "identifier": "5",
+          "intro": "Aki a bűncselekményt",
+          "children": [
+            {
+              "identifier": "a",
+              "text": "egészségügyi dolgozóként,",
+              "act_id_abbreviations": [],
+              "outgoing_references": [],
+              "semantic_data": [],
+              "__type__": "AlphabeticPoint"
+            },
+            {
+              "identifier": "b",
+              "text": "gyártásra, nagykereskedelemre, közvetlen lakossági ellátás végzésére engedéllyel rendelkező szervezet alkalmazottjaként, vagy",
+              "act_id_abbreviations": [],
+              "outgoing_references": [],
+              "semantic_data": [],
+              "__type__": "AlphabeticPoint"
+            },
+            {
+              "identifier": "c",
+              "text": "bűnszövetségben",
+              "act_id_abbreviations": [],
+              "outgoing_references": [],
+              "semantic_data": [],
+              "__type__": "AlphabeticPoint"
+            }
+          ],
+          "wrap_up": "követi el, az (1) bekezdésben meghatározott esetben egy évtől öt évig terjedő szabadságvesztéssel, a (2) bekezdésben meghatározott esetben két évtől nyolc évig terjedő szabadságvesztéssel büntetendő.",
+          "act_id_abbreviations": [],
+          "outgoing_references": [],
+          "semantic_data": []
+        },
+        {
+          "identifier": "6",
+          "text": "Az (5) bekezdés szerint büntetendő, ha a hamis, meghamisított vagy Magyarországon nem engedélyezett gyógyszer vagy állatgyógyászati készítmény a felhasználók számára széles körben válik hozzáférhetővé.",
+          "act_id_abbreviations": [],
+          "outgoing_references": [
+            {
+              "start_pos": 3,
+              "end_pos": 15,
+              "reference": {
+                "paragraph": "5"
+              }
+            }
+          ],
+          "semantic_data": []
+        },
+        {
+          "identifier": "7",
+          "text": "Aki az (1)–(6) bekezdésben meghatározott gyógyszerhamisításra irányuló előkészületet követ el, vétség miatt egy évig terjedő szabadságvesztéssel büntetendő.",
+          "act_id_abbreviations": [],
+          "outgoing_references": [
+            {
+              "start_pos": 7,
+              "end_pos": 26,
+              "reference": {
+                "paragraph": [
+                  "1",
+                  "6"
+                ]
+              }
+            }
+          ],
+          "semantic_data": []
+        },
+        {
+          "identifier": "8",
+          "intro": "E § alkalmazásában",
+          "children": [
+            {
+              "identifier": "a",
+              "text": "indokolatlan mennyiség alatt olyan mennyiséget kell érteni, amelyről megállapítható, hogy nem valamely meghatározott személy személyes szükségleteinek kielégítését célozza,",
+              "act_id_abbreviations": [],
+              "outgoing_references": [],
+              "semantic_data": [],
+              "__type__": "AlphabeticPoint"
+            },
+            {
+              "identifier": "b",
+              "text": "Magyarországon nem engedélyezett gyógyszer vagy állatgyógyászati készítmény alatt érteni kell azt a terméket is, amelyben gyógyszerhatóanyagot az adott termék összetételére vonatkozó jogszabályi előírások megsértésével használnak fel. Engedélyezett gyógyszernek kell tekinteni azt a magyarországi forgalombahozatali engedéllyel nem rendelkező gyógyszert is, amelyre nézve olyan, az (1) bekezdés b) vagy d) pontjában meghatározott magatartást fejtenek ki, amely jogszabályban előírt hatósági engedély birtokában vagy bejelentést követően jogszerűen végezhető.",
+              "act_id_abbreviations": [],
+              "outgoing_references": [
+                {
+                  "start_pos": 382,
+                  "end_pos": 397,
+                  "reference": {
+                    "paragraph": "1",
+                    "point": "b"
+                  }
+                },
+                {
+                  "start_pos": 403,
+                  "end_pos": 415,
+                  "reference": {
+                    "paragraph": "1",
+                    "point": "d"
+                  }
+                }
+              ],
+              "semantic_data": [],
+              "__type__": "AlphabeticPoint"
+            }
+          ],
+          "act_id_abbreviations": [],
+          "outgoing_references": [],
+          "semantic_data": []
+        }
+      ],
+      "__type__": "Article"
+    },
+    {
+      "identifier": "",
       "title": "Egészségügyi termék hamisítása",
       "__type__": "Subtitle"
     },
@@ -12804,7 +13085,7 @@
           "children": [
             {
               "identifier": "a",
-              "text": "egészségügyi termék: a gyógyszer, az állatgyógyászati készítmény, az orvostechnikai eszköz, az in vitro diagnosztikai orvostechnikai eszköz és a vizsgálati készítmény;",
+              "text": "egészségügyi termék:   az orvostechnikai eszköz, az in vitro diagnosztikai orvostechnikai eszköz és a vizsgálati készítmény;",
               "act_id_abbreviations": [],
               "outgoing_references": [],
               "semantic_data": [],
@@ -12820,26 +13101,9 @@
             },
             {
               "identifier": "c",
-              "text": "Magyarországon nem engedélyezett egészségügyi termék alatt érteni kell a megfelelőség értékelési eljárás lefolytatása nélkül forgalomba hozott orvostechnikai eszközt is, továbbá azt a terméket is, amelyben gyógyszerhatóanyagot az adott termék összetételére vonatkozó jogszabályi előírások megsértésével használnak fel. Engedélyezett egészségügyi terméknek kell tekinteni azt a magyarországi forgalombahozatali engedéllyel nem rendelkező gyógyszert is, amelyre nézve olyan az (1) bekezdés b) vagy d) pontjában meghatározott magatartást fejtenek ki, amely jogszabályban előírt hatósági engedély birtokában vagy bejelentést követően jogszerűen végezhető.",
+              "text": "Magyarországon nem engedélyezett egészségügyi termék alatt érteni kell a megfelelőség értékelési eljárás lefolytatása nélkül forgalomba hozott orvostechnikai eszközt is .",
               "act_id_abbreviations": [],
-              "outgoing_references": [
-                {
-                  "start_pos": 475,
-                  "end_pos": 490,
-                  "reference": {
-                    "paragraph": "1",
-                    "point": "b"
-                  }
-                },
-                {
-                  "start_pos": 496,
-                  "end_pos": 508,
-                  "reference": {
-                    "paragraph": "1",
-                    "point": "d"
-                  }
-                }
-              ],
+              "outgoing_references": [],
               "semantic_data": [],
               "__type__": "AlphabeticPoint"
             }
@@ -35623,6 +35887,22 @@
                   "end_pos": 70,
                   "reference": {
                     "article": "331"
+                  }
+                }
+              ],
+              "semantic_data": [],
+              "__type__": "AlphabeticPoint"
+            },
+            {
+              "identifier": "n",
+              "text": "185/A. §-a a 2004/757/IB tanácsi kerethatározatnak a kábítószer fogalommeghatározása új pszichoaktív anyagokkal való kiegészítése céljából történő módosításáról és a 2005/387/IB tanácsi határozat hatályon kívül helyezéséről szóló, 2017. november 15-i 2017/2103/EU európai parlamenti és tanácsi irányelvnek",
+              "act_id_abbreviations": [],
+              "outgoing_references": [
+                {
+                  "start_pos": 0,
+                  "end_pos": 10,
+                  "reference": {
+                    "article": "185/A"
                   }
                 }
               ],
