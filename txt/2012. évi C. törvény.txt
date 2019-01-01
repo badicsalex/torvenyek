@@ -8089,15 +8089,12 @@ ZÁRÓ RÉSZ
                     k)   az Alkotmánybíróságnál, a Köztársasági Elnök Hivatalánál, az
                          Országgyűlés Hivatalánál, az Alapvető Jogok Biztosának
                          Hivatalánál, a Magyar Nemzeti Banknál, az Állami Számvevőszéknél,
-                         bíróságnál, ügyészségnél, minisztériumnál, autonóm
-                         államigazgatási szervnél, kormányhivatalnál, központi hivatalnál,
-                         önálló szabályozó szervnél, rendvédelmi szervnél, a Katonai
-                         Nemzetbiztonsági Szolgálatnál, az Országgyűlési Őrségnél,
-                         fővárosi vagy megyei kormányhivatalnál, önkormányzati igazgatási
-                         szervnél, megyei intézményfenntartó központnál vagy
-                         köztestületnél közhatalmi feladatot ellátó vagy szolgálatot
-                         teljesítő személy, akinek a tevékenysége a szerv rendeltetésszerű
-                         működéséhez tartozik;
+                         bíróságnál, ügyészségnél, központi államigazgatási szervnél, az
+                         Országgyűlési Őrségnél, fővárosi vagy megyei kormányhivatalnál,
+                         önkormányzati igazgatási szervnél, megyei intézményfenntartó
+                         központnál vagy köztestületnél közhatalmi feladatot ellátó vagy
+                         szolgálatot teljesítő személy, akinek a tevékenysége a szerv
+                         rendeltetésszerű működéséhez tartozik;
                     l)   a választási bizottság tagja;
                12.  közfeladatot ellátó személy:
                     a)   a Magyar Honvédség szolgálati feladatot teljesítő katonája,
