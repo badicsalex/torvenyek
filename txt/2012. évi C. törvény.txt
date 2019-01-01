@@ -4372,9 +4372,6 @@ Minősített adattal visszaélés
                kiterjed arra az adatra is, amelynek a minősítését kezdeményezték, de a
                bűncselekmény elkövetésekor a minősítési eljárást még nem fejezték be, és
                erről az elkövető tudomással bír.
-          (2)  Minősített adattal visszaélés miatt büntetőeljárásnak csak a minősített
-               adat védelméről szóló törvényben az adott adatfajta minősítésére jogosult
-               szerv vagy személy feljelentése alapján van helye.
 
 A nemzeti adatvagyon körébe tartozó állami nyilvántartás elleni bűncselekmény
 
@@ -5231,17 +5228,17 @@ Terrorizmus finanszírozása
                l)   a lőfegyverrel vagy lőszerrel visszaélés (325. §, ha a cselekményt
                     közérdekű üzem, illetve középület vagy építmény területén követik el).
 
-318/B. §       A 318. § és a 318/A. § alkalmazásában anyagi eszközön a terrorizmus
-               leküzdése érdekében egyes személyekkel és szervezetekkel szemben hozott
-               különleges korlátozó intézkedésekről szóló, 2001. december 27-i
-               2580/2001/EK tanácsi rendelet 1. cikk 1. pontjában meghatározott
-               eszközöket, jogi dokumentumokat és okiratokat kell érteni.
 
 Értelmező rendelkezés
 
-319. §         A 314–315. §, a 316/A. § és a 318. § alkalmazásában terrorista csoport a
+319. §    (1)  A 314–315. §, a 316/A. § és a 318. § alkalmazásában terrorista csoport a
                három vagy több személyből álló, hosszabb időre szervezett, összehangoltan
                működő csoport, amelynek célja terrorcselekmény elkövetése.
+          (2)  A 316/A. §, a 318. § és a 318/A. § alkalmazásában anyagi eszközön a
+               terrorizmus leküzdése érdekében egyes személyekkel és szervezetekkel
+               szemben hozott különleges korlátozó intézkedésekről szóló, 2001. december
+               27-i 2580/2001/EK tanácsi rendelet 1. cikk 1. pontjában meghatározott
+               eszközöket, jogi dokumentumokat és okiratokat kell érteni.
 
 Jármű hatalomba kerítése
 

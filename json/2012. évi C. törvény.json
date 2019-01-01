@@ -18137,7 +18137,7 @@
         },
         {
           "identifier": "2",
-          "text": "Minősített adattal visszaélés miatt büntetőeljárásnak csak a minősített adat védelméről szóló törvényben az adott adatfajta minősítésére jogosult szerv vagy személy feljelentése alapján van helye.",
+          "text": " ",
           "act_id_abbreviations": [],
           "outgoing_references": [],
           "semantic_data": []
@@ -21940,31 +21940,9 @@
       "identifier": "318/B",
       "children": [
         {
-          "text": "A 318. § és a 318/A. § alkalmazásában anyagi eszközön a terrorizmus leküzdése érdekében egyes személyekkel és szervezetekkel szemben hozott különleges korlátozó intézkedésekről szóló, 2001. december 27-i 2580/2001/EK tanácsi rendelet 1. cikk 1. pontjában meghatározott eszközöket, jogi dokumentumokat és okiratokat kell érteni.",
+          "text": " ",
           "act_id_abbreviations": [],
-          "outgoing_references": [
-            {
-              "start_pos": 2,
-              "end_pos": 8,
-              "reference": {
-                "article": "318"
-              }
-            },
-            {
-              "start_pos": 14,
-              "end_pos": 22,
-              "reference": {
-                "article": "318/A"
-              }
-            },
-            {
-              "start_pos": 242,
-              "end_pos": 254,
-              "reference": {
-                "point": "1"
-              }
-            }
-          ],
+          "outgoing_references": [],
           "semantic_data": []
         }
       ],
@@ -21979,6 +21957,7 @@
       "identifier": "319",
       "children": [
         {
+          "identifier": "1",
           "text": "A 314–315. §, a 316/A. § és a 318. § alkalmazásában terrorista csoport a három vagy több személyből álló, hosszabb időre szervezett, összehangoltan működő csoport, amelynek célja terrorcselekmény elkövetése.",
           "act_id_abbreviations": [],
           "outgoing_references": [
@@ -22004,6 +21983,42 @@
               "end_pos": 36,
               "reference": {
                 "article": "318"
+              }
+            }
+          ],
+          "semantic_data": []
+        },
+        {
+          "identifier": "2",
+          "text": "A 316/A. §, a 318. § és a 318/A. § alkalmazásában anyagi eszközön a terrorizmus leküzdése érdekében egyes személyekkel és szervezetekkel szemben hozott különleges korlátozó intézkedésekről szóló, 2001. december 27-i 2580/2001/EK tanácsi rendelet 1. cikk 1. pontjában meghatározott eszközöket, jogi dokumentumokat és okiratokat kell érteni.",
+          "act_id_abbreviations": [],
+          "outgoing_references": [
+            {
+              "start_pos": 2,
+              "end_pos": 10,
+              "reference": {
+                "article": "316/A"
+              }
+            },
+            {
+              "start_pos": 14,
+              "end_pos": 20,
+              "reference": {
+                "article": "318"
+              }
+            },
+            {
+              "start_pos": 26,
+              "end_pos": 34,
+              "reference": {
+                "article": "318/A"
+              }
+            },
+            {
+              "start_pos": 254,
+              "end_pos": 266,
+              "reference": {
+                "point": "1"
               }
             }
           ],
