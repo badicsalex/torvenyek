@@ -24492,17 +24492,9 @@
         },
         {
           "identifier": "2",
-          "text": "Az (1) bekezdés szerint büntetendő, aki nemzetiségi önkormányzati képviselőjelöltként történő nyilvántartásba vételhez szükséges nyilatkozatában korábbi nemzetiségi önkormányzati képviselőjelöltségére vonatkozóan valótlan tartalmú nyilatkozatot tesz.",
+          "text": " ",
           "act_id_abbreviations": [],
-          "outgoing_references": [
-            {
-              "start_pos": 3,
-              "end_pos": 15,
-              "reference": {
-                "paragraph": "1"
-              }
-            }
-          ],
+          "outgoing_references": [],
           "semantic_data": []
         }
       ],
