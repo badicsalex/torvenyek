@@ -30831,7 +30831,68 @@
         },
         {
           "identifier": "6",
-          "text": "E § alkalmazásában rossz minőségű a termék, ha a jogszabályban vagy az Európai Unió közvetlenül alkalmazandó jogi aktusában előírt biztonságossági vagy minőségi követelményeknek nem felel meg, ilyen előírás hiányában akkor, ha a termék rendeltetésszerűen nem használható, vagy használhatósága jelentős mértékben csökkent.",
+          "intro": "E § alkalmazásában rossz minőségű a termék,",
+          "children": [
+            {
+              "identifier": "a",
+              "text": "ha a jogszabályban vagy az Európai Unió általános hatályú közvetlenül alkalmazandó jogi aktusában előírt biztonságossági vagy minőségi követelményeknek nem felel meg, vagy",
+              "act_id_abbreviations": [],
+              "outgoing_references": [],
+              "semantic_data": [],
+              "__type__": "AlphabeticPoint"
+            },
+            {
+              "identifier": "b",
+              "intro": "az a) pontban meghatározott előírás hiányában akkor, ha",
+              "children": [
+                {
+                  "identifier": "ba",
+                  "text": "az emberi fogyasztás céljára előállított termék emberi fogyasztásra való alkalmatlanságát elfedték,",
+                  "act_id_abbreviations": [],
+                  "outgoing_references": [],
+                  "semantic_data": [],
+                  "__type__": "AlphabeticSubpoint"
+                },
+                {
+                  "identifier": "bb",
+                  "text": "a termék minőségmegőrzési, fogyaszthatósági, illetve felhasználhatósági idejét jogellenesen meghosszabbították,",
+                  "act_id_abbreviations": [],
+                  "outgoing_references": [],
+                  "semantic_data": [],
+                  "__type__": "AlphabeticSubpoint"
+                },
+                {
+                  "identifier": "bc",
+                  "text": "a terméket nem megengedett összetevő felhasználásával állították elő,",
+                  "act_id_abbreviations": [],
+                  "outgoing_references": [],
+                  "semantic_data": [],
+                  "__type__": "AlphabeticSubpoint"
+                },
+                {
+                  "identifier": "bd",
+                  "text": "a terméket emberi fogyasztásra nem alkalmas anyagokból vagy termékekből állították elő emberi fogyasztás céljára, vagy",
+                  "act_id_abbreviations": [],
+                  "outgoing_references": [],
+                  "semantic_data": [],
+                  "__type__": "AlphabeticSubpoint"
+                }
+              ],
+              "act_id_abbreviations": [],
+              "outgoing_references": [
+                {
+                  "start_pos": 3,
+                  "end_pos": 13,
+                  "reference": {
+                    "point": "a"
+                  }
+                }
+              ],
+              "semantic_data": [],
+              "__type__": "AlphabeticPoint"
+            }
+          ],
+          "wrap_up": "be) a termék rendeltetésszerűen nem használható, vagy használhatósága jelentős mértékben csökkent.",
           "act_id_abbreviations": [],
           "outgoing_references": [],
           "semantic_data": []
@@ -30945,7 +31006,7 @@
                 },
                 {
                   "identifier": "ab",
-                  "text": "az áru eredete, származási helye,",
+                  "text": "az áru eredete, származási helye és előállításának módja,",
                   "act_id_abbreviations": [],
                   "outgoing_references": [],
                   "semantic_data": [],
@@ -33390,7 +33451,7 @@
           "children": [
             {
               "identifier": "1",
-              "text": "bűnszervezet: három vagy több személyből álló, hosszabb időre szervezett, összehangoltan működő csoport, amelynek célja ötévi vagy ezt meghaladó szabadságvesztéssel büntetendő szándékos bűncselekmények elkövetése;",
+              "text": "bűnszervezet: legalább három személyből álló, hosszabb időre, hierarchikusan szervezett, konspiratívan működő csoport, amelynek célja ötévi vagy ezt meghaladó szabadságvesztéssel büntetendő szándékos bűncselekmények elkövetése;",
               "act_id_abbreviations": [],
               "outgoing_references": [],
               "semantic_data": [],
