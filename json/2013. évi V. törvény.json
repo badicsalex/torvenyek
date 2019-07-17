@@ -10838,13 +10838,20 @@
         },
         {
           "identifier": "2",
-          "text": "Nyilvánosan működő részvénytársaság esetén a közgyűlés kizárólagos hatáskörébe tartozik a vezető tisztségviselők, felügyelőbizottsági tagok, valamint vezető állású munkavállalók hosszú távú díjazása és ösztönzési rendszere irányelveinek meghatározása.",
+          "text": "Nyilvánosan működő részvénytársaság esetén a közgyűlés kizárólagos hatáskörébe tartozik a javadalmazási politikáról való véleménynyilvánító szavazás. A javadalmazási politikát annak jelentős változása esetén, de legalább négyévente a közgyűlés napirendjére kell tűzni.",
           "act_id_abbreviations": [],
           "outgoing_references": [],
           "semantic_data": []
         },
         {
           "identifier": "3",
+          "text": "Nyilvánosan működő részvénytársaság esetén az előző üzleti évre vonatkozó javadalmazási jelentést véleménynyilvánító szavazás céljából a közgyűlés napirendjére kell tűzni.",
+          "act_id_abbreviations": [],
+          "outgoing_references": [],
+          "semantic_data": []
+        },
+        {
+          "identifier": "4",
           "text": "Nyilvánosan működő részvénytársaság esetén a közgyűlés hatáskörébe tartozó kérdésekről nem lehet közgyűlés tartása nélkül határozatot hozni.",
           "act_id_abbreviations": [],
           "outgoing_references": [],
@@ -11297,7 +11304,15 @@
       "identifier": "3:279",
       "children": [
         {
-          "text": "A nyilvánosan működő részvénytársaság a közgyűlésen hozott határozatokat köteles nyilvánosságra hozni.",
+          "identifier": "1",
+          "text": "A nyilvánosan működő részvénytársaság a közgyűlésen hozott határozatokat köteles honlapján nyilvánosságra hozni.",
+          "act_id_abbreviations": [],
+          "outgoing_references": [],
+          "semantic_data": []
+        },
+        {
+          "identifier": "2",
+          "text": "A nyilvánosan működő részvénytársaság a javadalmazási politikáját és a javadalmazási jelentést köteles honlapján nyilvánosságra hozni.",
           "act_id_abbreviations": [],
           "outgoing_references": [],
           "semantic_data": []
@@ -26530,7 +26545,7 @@
           "semantic_data": []
         }
       ],
-      "title": "A biztosított követelés átruházása",
+      "title": "A biztosított követelés átruházása és megterhelése",
       "__type__": "Article"
     },
     {
@@ -26580,7 +26595,7 @@
         },
         {
           "identifier": "7",
-          "text": "Az önálló zálogjoggal terhelt zálogtárgy tulajdonjogát megszerző fél a biztosítéki szerződésben a zálogkötelezett helyébe lép.",
+          "text": "Az önálló zálogjoggal terhelt zálogtárgy tulajdonjogát megszerző fél a biztosítéki szerződésben a zálogkötelezett helyébe lép. A biztosítéki szerződés szerint kielégíthető követelést kielégítő kötelezettet, zálogkötelezettet vagy harmadik személyt a megtérítési követelése biztosítására – ha az nem pénzügyi intézmény – az önálló zálogjog ranghelyén, annak helyébe lépő követelést biztosító zálogjog illeti meg. A megtérítési követelése biztosítékaként a követelést kielégítő pénzügyi intézményre az önálló zálogjog átszáll.",
           "act_id_abbreviations": [],
           "outgoing_references": [],
           "semantic_data": []
@@ -28116,7 +28131,7 @@
       "children": [
         {
           "identifier": "1",
-          "text": "Ha a zálogjog tárgyául szolgáló követelés zálogjoggal vagy kezességgel van biztosítva, az alzálogjog jogosultja a zálogjogosultnak a zálogjogból, illetve kezességből fakadó jogait annyiban gyakorolhatja, amennyiben e jogok gyakorlására a zálogjogosult maga is jogosult. Ha a követelést kézizálogjog biztosítja, a zálogjogosult az alzálogjog jogosultjának kérésére köteles a zálogtárgy birtokát részére átruházni.",
+          "text": "Az alzálogjog jogosultja a zálogjogosultnak a zálogjogból fakadó jogait annyiban gyakorolhatja, amennyiben e jogok gyakorlására a zálogjogosult maga is jogosult. Ha a követelést kézizálogjog biztosítja, a zálogjogosult az alzálogjog jogosultjának kérésére köteles a zálogtárgy birtokát részére átruházni.",
           "act_id_abbreviations": [],
           "outgoing_references": [],
           "semantic_data": []
@@ -28126,6 +28141,21 @@
           "text": "Az alzálogjog jogosultja e jogából fakadó jogait úgy köteles gyakorolni, hogy azzal a zálogjogosult zálogjoggal biztosított követelésének megtérülését ne veszélyeztesse. Az alzálogjog érvényesítése eredményeként az ennek jogosultjához az alzálogjoggal biztosított követelést meghaladóan befolyt pénzösszegen vagy más vagyontárgyon a zálogjogosultat az alzálogjogosulttal szembeni elszámolási igénye biztosítására zálogjog illeti meg.",
           "act_id_abbreviations": [],
           "outgoing_references": [],
+          "semantic_data": []
+        },
+        {
+          "identifier": "3",
+          "text": "Ha a zálogjog tárgyául szolgáló követelés kezességgel van biztosítva, a zálogjogosult a kezességből fakadó jogait a követelés kezesével szemben – a (2) bekezdés megfelelő alkalmazásával – a kezesség jogosultjára irányadó szabályok szerint gyakorolhatja.",
+          "act_id_abbreviations": [],
+          "outgoing_references": [
+            {
+              "start_pos": 148,
+              "end_pos": 160,
+              "reference": {
+                "paragraph": "2"
+              }
+            }
+          ],
           "semantic_data": []
         }
       ],
@@ -28212,7 +28242,7 @@
         },
         {
           "identifier": "2",
-          "text": "A zálogjoggal biztosított követelés megszűnése ellenére is fennmarad a zálogjog a követelést kielégítő személyes kötelezettet, zálogkötelezettet vagy harmadik személyt megillető megtérítési követelés biztosítására.",
+          "text": "A zálogjoggal biztosított követelés megszűnése ellenére is fennmarad a zálogjog a követelést kielégítő személyes kötelezettet, zálogkötelezettet vagy harmadik személyt megillető megtérítési követelés biztosítására akként, hogy a fennmaradó zálogjog a megtérítési követelés jogosultját illeti meg.",
           "act_id_abbreviations": [],
           "outgoing_references": [],
           "semantic_data": []
@@ -49335,18 +49365,9 @@
           "children": [
             {
               "identifier": "a",
-              "text": "a Szerződés 54. cikke (3) bekezdésének g) pontja alapján a részvénytársaságok szétválásáról szóló 1982. december 17-i 82/891/EGK tanácsi irányelvnek;",
+              "text": " ",
               "act_id_abbreviations": [],
-              "outgoing_references": [
-                {
-                  "start_pos": 22,
-                  "end_pos": 48,
-                  "reference": {
-                    "paragraph": "3",
-                    "point": "g"
-                  }
-                }
-              ],
+              "outgoing_references": [],
               "semantic_data": [],
               "__type__": "AlphabeticPoint"
             },
@@ -49368,7 +49389,7 @@
             },
             {
               "identifier": "d",
-              "text": "az utazási csomagokról és az utazási szolgáltatásegyüttesekről, valamint a 2006/2004/EK rendelet és a 2011/83/EU európai parlamenti és tanácsi irányelv módosításáról, továbbá a 90/314/EGK tanácsi irányelv hatályon kívül helyezéséről szóló, 2015. november 25-i 2015/2302/EU európai parlamenti és tanácsi irányelvnek;",
+              "text": "az utazási csomagokról és az utazási szolgáltatásegyüttesekről, valamint a 2006/2004/EK rendelet és a 2011/83/EU európai parlamenti és tanácsi irányelv módosításáról, továbbá a 90/314/EGK tanácsi irányelv hatályon kívül helyezéséről szóló, 2015. november 25-i (EU) 2015/2302 európai parlamenti és tanácsi irányelvnek;",
               "act_id_abbreviations": [],
               "outgoing_references": [],
               "semantic_data": [],
@@ -49432,7 +49453,7 @@
             },
             {
               "identifier": "l",
-              "text": "az egész Közösségre kiterjedő egységes biztosítékok kialakítása érdekében a tagállamok által a társasági tagok és harmadik személyek érdekei védelmében a Szerződés 48. cikkének második bekezdése szerinti társaságoknak előírt biztosítékok összehangolásáról szóló 2009. szeptember 16-i 2009/101/EK európai parlamenti és tanácsi irányelvnek;",
+              "text": " ",
               "act_id_abbreviations": [],
               "outgoing_references": [],
               "semantic_data": [],
@@ -49448,7 +49469,7 @@
             },
             {
               "identifier": "n",
-              "text": "a 77/91/EGK, a 78/855/EGK, a 82/891/EGK tanácsi irányelvnek és a 2005/56/EK irányelvnek az egyesülések és szétválások esetében alkalmazandó jelentéstételi és dokumentációs kötelezettségek tekintetében történő módosításáról szóló 2009. szeptember 16-i 2009/109/EK európai parlamenti és tanácsi irányelvnek;",
+              "text": " ",
               "act_id_abbreviations": [],
               "outgoing_references": [],
               "semantic_data": [],
@@ -49464,7 +49485,7 @@
             },
             {
               "identifier": "p",
-              "text": "a részvénytársaságok egyesüléséről szóló 2011. április 5-i 2011/35/EU európai parlamenti és tanácsi irányelvnek;",
+              "text": " ",
               "act_id_abbreviations": [],
               "outgoing_references": [],
               "semantic_data": [],
@@ -49480,7 +49501,15 @@
             },
             {
               "identifier": "r",
-              "text": "a biztosítékok egyenértékűvé tétele céljából a részvénytársaságok alapításának, valamint tőkéjük fenntartásának és módosításának tekintetében a tagállamok által a társasági tagok és harmadik személyek érdekei védelmében az Európai Unió működéséről szóló szerződés 54. cikkének második bekezdése szerinti társaságoknak előírt biztosítékok összehangolásáról szóló 2012. október 25-i 2012/30/EU európai parlamenti és tanácsi irányelvnek",
+              "text": "a társasági jog egyes vonatkozásairól szóló, 2017. június 14-i (EU) 2017/1132 európai parlamenti és tanácsi irányelvnek;",
+              "act_id_abbreviations": [],
+              "outgoing_references": [],
+              "semantic_data": [],
+              "__type__": "AlphabeticPoint"
+            },
+            {
+              "identifier": "s",
+              "text": "a 2007/36/EK irányelvnek a hosszú távú részvényesi szerepvállalás ösztönzése tekintetében történő módosításáról szóló, 2017. május 17-i (EU) 2017/828 európai parlamenti és tanácsi irányelvnek",
               "act_id_abbreviations": [],
               "outgoing_references": [],
               "semantic_data": [],
