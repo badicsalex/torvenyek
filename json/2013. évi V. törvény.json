@@ -21718,7 +21718,7 @@
         },
         {
           "identifier": "2",
-          "text": "A gyámhatóság kérelemre kötelezi a kapcsolattartást kellő indok nélkül akadályozó, a kapcsolattartás szabályait megszegő felet a kapcsolattartás akadályozása, szabályainak megszegése folytán keletkezett igazolt költségek viselésére.",
+          "text": "A bíróság polgári nemperes eljárásban kérelemre kötelezi a kapcsolattartást kellő indok nélkül akadályozó, a kapcsolattartás szabályait megszegő felet a kapcsolattartás akadályozása, szabályainak megszegése folytán keletkezett igazolt költségek viselésére.",
           "act_id_abbreviations": [],
           "outgoing_references": [],
           "semantic_data": []
@@ -21744,7 +21744,7 @@
       "identifier": "4:185",
       "children": [
         {
-          "text": "A kapcsolattartásra vonatkozó határozat végrehajtásáról a gyámhatóság gondoskodik.",
+          "text": "A kapcsolattartásra vonatkozó határozat végrehajtását a bíróság polgári nemperes eljárásban rendeli el.",
           "act_id_abbreviations": [],
           "outgoing_references": [],
           "semantic_data": []
