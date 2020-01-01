@@ -13125,7 +13125,34 @@
       "children": [
         {
           "identifier": "1",
-          "text": "Aki ellenszolgáltatásért vagy rendszeresen az orvosi gyakorlat körébe tartozó tevékenységet jogosulatlanul fejt ki, vétség miatt egy évig terjedő szabadságvesztéssel büntetendő.",
+          "intro": "Aki ellenszolgáltatásért vagy rendszeresen",
+          "children": [
+            {
+              "identifier": "a",
+              "text": "az orvosi gyakorlat,",
+              "act_id_abbreviations": [],
+              "outgoing_references": [],
+              "semantic_data": [],
+              "__type__": "AlphabeticPoint"
+            },
+            {
+              "identifier": "b",
+              "text": "az egészségügyi szakképesítéshez kötött pszichoterápiás gyakorlat vagy",
+              "act_id_abbreviations": [],
+              "outgoing_references": [],
+              "semantic_data": [],
+              "__type__": "AlphabeticPoint"
+            },
+            {
+              "identifier": "c",
+              "text": "a nem-konvencionális gyógyító és természetgyógyászati eljárások",
+              "act_id_abbreviations": [],
+              "outgoing_references": [],
+              "semantic_data": [],
+              "__type__": "AlphabeticPoint"
+            }
+          ],
+          "wrap_up": "körébe tartozó tevékenységet jogosulatlanul fejt ki, vétség miatt egy évig terjedő szabadságvesztéssel büntetendő.",
           "act_id_abbreviations": [],
           "outgoing_references": [],
           "semantic_data": []
@@ -24050,6 +24077,93 @@
           "text": "E § rendelkezéseit a külföldi állam igazságszolgáltatási vagy bűnüldözési feladatot ellátó hatóságának a törvény alapján Magyarország területén eljáró tagjára is megfelelően kell alkalmazni.",
           "act_id_abbreviations": [],
           "outgoing_references": [],
+          "semantic_data": []
+        }
+      ],
+      "__type__": "Article"
+    },
+    {
+      "identifier": "",
+      "title": "Oktatással összefüggő jogosulatlan tevékenység",
+      "__type__": "Subtitle"
+    },
+    {
+      "identifier": "343/A",
+      "children": [
+        {
+          "identifier": "1",
+          "intro": "Aki",
+          "children": [
+            {
+              "identifier": "a",
+              "text": "felsőoktatásban megszerezhető szakképzettséget igazoló oklevéllel vagy iskolarendszeren kívüli képzésben, illetve iskolai rendszerű szakképzésben megszerezhető szakképesítést igazoló bizonyítvánnyal összetéveszthető okiratot állít ki, vagy",
+              "act_id_abbreviations": [],
+              "outgoing_references": [],
+              "semantic_data": [],
+              "__type__": "AlphabeticPoint"
+            },
+            {
+              "identifier": "b",
+              "intro": "a nemzeti felsőoktatásról szóló törvényben meghatározott vagy azzal összetéveszthető",
+              "children": [
+                {
+                  "identifier": "ba",
+                  "text": "szakképzettséget igazoló oklevelet,",
+                  "act_id_abbreviations": [],
+                  "outgoing_references": [],
+                  "semantic_data": [],
+                  "__type__": "AlphabeticSubpoint"
+                },
+                {
+                  "identifier": "bb",
+                  "text": "tudományos fokozatot,",
+                  "act_id_abbreviations": [],
+                  "outgoing_references": [],
+                  "semantic_data": [],
+                  "__type__": "AlphabeticSubpoint"
+                },
+                {
+                  "identifier": "bc",
+                  "text": "címet vagy",
+                  "act_id_abbreviations": [],
+                  "outgoing_references": [],
+                  "semantic_data": [],
+                  "__type__": "AlphabeticSubpoint"
+                },
+                {
+                  "identifier": "bd",
+                  "text": "rövidítést",
+                  "act_id_abbreviations": [],
+                  "outgoing_references": [],
+                  "semantic_data": [],
+                  "__type__": "AlphabeticSubpoint"
+                }
+              ],
+              "wrap_up": "jogosulatlanul adományoz,",
+              "act_id_abbreviations": [],
+              "outgoing_references": [],
+              "semantic_data": [],
+              "__type__": "AlphabeticPoint"
+            }
+          ],
+          "wrap_up": "vétség miatt két évig terjedő szabadságvesztéssel büntetendő.",
+          "act_id_abbreviations": [],
+          "outgoing_references": [],
+          "semantic_data": []
+        },
+        {
+          "identifier": "2",
+          "text": "Aki az (1) bekezdésben meghatározott bűncselekményt bűnszövetségben vagy üzletszerűen követi el, bűntett miatt három évig terjedő szabadságvesztéssel büntetendő.",
+          "act_id_abbreviations": [],
+          "outgoing_references": [
+            {
+              "start_pos": 7,
+              "end_pos": 22,
+              "reference": {
+                "paragraph": "1"
+              }
+            }
+          ],
           "semantic_data": []
         }
       ],
