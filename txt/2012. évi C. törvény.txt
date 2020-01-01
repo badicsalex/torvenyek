@@ -7293,11 +7293,11 @@ Tiltott piacbefolyásolás
 
 411. §    (1)  Aki
                a)   olyan ügyletet köt, megbízást ad, visszavon vagy módosít, saját
-                    számlás kereskedés során ajánlatot rögzít, visszavon vagy módosít,
-                    amely az adott pénzügyi eszköz vagy kapcsolódó azonnali árutőzsdei
-                    ügylet keresleti vagy kínálati viszonyairól, árfolyamáról vagy áráról
-                    hamis vagy félrevezető jelzéseket ad, azt mesterséges vagy rendellenes
-                    szinten rögzíti,
+                    számlás kereskedés során olyan ajánlatot rögzít, visszavon vagy
+                    módosít, vagy más olyan magatartást tanúsít, amely az adott pénzügyi
+                    eszköz vagy kapcsolódó azonnali árutőzsdei ügylet keresleti vagy
+                    kínálati viszonyairól, árfolyamáról vagy áráról hamis vagy félrevezető
+                    jelzéseket ad, azt mesterséges vagy rendellenes szinten rögzíti,
                b)   pénzügyi eszközre vonatkozó színlelt ügylet kötésével vagy más
                     megtévesztő magatartással a pénzügyi eszköz vagy kapcsolódó azonnali
                     árutőzsdei ügylet árfolyamát vagy árát befolyásolni törekszik,
