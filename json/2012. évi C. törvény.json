@@ -22464,6 +22464,72 @@
     },
     {
       "identifier": "",
+      "title": "Járványügyi védekezés akadályozása",
+      "__type__": "Subtitle"
+    },
+    {
+      "identifier": "322/A",
+      "children": [
+        {
+          "identifier": "1",
+          "intro": "Aki",
+          "children": [
+            {
+              "identifier": "a",
+              "text": "a zárlati kötelezettség alá tartozó fertőző betegség behurcolásának vagy terjedésének megakadályozása végett elrendelt járványügyi elkülönítés, megfigyelés, zárlat vagy ellenőrzés,",
+              "act_id_abbreviations": [],
+              "outgoing_references": [],
+              "semantic_data": [],
+              "__type__": "AlphabeticPoint"
+            },
+            {
+              "identifier": "b",
+              "text": "járvány idején az elrendelt járványügyi elkülönítés, megfigyelés, zárlat vagy ellenőrzés,",
+              "act_id_abbreviations": [],
+              "outgoing_references": [],
+              "semantic_data": [],
+              "__type__": "AlphabeticPoint"
+            },
+            {
+              "identifier": "c",
+              "text": "a fertőző állatbetegségek vagy növényi zárlati károsítók be- és kihurcolásának, valamint terjedésének megakadályozása vagy előfordulásának felszámolása végett elrendelt növény-egészségügyi vagy állatjárványügyi intézkedés",
+              "act_id_abbreviations": [],
+              "outgoing_references": [],
+              "semantic_data": [],
+              "__type__": "AlphabeticPoint"
+            }
+          ],
+          "wrap_up": "végrehajtását akadályozza, bűntett miatt három évig terjedő szabadságvesztéssel büntetendő.",
+          "act_id_abbreviations": [],
+          "outgoing_references": [],
+          "semantic_data": []
+        },
+        {
+          "identifier": "2",
+          "text": "A büntetés egy évtől öt évig terjedő szabadságvesztés, ha a bűncselekményt csoportosan követik el.",
+          "act_id_abbreviations": [],
+          "outgoing_references": [],
+          "semantic_data": []
+        },
+        {
+          "identifier": "3",
+          "text": "A büntetés két évtől nyolc évig terjedő szabadságvesztés, ha a bűncselekmény halált okoz.",
+          "act_id_abbreviations": [],
+          "outgoing_references": [],
+          "semantic_data": []
+        },
+        {
+          "identifier": "4",
+          "text": "Aki járványügyi intézkedés akadályozására irányuló előkészületet követ el, egy évig terjedő szabadságvesztéssel büntetendő.",
+          "act_id_abbreviations": [],
+          "outgoing_references": [],
+          "semantic_data": []
+        }
+      ],
+      "__type__": "Article"
+    },
+    {
+      "identifier": "",
       "title": "Közérdekű üzem működésének megzavarása",
       "__type__": "Subtitle"
     },
@@ -23642,7 +23708,15 @@
       "identifier": "337",
       "children": [
         {
-          "text": "Aki közveszély színhelyén nagy nyilvánosság előtt olyan valótlan tényt vagy való tényt oly módon elferdítve állít vagy híresztel, amely a közveszély színhelyén alkalmas az emberek nagyobb csoportjában zavar vagy nyugtalanság keltésére, bűntett miatt három évig terjedő szabadságvesztéssel büntetendő.",
+          "identifier": "1",
+          "text": "Aki közveszély színhelyén nagy nyilvánosság előtt a közveszéllyel összefüggésben olyan valótlan tényt vagy való tényt oly módon elferdítve állít vagy híresztel, amely a közveszély színhelyén alkalmas az emberek nagyobb csoportjában zavar vagy nyugtalanság keltésére, bűntett miatt három évig terjedő szabadságvesztéssel büntetendő.",
+          "act_id_abbreviations": [],
+          "outgoing_references": [],
+          "semantic_data": []
+        },
+        {
+          "identifier": "2",
+          "text": "Aki különleges jogrend idején nagy nyilvánosság előtt olyan valótlan tényt vagy való tényt oly módon elferdítve állít vagy híresztel, amely alkalmas arra, hogy a védekezés eredményességét akadályozza vagy meghiúsítsa, bűntett miatt egy évtől öt évig terjedő szabadságvesztéssel büntetendő.",
           "act_id_abbreviations": [],
           "outgoing_references": [],
           "semantic_data": []
