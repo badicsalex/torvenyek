@@ -310,9 +310,9 @@ A büntethetőség elévülése
                félbeszakítás napján az elévülés határideje ismét elkezdődik.
           (1a) Ha az erős felindulásban elkövetett emberölés, a háromévi
                szabadságvesztésnél súlyosabban büntetendő szándékos súlyos testi sértés,
-               az emberrablás, az emberkereskedelem, a személyi szabadság megsértése,
-               illetve – a 26. § (3) bekezdés c) pontjában foglalt kivétellel – a nemi
-               élet szabadsága és a nemi erkölcs elleni bűncselekmény sértettje a
+               az emberrablás, az emberkereskedelem és kényszermunka, a személyi szabadság
+               megsértése, illetve – a 26. § (3) bekezdés c) pontjában foglalt kivétellel
+               – a nemi élet szabadsága és a nemi erkölcs elleni bűncselekmény sértettje a
                bűncselekmény elkövetésekor a tizennyolcadik életévét még nem töltötte be,
                az elévülés határidejébe nem számít be az a tartam, amíg a tizennyolcadik
                életévét be nem tölti vagy be nem töltötte volna.
@@ -473,13 +473,13 @@ A határozott ideig tartó szabadságvesztés
                          bekezdés], kettős felhasználású termékkel visszaélés [330. §
                          (1)–(3) bekezdés],
                     ad)  emberölés, kábítószer-kereskedelem, kábítószer birtoklása,
-                         emberrablás, emberkereskedelem, szexuális erőszak, közveszély
-                         okozása, nemzetközi gazdasági tilalom megszegése vagy rablás
-                         súlyosabban minősülő esetei [160. § (2) bekezdés, 176. § (2)–(3)
-                         bekezdés, 177. § (1)–(2) bekezdés, 178. § (2) bekezdés, 179. §
-                         (2) bekezdés, 190. § (2)–(4) bekezdés, 192. § (2)–(6) bekezdés,
-                         197. § (2)–(4) bekezdés, 322. § (2)–(3) bekezdés, 327. § (3)
-                         bekezdés, 365. § (3)–(4) bekezdés]
+                         emberrablás, emberkereskedelem és kényszermunka, szexuális
+                         erőszak, közveszély okozása, nemzetközi gazdasági tilalom
+                         megszegése vagy rablás súlyosabban minősülő esetei [160. § (2)
+                         bekezdés, 176. § (2)–(3) bekezdés, 177. § (1)–(2) bekezdés, 178.
+                         § (2) bekezdés, 179. § (2) bekezdés, 190. § (2)–(4) bekezdés,
+                         192. § (1)–(6) bekezdés, 197. § (2)–(4) bekezdés, 322. § (2)–(3)
+                         bekezdés, 327. § (3) bekezdés, 365. § (3)–(4) bekezdés]
                     miatt szabták ki, vagy
                b)   a szabadságvesztés kétévi vagy ennél hosszabb tartamú, és
                     ba)  az elítélt többszörös visszaeső, vagy
@@ -577,7 +577,8 @@ Feltételes szabadságra bocsátás az életfogytig tartó szabadságvesztésbő
                g)   egyéb háborús bűntett (158. §),
                h)   emberölés súlyosabban minősülő esete [160. § (2) bekezdés],
                i)   emberrablás súlyosabban minősülő esete [190. § (3)–(4) bekezdés],
-               j)   emberkereskedelem súlyosabban minősülő esete [192. § (6) bekezdés],
+               j)   emberkereskedelem és kényszermunka súlyosabban minősülő esete [192. §
+                    (6) bekezdés],
                k)   alkotmányos rend erőszakos megváltoztatása [254. § (1) bekezdés],
                l)   rombolás súlyosabban minősülő esete [257. § (2) bekezdés],
                m)   fogolyzendülés súlyosabban minősülő esete [284. § (4) bekezdés],
@@ -1146,8 +1147,7 @@ A vagyonelkobzás
                     pont és c) pont cb) alpont, (2)–(3) és (5) bekezdés, 184/B. § (1)
                     bekezdés a) pont, (2)–(5) bekezdés, 184/C. § (1) bekezdés a) pont aa)
                     alpont, b) pont ba) alpont, (2)–(5) bekezdés],
-               c)   az emberkereskedelem [192. § (1)–(7) bekezdés], a kényszermunka (193.
-                    §),
+               c)   az emberkereskedelem és kényszermunka [192. § (1)–(7) bekezdés],
                d)   a kerítés (200. §), a prostitúció elősegítése (201. §), a kitartottság
                     (202. §), a gyermekprostitúció kihasználása [203. § (1) és (3)–(4)
                     bekezdés], a gyermekpornográfia [204. § (1) bekezdés b)–c) pont,
@@ -2072,7 +2072,7 @@ Emberiesség elleni bűncselekmény
                     fenyegetik,
                c)   a lakosságot vagy annak egy részét jogszerű tartózkodási helyéről
                     kitelepíti,
-               d)   emberkereskedelmet követ el, vagy kényszermunkát végeztet,
+               d)   emberkereskedelem és kényszermunkát követ el,
                e)   mást személyi szabadságától megfoszt, vagy fogva tartását jogellenesen
                     tartja fenn,
                f)   mást szexuális erőszakra vagy annak eltűrésére, prostitúcióra, magzat
@@ -3159,79 +3159,58 @@ Emberrablás feljelentésének elmulasztása
                tájékoztatja, ha az emberrablást megkísérlik vagy elkövetik, bűntett miatt
                három évig terjedő szabadságvesztéssel büntetendő.
 
-Emberkereskedelem
+Emberkereskedelem és kényszermunka
 
 192. §    (1)  Aki mást
-               a)   elad, megvásárol, elcserél, ellenszolgáltatásként átad vagy átvesz,
-                    illetve
+               a)   elad, megvásárol, elcserél, ellenszolgáltatásként átad, átvesz, vagy
                b)   az a) pontban meghatározott cselekmény megvalósítása érdekében
-                    szállít, elszállásol, elrejt vagy másnak megszerez,
-               bűntett miatt három évig terjedő szabadságvesztéssel büntetendő.
-          (2)  Aki mást kizsákmányolás céljából elad, megvásárol, elcserél, átad, átvesz,
-               toboroz, szállít, elszállásol, elrejt vagy másnak megszerez, egy évtől öt
-               évig terjedő szabadságvesztéssel büntetendő.
-          (3)  A büntetés két évtől nyolc évig terjedő szabadságvesztés, ha az
-               emberkereskedelmet
-               a)   személyi szabadságától megfosztott személy sérelmére,
-               b)   erőszakkal vagy fenyegetéssel,
-               c)   megtévesztéssel,
-               d)   a sértett sanyargatásával,
-               e)   az elkövető nevelése, felügyelete, gondozása vagy gyógykezelése alatt
-                    álló személy sérelmére, illetve a sértettel kapcsolatban fennálló
-                    egyéb hatalmi vagy befolyási viszonnyal visszaélve,
-               f)   emberi test tiltott felhasználása céljából,
-               g)   hivatalos személyként, e minőséget felhasználva,
-               h)   bűnszövetségben vagy
-               i)   üzletszerűen
+                    szállít, elszállásol, elrejt, vagy másnak megszerez,
+               bűntett miatt egy évtől öt évig terjedő szabadságvesztéssel büntetendő.
+          (2)  Aki mást rendszeres előny szerzése céljából munkavégzésre, munka jellegű
+               tevékenység végzésére, egyéb szolgáltatásra, vagy jogellenes cselekmény
+               folytatására
+               a)   megtévesztéssel, a sértett nevelésével, felügyeletével, gondozásával,
+                    gyógykezelésével kapcsolatos, illetve a sértettel kapcsolatban
+                    fennálló egyéb hatalmi vagy befolyási viszonyával visszaélve, vagy a
+                    sértett kiszolgáltatott helyzetét kihasználva rábír, vagy
+               b)   erőszakkal vagy fenyegetéssel kényszerít,
+               bűntett miatt két évtől nyolc évig terjedő szabadságvesztéssel büntetendő.
+          (3)  Aki mást a (2) bekezdésben meghatározott cselekmény megvalósítása érdekében
+               toboroz, átad, átvesz, elad, megvásárol, elcserél, ellenszolgáltatásként
+               átad vagy átvesz, másnak megszerez, szállít, elszállásol, elrejt, bűntett
+               miatt két évtől nyolc évig terjedő szabadságvesztéssel büntetendő.
+          (4)  Aki a (2) vagy a (3) bekezdésben meghatározott bűncselekményt szexuális
+               cselekmény végzése vagy emberi test tiltott felhasználása érdekében követi
+               el, bűntett miatt öt évtől tíz évig terjedő szabadságvesztéssel büntetendő.
+          (5)  A büntetés a (2) vagy a (3) bekezdésben meghatározott bűncselekmény esetén
+               öt évtől tíz évig terjedő szabadságvesztés, a (4) bekezdésben meghatározott
+               bűncselekmény esetén öt évtől tizenöt évig terjedő szabadságvesztés, ha azt
+               a)   tizennyolcadik életévét be nem töltött személy sérelmére,
+               b)   a sértett sanyargatásával,
+               c)   hivatalos személyként, e minőséget felhasználva, vagy
+               d)   több ember sérelmére
                követik el.
-          (4)  A büntetés öt évtől tíz évig terjedő szabadságvesztés, ha
-               a)   a (2) bekezdésben meghatározott bűncselekményt tizennyolcadik életévét
-                    be nem töltött személy sérelmére követik el,
-               b)   a személyi szabadságától megfosztott személy sérelmére elkövetett, a
-                    (2) bekezdésben meghatározott bűncselekmény a (3) bekezdés b)–i)
-                    pontjaiban foglaltak valamelyike szerint minősül, vagy
-               c)   a (2) bekezdésben meghatározott bűncselekmény különösen súlyos
-                    hátrányt vagy életveszélyt okoz.
-          (5)  A büntetés öt évtől tizenöt évig terjedő szabadságvesztés, ha
-               a)   a (2) bekezdésben meghatározott bűncselekményt tizennegyedik életévét
-                    be nem töltött személy sérelmére követik el,
-               b)   a tizennyolcadik életévét be nem töltött személy sérelmére elkövetett.
-                    a (2) bekezdésben meghatározott bűncselekmény a (3) bekezdés valamely
-                    pontja szerint is minősül,
-               c)   a tizennyolcadik életévét be nem töltött személy sérelmére elkövetett,
-                    a (2) bekezdésben meghatározott bűncselekmény különösen súlyos
-                    hátrányt vagy életveszélyt okoz, vagy
-               d)   a (2) bekezdésben meghatározott bűncselekményt tizennyolcadik életévét
-                    be nem töltött személy sérelmére gyermekpornográfia céljából követik
-                    el.
-          (6)  A büntetés öt évtől húsz évig terjedő vagy életfogytig tartó
-               szabadságvesztés, ha
-               a)   a tizennegyedik életévét be nem töltött személy sérelmére elkövetett,
-                    a (2) bekezdésben meghatározott bűncselekmény a (3) bekezdés valamely
-                    pontja szerint is minősül,
-               b)   a tizennegyedik életévét be nem töltött személy sérelmére elkövetett,
-                    a (2) bekezdésben meghatározott bűncselekmény különösen súlyos
-                    hátrányt vagy életveszélyt okoz, vagy
-               c)   a (2) bekezdésben meghatározott bűncselekményt tizennegyedik életévét
-                    be nem töltött személy sérelmére gyermekpornográfia céljából követik
-                    el.
-          (7)  Aki emberkereskedelemre irányuló előkészületet követ el, vétség miatt két
-               évig terjedő szabadságvesztéssel büntetendő.
-          (8)  E § alkalmazásában kizsákmányolás a kiszolgáltatott helyzetbe hozott vagy
-               helyzetben tartott sértett e helyzetének kihasználásával előny szerzésére
-               törekvés.
-
-Kényszermunka
-
-193. §    (1)  Aki mást annak kiszolgáltatott helyzetét kihasználva, illetve erőszakkal
-               vagy fenyegetéssel munkavégzésre kényszerít, bűntett miatt egy évtől öt
-               évig terjedő szabadságvesztéssel büntetendő.
-          (2)  A büntetés két évtől nyolc évig terjedő szabadságvesztés, ha a
-               kényszermunkát
-               a)   a sértett sanyargatásával,
-               b)   jelentős érdeksérelmet okozva vagy
-               c)   tizennyolcadik életévét be nem töltött személy sérelmére
+          (6)  A büntetés a (2) vagy a (3) bekezdésben meghatározott bűncselekmény esetén
+               öt évtől tizenöt évig terjedő szabadságvesztés, a (4) bekezdésben
+               meghatározott bűncselekmény esetén öt évtől húsz évig vagy életfogytig
+               terjedő szabadságvesztés, ha azt
+               a)   tizenkettedik életévét be nem töltött személy sérelmére, vagy
+               b)   életveszélyt vagy különösen súlyos hátrányt okozva
                követik el.
+          (7)  Aki emberkereskedelem és kényszermunkára irányuló előkészületet követ el,
+               az (1) bekezdésben meghatározott esetben vétség miatt egy évig, a (2) vagy
+               (3) bekezdésben meghatározott esetben bűntett miatt három évig, a (4)
+               bekezdésben meghatározott esetben egy évtől öt évig terjedő
+               szabadságvesztéssel büntetendő.
+          (8)  Aki
+               a)   a (2) bekezdésben meghatározott emberkereskedelem és kényszermunka
+                    sértettjének munkáját, munka jellegű tevékenységét, egyéb
+                    szolgáltatását vagy jogellenes cselekményét igénybe veszi vagy
+                    felhasználja, három évig terjedő szabadságvesztéssel,
+               b)   az a) pontban meghatározott bűncselekményt szexuális cselekmény
+                    igénybevételével vagy emberi test tiltott felhasználása érdekében
+                    követi el, egy évtől öt évig terjedő szabadságvesztéssel
+               büntetendő.
 
 Személyi szabadság megsértése
 
@@ -3347,11 +3326,17 @@ Kerítés
 
 200. §    (1)  Aki haszonszerzés céljából valakit szexuális cselekmény végzésére másnak
                megszerez, bűntett miatt három évig terjedő szabadságvesztéssel büntetendő.
-          (2)  Kerítést követ el, és az (1) bekezdés szerint büntetendő az is, aki
-               tizennyolcadik életévét be nem töltött személyt prostitúcióra felajánl vagy
-               felhív.
-          (3)  A büntetés egy évtől öt évig terjedő szabadságvesztés, ha a kerítés
+          (2)  Kerítést követ el, és egy évtől öt évig terjedő szabadságvesztéssel
+               büntetendő, aki tizennyolcadik életévét be nem töltött személyt
+               prostitúcióra felajánl vagy felhív.
+          (3)  A büntetés két évtől nyolc évig terjedő szabadságvesztés, ha a kerítés
                üzletszerű.
+          (3a) Ha az (1)–(3) bekezdésben meghatározott bűncselekményt különös
+               visszaesőként követik el, a büntetés
+               a)   az (1) bekezdésben meghatározott esetben egy évtől öt évig,
+               b)   a (2) bekezdésben meghatározott esetben két évtől nyolc évig,
+               c)   a (3) bekezdésben meghatározott esetben öt évtől tíz évig
+               terjedő szabadságvesztés.
           (4)  A büntetés két évtől nyolc évig terjedő szabadságvesztés, ha az (1)
                bekezdésben meghatározott kerítést
                a)   tizennyolcadik életévét be nem töltött személy sérelmére,
@@ -3360,8 +3345,11 @@ Kerítés
                     vagy befolyási viszonyával visszaélve,
                c)   megtévesztéssel, erőszakkal vagy fenyegetéssel
                követik el.
-          (5)  A büntetés öt évtől tíz évig terjedő szabadságvesztés, ha a (4) bekezdés a)
-               vagy b) pontjában meghatározott kerítés a c) pont szerint is minősül.
+          (5)  A büntetés öt évtől tíz évig terjedő szabadságvesztés, ha
+               a)   a (4) bekezdés a) vagy b) pontjában meghatározott kerítés a c) pont
+                    szerint is minősül,
+               b)   a (4) bekezdés valamelyik pontjában meghatározott kerítést különös
+                    visszaesőként követik el.
           (6)  Aki üzletszerű kerítés elkövetésében megállapodik, három évig terjedő
                szabadságvesztéssel büntetendő.
 
@@ -3371,13 +3359,18 @@ Prostitúció elősegítése
                a)   mást prostitúcióra rábír,
                b)   épületet vagy egyéb helyet prostitúció céljára másnak a rendelkezésére
                     bocsát,
-               c)   tizennyolcadik életévét be nem töltött személy prostitúciójához
-                    segítséget nyújt,
                bűntett miatt három évig terjedő szabadságvesztéssel büntetendő.
-          (2)  Egy évtől öt évig terjedő szabadságvesztéssel büntetendő, aki
-               tizennyolcadik életévét be nem töltött személyt bír rá prostitúcióra.
+          (2)  Aki az (1) bekezdésben meghatározott bűncselekményt tizennyolcadik életévét
+               be nem töltött személy prostitúciójával összefüggésben követi el, vagy
+               tizennyolcadik életévét be nem töltött személy prostitúciójához segítséget
+               nyújt, két évtől nyolc évig terjedő szabadságvesztéssel büntetendő.
           (3)  Aki bordélyházat tart fenn, vezet, vagy annak működéséhez anyagi eszközöket
                szolgáltat, egy évtől öt évig terjedő szabadságvesztéssel büntetendő.
+          (4)  Ha a prostitúció elősegítését különös visszaesőként követik el, a büntetés
+               a)   az (1) bekezdésben meghatározott esetben egy évtől öt évig,
+               b)   a (2) bekezdésben meghatározott esetben öt évtől tíz évig,
+               c)   a (3) bekezdésben meghatározott esetben két évtől nyolc évig
+               terjedő szabadságvesztés.
 
 Kitartottság
 
@@ -3387,17 +3380,20 @@ Kitartottság
 Gyermekprostitúció kihasználása
 
 203. §    (1)  Aki tizennyolcadik életévét be nem töltött személy prostitúciójából
-               haszonszerzésre törekszik, bűntett miatt három évig terjedő
+               haszonszerzésre törekszik, bűntett miatt két évtől nyolc évig terjedő
                szabadságvesztéssel büntetendő.
-          (2)  Az (1) bekezdés szerint büntetendő, aki tizennyolcadik életévét be nem
-               töltött személlyel való szexuális cselekményért ellenszolgáltatást nyújt.
+          (2)  Aki tizennyolcadik életévét be nem töltött személlyel való szexuális
+               cselekményért ellenszolgáltatást nyújt, bűntett miatt két évtől nyolc évig
+               terjedő szabadságvesztéssel büntetendő.
           (3)  Aki részben vagy egészben tizennyolcadik életévét be nem töltött,
-               prostitúciót folytató személlyel tartatja ki magát, egy évtől öt évig
+               prostitúciót folytató személlyel tartatja ki magát, két évtől nyolc évig
                terjedő szabadságvesztéssel büntetendő.
           (4)  Aki olyan bordélyházat tart fenn, vezet, vagy olyan bordélyház működéséhez
                szolgáltat anyagi eszközöket, amelyben tizennyolcadik életévét be nem
                töltött személy folytat prostitúciót, két évtől nyolc évig terjedő
                szabadságvesztéssel büntetendő.
+          (5)  A büntetés öt évtől tíz évig terjedő szabadságvesztés, ha a
+               gyermekprostitúció kihasználását különös visszaesőként követik el.
 
 Gyermekpornográfia
 
@@ -3467,6 +3463,14 @@ Magánindítvány
                (3) bekezdésében meghatározott bűncselekmény csak magánindítványra
                büntethető, kivéve, ha azzal összefüggően nem magánindítványra büntetendő
                bűncselekményt is elkövetnek.
+
+Értelmező rendelkezés
+
+207/A. §       A 200. § (3a) bekezdése, a 200. § (5) bekezdés b) pontja, a 201. § (4)
+               bekezdése és a 203. § (5) bekezdése alkalmazásában a különös visszaesés
+               szempontjából hasonló jellegű bűncselekmény az emberkereskedelem és
+               kényszermunka, a kerítés, a prostitúció elősegítése és a gyermekprostitúció
+               kihasználása.
 
 XX. FEJEZET
 A GYERMEKEK ÉRDEKÉT SÉRTŐ ÉS A CSALÁD ELLENI BŰNCSELEKMÉNYEK
@@ -4638,10 +4642,10 @@ Bűnpártolás
                     [kivéve az állam elleni bűncselekmény feljelentésének elmulasztása
                     (263. § (1) bekezdés],
                b)   emberöléssel [160. § (1)–(3) és (5) bekezdés], emberrablással [190. §
-                    (1)–(4) bekezdés], emberkereskedelemmel [192. § (1)–(6) bekezdés],
-                    terrorcselekménnyel [314. § (1)–(2) bekezdés], terrorizmus
-                    finanszírozásával [318. § és 318/A. §], jármű hatalomba kerítésével
-                    [320. § (1)–(2) bekezdés],
+                    (1)–(4) bekezdés], emberkereskedelem és kényszermunkával [192. §
+                    (1)–(6) bekezdés], terrorcselekménnyel [314. § (1)–(2) bekezdés],
+                    terrorizmus finanszírozásával [318. § és 318/A. §], jármű hatalomba
+                    kerítésével [320. § (1)–(2) bekezdés],
                c)   az a)–b) pontokban fel nem sorolt, életfogytig tartó
                     szabadságvesztéssel is büntethető bűncselekménnyel kapcsolatban
                     követik el, vagy
@@ -6067,9 +6071,6 @@ Harmadik országbeli állampolgár jogellenes foglalkoztatása
                a)   keresőtevékenység folytatására jogosító engedéllyel nem rendelkező
                     harmadik országbeli állampolgárt különösen kizsákmányoló
                     foglalkoztatási feltételek között foglalkoztat,
-               b)   olyan, keresőtevékenység folytatására jogosító engedéllyel nem
-                    rendelkező harmadik országbeli állampolgárt foglalkoztat, akinek
-                    sérelmére emberkereskedelmet követtek el.
           (3)  E § alkalmazásában
                a)   különösen kizsákmányoló foglalkoztatási feltételek alatt a harmadik
                     országbeli állampolgárok beutazásáról és tartózkodásáról szóló
@@ -8317,9 +8318,9 @@ ZÁRÓ RÉSZ
                     c)   az emberölés [160. § (1)–(3) és (5) bekezdés], az erős
                          felindulásban elkövetett emberölés (161. §), a testi sértés [164.
                          § (3)–(6) és (8) bekezdés],
-                    d)   az emberrablás [190. § (1)–(4) bekezdés], az emberkereskedelem
-                         [192. § (1)–(6) bekezdés], a kényszermunka (193. §), a személyi
-                         szabadság megsértése (194. §), a kényszerítés (195. §),
+                    d)   az emberrablás [190. § (1)–(4) bekezdés], az emberkereskedelem és
+                         kényszermunka [192. § (1)–(6) bekezdés],   a személyi szabadság
+                         megsértése (194. §), a kényszerítés (195. §),
                     e)   a szexuális kényszerítés (196. §), a szexuális erőszak [197. §
                          (1)–(4) bekezdés],
                     f)   a lelkiismeret és vallásszabadság megsértése (215. §), a közösség

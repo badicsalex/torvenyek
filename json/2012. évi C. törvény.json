@@ -1182,12 +1182,12 @@
         },
         {
           "identifier": "1a",
-          "text": "Ha az erős felindulásban elkövetett emberölés, a háromévi szabadságvesztésnél súlyosabban büntetendő szándékos súlyos testi sértés, az emberrablás, az emberkereskedelem, a személyi szabadság megsértése, illetve – a 26. § (3) bekezdés c) pontjában foglalt kivétellel – a nemi élet szabadsága és a nemi erkölcs elleni bűncselekmény sértettje a bűncselekmény elkövetésekor a tizennyolcadik életévét még nem töltötte be, az elévülés határidejébe nem számít be az a tartam, amíg a tizennyolcadik életévét be nem tölti vagy be nem töltötte volna.",
+          "text": "Ha az erős felindulásban elkövetett emberölés, a háromévi szabadságvesztésnél súlyosabban büntetendő szándékos súlyos testi sértés, az emberrablás, az emberkereskedelem és kényszermunka, a személyi szabadság megsértése, illetve – a 26. § (3) bekezdés c) pontjában foglalt kivétellel – a nemi élet szabadsága és a nemi erkölcs elleni bűncselekmény sértettje a bűncselekmény elkövetésekor a tizennyolcadik életévét még nem töltötte be, az elévülés határidejébe nem számít be az a tartam, amíg a tizennyolcadik életévét be nem tölti vagy be nem töltötte volna.",
           "act_id_abbreviations": [],
           "outgoing_references": [
             {
-              "start_pos": 215,
-              "end_pos": 246,
+              "start_pos": 232,
+              "end_pos": 263,
               "reference": {
                 "article": "26",
                 "paragraph": "3",
@@ -1861,20 +1861,20 @@
                 },
                 {
                   "identifier": "ad",
-                  "text": "emberölés, kábítószer-kereskedelem, kábítószer birtoklása, emberrablás, emberkereskedelem, szexuális erőszak, közveszély okozása, nemzetközi gazdasági tilalom megszegése vagy rablás súlyosabban minősülő esetei [160. § (2) bekezdés, 176. § (2)–(3) bekezdés, 177. § (1)–(2) bekezdés, 178. § (2) bekezdés, 179. § (2) bekezdés, 190. § (2)–(4) bekezdés, 192. § (2)–(6) bekezdés, 197. § (2)–(4) bekezdés, 322. § (2)–(3) bekezdés, 327. § (3) bekezdés, 365. § (3)–(4) bekezdés]",
+                  "text": "emberölés, kábítószer-kereskedelem, kábítószer birtoklása, emberrablás, emberkereskedelem és kényszermunka, szexuális erőszak, közveszély okozása, nemzetközi gazdasági tilalom megszegése vagy rablás súlyosabban minősülő esetei [160. § (2) bekezdés, 176. § (2)–(3) bekezdés, 177. § (1)–(2) bekezdés, 178. § (2) bekezdés, 179. § (2) bekezdés, 190. § (2)–(4) bekezdés, 192. § (1)–(6) bekezdés, 197. § (2)–(4) bekezdés, 322. § (2)–(3) bekezdés, 327. § (3) bekezdés, 365. § (3)–(4) bekezdés]",
                   "act_id_abbreviations": [],
                   "outgoing_references": [
                     {
-                      "start_pos": 211,
-                      "end_pos": 230,
+                      "start_pos": 228,
+                      "end_pos": 247,
                       "reference": {
                         "article": "160",
                         "paragraph": "2"
                       }
                     },
                     {
-                      "start_pos": 232,
-                      "end_pos": 255,
+                      "start_pos": 249,
+                      "end_pos": 272,
                       "reference": {
                         "article": "176",
                         "paragraph": [
@@ -1884,8 +1884,8 @@
                       }
                     },
                     {
-                      "start_pos": 257,
-                      "end_pos": 280,
+                      "start_pos": 274,
+                      "end_pos": 297,
                       "reference": {
                         "article": "177",
                         "paragraph": [
@@ -1895,24 +1895,24 @@
                       }
                     },
                     {
-                      "start_pos": 282,
-                      "end_pos": 301,
+                      "start_pos": 299,
+                      "end_pos": 318,
                       "reference": {
                         "article": "178",
                         "paragraph": "2"
                       }
                     },
                     {
-                      "start_pos": 303,
-                      "end_pos": 322,
+                      "start_pos": 320,
+                      "end_pos": 339,
                       "reference": {
                         "article": "179",
                         "paragraph": "2"
                       }
                     },
                     {
-                      "start_pos": 324,
-                      "end_pos": 347,
+                      "start_pos": 341,
+                      "end_pos": 364,
                       "reference": {
                         "article": "190",
                         "paragraph": [
@@ -1922,19 +1922,19 @@
                       }
                     },
                     {
-                      "start_pos": 349,
-                      "end_pos": 372,
+                      "start_pos": 366,
+                      "end_pos": 389,
                       "reference": {
                         "article": "192",
                         "paragraph": [
-                          "2",
+                          "1",
                           "6"
                         ]
                       }
                     },
                     {
-                      "start_pos": 374,
-                      "end_pos": 397,
+                      "start_pos": 391,
+                      "end_pos": 414,
                       "reference": {
                         "article": "197",
                         "paragraph": [
@@ -1944,8 +1944,8 @@
                       }
                     },
                     {
-                      "start_pos": 399,
-                      "end_pos": 422,
+                      "start_pos": 416,
+                      "end_pos": 439,
                       "reference": {
                         "article": "322",
                         "paragraph": [
@@ -1955,16 +1955,16 @@
                       }
                     },
                     {
-                      "start_pos": 424,
-                      "end_pos": 443,
+                      "start_pos": 441,
+                      "end_pos": 460,
                       "reference": {
                         "article": "327",
                         "paragraph": "3"
                       }
                     },
                     {
-                      "start_pos": 445,
-                      "end_pos": 468,
+                      "start_pos": 462,
+                      "end_pos": 485,
                       "reference": {
                         "article": "365",
                         "paragraph": [
@@ -2473,12 +2473,12 @@
             },
             {
               "identifier": "j",
-              "text": "emberkereskedelem súlyosabban minősülő esete [192. § (6) bekezdés],",
+              "text": "emberkereskedelem és kényszermunka súlyosabban minősülő esete [192. § (6) bekezdés],",
               "act_id_abbreviations": [],
               "outgoing_references": [
                 {
-                  "start_pos": 46,
-                  "end_pos": 65,
+                  "start_pos": 63,
+                  "end_pos": 82,
                   "reference": {
                     "article": "192",
                     "paragraph": "6"
@@ -4779,25 +4779,18 @@
             },
             {
               "identifier": "c",
-              "text": "az emberkereskedelem [192. § (1)–(7) bekezdés], a kényszermunka (193. §),",
+              "text": "az emberkereskedelem és kényszermunka [192. § (1)–(7) bekezdés],  ",
               "act_id_abbreviations": [],
               "outgoing_references": [
                 {
-                  "start_pos": 22,
-                  "end_pos": 45,
+                  "start_pos": 39,
+                  "end_pos": 62,
                   "reference": {
                     "article": "192",
                     "paragraph": [
                       "1",
                       "7"
                     ]
-                  }
-                },
-                {
-                  "start_pos": 65,
-                  "end_pos": 71,
-                  "reference": {
-                    "article": "193"
                   }
                 }
               ],
@@ -8688,7 +8681,7 @@
             },
             {
               "identifier": "d",
-              "text": "emberkereskedelmet követ el, vagy kényszermunkát végeztet,",
+              "text": "emberkereskedelem és kényszermunkát követ el,",
               "act_id_abbreviations": [],
               "outgoing_references": [],
               "semantic_data": [],
@@ -13495,7 +13488,7 @@
     },
     {
       "identifier": "",
-      "title": "Emberkereskedelem",
+      "title": "Emberkereskedelem és kényszermunka",
       "__type__": "Subtitle"
     },
     {
@@ -13507,7 +13500,7 @@
           "children": [
             {
               "identifier": "a",
-              "text": "elad, megvásárol, elcserél, ellenszolgáltatásként átad vagy átvesz, illetve",
+              "text": "elad, megvásárol, elcserél, ellenszolgáltatásként átad, átvesz, vagy",
               "act_id_abbreviations": [],
               "outgoing_references": [],
               "semantic_data": [],
@@ -13515,7 +13508,7 @@
             },
             {
               "identifier": "b",
-              "text": "az a) pontban meghatározott cselekmény megvalósítása érdekében szállít, elszállásol, elrejt vagy másnak megszerez,",
+              "text": "az a) pontban meghatározott cselekmény megvalósítása érdekében szállít, elszállásol, elrejt, vagy másnak megszerez,",
               "act_id_abbreviations": [],
               "outgoing_references": [
                 {
@@ -13530,350 +13523,84 @@
               "__type__": "AlphabeticPoint"
             }
           ],
-          "wrap_up": "bűntett miatt három évig terjedő szabadságvesztéssel büntetendő.",
+          "wrap_up": "bűntett miatt egy évtől öt évig terjedő szabadságvesztéssel büntetendő.",
           "act_id_abbreviations": [],
           "outgoing_references": [],
           "semantic_data": []
         },
         {
           "identifier": "2",
-          "text": "Aki mást kizsákmányolás céljából elad, megvásárol, elcserél, átad, átvesz, toboroz, szállít, elszállásol, elrejt vagy másnak megszerez, egy évtől öt évig terjedő szabadságvesztéssel büntetendő.",
+          "intro": "Aki mást rendszeres előny szerzése céljából munkavégzésre, munka jellegű tevékenység végzésére, egyéb szolgáltatásra, vagy jogellenes cselekmény folytatására",
+          "children": [
+            {
+              "identifier": "a",
+              "text": "megtévesztéssel, a sértett nevelésével, felügyeletével, gondozásával, gyógykezelésével kapcsolatos, illetve a sértettel kapcsolatban fennálló egyéb hatalmi vagy befolyási viszonyával visszaélve, vagy a sértett kiszolgáltatott helyzetét kihasználva rábír, vagy",
+              "act_id_abbreviations": [],
+              "outgoing_references": [],
+              "semantic_data": [],
+              "__type__": "AlphabeticPoint"
+            },
+            {
+              "identifier": "b",
+              "text": "erőszakkal vagy fenyegetéssel kényszerít,",
+              "act_id_abbreviations": [],
+              "outgoing_references": [],
+              "semantic_data": [],
+              "__type__": "AlphabeticPoint"
+            }
+          ],
+          "wrap_up": "bűntett miatt két évtől nyolc évig terjedő szabadságvesztéssel büntetendő.",
           "act_id_abbreviations": [],
           "outgoing_references": [],
           "semantic_data": []
         },
         {
           "identifier": "3",
-          "intro": "A büntetés két évtől nyolc évig terjedő szabadságvesztés, ha az emberkereskedelmet",
-          "children": [
+          "text": "Aki mást a (2) bekezdésben meghatározott cselekmény megvalósítása érdekében toboroz, átad, átvesz, elad, megvásárol, elcserél, ellenszolgáltatásként átad vagy átvesz, másnak megszerez, szállít, elszállásol, elrejt, bűntett miatt két évtől nyolc évig terjedő szabadságvesztéssel büntetendő.",
+          "act_id_abbreviations": [],
+          "outgoing_references": [
             {
-              "identifier": "a",
-              "text": "személyi szabadságától megfosztott személy sérelmére,",
-              "act_id_abbreviations": [],
-              "outgoing_references": [],
-              "semantic_data": [],
-              "__type__": "AlphabeticPoint"
-            },
-            {
-              "identifier": "b",
-              "text": "erőszakkal vagy fenyegetéssel,",
-              "act_id_abbreviations": [],
-              "outgoing_references": [],
-              "semantic_data": [],
-              "__type__": "AlphabeticPoint"
-            },
-            {
-              "identifier": "c",
-              "text": "megtévesztéssel,",
-              "act_id_abbreviations": [],
-              "outgoing_references": [],
-              "semantic_data": [],
-              "__type__": "AlphabeticPoint"
-            },
-            {
-              "identifier": "d",
-              "text": "a sértett sanyargatásával,",
-              "act_id_abbreviations": [],
-              "outgoing_references": [],
-              "semantic_data": [],
-              "__type__": "AlphabeticPoint"
-            },
-            {
-              "identifier": "e",
-              "text": "az elkövető nevelése, felügyelete, gondozása vagy gyógykezelése alatt álló személy sérelmére, illetve a sértettel kapcsolatban fennálló egyéb hatalmi vagy befolyási viszonnyal visszaélve,",
-              "act_id_abbreviations": [],
-              "outgoing_references": [],
-              "semantic_data": [],
-              "__type__": "AlphabeticPoint"
-            },
-            {
-              "identifier": "f",
-              "text": "emberi test tiltott felhasználása céljából,",
-              "act_id_abbreviations": [],
-              "outgoing_references": [],
-              "semantic_data": [],
-              "__type__": "AlphabeticPoint"
-            },
-            {
-              "identifier": "g",
-              "text": "hivatalos személyként, e minőséget felhasználva,",
-              "act_id_abbreviations": [],
-              "outgoing_references": [],
-              "semantic_data": [],
-              "__type__": "AlphabeticPoint"
-            },
-            {
-              "identifier": "h",
-              "text": "bűnszövetségben vagy",
-              "act_id_abbreviations": [],
-              "outgoing_references": [],
-              "semantic_data": [],
-              "__type__": "AlphabeticPoint"
-            },
-            {
-              "identifier": "i",
-              "text": "üzletszerűen",
-              "act_id_abbreviations": [],
-              "outgoing_references": [],
-              "semantic_data": [],
-              "__type__": "AlphabeticPoint"
+              "start_pos": 11,
+              "end_pos": 26,
+              "reference": {
+                "paragraph": "2"
+              }
             }
           ],
-          "wrap_up": "követik el.",
-          "act_id_abbreviations": [],
-          "outgoing_references": [],
           "semantic_data": []
         },
         {
           "identifier": "4",
-          "intro": "A büntetés öt évtől tíz évig terjedő szabadságvesztés, ha",
-          "children": [
+          "text": "Aki a (2) vagy a (3) bekezdésben meghatározott bűncselekményt szexuális cselekmény végzése vagy emberi test tiltott felhasználása érdekében követi el, bűntett miatt öt évtől tíz évig terjedő szabadságvesztéssel büntetendő.",
+          "act_id_abbreviations": [],
+          "outgoing_references": [
             {
-              "identifier": "a",
-              "text": "a (2) bekezdésben meghatározott bűncselekményt tizennyolcadik életévét be nem töltött személy sérelmére követik el,",
-              "act_id_abbreviations": [],
-              "outgoing_references": [
-                {
-                  "start_pos": 2,
-                  "end_pos": 17,
-                  "reference": {
-                    "paragraph": "2"
-                  }
-                }
-              ],
-              "semantic_data": [],
-              "__type__": "AlphabeticPoint"
-            },
-            {
-              "identifier": "b",
-              "text": "a személyi szabadságától megfosztott személy sérelmére elkövetett, a (2) bekezdésben meghatározott bűncselekmény a (3) bekezdés b)–i) pontjaiban foglaltak valamelyike szerint minősül, vagy",
-              "act_id_abbreviations": [],
-              "outgoing_references": [
-                {
-                  "start_pos": 69,
-                  "end_pos": 84,
-                  "reference": {
-                    "paragraph": "2"
-                  }
-                },
-                {
-                  "start_pos": 115,
-                  "end_pos": 144,
-                  "reference": {
-                    "paragraph": "3",
-                    "point": [
-                      "b",
-                      "i"
-                    ]
-                  }
-                }
-              ],
-              "semantic_data": [],
-              "__type__": "AlphabeticPoint"
-            },
-            {
-              "identifier": "c",
-              "text": "a (2) bekezdésben meghatározott bűncselekmény különösen súlyos hátrányt vagy életveszélyt okoz.",
-              "act_id_abbreviations": [],
-              "outgoing_references": [
-                {
-                  "start_pos": 2,
-                  "end_pos": 17,
-                  "reference": {
-                    "paragraph": "2"
-                  }
-                }
-              ],
-              "semantic_data": [],
-              "__type__": "AlphabeticPoint"
+              "start_pos": 6,
+              "end_pos": 32,
+              "reference": {
+                "paragraph": [
+                  "2",
+                  "3"
+                ]
+              }
             }
           ],
-          "act_id_abbreviations": [],
-          "outgoing_references": [],
           "semantic_data": []
         },
         {
           "identifier": "5",
-          "intro": "A büntetés öt évtől tizenöt évig terjedő szabadságvesztés, ha",
+          "intro": "A büntetés a (2) vagy a (3) bekezdésben meghatározott bűncselekmény esetén öt évtől tíz évig terjedő szabadságvesztés, a (4) bekezdésben meghatározott bűncselekmény esetén öt évtől tizenöt évig terjedő szabadságvesztés, ha azt",
           "children": [
             {
               "identifier": "a",
-              "text": "a (2) bekezdésben meghatározott bűncselekményt tizennegyedik életévét be nem töltött személy sérelmére követik el,",
+              "text": "tizennyolcadik életévét be nem töltött személy sérelmére,",
               "act_id_abbreviations": [],
-              "outgoing_references": [
-                {
-                  "start_pos": 2,
-                  "end_pos": 17,
-                  "reference": {
-                    "paragraph": "2"
-                  }
-                }
-              ],
+              "outgoing_references": [],
               "semantic_data": [],
               "__type__": "AlphabeticPoint"
             },
             {
               "identifier": "b",
-              "text": "a tizennyolcadik életévét be nem töltött személy sérelmére elkövetett. a (2) bekezdésben meghatározott bűncselekmény a (3) bekezdés valamely pontja szerint is minősül,",
-              "act_id_abbreviations": [],
-              "outgoing_references": [
-                {
-                  "start_pos": 73,
-                  "end_pos": 88,
-                  "reference": {
-                    "paragraph": "2"
-                  }
-                },
-                {
-                  "start_pos": 119,
-                  "end_pos": 131,
-                  "reference": {
-                    "paragraph": "3"
-                  }
-                }
-              ],
-              "semantic_data": [],
-              "__type__": "AlphabeticPoint"
-            },
-            {
-              "identifier": "c",
-              "text": "a tizennyolcadik életévét be nem töltött személy sérelmére elkövetett, a (2) bekezdésben meghatározott bűncselekmény különösen súlyos hátrányt vagy életveszélyt okoz, vagy",
-              "act_id_abbreviations": [],
-              "outgoing_references": [
-                {
-                  "start_pos": 73,
-                  "end_pos": 88,
-                  "reference": {
-                    "paragraph": "2"
-                  }
-                }
-              ],
-              "semantic_data": [],
-              "__type__": "AlphabeticPoint"
-            },
-            {
-              "identifier": "d",
-              "text": "a (2) bekezdésben meghatározott bűncselekményt tizennyolcadik életévét be nem töltött személy sérelmére gyermekpornográfia céljából követik el.",
-              "act_id_abbreviations": [],
-              "outgoing_references": [
-                {
-                  "start_pos": 2,
-                  "end_pos": 17,
-                  "reference": {
-                    "paragraph": "2"
-                  }
-                }
-              ],
-              "semantic_data": [],
-              "__type__": "AlphabeticPoint"
-            }
-          ],
-          "act_id_abbreviations": [],
-          "outgoing_references": [],
-          "semantic_data": []
-        },
-        {
-          "identifier": "6",
-          "intro": "A büntetés öt évtől húsz évig terjedő vagy életfogytig tartó szabadságvesztés, ha",
-          "children": [
-            {
-              "identifier": "a",
-              "text": "a tizennegyedik életévét be nem töltött személy sérelmére elkövetett, a (2) bekezdésben meghatározott bűncselekmény a (3) bekezdés valamely pontja szerint is minősül,",
-              "act_id_abbreviations": [],
-              "outgoing_references": [
-                {
-                  "start_pos": 72,
-                  "end_pos": 87,
-                  "reference": {
-                    "paragraph": "2"
-                  }
-                },
-                {
-                  "start_pos": 118,
-                  "end_pos": 130,
-                  "reference": {
-                    "paragraph": "3"
-                  }
-                }
-              ],
-              "semantic_data": [],
-              "__type__": "AlphabeticPoint"
-            },
-            {
-              "identifier": "b",
-              "text": "a tizennegyedik életévét be nem töltött személy sérelmére elkövetett, a (2) bekezdésben meghatározott bűncselekmény különösen súlyos hátrányt vagy életveszélyt okoz, vagy",
-              "act_id_abbreviations": [],
-              "outgoing_references": [
-                {
-                  "start_pos": 72,
-                  "end_pos": 87,
-                  "reference": {
-                    "paragraph": "2"
-                  }
-                }
-              ],
-              "semantic_data": [],
-              "__type__": "AlphabeticPoint"
-            },
-            {
-              "identifier": "c",
-              "text": "a (2) bekezdésben meghatározott bűncselekményt tizennegyedik életévét be nem töltött személy sérelmére gyermekpornográfia céljából követik el.",
-              "act_id_abbreviations": [],
-              "outgoing_references": [
-                {
-                  "start_pos": 2,
-                  "end_pos": 17,
-                  "reference": {
-                    "paragraph": "2"
-                  }
-                }
-              ],
-              "semantic_data": [],
-              "__type__": "AlphabeticPoint"
-            }
-          ],
-          "act_id_abbreviations": [],
-          "outgoing_references": [],
-          "semantic_data": []
-        },
-        {
-          "identifier": "7",
-          "text": "Aki emberkereskedelemre irányuló előkészületet követ el, vétség miatt két évig terjedő szabadságvesztéssel büntetendő.",
-          "act_id_abbreviations": [],
-          "outgoing_references": [],
-          "semantic_data": []
-        },
-        {
-          "identifier": "8",
-          "text": "E § alkalmazásában kizsákmányolás a kiszolgáltatott helyzetbe hozott vagy helyzetben tartott sértett e helyzetének kihasználásával előny szerzésére törekvés.",
-          "act_id_abbreviations": [],
-          "outgoing_references": [],
-          "semantic_data": []
-        }
-      ],
-      "__type__": "Article"
-    },
-    {
-      "identifier": "",
-      "title": "Kényszermunka",
-      "__type__": "Subtitle"
-    },
-    {
-      "identifier": "193",
-      "children": [
-        {
-          "identifier": "1",
-          "text": "Aki mást annak kiszolgáltatott helyzetét kihasználva, illetve erőszakkal vagy fenyegetéssel munkavégzésre kényszerít, bűntett miatt egy évtől öt évig terjedő szabadságvesztéssel büntetendő.",
-          "act_id_abbreviations": [],
-          "outgoing_references": [],
-          "semantic_data": []
-        },
-        {
-          "identifier": "2",
-          "intro": "A büntetés két évtől nyolc évig terjedő szabadságvesztés, ha a kényszermunkát",
-          "children": [
-            {
-              "identifier": "a",
               "text": "a sértett sanyargatásával,",
               "act_id_abbreviations": [],
               "outgoing_references": [],
@@ -13881,16 +13608,16 @@
               "__type__": "AlphabeticPoint"
             },
             {
-              "identifier": "b",
-              "text": "jelentős érdeksérelmet okozva vagy",
+              "identifier": "c",
+              "text": "hivatalos személyként, e minőséget felhasználva, vagy",
               "act_id_abbreviations": [],
               "outgoing_references": [],
               "semantic_data": [],
               "__type__": "AlphabeticPoint"
             },
             {
-              "identifier": "c",
-              "text": "tizennyolcadik életévét be nem töltött személy sérelmére",
+              "identifier": "d",
+              "text": "több ember sérelmére",
               "act_id_abbreviations": [],
               "outgoing_references": [],
               "semantic_data": [],
@@ -13898,6 +13625,142 @@
             }
           ],
           "wrap_up": "követik el.",
+          "act_id_abbreviations": [],
+          "outgoing_references": [
+            {
+              "start_pos": 13,
+              "end_pos": 39,
+              "reference": {
+                "paragraph": [
+                  "2",
+                  "3"
+                ]
+              }
+            },
+            {
+              "start_pos": 121,
+              "end_pos": 136,
+              "reference": {
+                "paragraph": "4"
+              }
+            }
+          ],
+          "semantic_data": []
+        },
+        {
+          "identifier": "6",
+          "intro": "A büntetés a (2) vagy a (3) bekezdésben meghatározott bűncselekmény esetén öt évtől tizenöt évig terjedő szabadságvesztés, a (4) bekezdésben meghatározott bűncselekmény esetén öt évtől húsz évig vagy életfogytig terjedő szabadságvesztés, ha azt",
+          "children": [
+            {
+              "identifier": "a",
+              "text": "tizenkettedik életévét be nem töltött személy sérelmére, vagy",
+              "act_id_abbreviations": [],
+              "outgoing_references": [],
+              "semantic_data": [],
+              "__type__": "AlphabeticPoint"
+            },
+            {
+              "identifier": "b",
+              "text": "életveszélyt vagy különösen súlyos hátrányt okozva",
+              "act_id_abbreviations": [],
+              "outgoing_references": [],
+              "semantic_data": [],
+              "__type__": "AlphabeticPoint"
+            }
+          ],
+          "wrap_up": "követik el.",
+          "act_id_abbreviations": [],
+          "outgoing_references": [
+            {
+              "start_pos": 13,
+              "end_pos": 39,
+              "reference": {
+                "paragraph": [
+                  "2",
+                  "3"
+                ]
+              }
+            },
+            {
+              "start_pos": 125,
+              "end_pos": 140,
+              "reference": {
+                "paragraph": "4"
+              }
+            }
+          ],
+          "semantic_data": []
+        },
+        {
+          "identifier": "7",
+          "text": "Aki emberkereskedelem és kényszermunkára irányuló előkészületet követ el, az (1) bekezdésben meghatározott esetben vétség miatt egy évig, a (2) vagy (3) bekezdésben meghatározott esetben bűntett miatt három évig, a (4) bekezdésben meghatározott esetben egy évtől öt évig terjedő szabadságvesztéssel büntetendő.",
+          "act_id_abbreviations": [],
+          "outgoing_references": [
+            {
+              "start_pos": 77,
+              "end_pos": 92,
+              "reference": {
+                "paragraph": "1"
+              }
+            },
+            {
+              "start_pos": 140,
+              "end_pos": 164,
+              "reference": {
+                "paragraph": [
+                  "2",
+                  "3"
+                ]
+              }
+            },
+            {
+              "start_pos": 215,
+              "end_pos": 230,
+              "reference": {
+                "paragraph": "4"
+              }
+            }
+          ],
+          "semantic_data": []
+        },
+        {
+          "identifier": "8",
+          "intro": "Aki",
+          "children": [
+            {
+              "identifier": "a",
+              "text": "a (2) bekezdésben meghatározott emberkereskedelem és kényszermunka sértettjének munkáját, munka jellegű tevékenységét, egyéb szolgáltatását vagy jogellenes cselekményét igénybe veszi vagy felhasználja, három évig terjedő szabadságvesztéssel,",
+              "act_id_abbreviations": [],
+              "outgoing_references": [
+                {
+                  "start_pos": 2,
+                  "end_pos": 17,
+                  "reference": {
+                    "paragraph": "2"
+                  }
+                }
+              ],
+              "semantic_data": [],
+              "__type__": "AlphabeticPoint"
+            },
+            {
+              "identifier": "b",
+              "text": "az a) pontban meghatározott bűncselekményt szexuális cselekmény igénybevételével vagy emberi test tiltott felhasználása érdekében követi el, egy évtől öt évig terjedő szabadságvesztéssel",
+              "act_id_abbreviations": [],
+              "outgoing_references": [
+                {
+                  "start_pos": 3,
+                  "end_pos": 13,
+                  "reference": {
+                    "point": "a"
+                  }
+                }
+              ],
+              "semantic_data": [],
+              "__type__": "AlphabeticPoint"
+            }
+          ],
+          "wrap_up": "büntetendő.",
           "act_id_abbreviations": [],
           "outgoing_references": [],
           "semantic_data": []
@@ -14446,24 +14309,85 @@
         },
         {
           "identifier": "2",
-          "text": "Kerítést követ el, és az (1) bekezdés szerint büntetendő az is, aki tizennyolcadik életévét be nem töltött személyt prostitúcióra felajánl vagy felhív.",
+          "text": "Kerítést követ el, és egy évtől öt évig terjedő szabadságvesztéssel büntetendő, aki tizennyolcadik életévét be nem töltött személyt prostitúcióra felajánl vagy felhív.",
           "act_id_abbreviations": [],
-          "outgoing_references": [
-            {
-              "start_pos": 25,
-              "end_pos": 37,
-              "reference": {
-                "paragraph": "1"
-              }
-            }
-          ],
+          "outgoing_references": [],
           "semantic_data": []
         },
         {
           "identifier": "3",
-          "text": "A büntetés egy évtől öt évig terjedő szabadságvesztés, ha a kerítés üzletszerű.",
+          "text": "A büntetés két évtől nyolc évig terjedő szabadságvesztés, ha a kerítés üzletszerű.",
           "act_id_abbreviations": [],
           "outgoing_references": [],
+          "semantic_data": []
+        },
+        {
+          "identifier": "3a",
+          "intro": "Ha az (1)–(3) bekezdésben meghatározott bűncselekményt különös visszaesőként követik el, a büntetés",
+          "children": [
+            {
+              "identifier": "a",
+              "text": "az (1) bekezdésben meghatározott esetben egy évtől öt évig,",
+              "act_id_abbreviations": [],
+              "outgoing_references": [
+                {
+                  "start_pos": 3,
+                  "end_pos": 18,
+                  "reference": {
+                    "paragraph": "1"
+                  }
+                }
+              ],
+              "semantic_data": [],
+              "__type__": "AlphabeticPoint"
+            },
+            {
+              "identifier": "b",
+              "text": "a (2) bekezdésben meghatározott esetben két évtől nyolc évig,",
+              "act_id_abbreviations": [],
+              "outgoing_references": [
+                {
+                  "start_pos": 2,
+                  "end_pos": 17,
+                  "reference": {
+                    "paragraph": "2"
+                  }
+                }
+              ],
+              "semantic_data": [],
+              "__type__": "AlphabeticPoint"
+            },
+            {
+              "identifier": "c",
+              "text": "a (3) bekezdésben meghatározott esetben öt évtől tíz évig",
+              "act_id_abbreviations": [],
+              "outgoing_references": [
+                {
+                  "start_pos": 2,
+                  "end_pos": 17,
+                  "reference": {
+                    "paragraph": "3"
+                  }
+                }
+              ],
+              "semantic_data": [],
+              "__type__": "AlphabeticPoint"
+            }
+          ],
+          "wrap_up": "terjedő szabadságvesztés.",
+          "act_id_abbreviations": [],
+          "outgoing_references": [
+            {
+              "start_pos": 6,
+              "end_pos": 25,
+              "reference": {
+                "paragraph": [
+                  "1",
+                  "3"
+                ]
+              }
+            }
+          ],
           "semantic_data": []
         },
         {
@@ -14510,28 +14434,54 @@
         },
         {
           "identifier": "5",
-          "text": "A büntetés öt évtől tíz évig terjedő szabadságvesztés, ha a (4) bekezdés a) vagy b) pontjában meghatározott kerítés a c) pont szerint is minősül.",
-          "act_id_abbreviations": [],
-          "outgoing_references": [
+          "intro": "A büntetés öt évtől tíz évig terjedő szabadságvesztés, ha",
+          "children": [
             {
-              "start_pos": 60,
-              "end_pos": 93,
-              "reference": {
-                "paragraph": "4",
-                "point": [
-                  "a",
-                  "b"
-                ]
-              }
+              "identifier": "a",
+              "text": "a (4) bekezdés a) vagy b) pontjában meghatározott kerítés a c) pont szerint is minősül,",
+              "act_id_abbreviations": [],
+              "outgoing_references": [
+                {
+                  "start_pos": 2,
+                  "end_pos": 35,
+                  "reference": {
+                    "paragraph": "4",
+                    "point": [
+                      "a",
+                      "b"
+                    ]
+                  }
+                },
+                {
+                  "start_pos": 60,
+                  "end_pos": 67,
+                  "reference": {
+                    "point": "c"
+                  }
+                }
+              ],
+              "semantic_data": [],
+              "__type__": "AlphabeticPoint"
             },
             {
-              "start_pos": 118,
-              "end_pos": 125,
-              "reference": {
-                "point": "c"
-              }
+              "identifier": "b",
+              "text": "a (4) bekezdés valamelyik pontjában meghatározott kerítést különös visszaesőként követik el.",
+              "act_id_abbreviations": [],
+              "outgoing_references": [
+                {
+                  "start_pos": 2,
+                  "end_pos": 14,
+                  "reference": {
+                    "paragraph": "4"
+                  }
+                }
+              ],
+              "semantic_data": [],
+              "__type__": "AlphabeticPoint"
             }
           ],
+          "act_id_abbreviations": [],
+          "outgoing_references": [],
           "semantic_data": []
         },
         {
@@ -14574,7 +14524,7 @@
             },
             {
               "identifier": "c",
-              "text": "tizennyolcadik életévét be nem töltött személy prostitúciójához segítséget nyújt,",
+              "text": " ",
               "act_id_abbreviations": [],
               "outgoing_references": [],
               "semantic_data": [],
@@ -14588,14 +14538,80 @@
         },
         {
           "identifier": "2",
-          "text": "Egy évtől öt évig terjedő szabadságvesztéssel büntetendő, aki tizennyolcadik életévét be nem töltött személyt bír rá prostitúcióra.",
+          "text": "Aki az (1) bekezdésben meghatározott bűncselekményt tizennyolcadik életévét be nem töltött személy prostitúciójával összefüggésben követi el, vagy tizennyolcadik életévét be nem töltött személy prostitúciójához segítséget nyújt, két évtől nyolc évig terjedő szabadságvesztéssel büntetendő.",
           "act_id_abbreviations": [],
-          "outgoing_references": [],
+          "outgoing_references": [
+            {
+              "start_pos": 7,
+              "end_pos": 22,
+              "reference": {
+                "paragraph": "1"
+              }
+            }
+          ],
           "semantic_data": []
         },
         {
           "identifier": "3",
           "text": "Aki bordélyházat tart fenn, vezet, vagy annak működéséhez anyagi eszközöket szolgáltat, egy évtől öt évig terjedő szabadságvesztéssel büntetendő.",
+          "act_id_abbreviations": [],
+          "outgoing_references": [],
+          "semantic_data": []
+        },
+        {
+          "identifier": "4",
+          "intro": "Ha a prostitúció elősegítését különös visszaesőként követik el, a büntetés",
+          "children": [
+            {
+              "identifier": "a",
+              "text": "az (1) bekezdésben meghatározott esetben egy évtől öt évig,",
+              "act_id_abbreviations": [],
+              "outgoing_references": [
+                {
+                  "start_pos": 3,
+                  "end_pos": 18,
+                  "reference": {
+                    "paragraph": "1"
+                  }
+                }
+              ],
+              "semantic_data": [],
+              "__type__": "AlphabeticPoint"
+            },
+            {
+              "identifier": "b",
+              "text": "a (2) bekezdésben meghatározott esetben öt évtől tíz évig,",
+              "act_id_abbreviations": [],
+              "outgoing_references": [
+                {
+                  "start_pos": 2,
+                  "end_pos": 17,
+                  "reference": {
+                    "paragraph": "2"
+                  }
+                }
+              ],
+              "semantic_data": [],
+              "__type__": "AlphabeticPoint"
+            },
+            {
+              "identifier": "c",
+              "text": "a (3) bekezdésben meghatározott esetben két évtől nyolc évig",
+              "act_id_abbreviations": [],
+              "outgoing_references": [
+                {
+                  "start_pos": 2,
+                  "end_pos": 17,
+                  "reference": {
+                    "paragraph": "3"
+                  }
+                }
+              ],
+              "semantic_data": [],
+              "__type__": "AlphabeticPoint"
+            }
+          ],
+          "wrap_up": "terjedő szabadságvesztés.",
           "act_id_abbreviations": [],
           "outgoing_references": [],
           "semantic_data": []
@@ -14630,29 +14646,21 @@
       "children": [
         {
           "identifier": "1",
-          "text": "Aki tizennyolcadik életévét be nem töltött személy prostitúciójából haszonszerzésre törekszik, bűntett miatt három évig terjedő szabadságvesztéssel büntetendő.",
+          "text": "Aki tizennyolcadik életévét be nem töltött személy prostitúciójából haszonszerzésre törekszik, bűntett miatt két évtől nyolc évig terjedő szabadságvesztéssel büntetendő.",
           "act_id_abbreviations": [],
           "outgoing_references": [],
           "semantic_data": []
         },
         {
           "identifier": "2",
-          "text": "Az (1) bekezdés szerint büntetendő, aki tizennyolcadik életévét be nem töltött személlyel való szexuális cselekményért ellenszolgáltatást nyújt.",
+          "text": "Aki tizennyolcadik életévét be nem töltött személlyel való szexuális cselekményért ellenszolgáltatást nyújt, bűntett miatt két évtől nyolc évig terjedő szabadságvesztéssel büntetendő.",
           "act_id_abbreviations": [],
-          "outgoing_references": [
-            {
-              "start_pos": 3,
-              "end_pos": 15,
-              "reference": {
-                "paragraph": "1"
-              }
-            }
-          ],
+          "outgoing_references": [],
           "semantic_data": []
         },
         {
           "identifier": "3",
-          "text": "Aki részben vagy egészben tizennyolcadik életévét be nem töltött, prostitúciót folytató személlyel tartatja ki magát, egy évtől öt évig terjedő szabadságvesztéssel büntetendő.",
+          "text": "Aki részben vagy egészben tizennyolcadik életévét be nem töltött, prostitúciót folytató személlyel tartatja ki magát, két évtől nyolc évig terjedő szabadságvesztéssel büntetendő.",
           "act_id_abbreviations": [],
           "outgoing_references": [],
           "semantic_data": []
@@ -14660,6 +14668,13 @@
         {
           "identifier": "4",
           "text": "Aki olyan bordélyházat tart fenn, vezet, vagy olyan bordélyház működéséhez szolgáltat anyagi eszközöket, amelyben tizennyolcadik életévét be nem töltött személy folytat prostitúciót, két évtől nyolc évig terjedő szabadságvesztéssel büntetendő.",
+          "act_id_abbreviations": [],
+          "outgoing_references": [],
+          "semantic_data": []
+        },
+        {
+          "identifier": "5",
+          "text": "A büntetés öt évtől tíz évig terjedő szabadságvesztés, ha a gyermekprostitúció kihasználását különös visszaesőként követik el.",
           "act_id_abbreviations": [],
           "outgoing_references": [],
           "semantic_data": []
@@ -14927,6 +14942,57 @@
               "reference": {
                 "article": "205",
                 "paragraph": "3"
+              }
+            }
+          ],
+          "semantic_data": []
+        }
+      ],
+      "__type__": "Article"
+    },
+    {
+      "identifier": "",
+      "title": "Értelmező rendelkezés",
+      "__type__": "Subtitle"
+    },
+    {
+      "identifier": "207/A",
+      "children": [
+        {
+          "text": "A 200. § (3a) bekezdése, a 200. § (5) bekezdés b) pontja, a 201. § (4) bekezdése és a 203. § (5) bekezdése alkalmazásában a különös visszaesés szempontjából hasonló jellegű bűncselekmény az emberkereskedelem és kényszermunka, a kerítés, a prostitúció elősegítése és a gyermekprostitúció kihasználása.",
+          "act_id_abbreviations": [],
+          "outgoing_references": [
+            {
+              "start_pos": 2,
+              "end_pos": 23,
+              "reference": {
+                "article": "200",
+                "paragraph": "3a"
+              }
+            },
+            {
+              "start_pos": 27,
+              "end_pos": 56,
+              "reference": {
+                "article": "200",
+                "paragraph": "5",
+                "point": "b"
+              }
+            },
+            {
+              "start_pos": 60,
+              "end_pos": 80,
+              "reference": {
+                "article": "201",
+                "paragraph": "4"
+              }
+            },
+            {
+              "start_pos": 86,
+              "end_pos": 106,
+              "reference": {
+                "article": "203",
+                "paragraph": "5"
               }
             }
           ],
@@ -19173,7 +19239,7 @@
             },
             {
               "identifier": "b",
-              "text": "emberöléssel [160. § (1)–(3) és (5) bekezdés], emberrablással [190. § (1)–(4) bekezdés], emberkereskedelemmel [192. § (1)–(6) bekezdés], terrorcselekménnyel [314. § (1)–(2) bekezdés], terrorizmus finanszírozásával [318. § és 318/A. §], jármű hatalomba kerítésével [320. § (1)–(2) bekezdés],",
+              "text": "emberöléssel [160. § (1)–(3) és (5) bekezdés], emberrablással [190. § (1)–(4) bekezdés], emberkereskedelem és kényszermunkával [192. § (1)–(6) bekezdés], terrorcselekménnyel [314. § (1)–(2) bekezdés], terrorizmus finanszírozásával [318. § és 318/A. §], jármű hatalomba kerítésével [320. § (1)–(2) bekezdés],",
               "act_id_abbreviations": [],
               "outgoing_references": [
                 {
@@ -19207,8 +19273,8 @@
                   }
                 },
                 {
-                  "start_pos": 111,
-                  "end_pos": 134,
+                  "start_pos": 128,
+                  "end_pos": 151,
                   "reference": {
                     "article": "192",
                     "paragraph": [
@@ -19218,8 +19284,8 @@
                   }
                 },
                 {
-                  "start_pos": 158,
-                  "end_pos": 181,
+                  "start_pos": 175,
+                  "end_pos": 198,
                   "reference": {
                     "article": "314",
                     "paragraph": [
@@ -19229,22 +19295,22 @@
                   }
                 },
                 {
-                  "start_pos": 215,
-                  "end_pos": 221,
+                  "start_pos": 232,
+                  "end_pos": 238,
                   "reference": {
                     "article": "318"
                   }
                 },
                 {
-                  "start_pos": 225,
-                  "end_pos": 233,
+                  "start_pos": 242,
+                  "end_pos": 250,
                   "reference": {
                     "article": "318/A"
                   }
                 },
                 {
-                  "start_pos": 265,
-                  "end_pos": 288,
+                  "start_pos": 282,
+                  "end_pos": 305,
                   "reference": {
                     "article": "320",
                     "paragraph": [
@@ -25453,7 +25519,7 @@
             },
             {
               "identifier": "b",
-              "text": "olyan, keresőtevékenység folytatására jogosító engedéllyel nem rendelkező harmadik országbeli állampolgárt foglalkoztat, akinek sérelmére emberkereskedelmet követtek el.",
+              "text": " ",
               "act_id_abbreviations": [],
               "outgoing_references": [],
               "semantic_data": [],
@@ -34574,7 +34640,7 @@
                 },
                 {
                   "identifier": "d",
-                  "text": "az emberrablás [190. § (1)–(4) bekezdés], az emberkereskedelem [192. § (1)–(6) bekezdés], a kényszermunka (193. §), a személyi szabadság megsértése (194. §), a kényszerítés (195. §),",
+                  "text": "az emberrablás [190. § (1)–(4) bekezdés], az emberkereskedelem és kényszermunka [192. § (1)–(6) bekezdés],   a személyi szabadság megsértése (194. §), a kényszerítés (195. §),",
                   "act_id_abbreviations": [],
                   "outgoing_references": [
                     {
@@ -34589,8 +34655,8 @@
                       }
                     },
                     {
-                      "start_pos": 64,
-                      "end_pos": 87,
+                      "start_pos": 81,
+                      "end_pos": 104,
                       "reference": {
                         "article": "192",
                         "paragraph": [
@@ -34600,22 +34666,15 @@
                       }
                     },
                     {
-                      "start_pos": 107,
-                      "end_pos": 113,
-                      "reference": {
-                        "article": "193"
-                      }
-                    },
-                    {
-                      "start_pos": 149,
-                      "end_pos": 155,
+                      "start_pos": 142,
+                      "end_pos": 148,
                       "reference": {
                         "article": "194"
                       }
                     },
                     {
-                      "start_pos": 174,
-                      "end_pos": 180,
+                      "start_pos": 167,
+                      "end_pos": 173,
                       "reference": {
                         "article": "195"
                       }
