@@ -630,69 +630,199 @@
       "identifier": "16",
       "children": [
         {
-          "text": "Nem büntethető, aki a büntetendő cselekmény elkövetésekor a tizennegyedik életévét nem töltötte be, kivéve az emberölés [160. § (1)–(2) bekezdés], az erős felindulásban elkövetett emberölés (161. §), a testi sértés [164. § (8) bekezdés], a terrorcselekmény [314. § (1)–(4) bekezdés], a rablás [365. § (1)–(4) bekezdés] és a kifosztás [366. § (2)–(3) bekezdés] elkövetőjét, ha a bűncselekmény elkövetésekor a tizenkettedik életévét betöltötte, és az elkövetéskor rendelkezett a bűncselekmény következményeinek felismeréséhez szükséges belátással.",
-          "act_id_abbreviations": [],
-          "outgoing_references": [
+          "intro": "Nem büntethető, aki a büntetendő cselekmény elkövetésekor a tizennegyedik életévét nem töltötte be, kivéve",
+          "children": [
             {
-              "start_pos": 121,
-              "end_pos": 144,
-              "reference": {
-                "article": "160",
-                "paragraph": [
-                  "1",
-                  "2"
-                ]
-              }
+              "identifier": "a",
+              "text": "az emberölés [160. § (1)–(2) bekezdés],",
+              "act_id_abbreviations": [],
+              "outgoing_references": [
+                {
+                  "start_pos": 14,
+                  "end_pos": 37,
+                  "reference": {
+                    "article": "160",
+                    "paragraph": [
+                      "1",
+                      "2"
+                    ]
+                  }
+                }
+              ],
+              "semantic_data": [],
+              "__type__": "AlphabeticPoint"
             },
             {
-              "start_pos": 191,
-              "end_pos": 197,
-              "reference": {
-                "article": "161"
-              }
+              "identifier": "b",
+              "text": "az erős felindulásban elkövetett emberölés (161. §),",
+              "act_id_abbreviations": [],
+              "outgoing_references": [
+                {
+                  "start_pos": 44,
+                  "end_pos": 50,
+                  "reference": {
+                    "article": "161"
+                  }
+                }
+              ],
+              "semantic_data": [],
+              "__type__": "AlphabeticPoint"
             },
             {
-              "start_pos": 216,
-              "end_pos": 235,
-              "reference": {
-                "article": "164",
-                "paragraph": "8"
-              }
+              "identifier": "c",
+              "text": "a testi sértés [164. § (8) bekezdés],",
+              "act_id_abbreviations": [],
+              "outgoing_references": [
+                {
+                  "start_pos": 16,
+                  "end_pos": 35,
+                  "reference": {
+                    "article": "164",
+                    "paragraph": "8"
+                  }
+                }
+              ],
+              "semantic_data": [],
+              "__type__": "AlphabeticPoint"
             },
             {
-              "start_pos": 258,
-              "end_pos": 281,
-              "reference": {
-                "article": "314",
-                "paragraph": [
-                  "1",
-                  "4"
-                ]
-              }
+              "identifier": "d",
+              "text": "a hivatalos személy elleni erőszak [310. § (1)–(3) bekezdés],",
+              "act_id_abbreviations": [],
+              "outgoing_references": [
+                {
+                  "start_pos": 36,
+                  "end_pos": 59,
+                  "reference": {
+                    "article": "310",
+                    "paragraph": [
+                      "1",
+                      "3"
+                    ]
+                  }
+                }
+              ],
+              "semantic_data": [],
+              "__type__": "AlphabeticPoint"
             },
             {
-              "start_pos": 294,
-              "end_pos": 317,
-              "reference": {
-                "article": "365",
-                "paragraph": [
-                  "1",
-                  "4"
-                ]
-              }
+              "identifier": "e",
+              "text": "a közfeladatot ellátó személy elleni erőszak [311. §, ha a 310. § (1)–(3) bekezdése szerint minősül],",
+              "act_id_abbreviations": [],
+              "outgoing_references": [
+                {
+                  "start_pos": 46,
+                  "end_pos": 52,
+                  "reference": {
+                    "article": "311"
+                  }
+                },
+                {
+                  "start_pos": 59,
+                  "end_pos": 83,
+                  "reference": {
+                    "article": "310",
+                    "paragraph": [
+                      "1",
+                      "3"
+                    ]
+                  }
+                }
+              ],
+              "semantic_data": [],
+              "__type__": "AlphabeticPoint"
             },
             {
-              "start_pos": 335,
-              "end_pos": 358,
-              "reference": {
-                "article": "366",
-                "paragraph": [
-                  "2",
-                  "3"
-                ]
-              }
+              "identifier": "f",
+              "text": "a hivatalos személy vagy közfeladatot ellátó személy támogatója elleni erőszak [312. §, ha a 310. § (1)–(3) bekezdése szerint minősül],",
+              "act_id_abbreviations": [],
+              "outgoing_references": [
+                {
+                  "start_pos": 80,
+                  "end_pos": 86,
+                  "reference": {
+                    "article": "312"
+                  }
+                },
+                {
+                  "start_pos": 93,
+                  "end_pos": 117,
+                  "reference": {
+                    "article": "310",
+                    "paragraph": [
+                      "1",
+                      "3"
+                    ]
+                  }
+                }
+              ],
+              "semantic_data": [],
+              "__type__": "AlphabeticPoint"
+            },
+            {
+              "identifier": "g",
+              "text": "a terrorcselekmény [314. § (1)–(2) bekezdés],",
+              "act_id_abbreviations": [],
+              "outgoing_references": [
+                {
+                  "start_pos": 20,
+                  "end_pos": 43,
+                  "reference": {
+                    "article": "314",
+                    "paragraph": [
+                      "1",
+                      "2"
+                    ]
+                  }
+                }
+              ],
+              "semantic_data": [],
+              "__type__": "AlphabeticPoint"
+            },
+            {
+              "identifier": "h",
+              "text": "a rablás [365. § (1)–(4) bekezdés], és",
+              "act_id_abbreviations": [],
+              "outgoing_references": [
+                {
+                  "start_pos": 10,
+                  "end_pos": 33,
+                  "reference": {
+                    "article": "365",
+                    "paragraph": [
+                      "1",
+                      "4"
+                    ]
+                  }
+                }
+              ],
+              "semantic_data": [],
+              "__type__": "AlphabeticPoint"
+            },
+            {
+              "identifier": "i",
+              "text": "a kifosztás [366. § (2)–(3) bekezdés]",
+              "act_id_abbreviations": [],
+              "outgoing_references": [
+                {
+                  "start_pos": 13,
+                  "end_pos": 36,
+                  "reference": {
+                    "article": "366",
+                    "paragraph": [
+                      "2",
+                      "3"
+                    ]
+                  }
+                }
+              ],
+              "semantic_data": [],
+              "__type__": "AlphabeticPoint"
             }
           ],
+          "wrap_up": "elkövetőjét, ha a bűncselekmény elkövetésekor a tizenkettedik életévét betöltötte, és az elkövetéskor rendelkezett a bűncselekmény következményeinek felismeréséhez szükséges belátással.",
+          "act_id_abbreviations": [],
+          "outgoing_references": [],
           "semantic_data": []
         }
       ],
@@ -34093,6 +34223,14 @@
                 {
                   "identifier": "o",
                   "text": "az egyetemes postai szolgáltatónál ügyfélkapcsolati feladatot ellátó személy e tevékenysége során;",
+                  "act_id_abbreviations": [],
+                  "outgoing_references": [],
+                  "semantic_data": [],
+                  "__type__": "AlphabeticSubpoint"
+                },
+                {
+                  "identifier": "p",
+                  "text": "az iskolaőr a Rendőrségről szóló törvényben meghatározott tevékenysége körében.",
                   "act_id_abbreviations": [],
                   "outgoing_references": [],
                   "semantic_data": [],
