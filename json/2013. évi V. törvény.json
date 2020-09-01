@@ -19754,7 +19754,7 @@
       "children": [
         {
           "identifier": "1",
-          "text": "Örökbefogadó az a huszonötödik életévét betöltött, cselekvőképes személy lehet, aki a gyermeknél legalább tizenhat évvel, legfeljebb negyvenöt évvel idősebb, és személyisége, körülményei alapján alkalmas a gyermek örökbefogadására. Rokoni vagy házastársi örökbefogadás esetén a korkülönbségtől el kell tekinteni.",
+          "text": "Örökbefogadó az a huszonötödik életévét betöltött, cselekvőképes személy lehet, aki a gyermeknél legalább tizenhat évvel, legfeljebb negyvenöt évvel idősebb, és személyisége, körülményei alapján alkalmas a gyermek örökbefogadására. Három év feletti gyermek örökbefogadása iránti kérelem benyújtása esetén az örökbefogadás a gyermek érdekében abban az esetben is engedélyezhető, ha az örökbefogadó szülő és a gyermek között legfeljebb ötven év a korkülönbség. Rokoni vagy házastársi örökbefogadás esetén a korkülönbségtől el kell tekinteni.",
           "act_id_abbreviations": [],
           "outgoing_references": [],
           "semantic_data": []
@@ -19832,11 +19832,11 @@
       "children": [
         {
           "identifier": "1",
-          "intro": "A gyámhatóság a nevelésbe vett gyermeket legfeljebb két évre örökbefogadhatónak nyilvánítja, ha a szülőjének szülői felügyeleti joga nem szűnt meg és a szülő önhibájából",
+          "intro": "A gyámhatóság a nevelésbe vett gyermeket legfeljebb négy évre örökbefogadhatónak nyilvánítja, ha a szülőjének szülői felügyeleti joga nem szűnt meg és a szülő önhibájából",
           "children": [
             {
               "identifier": "a",
-              "text": "gyermekével egy éve nem tart rendszeres kapcsolatot vagy fél éven át semmilyen formában nem tart kapcsolatot, illetve életvitelén, körülményein nem változtat, és emiatt a nevelésbe vétel nem szüntethető meg; vagy",
+              "text": "gyermekével nyolc hónapja nem tart rendszeres kapcsolatot vagy három hónapon át semmilyen formában nem tart kapcsolatot, illetve életvitelén, körülményein nem változtat, és emiatt a nevelésbe vétel nem szüntethető meg; vagy",
               "act_id_abbreviations": [],
               "outgoing_references": [],
               "semantic_data": [],
@@ -19844,7 +19844,7 @@
             },
             {
               "identifier": "b",
-              "text": "lakó- és tartózkodási helyét az új lakó- és tartózkodási helyének hátrahagyása nélkül megváltoztatja, és az annak felderítésére irányuló intézkedések hat hónapon belül nem vezetnek eredményre.",
+              "text": "lakó- és tartózkodási helyét az új lakó- és tartózkodási helyének hátrahagyása nélkül megváltoztatja, és az annak felderítésére irányuló intézkedések három hónapon belül nem vezetnek eredményre.",
               "act_id_abbreviations": [],
               "outgoing_references": [],
               "semantic_data": [],
@@ -19872,7 +19872,7 @@
         },
         {
           "identifier": "3",
-          "text": "Az (1) bekezdés a) pontja esetén az örökbefogadhatóvá nyilvánítás jogkövetkezményére a szülőt a nevelésbe vételt elrendelő határozatban figyelmeztetni kell.",
+          "text": "Az (1) bekezdés a) pontja esetén az örökbefogadhatóvá nyilvánítás jogkövetkezményére a szülőt az ideiglenes hatályú elhelyezést és a nevelésbe vételt elrendelő határozatban figyelmeztetni kell.",
           "act_id_abbreviations": [],
           "outgoing_references": [
             {

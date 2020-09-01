@@ -7790,7 +7790,10 @@ Az örökbefogadás célja és feltételei
           (1)  Örökbefogadó az a huszonötödik életévét betöltött, cselekvőképes személy
                lehet, aki a gyermeknél legalább tizenhat évvel, legfeljebb negyvenöt évvel
                idősebb, és személyisége, körülményei alapján alkalmas a gyermek
-               örökbefogadására. Rokoni vagy házastársi örökbefogadás esetén a
+               örökbefogadására. Három év feletti gyermek örökbefogadása iránti kérelem
+               benyújtása esetén az örökbefogadás a gyermek érdekében abban az esetben is
+               engedélyezhető, ha az örökbefogadó szülő és a gyermek között legfeljebb
+               ötven év a korkülönbség. Rokoni vagy házastársi örökbefogadás esetén a
                korkülönbségtől el kell tekinteni.
           (2)  Közös gyermekként történő örökbefogadás esetén az (1) bekezdésben
                meghatározott életkornak és korkülönbségnek az egyik örökbefogadó
@@ -7824,21 +7827,21 @@ Az örökbefogadás célja és feltételei
                fogadják örökbe, a korábbi örökbefogadás megszűnik.
 
 4:124. §       [Az örökbefogadhatónak nyilvánítás]
-          (1)  A gyámhatóság a nevelésbe vett gyermeket legfeljebb két évre
+          (1)  A gyámhatóság a nevelésbe vett gyermeket legfeljebb négy évre
                örökbefogadhatónak nyilvánítja, ha a szülőjének szülői felügyeleti joga nem
                szűnt meg és a szülő önhibájából
-               a)   gyermekével egy éve nem tart rendszeres kapcsolatot vagy fél éven át
-                    semmilyen formában nem tart kapcsolatot, illetve életvitelén,
-                    körülményein nem változtat, és emiatt a nevelésbe vétel nem
-                    szüntethető meg; vagy
+               a)   gyermekével nyolc hónapja nem tart rendszeres kapcsolatot vagy három
+                    hónapon át semmilyen formában nem tart kapcsolatot, illetve
+                    életvitelén, körülményein nem változtat, és emiatt a nevelésbe vétel
+                    nem szüntethető meg; vagy
                b)   lakó- és tartózkodási helyét az új lakó- és tartózkodási helyének
                     hátrahagyása nélkül megváltoztatja, és az annak felderítésére irányuló
-                    intézkedések hat hónapon belül nem vezetnek eredményre.
+                    intézkedések három hónapon belül nem vezetnek eredményre.
           (2)  Az (1) bekezdésben meghatározott határidő indokolt esetben legfeljebb két
                évvel meghosszabbítható.
           (3)  Az (1) bekezdés a) pontja esetén az örökbefogadhatóvá nyilvánítás
-               jogkövetkezményére a szülőt a nevelésbe vételt elrendelő határozatban
-               figyelmeztetni kell.
+               jogkövetkezményére a szülőt az ideiglenes hatályú elhelyezést és a
+               nevelésbe vételt elrendelő határozatban figyelmeztetni kell.
           (4)  A gyámhatóság a gyermek örökbefogadása érdekében az örökbefogadhatónak
                nyilvánítással egyidejűleg a szülő kapcsolattartási jogát szünetelteti.
           (5)  Ha a kiskorú örökbefogadására nem került sor, és utóbb a gyámhatóság a
