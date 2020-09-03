@@ -4402,6 +4402,10 @@ A részvénytársaság szervezete
                részvényes szavazati jogát a közgyűlést megelőzően postai úton gyakorolja,
                e jog gyakorlását érvényesen csak olyan feltételhez kötheti, amely a
                részvényes személyazonossága megállapításához szükséges.
+          (5)  A részvényes kérelmére a részvényesnek vagy az általa megjelölt személynek
+               az igazgatóság köteles visszaigazolni, hogy a részvényes szavazatát a
+               közgyűlésen szabályszerűen rögzítették és azt beszámították, kivéve, ha a
+               szükséges tájékoztatás a részvényes rendelkezésére áll.
 
 3:274. §       [Jelenléti ív]
           (1)  A közgyűlésen megjelent részvényesekről jelenléti ívet kell készíteni,
@@ -4519,6 +4523,10 @@ A részvénytársaság szervezete
                módon úgy kell rögzíteni, hogy azok utóbb is ellenőrizhetőek legyenek. Ha a
                közgyűlésen elhangzottakról felvétel készült, a felvétel alapján
                jegyzőkönyvet kell készíteni, amelyet az igazgatóság hitelesít.
+          (3)  Ha a konferencia-közgyűlésen elektronikus hírközlő eszközök
+               igénybevételével történő szavazásra kerül sor, biztosítani kell, hogy az
+               elektronikus hírközlő eszközzel szavazó részvényes elektronikus
+               visszaigazolást kapjon a szavazat leadásáról.
 
 2. Az ügyvezetés
 

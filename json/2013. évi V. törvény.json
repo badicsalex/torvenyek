@@ -11098,6 +11098,13 @@
           "act_id_abbreviations": [],
           "outgoing_references": [],
           "semantic_data": []
+        },
+        {
+          "identifier": "5",
+          "text": "A részvényes kérelmére a részvényesnek vagy az általa megjelölt személynek az igazgatóság köteles visszaigazolni, hogy a részvényes szavazatát a közgyűlésen szabályszerűen rögzítették és azt beszámították, kivéve, ha a szükséges tájékoztatás a részvényes rendelkezésére áll.",
+          "act_id_abbreviations": [],
+          "outgoing_references": [],
+          "semantic_data": []
         }
       ],
       "title": "Részvétel a közgyűlésen",
@@ -11362,6 +11369,13 @@
         {
           "identifier": "2",
           "text": "A konferencia-közgyűlésen elhangzottakat és a hozott határozatokat hiteles módon úgy kell rögzíteni, hogy azok utóbb is ellenőrizhetőek legyenek. Ha a közgyűlésen elhangzottakról felvétel készült, a felvétel alapján jegyzőkönyvet kell készíteni, amelyet az igazgatóság hitelesít.",
+          "act_id_abbreviations": [],
+          "outgoing_references": [],
+          "semantic_data": []
+        },
+        {
+          "identifier": "3",
+          "text": "Ha a konferencia-közgyűlésen elektronikus hírközlő eszközök igénybevételével történő szavazásra kerül sor, biztosítani kell, hogy az elektronikus hírközlő eszközzel szavazó részvényes elektronikus visszaigazolást kapjon a szavazat leadásáról.",
           "act_id_abbreviations": [],
           "outgoing_references": [],
           "semantic_data": []
