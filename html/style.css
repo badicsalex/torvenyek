@@ -1,0 +1,158 @@
+/*
+ Copyright 2018 Alex Badics <admin@stickman.hu>
+
+ This file is part of Hun-Law.
+
+ Hun-Law is free software: you can redistribute it and/or modify
+ it under the terms of the GNU General Public License as published by
+ the Free Software Foundation, either version 3 of the License, or
+ (at your option) any later version.
+
+ Hun-Law is distributed in the hope that it will be useful,
+ but WITHOUT ANY WARRANTY; without even the implied warranty of
+ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ GNU General Public License for more details.
+
+ You should have received a copy of the GNU General Public License
+ along with Hun-Law.  If not, see <https://www.gnu.org/licenses/>.
+*/
+
+body {
+    font-family: sans;
+    font-size: 11pt;
+    text-align: center;
+    line-height: 1.5;
+    background: #ddd;
+    padding: 0px;
+    margin: 0px;
+}
+
+a {
+    color: #008;
+}
+
+div {
+    margin: 0px;
+    padding: 0px;
+}
+
+blockquote {
+    margin: 0px 0px 0px 00px;
+    padding: 0px;
+}
+
+.act_container {
+    max-width: 950px;
+    border: 1px solid gray;
+    display: inline-grid;
+    background: white;
+    padding: 30px 80px 30px 80px;
+    text-align: justify;
+    box-shadow: 5px 5px 10px #888888;
+    grid-template-columns: 70px 40px 30px 30px auto [end];
+    grid-gap: 0px 0px;
+    justify-items: stretch;
+}
+
+.act_title, .preamble {
+    grid-column: 1 / end;
+    padding-bottom: 2em;
+}
+
+
+.se_book, .se_part, .se_chapter, .se_title, .se_subtitle {
+    grid-column: 3 / end;
+    padding-bottom: 2em;
+}
+
+.act_title {
+    font-size: 18pt;
+    font-weight: bold;
+    margin: 20px 20px 30px 0px;
+}
+
+.preamble {
+    margin-bottom: 1.5em;
+    text-align: justify;
+}
+
+.se_book {
+    font-size: 16pt;
+    font-weight: bold;
+}
+
+.se_part {
+    font-size: 16pt;
+}
+
+.se_chapter, .se_title {
+    font-size: 14pt;
+    font-style: italic;
+}
+
+.se_subtitle {
+    font-weight: bold;
+}
+
+
+.article_id {
+    grid-column: 1;
+    font-weight: bold;
+}
+.article_title {
+    grid-column: 2 / end;
+    font-style: italic;
+    margin: 0px 0px 0px 40px;
+}
+.space_after_article {
+    grid-column: 1 / end;
+    height: 1.5em;
+}
+
+.paragraph_id {
+    grid-column: 2;
+}
+.paragraph_text {
+    grid-column: 3 / end;
+}
+
+.blockamendment_quote {
+    grid-column: 3 / end;
+}
+.blockamendment_text {
+    grid-column: 3 / end;
+    font-style: italic;
+
+}
+.blockamendment_container {
+    display: inline-grid;
+    grid-column: 3 / end;
+    grid-template-columns: 70px 40px 30px 30px auto [end];
+    grid-gap: 0px 0px;
+    justify-items: stretch;
+}
+
+
+.numericpoint_id, .alphabeticpoint_id {
+    grid-column: 3;
+}
+.numericpoint_text, .alphabeticpoint_text {
+    grid-column: 4 / end;
+}
+
+.alphabeticsubpoint_id, .numericsubpoint_id {
+    grid-column: 4;
+}
+
+.alphabeticsubpoint_text, .numericsubpoint_text {
+    grid-column: 5 / end;
+}
+
+.quote_in_paragraph {
+    grid-column: 3 / end;
+    font-size: 10pt;
+}
+
+:target {
+   background-color: #ffffc0;
+}
